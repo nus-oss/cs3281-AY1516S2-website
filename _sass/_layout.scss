@@ -180,26 +180,26 @@
     max-width: 540px;
     margin: 0 auto;
     padding: 0 10px;
-}
 
-.home  a {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 36px;
-    color: #444;
-    padding: 10px;
-}
+    a.post-link {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 36px;
+        color: #444;
+        padding: 10px;
+    }
 
-.home a:hover {
-    background: #fafafd;
-    outline:  1px solid #C3D5E4;
-}
+    a.post-link:hover {
+        background: #fafafd;
+        outline:  1px solid #C3D5E4;
+    }
 
-.home  a::before {
-    width: 0;
-}
+    a.post-link::before {
+        width: 0;
+    }
 
-.home .post-meta {
-    text-align: right;
+    .post-meta {
+        text-align: right;
+    }
 }
 
 .cover {
