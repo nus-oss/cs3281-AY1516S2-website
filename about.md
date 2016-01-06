@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+ - Table of Contents
+{:toc}
+
 ## Module structure 
 
 ### Learning outcomes 
