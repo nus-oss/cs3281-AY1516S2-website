@@ -269,25 +269,23 @@
     width: 100%;
     right: 0;
     width: 400px;
+
+    .name {
+        font-size: 300%;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+
+    .desc {
+        font-size: 20px;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .btn {
+        padding: 10px 30px;
+        border: 2px solid #fff;
+        display: inline-block;
+        margin-top: 100px;
+        border-radius: 3px;
+        cursor: pointer;
+    }
 }
-
-.site-name__inner .name {
-    font-size: 100px;
-    font-family: 'Source Sans Pro', sans-serif;
-}
-
-.site-name__inner .desc {
-    font-size: 20px;
-    font-family: 'Open Sans', sans-serif;
-}
-
-.site-name__inner .btn {
-    padding: 10px 30px;
-    border: 2px solid #fff;
-    display: inline-block;
-    margin-top: 100px;
-    border-radius: 3px;
-    cursor: pointer;
-}
-
-
