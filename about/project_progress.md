@@ -30,7 +30,3 @@ permalink: /about/project_progress/
 ### Jean Yap (githubID)
 * ...
 
-===
-
-## Team-SI
-...
