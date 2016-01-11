@@ -1,7 +1,7 @@
 ---
 layout: page
-navbar: true
 title: Project Progress Template
+permalink: /about/project_progress/
 ---
 
 ## Team-HT
