@@ -1,5 +1,6 @@
 ---
 layout: page
+navbar: true
 title: Blogs
 permalink: /blogs/
 ---
