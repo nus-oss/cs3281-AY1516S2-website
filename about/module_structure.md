@@ -7,16 +7,14 @@ permalink: /about/module_structure/
  - Table of Contents
 {:toc}
 
-## Module structure 
-
-### Learning outcomes 
+## Learning outcomes 
 
 There are two main Intended Learning Outcomes, to be achieved at *basic*, *intermediate*, and 
 *advanced* levels. 
 
-#### ILO1. Able to work in big production systems (80%) 
+### ILO1. Able to work in big production systems (80%) 
 
-##### Strategies
+#### Strategies
 
 You must contribute to two non-trivial OSS projects: one must be an *internal* project and one must 
 be an *external* project. 
@@ -61,7 +59,7 @@ project
 * At least 4 projects should be covered by members of a team. e.g. a 3-member team can do a major 
 contribution to one project and minor contributions to 3 other projects. 
 
-##### Achievement levels
+#### Achievement levels
 
 * Basic: 
 
@@ -88,7 +86,7 @@ Bloom’s taxonomy
 
 Bloom's Taxonomy of Learning Domains</td> </tr> </table> 
 
-##### Milestones
+#### Milestones
 
 For major contribution: 
 
@@ -159,9 +157,9 @@ For minor contribution:
 
    * Deliverable: create blog post and give link in the module website 
 
-#### ILO2. Able to develop an expertise (20%) 
+### ILO2. Able to develop an expertise (20%) 
 
-##### Strategies
+#### Strategies
 
 * You must pick a tool/technology, and develop an expertise in it (let’s call it X) 
 
@@ -169,7 +167,7 @@ For minor contribution:
 
 * Work done outside the module is eligible. 
 
-##### Achievements
+#### Achievements
 
 * Basic:
 
@@ -184,7 +182,7 @@ For minor contribution:
 
   * Establish credentials by teaching, troubleshooting, evangelizing, etc. 
 
-##### Milestones
+#### Milestones
 
 * Technology selected 
 
@@ -201,17 +199,3 @@ For minor contribution:
 * Online evidence established 
 
   * Deliverable: post links to online credentials, face Q&A session 
-
-## Communication 
-
-* For class matters: use IVLE forum 
-
-* For interacting with the project mentors: use channels specified by the project 
-
-* For communication among team: up to you 
-
-* To contact teaching team: email to cs3281-staff@googlegroups.com 
-
-* Progress reporting: done via the Project progress page of this module website. When you need to 
-update any information about your team or yourself, submit a PR. 
-
