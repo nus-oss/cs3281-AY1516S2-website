@@ -8,6 +8,11 @@ permalink: /teams/socketio/
 
 ## Members
  - @paradite ([blog](http://paradite.com))
+ - @digawp ([blog](http://digawp.blogspot.sg/)
+ - @whattokingu ([blog](medium.com/@whattokingu))
+ - @mikelimantara
+ - @YijinL
+
 
 ## Progress Chart
 
