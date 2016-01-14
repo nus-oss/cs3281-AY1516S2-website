@@ -24,17 +24,10 @@ permalink: /teams/socketio/
 ### Zhu Liang (paradite)
 * [ ] ...
 
-#### Contribution to project HT
-* ...
-* ...
-
-#### Contribution to project Y
-* ...
+#### Contribution to project SI
 * ...
 
 ### Technology expertise in tool Z
-* Link to intro of Z
-* My participation in Z users forum: [1] [2] [3]
 * ...
 
 ### Leow Yijin (YijinL)
@@ -52,21 +45,11 @@ permalink: /teams/socketio/
 ## Technology Expertise
 
  - @paradite
-   - [Blog post on Technology X](#)
-   - [YouTube video tutorial on Technology Y](#)
 
  - @digawp
-   - [Blog post on Technology X](#)
-   - [YouTube video tutorial on Technology Y](#)
 
  - @whattokingu
-   - [Blog post on Technology X](#)
-   - [YouTube video tutorial on Technology Y](#)
 
  - @mikelimantara
-   - [Blog post on Technology X](#)
-   - [YouTube video tutorial on Technology Y](#)
-   
+
  - @YijinL
-   - [Blog post on Technology X](#)
-   - [YouTube video tutorial on Technology Y](#)
