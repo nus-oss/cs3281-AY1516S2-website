@@ -10,7 +10,7 @@ permalink: /teams/socketio/
  - @paradite ([blog](http://paradite.com))
  - @digawp ([blog](http://digawp.blogspot.sg/)
  - @whattokingu ([blog](medium.com/@whattokingu))
- - @mikelimantara
+ - @mikelimantara ([blog](medium.com/@mikelimantara)) 
  - @YijinL
 
 
