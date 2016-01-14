@@ -16,14 +16,12 @@ permalink: /teams/socketio/
 
 ## Progress Chart
 
-## Team-HT
+## Team-SI
 * [x] Project set up - Week 1, Mon
 * [x] Domain understood - Week 1, Thu
 * [ ] Feature planned
 
 ### Zhu Liang (paradite)
-* [x] irst PR submitted - Week 1, Mon
-* [x] irst PR merged - Week 1, Mon
 * [ ] ...
 
 #### Contribution to project HT
@@ -39,12 +37,36 @@ permalink: /teams/socketio/
 * My participation in Z users forum: [1] [2] [3]
 * ...
 
-### Jean Yap (githubID)
+### Leow Yijin (YijinL)
 * ...
 
+### Michael Limantara (mikelimantara)
+* ...
+
+### Zheng Weihan (whattokingu)
+* ...
+
+### Diga Widyaprana (digawp)
+* ...
 
 ## Technology Expertise
 
  - @paradite
+   - [Blog post on Technology X](#)
+   - [YouTube video tutorial on Technology Y](#)
+
+ - @digawp
+   - [Blog post on Technology X](#)
+   - [YouTube video tutorial on Technology Y](#)
+
+ - @whattokingu
+   - [Blog post on Technology X](#)
+   - [YouTube video tutorial on Technology Y](#)
+
+ - @mikelimantara
+   - [Blog post on Technology X](#)
+   - [YouTube video tutorial on Technology Y](#)
+   
+ - @YijinL
    - [Blog post on Technology X](#)
    - [YouTube video tutorial on Technology Y](#)
