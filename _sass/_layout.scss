@@ -97,10 +97,13 @@
     color: #373737;
     margin-bottom: $spacing-unit;
 
-    p {
+    & > * {
         max-width: 540px;
-        padding: 0px 10px;
         margin: 0 auto;
+    }
+
+    p {
+        padding: 0px 10px;
         line-height: 26px;
         margin-bottom: 20px;
     }
@@ -113,9 +116,7 @@
             font-size: 28px;
         }
 
-        max-width: 540px;
         padding: 0px 10px;
-        margin: 0 auto;
         margin-bottom: 20px;
     }
 
@@ -127,9 +128,7 @@
             font-size: 22px;
         }
 
-        max-width: 540px;
         padding: 0px 10px;
-        margin: 0 auto;
         margin-bottom: 20px;
     }
 
@@ -141,9 +140,7 @@
             font-size: 18px;
         }
 
-        max-width: 540px;
         padding: 0px 10px;
-        margin: 0 auto;
         margin-bottom: 20px;
     }
 
@@ -163,10 +160,8 @@
     }
 
     ul, ol {
-        max-width: 540px;
         padding: 0 10px;
         padding-left: 40px;
-        margin: 0 auto;
         margin-bottom: 20px;
     }
 }
