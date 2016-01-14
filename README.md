@@ -3,7 +3,8 @@
 You'll need:
 
  1. Ruby
- 2. bundler (`gem install bundler`)
+ 2. nodejs
+ 3. bundler (`gem install bundler`)
 
 In a terminal:
 
