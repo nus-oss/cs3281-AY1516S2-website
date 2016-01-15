@@ -6,33 +6,11 @@ permalink: /teams/codebender/
 [GitHub organisation](https://github.com/nus-fboa2016-cb)
  
 ## Members
- - @thngkaiyuan ([blog](http://cs3281-2.blogspot.sg/))
- - @bsmmoon ([blog](http://moonmoon3281.blogspot.sg/))
- - @alexyaoyang ([blog](http://alexyy.com/))
- - @harryggg ([blog](https://blog.nus.edu.sg/matanghao/))
- - @gisonrg ([blog](http://blog.gisonrg.me/))
- 
-## Progress Chart
-
-## Team-CB
-* [ ] Project set up
-* [ ] Domain understood
-* [ ] Feature planned
- 
-### thngkaiyuan (githubID)
-* ...
-
-### bsmmoon (githubID)
-* ...
-
-### alexyaoyang (githubID)
-* ...
-
-### harryggg (githubID)
-* ...
-
-### gisonrg (githubID)
-* ...
+ - Thng Kai Yuan ([@thngkaiyuan](http://cs3281-2.blogspot.sg/))
+ - Moon Seokmin ([@bsmmoon](http://moonmoon3281.blogspot.sg/))
+ - Alex Yao ([@alexyaoyang](http://alexyy.com/))
+ - Ma Tanghao ([@harryggg](https://blog.nus.edu.sg/matanghao/))
+ - Jiang Sheng ([@gisonrg](http://blog.gisonrg.me/))
 
 ## Technology Expertise
  
@@ -45,3 +23,28 @@ permalink: /teams/codebender/
  - @harryggg
  
  - @gisonrg
+
+## Workplan
+
+* [ ] Project set up
+* [ ] Domain understood
+* [ ] Feature planned
+
+## Progress Chart
+
+### Week 1
+ 
+#### @thngkaiyuan
+* ...
+
+#### @bsmmoon
+* ...
+
+#### @alexyaoyang
+* ...
+
+#### @harryggg
+* ...
+
+#### @gisonrg
+* ...

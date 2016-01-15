@@ -7,40 +7,11 @@ permalink: /teams/socketio/
 [GitHub organisation](https://github.com/nus-fboa2016-si)
 
 ## Members
- - @paradite ([blog](http://paradite.com))
- - @digawp ([blog](http://digawp.blogspot.sg/)
- - @whattokingu ([blog](medium.com/@whattokingu))
- - @mikelimantara ([blog](medium.com/@mikelimantara)) 
- - @YijinL
-
-
-## Progress Chart
-
-## Team-SI
-* [x] Project set up - Week 1, Mon
-* [x] Domain understood - Week 1, Thu
-* [ ] Feature planned
-
-### Zhu Liang (paradite)
-* [ ] ...
-
-#### Contribution to project SI
-* ...
-
-### Technology expertise in tool Z
-* ...
-
-### Leow Yijin (YijinL)
-* ...
-
-### Michael Limantara (mikelimantara)
-* ...
-
-### Zheng Weihan (whattokingu)
-* ...
-
-### Diga Widyaprana (digawp)
-* ...
+ - Zhu Liang ([@paradite](http://paradite.com))
+ - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/)
+ - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu))
+ - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara)) 
+ - Leow Yijin ([@YijinL](#))
 
 ## Technology Expertise
 
@@ -53,3 +24,34 @@ permalink: /teams/socketio/
  - @mikelimantara
 
  - @YijinL
+
+## Workplan
+
+* [x] Project set up - Week 1, Mon
+* [x] Domain understood - Week 1, Thu
+* [ ] Feature planned
+
+## Progress Chart
+
+### Week 1
+
+#### @paradite
+* [ ] ...
+
+##### Contribution to project SI
+* ...
+
+#### Technology expertise in tool Z
+* ...
+
+#### @YijinL
+* ...
+
+#### @mikelimantara
+* ...
+
+#### @whattokingu
+* ...
+
+#### @digawp
+* ...
