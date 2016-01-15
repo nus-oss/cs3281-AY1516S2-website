@@ -8,15 +8,15 @@ permalink: /teams/socketio/
 
 ## Members
  - Zhu Liang ([@paradite](http://paradite.com))
-   - Expertise:
+   - Technology Expertise:
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/)
-   - Expertise:
+   - Technology Expertise:
  - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu))
-   - Expertise:
+   - Technology Expertise:
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara)) 
-   - Expertise:
+   - Technology Expertise:
  - Leow Yijin ([@YijinL](#))
-   - Expertise:
+   - Technology Expertise:
 
 ## Technology Expertise
 

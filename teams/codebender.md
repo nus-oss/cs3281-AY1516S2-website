@@ -7,15 +7,15 @@ permalink: /teams/codebender/
  
 ## Members
  - Thng Kai Yuan ([@thngkaiyuan](http://cs3281-2.blogspot.sg/))
-   - Expertise:
+   - Technology Expertise:
  - Moon Seokmin ([@bsmmoon](http://moonmoon3281.blogspot.sg/))
-   - Expertise:
+   - Technology Expertise:
  - Alex Yao ([@alexyaoyang](http://alexyy.com/))
-   - Expertise:
+   - Technology Expertise:
  - Ma Tanghao ([@harryggg](https://blog.nus.edu.sg/matanghao/))
-   - Expertise:
+   - Technology Expertise:
  - Jiang Sheng ([@gisonrg](http://blog.gisonrg.me/))
-   - Expertise:
+   - Technology Expertise:
 
 ## Workplan
 

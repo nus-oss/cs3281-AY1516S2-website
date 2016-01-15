@@ -2,7 +2,7 @@
 
 ## Members
  - @adamtan ([Adam Tan](#url-here))
-   - Expertise: 
+   - Technology Expertise: 
      - Technology X
      - Technology Y
 
