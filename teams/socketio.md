@@ -33,8 +33,6 @@ permalink: /teams/socketio/
 
 ## Progress Chart
 
-### Week 1
-
 #### @paradite
 * [ ] ...
 

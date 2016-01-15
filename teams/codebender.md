@@ -31,8 +31,6 @@ permalink: /teams/codebender/
 * [ ] Feature planned
 
 ## Progress Chart
-
-### Week 1
  
 #### @thngkaiyuan
 * ...
