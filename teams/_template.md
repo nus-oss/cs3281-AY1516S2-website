@@ -1,13 +1,19 @@
-[GitHub organisation](https://github.com/nus-fboa2016-si)
+[Your Team Name](https://github.com/nus-fboa2016-yt)
 
 ## Members
- - @username ([blog](#url-here))
-
-## Progress Chart
-See [Project Progress Template](../about/project_progress/)
+ - @adamtan ([Adam Tan](#url-here))
 
 ## Technology Expertise
 
- - @username
-   - [Blog post on Technology X](#)
-   - [YouTube video tutorial on Technology Y](#)
+ - @adamtan
+   - Technology X
+   - Technology Y
+
+## Workplan
+
+ * [x] Project set up - Week 1, Mon
+ * [x] Domain understood - Week 1, Thu
+ * [ ] Feature planned
+
+## Progress Chart
+See [Project Progress Template](../about/project_progress/)
