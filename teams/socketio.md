@@ -8,10 +8,15 @@ permalink: /teams/socketio/
 
 ## Members
  - Zhu Liang ([@paradite](http://paradite.com))
+   - Expertise:
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/)
+   - Expertise:
  - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu))
+   - Expertise:
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara)) 
+   - Expertise:
  - Leow Yijin ([@YijinL](#))
+   - Expertise:
 
 ## Technology Expertise
 
@@ -31,9 +36,9 @@ permalink: /teams/socketio/
 * [x] Domain understood - Week 1, Thu
 * [ ] Feature planned
 
-## Progress Chart
+## Contributions
 
-#### @paradite
+#### @paradite (Zhu Liang)
 * [ ] ...
 
 ##### Contribution to project SI
@@ -42,14 +47,14 @@ permalink: /teams/socketio/
 #### Technology expertise in tool Z
 * ...
 
-#### @YijinL
+#### @YijinL (Leow Yijin)
 * ...
 
-#### @mikelimantara
+#### @mikelimantara (Michael Limantara)
 * ...
 
-#### @whattokingu
+#### @whattokingu (Zheng Weihan)
 * ...
 
-#### @digawp
+#### @digawp (Diga Widyaprana)
 * ...

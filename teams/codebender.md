@@ -7,22 +7,15 @@ permalink: /teams/codebender/
  
 ## Members
  - Thng Kai Yuan ([@thngkaiyuan](http://cs3281-2.blogspot.sg/))
+   - Expertise:
  - Moon Seokmin ([@bsmmoon](http://moonmoon3281.blogspot.sg/))
+   - Expertise:
  - Alex Yao ([@alexyaoyang](http://alexyy.com/))
+   - Expertise:
  - Ma Tanghao ([@harryggg](https://blog.nus.edu.sg/matanghao/))
+   - Expertise:
  - Jiang Sheng ([@gisonrg](http://blog.gisonrg.me/))
-
-## Technology Expertise
- 
- - @thngkaiyuan
- 
- - @bsmmoon
- 
- - @alexyaoyang
- 
- - @harryggg
- 
- - @gisonrg
+   - Expertise:
 
 ## Workplan
 
@@ -30,19 +23,19 @@ permalink: /teams/codebender/
 * [ ] Domain understood
 * [ ] Feature planned
 
-## Progress Chart
+## Contributions
  
-#### @thngkaiyuan
+#### @thngkaiyuan (Thng Kai Yuan)
 * ...
 
-#### @bsmmoon
+#### @bsmmoon (Moon Seokmin)
 * ...
 
-#### @alexyaoyang
+#### @alexyaoyang (Alex Yao)
 * ...
 
-#### @harryggg
+#### @harryggg (Ma Tanghao)
 * ...
 
-#### @gisonrg
+#### @gisonrg (Jiang Sheng)
 * ...

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project Progress Template
+title: Project Contributions Template
 permalink: /about/project_progress/
 ---
 
-### @adamtan
+### @adamtan (Adam Tan)
  * [x] First PR submitted - Week 1, Mon
  * [x] First PR merged - Week 1, Mon
  * [ ] ...
@@ -22,6 +22,6 @@ permalink: /about/project_progress/
  * My participation in Z users forum: [1] [2] [3]
  * ...
 
-### @jeanyap
+### @jeanyap (Jean Yap)
  * ...
 
