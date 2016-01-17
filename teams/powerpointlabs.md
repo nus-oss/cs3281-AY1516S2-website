@@ -8,6 +8,12 @@ permalink: /teams/powerpointlabs/
 ## Members
  - Chan Ao Wei Oswell ([@oswellchan](https://oswellchan.wordpress.com/))
    - Technology Expertise:
+ - Wu Yu Ting ([@youthinkk](http://blog.nus.edu.sg/cs3281youthinkk/))
+   - Technology Expertise:
+ - Yan Chan Min Oo
+   - Technology Expertise:
+ - Victor Hazali
+   - Technology Expertise:
 
 ## Workplan
 
@@ -18,4 +24,13 @@ permalink: /teams/powerpointlabs/
 ## Contributions
  
 #### @oswellchan (Chan Ao Wei Oswell)
+* ...
+
+#### @youthinkk (Wu Yu Ting)
+* ...
+
+#### @yancmo (Yan Chan Min Oo)
+* ...
+
+#### (Victor Hazali)
 * ...
