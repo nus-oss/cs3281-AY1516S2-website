@@ -19,8 +19,9 @@ permalink: /teams/codebender/
 
 ## Workplan
 
-* [ ] Project set up
-* [ ] Domain understood
+* [x] Domain understood - Week 1, Thu
+* [x] Product demo - Week 2, Mon
+* [x] Project set up - Week 2, Tue
 * [ ] Feature planned
 
 ## Contributions
