@@ -8,7 +8,7 @@ permalink: /teams/socketio/
 
 ## Members
  - Zhu Liang ([@paradite](http://paradite.com))
-   - Technology Expertise: Angular 2.0
+   - Technology Expertise: Angular
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
    - Technology Expertise:
  - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu))
@@ -23,7 +23,6 @@ permalink: /teams/socketio/
 * [x] Project set up - Week 1, Mon
 * [x] Domain understood - Week 1, Thu
 * [x] Product demo using deployed chat app - Week 2, Mon
-* [x] High level architecture understanding - Week 2, Thu
 * [ ] Feature planned
 
 ## Contributions
