@@ -17,9 +17,10 @@ permalink: /teams/powerpointlabs/
 
 ## Workplan
 
-* [X] Project set up
-* [ ] Domain understood
-* [ ] Feature planned
+* [X] Project set up - Week 1, Thu
+* [X] Domain understood - Week 2, Mon
+* [X] Product demonstration - Week 2, Mon
+* [X] Feature planned - Week 2, Thu
 
 ## Contributions
  
