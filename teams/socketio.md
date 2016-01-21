@@ -8,7 +8,7 @@ permalink: /teams/socketio/
 
 ## Members
  - Zhu Liang ([@paradite](http://paradite.com))
-   - Technology Expertise: Angular
+   - Technology Expertise: AngularJS
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
    - Technology Expertise:
  - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu))
@@ -23,7 +23,7 @@ permalink: /teams/socketio/
 * [x] Project set up - Week 1, Mon
 * [x] Domain understood - Week 1, Thu
 * [x] Product demo using deployed chat app - Week 2, Mon
-* [ ] Feature planned
+* [x] Tasks planned by project mentors and assigned to team members
 
 ## Contributions
 
@@ -33,7 +33,7 @@ permalink: /teams/socketio/
 * Set up own chat app using socket.io - Week 1
 * Draw architecture overview for socket.io - Week 2
 
-#### Technology expertise in Angular 2.0
+#### Technology expertise in AngularJS
 * ...
 
 ### @YijinL (Leow Yijin)
