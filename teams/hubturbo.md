@@ -17,8 +17,8 @@ permalink: /teams/hubturbo/
    ([Tan Soon Jin](http://jinified.github,io))
    - Technology Expertise:
 
- - [@m113225](https://github.com/m113225)
-   ([Choo Boon Yong Martin](http://m113225.github.io))
+ - [@m133225](https://github.com/m133225)
+   ([Choo Boon Yong Martin](http://m133225.github.io))
    - Technology Expertise:
 
  - [@raisfathin](https://github.com/raisfathin)
@@ -37,10 +37,10 @@ permalink: /teams/hubturbo/
 
 # Contributions
 
-### Choo Boon Yong Martin ([@m113225](https://github.com/m113225))
+### Choo Boon Yong Martin ([@m133225](https://github.com/m133225))
 
-* [ ] First PR submitted
-* [ ] First PR merged
+* [x] First PR submitted
+* [x] First PR merged
 
 ##### Contribution to project HT
 
@@ -51,7 +51,7 @@ permalink: /teams/hubturbo/
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
 * [x] First PR submitted - Week 1, Thu
-* [ ] First PR merged
+* [x] First PR merged
 
 ##### Contribution to project HT
 
@@ -73,7 +73,7 @@ permalink: /teams/hubturbo/
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
 
 * [x] First PR submitted - Week 1, Thu
-* [ ] First PR merged
+* [x] First PR merged
 
 ##### Contribution to project HT
 
