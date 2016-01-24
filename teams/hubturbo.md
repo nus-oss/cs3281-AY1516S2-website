@@ -33,6 +33,8 @@ permalink: /teams/hubturbo/
 
 * [x] Project set up - Week 1, Mon
 * [x] Domain understood - Week 1, Thu
+* [x] Project demo - Week 2, Mon
+* [ ] Project design presentation - Week 3, Mon
 * [ ] Feature planned
 
 # Contributions
@@ -73,7 +75,10 @@ permalink: /teams/hubturbo/
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
 
 * [x] First PR submitted - Week 1, Thu
-* [ ] First PR merged
+* [x] First PR merged - Week 2, Mon
+* [x] Second PR submitted - Week 2, Thu
+* [x] Third PR submitted - Week 2, Sat 
+* [x] [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators)
 
 ##### Contribution to project HT
 
