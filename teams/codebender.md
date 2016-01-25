@@ -11,7 +11,7 @@ permalink: /teams/codebender/
  - Moon Seokmin ([@bsmmoon](http://moonmoon3281.blogspot.sg/))
    - Technology Expertise:
  - Alex Yao ([@alexyaoyang](http://alexyy.com/))
-   - Technology Expertise: 
+   - Technology Expertise: Web Performance
  - Ma Tanghao ([@harryggg](https://blog.nus.edu.sg/matanghao/))
    - Technology Expertise: AngularJS
  - Jiang Sheng ([@gisonrg](http://blog.gisonrg.me/))
@@ -45,8 +45,8 @@ permalink: /teams/codebender/
 * Jan 20-25 - Setup and learn project structure and its related technologies such as Symfony.
 
 #### @alexyaoyang (Alex Yao)
-* Jan 24 - Received project details 
-* Jan 25 - Setup development environment
+* Week 2, Sun - Received project details 
+* Week 3, Mon - Setup development environment + learn technologies (since week 1)
 
 #### @harryggg (Ma Tanghao)
 * Jan 20 - Received project details
