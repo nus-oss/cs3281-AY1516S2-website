@@ -53,8 +53,8 @@ permalink: /teams/hubturbo/
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
-* [x] [Pull Request #1184](https://github.com/HubTurbo/HubTurbo/pull/1184) (Merged)
-* [x] [Pull Request #1210](https://github.com/HubTurbo/HubTurbo/pull/1210)
+* [Pull Request #1184](https://github.com/HubTurbo/HubTurbo/pull/1184) (Merged)
+* [Pull Request #1210](https://github.com/HubTurbo/HubTurbo/pull/1210)
 
 ##### Contribution to project HT
 
@@ -64,9 +64,9 @@ permalink: /teams/hubturbo/
 
 ### Liu Xinan ([@xinan](https://github.com/xinan))
 
-* [x] [Pull Request #1180](https://github.com/HubTurbo/HubTurbo/pull/1180) (Merged)
-* [x] [Pull Request #1186](https://github.com/HubTurbo/HubTurbo/pull/1186) (Merged)
-* [x] [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201)
+* [Pull Request #1180](https://github.com/HubTurbo/HubTurbo/pull/1180) (Merged)
+* [Pull Request #1186](https://github.com/HubTurbo/HubTurbo/pull/1186) (Merged)
+* [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201)
 
 ##### Contribution to project HT
 
@@ -76,10 +76,10 @@ permalink: /teams/hubturbo/
 
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
 
-* [x] [Pull Request #1187](https://github.com/HubTurbo/HubTurbo/pull/1187) (Merged)
-* [x] [Pull Request #1195](https://github.com/HubTurbo/HubTurbo/pull/1195)
-* [x] [Pull Request #1204](https://github.com/HubTurbo/HubTurbo/pull/1204)
-* [x] [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators)
+* [Pull Request #1187](https://github.com/HubTurbo/HubTurbo/pull/1187) (Merged)
+* [Pull Request #1195](https://github.com/HubTurbo/HubTurbo/pull/1195)
+* [Pull Request #1204](https://github.com/HubTurbo/HubTurbo/pull/1204)
+* [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators)
 
 ##### Contribution to project HT
 
