@@ -11,9 +11,9 @@ permalink: /teams/codebender/
  - Moon Seokmin ([@bsmmoon](http://moonmoon3281.blogspot.sg/))
    - Technology Expertise:
  - Alex Yao ([@alexyaoyang](http://alexyy.com/))
-   - Technology Expertise: AngularJS
+   - Technology Expertise: 
  - Ma Tanghao ([@harryggg](https://blog.nus.edu.sg/matanghao/))
-   - Technology Expertise:
+   - Technology Expertise: AngularJS
  - Jiang Sheng ([@gisonrg](http://blog.gisonrg.me/))
    - Technology Expertise: Node.js
 
