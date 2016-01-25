@@ -26,21 +26,21 @@ permalink: /teams/socketio/
 * [x] Tasks planned by project mentors and assigned to team members - Week 2, Thu
 * [x] High level architecture presentation - Week 3, Mon
 * [ ] Setup gulp task runner to replace make for:
-  * [x] Socket.io - Week3
-  * [ ] engine.io - Week3
-  * [x] socket.io-client - Week3
-  * [ ] engine.io-client - Week3
-* [ ] Babel for all packages - Week3
-* [ ] Webpack for client-packages - Week3
+  * [x] Socket.io - Week 2, Sun
+  * [x] socket.io-client - Week 3, Mon
+  * [ ] engine.io - Week 3
+  * [ ] engine.io-client - Week 3
+* [ ] Babel for all packages - Week 3
+* [ ] Webpack for client-packages - Week 3
 
 ## Contributions
 
 ### @paradite (Zhu Liang)
 
 #### Contribution to project SI
-* [Set up own chat app using socket.io](https://github.com/paradite/socket-io-chat) - Week 1
-* [Draw architecture overview for socket.io](http://www.gliffy.com/go/publish/9806563) - Week 2
-* [Implement Babel for socket.io](https://github.com/nus-fboa2016-si/socket.io/blame/babel/gulpfile.js) - Week 2
+* [Set up own chat app using socket.io](https://github.com/paradite/socket-io-chat) - Week 1, Thu
+* [Draw architecture overview for socket.io](http://www.gliffy.com/go/publish/9806563) - Week 2, Sun
+* [Implement Babel for socket.io](https://github.com/nus-fboa2016-si/socket.io/blame/babel/gulpfile.js) - Week 2, Sun
 
 #### Technology expertise in AngularJS
 * ...
