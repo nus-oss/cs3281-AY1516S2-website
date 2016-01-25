@@ -28,10 +28,15 @@ permalink: /teams/codebender/
 ## Contributions
  
 #### @thngkaiyuan (Thng Kai Yuan)
+* Week 2, Tue - Received project details
+* Week 2, Thu - Completed setting up of development environment
+* Week 2, Fri - Achieved high-level understanding of Eratosthenes
+* Week 2, Sat - Determined the cause of a failing test case (see [blog post on the phantom bug](http://cs3281-2.blogspot.sg/2016/01/catching-phantom-bug.html))
+* Week 3, Mon - Presented on Eratosthene's high-level architecture
 
 ### Technology expertise in Information Security
  * Participated in a discussion of cyber range scenarios with Cyber Test Systems
- * Attended 1 training session with NUS GreyHats
+ * Attended 2 training sessions with NUS GreyHats
  * Sharing on Cross-Site Request Forgeries ([Blog Post on CSRF](http://cs3281-2.blogspot.sg/2016/01/cross-site-request-forgeries-csrf.html))
  * Write-up on my participation in Insomni'hack 2016: ([Blog Post on the Smartcat Challenge](http://cs3281-2.blogspot.sg/2016/01/te-insomnihack-2016-teaser-smartcat-web.html))
 
