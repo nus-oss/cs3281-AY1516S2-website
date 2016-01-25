@@ -46,9 +46,13 @@ permalink: /teams/socketio/
 * ...
 
 ### @YijinL (Leow Yijin)
+
+#### Contribution to project SI
 * ...
 
 ### @mikelimantara (Michael Limantara)
+
+#### Contribution to project SI
 * ...
 
 ### @whattokingu (Zheng Weihan)
@@ -59,4 +63,6 @@ permalink: /teams/socketio/
 * Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2
 
 ### @digawp (Diga Widyaprana)
+
+#### Contribution to project SI
 * [Convert bundling from browserify to webpack for engine.io-client - Week 2](https://github.com/nus-fboa2016-si/engine.io-client/tree/webpack)
