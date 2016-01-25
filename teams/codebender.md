@@ -15,7 +15,7 @@ permalink: /teams/codebender/
  - Ma Tanghao ([@harryggg](https://blog.nus.edu.sg/matanghao/))
    - Technology Expertise:
  - Jiang Sheng ([@gisonrg](http://blog.gisonrg.me/))
-   - Technology Expertise:
+   - Technology Expertise: Node.js
 
 ## Workplan
 
@@ -47,6 +47,7 @@ permalink: /teams/codebender/
 * ...
 
 #### @gisonrg (Jiang Sheng)
-* Jan 19 - Received project details 
-* Jan 20-22 - Setup development environment
-* Jan 20-25 - Research on Eratosthenes repo. Leanring Symfony framework
+* Week 2 - Received project details and setup development environment.
+* Week 3 - Draw system diagrams of codebender. Research on related topic, such as Symfony framework.
+ 
+#### Technology expertise in Node.js
