@@ -33,7 +33,8 @@ permalink: /teams/powerpointlabs/
 * ...
 
 #### @yancmo (Yan Chan Min Oo)
-* ...
+* [Pull Request #892](https://github.com/PowerPointLabs/PowerPointLabs/pull/892) (Merged)
+* [Pull Request #896](https://github.com/PowerPointLabs/PowerPointLabs/pull/896) (Merged)
 
 #### @vhazali (Victor Hazali)
 * [Pull Request #21](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/21) (Merged)
