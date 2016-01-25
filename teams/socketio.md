@@ -53,7 +53,8 @@ permalink: /teams/socketio/
 ### @mikelimantara (Michael Limantara)
 
 #### Contribution to project SI
-* ...
+* [Create a simple chat app using Socket.io to learn the product - Week 1](https://github.com/mikelimantara/socket-io-chat)
+* [Convert bundling from browserify to webpack using gulp for socket.io-client - Week 2](https://github.com/nus-fboa2016-si/socket.io-client/tree/webpack)
 
 ### @whattokingu (Zheng Weihan)
 
