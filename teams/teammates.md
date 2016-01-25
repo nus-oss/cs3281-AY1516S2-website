@@ -24,14 +24,16 @@ permalink: /teams/teammates/
 
  * [x] Project set up - Week 1, Mon
  * [x] Domain understood - Week 1, Thu
- * [ ] Product demo - Week 2, Mon
+ * [x] Product demo - Week 2, Mon
+ * [x] Project idea - Week 2, Thu
+ * [x] Architecture demo - Week 3, Mon
 
 ## Contributions
 
 ### [@jkt001](https://github.com/jkt001) (John Kevin Tjahjadi)
 
 #### Contribution to project TEAMMATES
- * ...
+ * Pull Request #4649, #4638, #4632
 
 #### Contribution to project Y
  * ...
@@ -44,7 +46,7 @@ permalink: /teams/teammates/
 ### [@kennho](https://github.com/kennho) (Kenneth Ho Chee Chong)
 
 #### Contribution to project TEAMMATES
- * ...
+ * Pull Request #4653, #4650
 
 #### Contribution to project Y
  * ...
@@ -70,7 +72,7 @@ permalink: /teams/teammates/
 ### [@unyoungwax](https://github.com/unyoungwax) (Wong Yu Xuan)
 
 #### Contribution to project TEAMMATES
- * ...
+ * Pull Request #4614, #4607, #4601
 
 #### Contribution to project Y
  * ...
