@@ -46,4 +46,6 @@ permalink: /teams/codebender/
 * ...
 
 #### @gisonrg (Jiang Sheng)
-* ...
+* Jan 19 - Received project details 
+* Jan 20-22 - Setup development environment
+* Jan 20-25 - Research on Eratosthenes repo. Leanring Symfony framework
