@@ -24,6 +24,13 @@ permalink: /teams/socketio/
 * [x] Domain understood - Week 1, Thu
 * [x] Product demo using deployed chat app - Week 2, Mon
 * [x] Tasks planned by project mentors and assigned to team members
+      Setup gulp task runner to replace make for:
+* [x] Socket.io - Week3
+* [ ] engine.io - Week3
+* [x] socket.io-client - Week3
+* [ ] engine.io-client - Week3
+* [ ] Babel for all packages - Week3
+* [ ] Webpack for client-packages - Week3
 
 ## Contributions
 
@@ -43,7 +50,10 @@ permalink: /teams/socketio/
 * ...
 
 ### @whattokingu (Zheng Weihan)
-* ...
+
+#### Contribution to project SI
+* Setup Gulpfiles for Socket.io and Socket.io-client - Week 2
+* Convert Tasks from Make to Gulp for Socket.io and Socket.io-client - Week 2
 
 ### @digawp (Diga Widyaprana)
 * ...
