@@ -49,10 +49,10 @@ permalink: /teams/codebender/
 * Week 3, Mon - Setup development environment + learn technologies (since week 1)
 
 #### @harryggg (Ma Tanghao)
-* Jan 20 - Received project details
-* Jan 21 - Setup development environment
-* Jan 21 - Propose alternative solution/protocol (rejected)
-* Jan 23 - write a simple modularizied tokenizer for the project (https://gist.github.com/harryggg/f37d97d0d470d7d22e63)
+* Week 2, Tues - Received project details
+* Week 2, Thurs - Setup development environment
+* Week 2, Thurs - Propose alternative solution/protocol (rejected)
+* Week 2, Sat - write a simple modularizied tokenizer for the project (https://gist.github.com/harryggg/f37d97d0d470d7d22e63)
 
 #### @gisonrg (Jiang Sheng)
 * Week 2 - Received project details and setup development environment.
