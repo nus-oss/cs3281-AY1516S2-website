@@ -52,8 +52,9 @@ permalink: /teams/socketio/
 ### @whattokingu (Zheng Weihan)
 
 #### Contribution to project SI
-* Setup Gulpfiles for Socket.io and Socket.io-client - Week 2
-* Convert Tasks from Make to Gulp for Socket.io and Socket.io-client - Week 2
+* [Setup Gulpfiles for Socket.io - Week 2](https://github.com/nus-fboa2016-si/socket.io/pull/1)
+* [Setup Gulpfiles for Socket.io-client - Week 2](https://github.com/nus-fboa2016-si/socket.io-client/pull/1)
+* Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2
 
 ### @digawp (Diga Widyaprana)
 * [Convert bundling from browserify to webpack for engine.io-client - Week 2](https://github.com/nus-fboa2016-si/engine.io-client/tree/webpack)
