@@ -75,10 +75,10 @@ permalink: /teams/hubturbo/
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
 
 * [x] First PR submitted - Week 1, Thu
-* [x] First PR merged - Week 2, Mon
-* [x] Second PR submitted - Week 2, Thu
-* [x] Third PR submitted - Week 2, Sat 
-* [x] [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators)
+* [x] [First PR merged](https://github.com/HubTurbo/HubTurbo/pull/1187) - Week 2, Mon
+* [x] [Second PR submitted](https://github.com/HubTurbo/HubTurbo/pull/1195) - Week 2, Thu
+* [x] [Third PR submitted](https://github.com/HubTurbo/HubTurbo/pull/1204) - Week 2, Sat 
+* [x] [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators) - Week 3, Mon
 
 ##### Contribution to project HT
 
