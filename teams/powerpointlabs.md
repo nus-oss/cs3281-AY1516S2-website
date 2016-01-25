@@ -25,9 +25,9 @@ permalink: /teams/powerpointlabs/
 ## Contributions
  
 #### @oswellchan (Chan Ao Wei Oswell)
-* ([Pull Request #20](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/20) (Merged)
-* ([Pull Request #840](https://github.com/PowerPointLabs/PowerPointLabs/pull/893) (Merged) 
-* ([Pull Request #895](https://github.com/PowerPointLabs/PowerPointLabs/pull/895)
+* [Pull Request #20](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/20) (Merged)
+* [Pull Request #840](https://github.com/PowerPointLabs/PowerPointLabs/pull/893) (Merged) 
+* [Pull Request #895](https://github.com/PowerPointLabs/PowerPointLabs/pull/895)
 
 #### @youthinkk (Wu Yu Ting)
 * ...
