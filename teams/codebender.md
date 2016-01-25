@@ -36,7 +36,8 @@ permalink: /teams/codebender/
  * Write-up on my participation in Insomni'hack 2016: ([Blog Post on the Smartcat Challenge](http://cs3281-2.blogspot.sg/2016/01/te-insomnihack-2016-teaser-smartcat-web.html))
 
 #### @bsmmoon (Moon Seokmin)
-* ...
+* Jan 19 - Received project details
+* Jan 20-25 - Setup and learn project structure and its related technologies such as Symfony.
 
 #### @alexyaoyang (Alex Yao)
 * Jan 24 - Received project details 
