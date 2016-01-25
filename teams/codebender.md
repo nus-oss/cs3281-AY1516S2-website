@@ -22,6 +22,7 @@ permalink: /teams/codebender/
 * [x] Domain understood - Week 1, Thu
 * [x] Product demo - Week 2, Mon
 * [x] Project set up - Week 2, Tue
+* [x] High-level architecture understanding - Week 3, Mon
 * [ ] Feature planned
 
 ## Contributions
