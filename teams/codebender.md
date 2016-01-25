@@ -55,7 +55,8 @@ permalink: /teams/codebender/
 * Week 2, Sat - write a simple modularizied tokenizer for the project (https://gist.github.com/harryggg/f37d97d0d470d7d22e63)
 
 #### @gisonrg (Jiang Sheng)
-* Week 2 - Received project details and setup development environment.
-* Week 3 - Draw system diagrams of codebender. Research on related topic, such as Symfony framework.
+* Week 2, Tues - Received project details
+* Week 2, Thurs - Sun - Setup development environment, learning [Symfony framework](https://symfony.com/) by [tutorial](http://tutorial.symblog.co.uk/)
+* Week 2, Sun - Draw system diagrams of codebender.
  
 #### Technology expertise in Node.js
