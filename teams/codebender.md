@@ -11,7 +11,7 @@ permalink: /teams/codebender/
  - Moon Seokmin ([@bsmmoon](http://moonmoon3281.blogspot.sg/))
    - Technology Expertise:
  - Alex Yao ([@alexyaoyang](http://alexyy.com/))
-   - Technology Expertise:
+   - Technology Expertise: AngularJS
  - Ma Tanghao ([@harryggg](https://blog.nus.edu.sg/matanghao/))
    - Technology Expertise:
  - Jiang Sheng ([@gisonrg](http://blog.gisonrg.me/))
@@ -44,7 +44,10 @@ permalink: /teams/codebender/
 * Jan 25 - Setup development environment
 
 #### @harryggg (Ma Tanghao)
-* ...
+* Jan 20 - Received project details
+* Jan 21 - Setup development environment
+* Jan 21 - Propose alternative solution/protocol (rejected)
+* Jan 23 - write a simple modularizied tokenizer for the project (https://gist.github.com/harryggg/f37d97d0d470d7d22e63)
 
 #### @gisonrg (Jiang Sheng)
 * Week 2 - Received project details and setup development environment.
