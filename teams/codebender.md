@@ -39,7 +39,8 @@ permalink: /teams/codebender/
 * ...
 
 #### @alexyaoyang (Alex Yao)
-* ...
+* Jan 24 - Received project details 
+* Jan 25 - Setup development environment
 
 #### @harryggg (Ma Tanghao)
 * ...
