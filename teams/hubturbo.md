@@ -33,16 +33,19 @@ permalink: /teams/hubturbo/
 
 * [x] Project set up - Week 1, Mon
 * [x] Domain understood - Week 1, Thu
-* [ ] Feature planned
+* [x] Feature planned - Week 3, Mon
 
 # Contributions
 
 ### Choo Boon Yong Martin ([@m133225](https://github.com/m133225))
 
-* [x] First PR submitted
-* [x] First PR merged
+* [Pull Request #1191](https://github.com/HubTurbo/HubTurbo/pull/1191) (Merged)
+* [Pull Request #1193](https://github.com/HubTurbo/HubTurbo/pull/1193)
+* [Pull Request #1207](https://github.com/HubTurbo/HubTurbo/pull/1207)
+* [Pull Request #1208](https://github.com/HubTurbo/HubTurbo/pull/1208)
 
 ##### Contribution to project HT
+
 
 ##### Contribution to project Y
 
@@ -50,8 +53,8 @@ permalink: /teams/hubturbo/
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
-* [x] First PR submitted - Week 1, Thu
-* [x] First PR merged
+* [x] [Pull Request #1184](https://github.com/HubTurbo/HubTurbo/pull/1184) (Merged)
+* [x] [Pull Request #1210](https://github.com/HubTurbo/HubTurbo/pull/1210)
 
 ##### Contribution to project HT
 
@@ -61,8 +64,9 @@ permalink: /teams/hubturbo/
 
 ### Liu Xinan ([@xinan](https://github.com/xinan))
 
-* [x] First PR submitted - Week 1, Tue
-* [x] First PR merged - Week 1, Thu
+* [x] [Pull Request #1180](https://github.com/HubTurbo/HubTurbo/pull/1180) (Merged)
+* [x] [Pull Request #1186](https://github.com/HubTurbo/HubTurbo/pull/1186) (Merged)
+* [x] [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201)
 
 ##### Contribution to project HT
 
@@ -72,8 +76,10 @@ permalink: /teams/hubturbo/
 
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
 
-* [x] First PR submitted - Week 1, Thu
-* [x] First PR merged
+* [x] [Pull Request #1187](https://github.com/HubTurbo/HubTurbo/pull/1187) (Merged)
+* [x] [Pull Request #1195](https://github.com/HubTurbo/HubTurbo/pull/1195)
+* [x] [Pull Request #1204](https://github.com/HubTurbo/HubTurbo/pull/1204)
+* [x] [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators)
 
 ##### Contribution to project HT
 
@@ -83,8 +89,7 @@ permalink: /teams/hubturbo/
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
-* [x] First PR submitted - Week 1, Thu
-* [x] First PR merged - Week 1, Thu
+* [Pull Request #1183](https://github.com/HubTurbo/HubTurbo/pull/1183) (Merged)
 
 ##### Contribution to project HT
 
