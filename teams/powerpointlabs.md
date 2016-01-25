@@ -32,7 +32,7 @@ permalink: /teams/powerpointlabs/
 #### @youthinkk (Wu Yu Ting)
 * [Pull Request #22] (https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/22) (Closed) - Week 2, Wed
 * [Pull Request #23] (https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/23) (Merged) - Week 2, Wed
-* [Pull Request #24] (https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/24) (Merged) - Week 2, Thur
+* [Pull Request #24] (https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/24) (Merged) - Week 2, Thu
 * [Pull Request #901] (https://github.com/PowerPointLabs/PowerPointLabs/pull/901) - Week 3, Mon
 
 #### @yancmo (Yan Chan Min Oo)
