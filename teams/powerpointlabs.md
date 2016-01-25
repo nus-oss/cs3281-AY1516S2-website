@@ -21,6 +21,7 @@ permalink: /teams/powerpointlabs/
 * [X] Domain understood - Week 2, Mon
 * [X] Product demonstration - Week 2, Mon
 * [X] Feature planned - Week 2, Thu
+* [X] High-level architecture demonstration - Week 3, Mon
 
 ## Contributions
  
