@@ -72,4 +72,5 @@ permalink: /teams/socketio/
 ### @digawp (Diga Widyaprana)
 
 #### Contribution to project SI
-* [Convert bundling from browserify to webpack for engine.io-client - Week 2](https://github.com/nus-fboa2016-si/engine.io-client/tree/webpack)
+* [Create a simple chat app using socket.io to learn te product](https://github.com/digawp/socket-io-chat) - Week 1, Sat
+* [Convert bundling from browserify to webpack for engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/tree/webpack) - Week 2, Sun
