@@ -23,7 +23,7 @@ permalink: /teams/codebender/
 * [x] Product demo - Week 2, Mon
 * [x] Project set up - Week 2, Tue
 * [x] High-level architecture understanding - Week 3, Mon
-* [x] Proposal for feature implementation drafted - Week 3, Thu
+* [x] Proposal for feature implementation drafted ([blog post](http://cs3281-2.blogspot.sg/2016/01/planning-for-our-first-feature.html)) - Week 3, Thu
 * [ ] Feature planned
 
 ## Contributions
