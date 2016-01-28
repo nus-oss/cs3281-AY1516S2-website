@@ -23,6 +23,7 @@ permalink: /teams/codebender/
 * [x] Product demo - Week 2, Mon
 * [x] Project set up - Week 2, Tue
 * [x] High-level architecture understanding - Week 3, Mon
+* [x] Proposal for feature implementation drafted - Week 3, Thu
 * [ ] Feature planned
 
 ## Contributions
@@ -33,6 +34,7 @@ permalink: /teams/codebender/
 * Week 2, Fri - Achieved high-level understanding of Eratosthenes
 * Week 2, Sat - Determined the cause of a failing test case (see [blog post on the phantom bug](http://cs3281-2.blogspot.sg/2016/01/catching-phantom-bug.html))
 * Week 3, Mon - Presented on Eratosthene's high-level architecture
+* Week 3, Thu - Resolved an issue with local tests (see [blog post on "Using Vagrant with Symfony"](http://cs3281-2.blogspot.sg/2016/01/using-vagrant-with-symfony.html))
 
 ### Technology expertise in Information Security
  * Participated in a discussion of cyber range scenarios with Cyber Test Systems
