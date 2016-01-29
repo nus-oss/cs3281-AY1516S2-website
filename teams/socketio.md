@@ -60,15 +60,15 @@ permalink: /teams/socketio/
 ### @mikelimantara (Michael Limantara)
 
 #### Contribution to project SI
-* [Create a simple chat app using Socket.io to learn the product - Week 1](https://github.com/mikelimantara/socket-io-chat)
-* [Convert bundling from browserify to webpack using gulp for socket.io-client - Week 2](https://github.com/nus-fboa2016-si/socket.io-client/tree/webpack)
+* [Create a simple chat app using Socket.io to learn the product](https://github.com/mikelimantara/socket-io-chat) - Week 1, Sun
+* [Convert bundling from browserify to webpack using gulp for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/tree/webpack) - Week 2, Sun
 
 ### @whattokingu (Zheng Weihan)
 
 #### Contribution to project SI
-* [Setup Gulpfiles for Socket.io - Week 2](https://github.com/nus-fboa2016-si/socket.io/pull/1)
-* [Setup Gulpfiles for Socket.io-client - Week 2](https://github.com/nus-fboa2016-si/socket.io-client/pull/1)
-* Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2
+* [Setup Gulpfiles for Socket.io - Week 2, Mon](https://github.com/nus-fboa2016-si/socket.io/pull/1)
+* [Setup Gulpfiles for Socket.io-client - Week 2, Mon](https://github.com/nus-fboa2016-si/socket.io-client/pull/1)
+* Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2, Mon
 
 ### @digawp (Diga Widyaprana)
 
