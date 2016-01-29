@@ -60,5 +60,6 @@ permalink: /teams/codebender/
 * Week 2, Tues - Received project details
 * Week 2, Thurs - Sun - Setup development environment, learning [Symfony framework](https://symfony.com/) by [tutorial](http://tutorial.symblog.co.uk/)
 * Week 2, Sun - Draw system diagrams of codebender.
+* Week 3, Thu - Discussion on feature implementation.
  
 #### Technology expertise in Node.js
