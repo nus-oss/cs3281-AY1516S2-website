@@ -30,11 +30,11 @@ permalink: /teams/socketio/
   * [x] socket.io-client - Week 3, Mon
   * [ ] engine.io - Week 3
   * [ ] engine.io-client - Week 3
-* [ ] Babel for all packages - Week 3
+* [x] Babel for all packages - Week 3
   * [x] Socket.io - Week 2, Sun
   * [x] socket.io-client - Week 3, Tue
   * [x] engine.io - Week 3, Tue
-  * [ ] engine.io-client - Week 3
+  * [x] engine.io-client - Week 3
 * [ ] Webpack for client-packages - Week 3
 
 ## Contributions
@@ -47,6 +47,7 @@ permalink: /teams/socketio/
 * [Implement Babel for socket.io commit 1](https://github.com/nus-fboa2016-si/socket.io/commit/3cc6874205177e556d5d9e743d08992219f369cd) [commit 2](https://github.com/nus-fboa2016-si/socket.io/commit/2cb967a2033a82571ab8841296afa8e9da828065) - Week 2, Sun
 * [Implement Babel for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/94127a34656a3d959625eda12a17113a46786d0d) - Week 3, Tue
 * [Implement Babel for engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/76106776e68f94fff5bad330ba26de7401c61598) - Week 3, Tue
+* [Implement Babel for engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/951a5c950230b2dfb968e85a5e7d42d34c932299) - Week 3, Thu
 
 #### Technology expertise in AngularJS
 * ...
