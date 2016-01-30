@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Working on large-scale systems with real impact.
 baseurl: "/cs3281" # the subpath of your site, e.g. /blog/
 url: "http://nus-oss.github.io" # the base hostname & protocol for your site
+exclude: [build.sh]
 
 # Build settings
 markdown: kramdown
