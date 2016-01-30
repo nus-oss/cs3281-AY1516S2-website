@@ -28,14 +28,14 @@ permalink: /teams/socketio/
 * [ ] Setup gulp task runner to replace make for:
   * [x] Socket.io - Week 2, Sun
   * [x] socket.io-client - Week 3, Mon
-  * [ ] engine.io - Week 3
-  * [ ] engine.io-client - Week 3
+  * [x] engine.io - Week 3
+  * [x] engine.io-client - Week 3
 * [x] Babel for all packages - Week 3
   * [x] Socket.io - Week 2, Sun
   * [x] socket.io-client - Week 3, Tue
   * [x] engine.io - Week 3, Tue
   * [x] engine.io-client - Week 3
-* [ ] Webpack for client-packages - Week 3
+* [x] Webpack for client-packages - Week 3
 
 ## Contributions
 
@@ -69,6 +69,7 @@ permalink: /teams/socketio/
 * [Setup Gulpfiles for Socket.io - Week 2, Mon](https://github.com/nus-fboa2016-si/socket.io/pull/1)
 * [Setup Gulpfiles for Socket.io-client - Week 2, Mon](https://github.com/nus-fboa2016-si/socket.io-client/pull/1)
 * Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2, Mon
+* Fix for [issue #331](https://github.com/socketio/socket.io-client/issues/331) on socket.io-client. The fix spans both [socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/2) and [socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/4) - Week3, CS
 
 ### @digawp (Diga Widyaprana)
 
