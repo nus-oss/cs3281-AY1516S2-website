@@ -25,7 +25,7 @@ permalink: /teams/socketio/
 * [x] Product demo using deployed chat app - Week 2, Mon
 * [x] Tasks planned by project mentors and assigned to team members - Week 2, Thu
 * [x] High level architecture presentation - Week 3, Mon
-* [ ] Setup gulp task runner to replace make for:
+* [x] Setup gulp task runner to replace make for:
   * [x] Socket.io - Week 2, Sun
   * [x] socket.io-client - Week 3, Mon
   * [x] engine.io - Week 3
@@ -37,8 +37,8 @@ permalink: /teams/socketio/
   * [x] engine.io-client - Week 3
 * [x] Webpack for client-packages - Week 3
 * [ ] Create PR for Gulp Task runner - Week 3, CS
-  * [x] Socket.io-client - Week 3, CS
-  * [ ] socket.io-client - Week 3, CS
+  * [x] socket.io-client - Week 3, CS
+  * [ ] engine.io-client - Week 3, CS
 ## Contributions
 
 ### @paradite (Zhu Liang)
@@ -57,7 +57,10 @@ permalink: /teams/socketio/
 ### @YijinL (Leow Yijin)
 
 #### Contribution to project SI
-* ...
+* [Prepare textual slides and architecture diagrams for architecture presentation](https://docs.google.com/presentation/d/1OHRrAYRE8M2gV4wg2MwYk0BIfbEURwtMt17og5wWTfE/edit?usp=sharing) - Week 2, Sat
+* [Set up gulp build file under browserify](https://github.com/nus-fboa2016-si/engine.io-client/pull/1) - Week 3, Thu
+* [Merge babel, webpack with gulp + bugfix](https://github.com/nus-fboa2016-si/engine.io-client/commit/fad7e5b450566b86105421eb444b39bed4d0345a) - Week 3, CS
+* [Clean up zuul browser testing and switched to child_process.exec for running zuul script](https://github.com/nus-fboa2016-si/engine.io-client/commit/9079369603a6f22d9ea445a485b3fbb9466e82b8) - Week 3, CS
 
 ### @mikelimantara (Michael Limantara)
 
