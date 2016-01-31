@@ -22,6 +22,7 @@ permalink: /teams/powerpointlabs/
 * [X] Product demonstration - Week 2, Mon
 * [X] Feature planned - Week 2, Thu
 * [X] High-level architecture demonstration - Week 3, Mon
+* [X] Mockup of new features - Week 3, Sat
 * [X] Code Sprint - Week 3, Sat & Week 4, Sun
 
 ## Contributions
