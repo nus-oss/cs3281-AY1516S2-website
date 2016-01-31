@@ -4,7 +4,7 @@ title: CodeBender
 permalink: /teams/codebender/
 ---
 [GitHub organisation](https://github.com/nus-fboa2016-cb)
- 
+
 ## Members
  - Thng Kai Yuan ([@thngkaiyuan](http://cs3281-2.blogspot.sg/))
    - Technology Expertise: Information Security
@@ -31,7 +31,7 @@ permalink: /teams/codebender/
 * [ ] Feature implementation - Week 5
 
 ## Contributions
- 
+
 #### @thngkaiyuan (Thng Kai Yuan)
 * Week 2, Tue - Received project details
 * Week 2, Thu - Completed setting up of development environment
@@ -39,6 +39,10 @@ permalink: /teams/codebender/
 * Week 2, Sat - Determined the cause of a failing test case (see [blog post on the phantom bug](http://cs3281-2.blogspot.sg/2016/01/catching-phantom-bug.html))
 * Week 3, Mon - Presented on Eratosthene's high-level architecture
 * Week 3, Thu - Resolved an issue with local tests (see [blog post on "Using Vagrant with Symfony"](http://cs3281-2.blogspot.sg/2016/01/using-vagrant-with-symfony.html))
+* Week 3, Sun - [Pull Request #16](https://github.com/codebendercc/eratosthenes/pull/16) (Merged)
+* Week 3, Sun - [Pull Request #24](https://github.com/codebendercc/eratosthenes/pull/24)
+* Week 3, Sun - Waiting to PR [fix to issue #25](https://github.com/codebendercc/eratosthenes/commit/1f44c1dc2bc3fa8a04239f99d7e46eae0f95d814)
+* Week 3, Sun - Waiting to PR [fix to issue #29](https://github.com/codebendercc/eratosthenes/commit/04008171417d1d09837d374bea2a32a5f48c5d20)
 
 ### Technology expertise in Information Security
  * Participated in a discussion of cyber range scenarios with Cyber Test Systems
@@ -53,7 +57,7 @@ permalink: /teams/codebender/
 * Week 4, Sun - Much clearer view on the system. Some refactorings made. Started as the team lead. Tried to settle the working methodology. Started feature implementation.
 
 #### @alexyaoyang (Alex Yao)
-* Week 2, Sun - Received project details 
+* Week 2, Sun - Received project details
 * Week 3, Mon - Setup development environment + learn technologies (since week 1)
 
 #### @harryggg (Ma Tanghao)
@@ -67,5 +71,5 @@ permalink: /teams/codebender/
 * Week 2, Thurs - Sun - Setup development environment, learning [Symfony framework](https://symfony.com/) by [tutorial](http://tutorial.symblog.co.uk/)
 * Week 2, Sun - Draw system diagrams of codebender.
 * Week 3, Thu - Discussion on feature implementation.
- 
+
 #### Technology expertise in Node.js
