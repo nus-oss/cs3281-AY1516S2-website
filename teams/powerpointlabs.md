@@ -22,7 +22,7 @@ permalink: /teams/powerpointlabs/
 * [X] Product demonstration - Week 2, Mon
 * [X] Feature planned - Week 2, Thu
 * [X] High-level architecture demonstration - Week 3, Mon
-* [X] Code Sprint - Week 3, Sat - Week 4, Sun
+* [X] Code Sprint - Week 3, Sat & Week 4, Sun
 
 ## Contributions
  
@@ -36,7 +36,10 @@ permalink: /teams/powerpointlabs/
 * [Pull Request #22](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/22) (Closed) - Week 2, Wed
 * [Pull Request #23](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/23) (Merged) - Week 2, Wed
 * [Pull Request #24](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/24) (Merged) - Week 2, Thu
-* [Pull Request #901](https://github.com/PowerPointLabs/PowerPointLabs/pull/901) - Week 3, Mon
+* [Pull Request #901](https://github.com/PowerPointLabs/PowerPointLabs/pull/901) (Merged) - Week 3, Mon
+* [Pull Request #25](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/25) (Merged) - Week 3, Wed
+* [Pull Request #905](https://github.com/PowerPointLabs/PowerPointLabs/pull/905) (Merged) - Week 3, Thu
+* [Pull Request #911](https://github.com/PowerPointLabs/PowerPointLabs/pull/911) (Merged) - Week 3, Sat
 
 #### @yancmo (Yan Chan Min Oo)
 * [Pull Request #892](https://github.com/PowerPointLabs/PowerPointLabs/pull/892) (Merged) - Week 2, Wed
