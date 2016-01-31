@@ -42,4 +42,5 @@ permalink: /teams/powerpointlabs/
 
 #### @vhazali (Victor Hazali)
 * [Pull Request #21](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/21) (Merged) - Week 2, Mon
+* [PUll Request #910](https://github.com/PowerPointLabs/PowerPointLabs/pull/910) (Merged) - Week 3, Sat
 * [Pull Request #894](https://github.com/PowerPointLabs/PowerPointLabs/pull/894) - Week 2, Fri
