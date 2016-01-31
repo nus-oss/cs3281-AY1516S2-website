@@ -8,7 +8,7 @@ permalink: /teams/socketio/
 
 ## Members
  - Zhu Liang ([@paradite](http://paradite.com))
-   - Technology Expertise: AngularJS
+   - Technology Expertise: d3.js
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
    - Technology Expertise:
  - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu))
@@ -30,12 +30,18 @@ permalink: /teams/socketio/
   * [x] socket.io-client - Week 3, Mon
   * [ ] engine.io - Week 3
   * [ ] engine.io-client - Week 3
-* [ ] Babel for all packages - Week 3
+* [x] Babel for all packages - Week 3, Sun
   * [x] Socket.io - Week 2, Sun
   * [x] socket.io-client - Week 3, Tue
   * [x] engine.io - Week 3, Tue
-  * [ ] engine.io-client - Week 3
+  * [x] engine.io-client - Week 3, Thu
+  * [ ] move from standalone process to webpack loader - Week 3, Sun
 * [ ] Webpack for client-packages - Week 3
+* [ ] Sourcemaps for client-side libraries - Week 4
+  * [x] Sourcemap for socket.io-client - Week 3, Sun
+  * [ ] Sourcemap for engine.io-client
+* [ ] Whiteboard demo for socket.io
+  * [x] UI Implementation using three.js - Week 3, Sun
 
 ## Contributions
 
@@ -47,9 +53,18 @@ permalink: /teams/socketio/
 * [Implement Babel for socket.io commit 1](https://github.com/nus-fboa2016-si/socket.io/commit/3cc6874205177e556d5d9e743d08992219f369cd) [commit 2](https://github.com/nus-fboa2016-si/socket.io/commit/2cb967a2033a82571ab8841296afa8e9da828065) - Week 2, Sun
 * [Implement Babel for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/94127a34656a3d959625eda12a17113a46786d0d) - Week 3, Tue
 * [Implement Babel for engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/76106776e68f94fff5bad330ba26de7401c61598) - Week 3, Tue
+* [Implement Babel for engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/951a5c950230b2dfb968e85a5e7d42d34c932299) - Week 3, Thu
+* [Consolidated list of issues that can be closed](https://gist.github.com/paradite/b98c85ab6c8af5c2df21) - Week 3, Sat
+* [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
+* [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
+* [Added sourcemap for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
+* [Set up GUI for whiteboard example](https://github.com/nus-fboa2016-si/whiteboard) - Week 3, Sun
+  * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
+  * [Mapped 2D mouse position to 3D scene](https://github.com/nus-fboa2016-si/whiteboard/commit/83381f3be832990853b3a299fcb9c3a5d74095ca) - Week 3, Sun
 
-#### Technology expertise in AngularJS
-* ...
+#### Technology expertise in d3.js
+* [Set up framework for d3.js project on cs3281 progress visualization using d3.js](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
+
 
 ### @YijinL (Leow Yijin)
 
