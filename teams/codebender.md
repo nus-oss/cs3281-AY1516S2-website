@@ -59,6 +59,15 @@ permalink: /teams/codebender/
 #### @alexyaoyang (Alex Yao)
 * Week 2, Sun - Received project details
 * Week 3, Mon - Setup development environment + learn technologies (since week 1)
+* Week 3, Mon - Presented on high level architecture of Neuralyzer and what will be
+* Week 3, Thu - Managed to get started with a basic prototype
+* Week 3, Sat - [Pull Request #1](https://github.com/codebendercc/Neuralyzer/pull/1) (Merged)
+* Week 3, Sat - [Pull Request #2](https://github.com/codebendercc/Neuralyzer/pull/2) (Merged)
+* Week 3, Sat - [Pull Request #3](https://github.com/codebendercc/Neuralyzer/pull/3) (Merged)
+* Week 3, Sat - Learnt more technical details on the why's and how's of Codebender, Neuralyzer and Arduino from the CEO
+* Week 3, Sat - Started using SensioLabs' Insight for as an automated code quality (also has security, performance, bugrisk, architectural, ) assurance that has a hook on Github, such that every push will be reviewed
+* Week 3, Sun - Merged 6 more PRs
+* Week 3, Sun - [Added first PHPUnit test](https://github.com/codebendercc/Neuralyzer/pull/12) (Merged)
 
 #### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
