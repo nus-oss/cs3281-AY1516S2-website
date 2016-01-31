@@ -80,5 +80,11 @@ permalink: /teams/codebender/
 * Week 2, Thurs - Sun - Setup development environment, learning [Symfony framework](https://symfony.com/) by [tutorial](http://tutorial.symblog.co.uk/)
 * Week 2, Sun - Draw system diagrams of codebender.
 * Week 3, Thu - Discussion on feature implementation.
+* Week 3, Sat - Learn the history and structure of codebender. Discuss about the project planning with mentors. Clarify and understand the feature need to be implemented.
+    * Blog post on [Code Sprint Day 1](http://blog.gisonrg.me/2016/CS3281-Code-Sprint-Day-1/)
+* Week 3, Sun - Fix code style in the project. Redesign and finalize new database schema of the project.
+    * Blog post on [Code Sprint Day 2](http://blog.gisonrg.me/2016/CS3281-Code-Sprint-Day-2/)
+* Week 3, Sun - [Pull Request 17](https://github.com/codebendercc/eratosthenes/pull/17)(Merged)
+* Week 3, Sun - Fix [Issue 26](https://github.com/codebendercc/eratosthenes/issues/26)
 
 #### Technology expertise in Node.js
