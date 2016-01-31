@@ -45,6 +45,9 @@ permalink: /teams/powerpointlabs/
 #### @yancmo (Yan Chan Min Oo)
 * [Pull Request #892](https://github.com/PowerPointLabs/PowerPointLabs/pull/892) (Merged) - Week 2, Wed
 * [Pull Request #896](https://github.com/PowerPointLabs/PowerPointLabs/pull/896) (Merged) - Week 2, Fri
+* Implemented TaskPane UI for ResizeLab [current version](https://dl.dropboxusercontent.com/u/7610216/ResizeLabUIv1.PNG)
+* Working on stretch/shrink feature in ResizeLab
+* Prepared mockup presentation for ResizeLab [v1](https://dl.dropboxusercontent.com/u/7610216/resizelab%20mockupv1.pptx)
 
 #### @vhazali (Victor Hazali)
 * [Pull Request #21](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/21) (Merged) - Week 2, Mon
