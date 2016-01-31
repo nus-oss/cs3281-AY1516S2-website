@@ -24,7 +24,11 @@ permalink: /teams/codebender/
 * [x] Project set up - Week 2, Tue
 * [x] High-level architecture understanding - Week 3, Mon
 * [x] Proposal for feature implementation drafted ([blog post](http://cs3281-2.blogspot.sg/2016/01/planning-for-our-first-feature.html)) - Week 3, Thu
-* [ ] Feature planned
+* [x] Feature planned - Week 4
+* [x] Minor enhancements - Week 4 & Codesprint
+* [x] Feature discussion with the mentor and finalisation - Week 4 & Codesprint
+* [x] Working methodology settlement - Week 4 & Codesprint
+* [ ] Feature implementation - Week 5
 
 ## Contributions
  
@@ -42,9 +46,11 @@ permalink: /teams/codebender/
  * Sharing on Cross-Site Request Forgeries ([Blog Post on CSRF](http://cs3281-2.blogspot.sg/2016/01/cross-site-request-forgeries-csrf.html))
  * Write-up on my participation in Insomni'hack 2016: ([Blog Post on the Smartcat Challenge](http://cs3281-2.blogspot.sg/2016/01/te-insomnihack-2016-teaser-smartcat-web.html))
 
-#### @bsmmoon (Moon Seokmin)
+#### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
 * Week 3, Mon - Setup and learn project structure and its related technologies such as Symfony.
+* Week 4, Thu - Actual implementation detail in preparation of Codesprint.
+* Week 4, Sun - Much clearer view on the system. Some refactorings made. Started as the team lead. Tried to settle the working methodology. Started feature implementation.
 
 #### @alexyaoyang (Alex Yao)
 * Week 2, Sun - Received project details 
