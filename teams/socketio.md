@@ -44,12 +44,12 @@ permalink: /teams/socketio/
 ### Targets after Code Sprint
 * [ ] Improve Build Process (for 1.5 release)
   * [ ] ESLint + Gulp Task + Syntax 
-* * [ ] Implement SourceMaps + Test that it is served
+* [ ] Implement SourceMaps + Test that it is served
   * [ ] Uglify
   * [ ] Add Sourcemaps to CDN
   * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
   * [ ] Monitor Build Size (impact on build size and code base)
-  * [ ] Add 'Files[]' to Package.json
+  * [ ] Add 'Files' to Package.json
   
 * [ ] Devtools - Socket.io Inspector
   * [ ] Handshake with page to check if socket.io is used
@@ -65,6 +65,7 @@ permalink: /teams/socketio/
   * [ ] Broadcasting
   * [ ] In-memory Buffer + Cap (pruning)
   * [ ] post
+
 
 ## Contributions
 
