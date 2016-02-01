@@ -10,7 +10,7 @@ permalink: /teams/powerpointlabs/
    - Technology Expertise:
  - Wu Yu Ting ([@youthinkk](http://blog.nus.edu.sg/cs3281youthinkk/))
    - Technology Expertise:
- - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/))
+ - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/)) **(Team Lead)**
    - Technology Expertise:
  - Victor Hazali ([@vhazali](https://blog.nus.edu.sg/victorhz3281/))
    - Technology Expertise:
@@ -24,6 +24,7 @@ permalink: /teams/powerpointlabs/
 * [X] High-level architecture demonstration - Week 3, Mon
 * [X] Mockup of new features - Week 3, Sat
 * [X] Code Sprint - Week 3, Sat & Week 4, Sun
+* [ ] MVP for ResizeLab and Positions Lab - Week 4, Thu
 
 ## Contributions
  
@@ -31,7 +32,9 @@ permalink: /teams/powerpointlabs/
 * [Pull Request #20](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/20) (Merged) - Week 2, Mon
 * [Pull Request #840](https://github.com/PowerPointLabs/PowerPointLabs/pull/893) (Merged) - Week 2, Wed
 * [Pull Request #895](https://github.com/PowerPointLabs/PowerPointLabs/pull/895) (Merged) - Week 3, Wed
+* Prepared UI Mockup for PositionsLab - Week 3, Thu
 * [Pull Request #913](https://github.com/PowerPointLabs/PowerPointLabs/pull/913) (Merged) - Week 3, Sat
+* Implemented backend code for PositionsLab's Snap Vertical and Snap Horizontal - Week 4, Sun
 
 #### @youthinkk (Wu Yu Ting)
 * [Pull Request #22](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/22) (Closed) - Week 2, Wed
@@ -52,3 +55,4 @@ permalink: /teams/powerpointlabs/
 #### @vhazali (Victor Hazali)
 * [Pull Request #21](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/21) (Merged) - Week 2, Mon
 * [Pull Request #894](https://github.com/PowerPointLabs/PowerPointLabs/pull/894) - Week 2, Fri
+* Prepared UI Mockup for PositionsLab - Week 3, Thu
