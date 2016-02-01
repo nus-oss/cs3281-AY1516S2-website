@@ -36,6 +36,9 @@ permalink: /teams/teammates/
  * [Pull Request #4632](https://github.com/TEAMMATES/repo/pull/4632) (Merged) - Week 1
  * [Pull Request #4638](https://github.com/TEAMMATES/repo/pull/4638) (Merged) - Week 1
  * [Pull Request #4649](https://github.com/TEAMMATES/repo/pull/4649) (Merged) - Week 2
+ * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (Ongoing) - Week 3
+ * [Pull Request #4695](https://github.com/TEAMMATES/repo/pull/4695) (Ongoing) - Week 3
+ * [Pull Request #4698](https://github.com/TEAMMATES/repo/pull/4698) (Ongoing) - Week 3
 
 #### Contribution to project Y
  * ...
