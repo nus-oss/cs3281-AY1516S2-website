@@ -53,8 +53,9 @@ permalink: /teams/codebender/
 #### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
 * Week 3, Mon - Setup and learn project structure and its related technologies such as Symfony.
-* Week 4, Thu - Actual implementation detail in preparation of Codesprint.
-* Week 4, Sun - Much clearer view on the system. Some refactorings made. Started as the team lead. Tried to settle the working methodology. Started feature implementation.
+* Week 3, Thu - Actual implementation detail in preparation of Codesprint.
+* Week 3, Sun - Much clearer view on the system. Started as the team lead. Tried to settle the working methodology. Started feature implementation.
+* Week 3, Sun - [Pull Request #18](https://github.com/codebendercc/eratosthenes/pull/18) (Merged)
 
 #### @alexyaoyang (Alex Yao)
 * Week 2, Sun - Received project details
