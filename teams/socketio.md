@@ -37,11 +37,17 @@ permalink: /teams/socketio/
   * [x] engine.io-client - Week 3, Thu
   * [ ] move from standalone process to webpack loader - Week 3, Sun
 * [ ] Webpack for client-packages - Week 3
+* [x] ESlint for the 4 main libraries - Week 3, Sun
+  * [x] ESlint for socket.io - Week 3, Sun
+  * [x] ESlint for socket.io-client - Week 3, Sun
+  * [x] ESlint for engine.io - Week 3, Sun
+  * [x] ESlint for engine.io-client - Week 3, Sun
 * [ ] Sourcemaps for client-side libraries - Week 4
   * [x] Sourcemap for socket.io-client - Week 3, Sun
   * [ ] Sourcemap for engine.io-client
 * [ ] Whiteboard demo for socket.io
   * [x] UI Implementation using three.js - Week 3, Sun
+  * []
 
 ## Contributions
 
@@ -75,7 +81,7 @@ Note: links to github commits represent the last commit for that contribution
 * engine.io-client: [Merge babel, webpack with gulp + bugfix](https://github.com/nus-fboa2016-si/engine.io-client/commit/fad7e5b450566b86105421eb444b39bed4d0345a) - Week 3, CS
 * engine.io-client: [Clean up zuul browser testing and switched to child_process.exec for running zuul script](https://github.com/nus-fboa2016-si/engine.io-client/commit/9079369603a6f22d9ea445a485b3fbb9466e82b8) - Week 3, CS
 * engine.io: [Combine babel into gulpfile + minor refactoring](https://github.com/nus-fboa2016-si/engine.io/commit/06c3e8cea4158724aa86c012cc70ea1d3df05a93) - Week 3, CS
-* [socket.io](https://github.com/nus-fboa2016-si/socket.io/commit/920412587b245c4ae5f7c95a583dd37f20c2d904), [engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5), [engine.io-client](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5): Added eslint support + standardise gulpfiles - Week 3, CS
+* [socket.io](https://github.com/nus-fboa2016-si/socket.io/commit/920412587b245c4ae5f7c95a583dd37f20c2d904), [engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5), [engine.io-client](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5): Added eslint support and standardise gulpfiles - Week 3, CS
 
 ### @mikelimantara (Michael Limantara)
 
