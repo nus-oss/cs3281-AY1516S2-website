@@ -128,7 +128,7 @@ Note: links to github commits represent the last commit for that contribution
 * Added [task](https://github.com/whattokingu/socket.io-client/commit/fdef60a24ea3edd5f0da746f5f7a133844fe05e1) in Gulp to run Zuul - Week 3, CS
 
 #### Contribution to minor project HubTurbo
-* PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1227] -Week 4, Mon
+* PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196] -Week 4, Mon
 
 ### @digawp (Diga Widyaprana)
 
