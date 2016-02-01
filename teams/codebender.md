@@ -73,7 +73,15 @@ permalink: /teams/codebender/
 * Week 2, Tues - Received project details
 * Week 2, Thurs - Setup development environment
 * Week 2, Thurs - Propose alternative solution/protocol (rejected)
-* Week 2, Sat - write a simple modularizied tokenizer for the project (https://gist.github.com/harryggg/f37d97d0d470d7d22e63)
+* Week 2, Sat - write a simple modularizied tokenizer for the project(stringscanner.js) (https://gist.github.com/harryggg/f37d97d0d470d7d22e63)
+* Week 3, Fri - write a raw data parser for the project (dataparser.js)
+* Week 3, Sat - Agreed on the common patterns of serial output and the patterns to recognize
+* Week 3, Sat - Learned about the design strategy of the project (0-step chart plotting)
+* Week 3, Sat - refactor the original code and my own classes
+* Week 3, Sat - write a chart plotting class for the project based on canvas.js (chartplotter.js)
+* Week 3, Sun - Combine all classes and make the code functional (3 patterns recognized)
+* Week 3, Sun - implement self-recovery feature (for incomplete/erronous data in transmission)
+* Week 3, Sun - [Pull Request #1](https://github.com/codebendercc/graphic_serial_monitor/pull/6) (Reviewing) (+459 -182)
 
 #### @gisonrg (Jiang Sheng)
 * Week 2, Tues - Received project details
