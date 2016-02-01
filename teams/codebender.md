@@ -97,3 +97,4 @@ permalink: /teams/codebender/
 * Week 3, Sun - Fix [Issue 26](https://github.com/codebendercc/eratosthenes/issues/26)
 
 #### Technology expertise in Node.js
+* [Node.js: what, why, how](http://blog.gisonrg.me/2016/node-js-what-why-how/): a blog post to introduce Node.js
