@@ -10,7 +10,7 @@ permalink: /teams/powerpointlabs/
    - Technology Expertise:
  - Wu Yu Ting ([@youthinkk](http://blog.nus.edu.sg/cs3281youthinkk/))
    - Technology Expertise:
- - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/)) **(Team Lead)**
+ - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/)) **(Team Lead - Week 4 to 8)**
    - Technology Expertise:
  - Victor Hazali ([@vhazali](https://blog.nus.edu.sg/victorhz3281/))
    - Technology Expertise:
