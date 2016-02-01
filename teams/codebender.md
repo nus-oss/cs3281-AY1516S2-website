@@ -95,6 +95,7 @@ permalink: /teams/codebender/
     * Blog post on [Code Sprint Day 2](http://blog.gisonrg.me/2016/CS3281-Code-Sprint-Day-2/)
 * Week 3, Sun - [Pull Request 17](https://github.com/codebendercc/eratosthenes/pull/17)(Merged)
 * Week 3, Sun - Fix [Issue 26](https://github.com/codebendercc/eratosthenes/issues/26)
+* Week 4, Mon - Fix [Issue 30](https://github.com/codebendercc/eratosthenes/issues/30)
 
 #### Technology expertise in Node.js
 * [Node.js: what, why, how](http://blog.gisonrg.me/2016/node-js-what-why-how/): a blog post to introduce Node.js
