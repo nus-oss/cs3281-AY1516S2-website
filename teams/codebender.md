@@ -66,7 +66,7 @@ permalink: /teams/codebender/
 * Week 3, Sat - [Pull Request #2](https://github.com/codebendercc/Neuralyzer/pull/2) (Merged)
 * Week 3, Sat - [Pull Request #3](https://github.com/codebendercc/Neuralyzer/pull/3) (Merged)
 * Week 3, Sat - Learnt more technical details on the why's and how's of Codebender, Neuralyzer and Arduino from the CEO
-* Week 3, Sat - Started using SensioLabs' Insight for as an automated code quality (also has security, performance, bugrisk, architectural, ) assurance that has a hook on Github, such that every push will be reviewed
+* Week 3, Sat - Started using SensioLabs' Insight as an automated code quality (also has security, performance, bugrisk, architectural checks) assurance and setup hook for github, such that every push will be reviewed automatically
 * Week 3, Sun - Merged 6 more PRs
 * Week 3, Sun - [Added first PHPUnit test](https://github.com/codebendercc/Neuralyzer/pull/12) (Merged)
 
