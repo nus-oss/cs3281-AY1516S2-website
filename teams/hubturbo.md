@@ -40,7 +40,7 @@ permalink: /teams/hubturbo/
 
 # Contributions
 
-### Choo Boon Yong Martin ([@m133225](https://github.com/m133225))
+### Choo Boon Yong Martin ([@m133225](https://github.com/m133225)) (Team Lead - Week 4 to 8)
 
 * [Pull Request #1191](https://github.com/HubTurbo/HubTurbo/pull/1191) (Merged) - Week 1, Sat
 * [Pull Request #1193](https://github.com/HubTurbo/HubTurbo/pull/1193) - Week 1, Sun
