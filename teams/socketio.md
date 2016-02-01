@@ -25,23 +25,27 @@ permalink: /teams/socketio/
 * [x] Product demo using deployed chat app - Week 2, Mon
 * [x] Tasks planned by project mentors and assigned to team members - Week 2, Thu
 * [x] High level architecture presentation - Week 3, Mon
-* [ ] Setup gulp task runner to replace make for:
+* [x] Setup gulp task runner to replace make for:
   * [x] Socket.io - Week 2, Sun
   * [x] socket.io-client - Week 3, Mon
-  * [ ] engine.io - Week 3
-  * [ ] engine.io-client - Week 3
-* [x] Babel for all packages - Week 3, Sun
+  * [x] engine.io - Week 3
+  * [x] engine.io-client - Week 3
+* [x] Babel for all packages - Week 3
   * [x] Socket.io - Week 2, Sun
   * [x] socket.io-client - Week 3, Tue
   * [x] engine.io - Week 3, Tue
-  * [x] engine.io-client - Week 3, Thu
-  * [ ] move from standalone process to webpack loader - Week 3, Sun
-* [ ] Webpack for client-packages - Week 3
-* [ ] Sourcemaps for client-side libraries - Week 4
-  * [x] Sourcemap for socket.io-client - Week 3, Sun
-  * [ ] Sourcemap for engine.io-client
-* [ ] Whiteboard demo for socket.io
-  * [x] UI Implementation using three.js - Week 3, Sun
+  * [x] engine.io-client - Week 3
+* [x] Webpack for client-packages - Week 3
+* [ ] Create PR for Gulp Task runner - Week 3, CS
+  * [x] socket.io-client - Week 3, CS
+  * [ ] engine.io-client - Week 3, CS
+* [ ] Collabarative whiteboard tutorial
+  * [ ] TBD
+* [ ] Devtool (temp name)
+  * [ ] ..
+* [ ] 
+  * [ ] ESlint
+
 
 ## Contributions
 
@@ -54,6 +58,7 @@ permalink: /teams/socketio/
 * [Implement Babel for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/94127a34656a3d959625eda12a17113a46786d0d) - Week 3, Tue
 * [Implement Babel for engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/76106776e68f94fff5bad330ba26de7401c61598) - Week 3, Tue
 * [Implement Babel for engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/951a5c950230b2dfb968e85a5e7d42d34c932299) - Week 3, Thu
+<<<<<<< HEAD
 * [Consolidated list of issues that can be closed](https://gist.github.com/paradite/b98c85ab6c8af5c2df21) - Week 3, Sat
 * [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
 * [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
@@ -64,6 +69,7 @@ permalink: /teams/socketio/
 
 #### Technology expertise in d3.js
 * [Set up framework for d3.js project on cs3281 progress visualization using d3.js](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
+
 
 
 ### @YijinL (Leow Yijin)
@@ -93,9 +99,13 @@ Note: links to github commits represent the last commit for that contribution
 ### @whattokingu (Zheng Weihan)
 
 #### Contribution to project SI
-* [Setup Gulpfiles for Socket.io - Week 2](https://github.com/nus-fboa2016-si/socket.io/pull/1)
-* [Setup Gulpfiles for Socket.io-client - Week 2](https://github.com/nus-fboa2016-si/socket.io-client/pull/1)
-* Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2
+* [Setup Gulpfiles for Socket.io - Week 2, Mon](https://github.com/nus-fboa2016-si/socket.io/pull/1)
+* [Setup Gulpfiles for Socket.io-client - Week 2, Mon](https://github.com/nus-fboa2016-si/socket.io-client/pull/1)
+* Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2, Mon
+* Fix for [issue #331](https://github.com/socketio/socket.io-client/issues/331) on socket.io-client. The fix spans both [socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/2) and [socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/4) - Week 3, CS
+* Added [documentation](https://github.com/socketio/socket.io/pull/2415) for based on issue [#2400](https://github.com/socketio/socket.io/issues/2400 - Week 3, CS
+* Added [task](https://github.com/whattokingu/socket.io-client/commit/fdef60a24ea3edd5f0da746f5f7a133844fe05e1) in Gulp to run Zuul - Week 3, CS
+
 
 ### @digawp (Diga Widyaprana)
 
