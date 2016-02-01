@@ -11,12 +11,13 @@ permalink: /teams/socketio/
    - Technology Expertise: d3.js
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
    - Technology Expertise:
- - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu))
-   - Technology Expertise:
+ - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu)) Team Lead - Week 4 to 7
+   - Technology Expertise: NodeJS
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
    - Technology Expertise:
  - Leow Yijin ([@YijinL](#))
    - Technology Expertise:
+
 
 ## Workplan
 
@@ -39,13 +40,32 @@ permalink: /teams/socketio/
 * [ ] Create PR for Gulp Task runner - Week 3, CS
   * [x] socket.io-client - Week 3, CS
   * [ ] engine.io-client - Week 3, CS
-* [ ] Collabarative whiteboard tutorial
-  * [ ] TBD
-* [ ] Devtool (temp name)
-  * [ ] ..
-* [ ] 
-  * [ ] ESlint
-
+  
+### Targets after Code Sprint
+* [ ] Improve Build Process
+  * [ ] ESLint + Gulp Task + Syntax
+* [ ] Implement SourceMaps + Test that it is served
+  * [ ] Uglify
+  * [ ] Add Sourcemaps to CDN
+  * [ ] ES6 Refactor (classes, self=this, .bind, etc.)
+  * [ ] Monitor Build Size (impact on build size and code base)
+  * [ ] Add 'Files[]' to Package.json
+  
+* [ ] Devtools - Socket.io Inspector
+  * [ ] Handshake with page to check if socket.io is used
+    * [ ] Getting started with building Chrome Dev Tools
+    * [ ] getting devtool to talk to page
+    * [ ] getting devtool to talk to socket.io in page
+    * [ ] implement io over RPC
+  * [ ] implement mockups of devtool
+  
+  
+* [ ] Whiteboard Guide
+  * [ ] Color Picker
+  * [ ] Connection Count
+  * [ ] Broadcasting
+  * [ ] In-memory Buffer + Cap (pruning)
+  * [ ] post
 
 ## Contributions
 
@@ -103,9 +123,12 @@ Note: links to github commits represent the last commit for that contribution
 * [Setup Gulpfiles for Socket.io-client - Week 2, Mon](https://github.com/nus-fboa2016-si/socket.io-client/pull/1)
 * Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2, Mon
 * Fix for [issue #331](https://github.com/socketio/socket.io-client/issues/331) on socket.io-client. The fix spans both [socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/2) and [socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/4) - Week 3, CS
+* Test for above Fix in PR [#943] (https://github.com/socketio/socket.io-client/pull/943). - Week 3, CS
 * Added [documentation](https://github.com/socketio/socket.io/pull/2415) for based on issue [#2400](https://github.com/socketio/socket.io/issues/2400 - Week 3, CS
 * Added [task](https://github.com/whattokingu/socket.io-client/commit/fdef60a24ea3edd5f0da746f5f7a133844fe05e1) in Gulp to run Zuul - Week 3, CS
 
+#### Contribution to minor project HubTurbo
+* PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1227] -Week 4, Mon
 
 ### @digawp (Diga Widyaprana)
 
