@@ -37,17 +37,17 @@ permalink: /teams/socketio/
   * [x] engine.io - Week 3, Tue
   * [x] engine.io-client - Week 3
 * [x] Webpack for client-packages - Week 3
-* [ ] Create PR for Gulp Task runner - Week 3, CS
+* [x] Create PR for Gulp Task runner - Week 3, CS
   * [x] socket.io-client - Week 3, CS
-  * [ ] engine.io-client - Week 3, CS
+  * [x] engine.io-client - Week 3, CS
   
 ### Targets after Code Sprint
-* [ ] Improve Build Process
-  * [ ] ESLint + Gulp Task + Syntax
-* [ ] Implement SourceMaps + Test that it is served
+* [ ] Improve Build Process (for 1.5 release)
+  * [ ] ESLint + Gulp Task + Syntax 
+* * [ ] Implement SourceMaps + Test that it is served
   * [ ] Uglify
   * [ ] Add Sourcemaps to CDN
-  * [ ] ES6 Refactor (classes, self=this, .bind, etc.)
+  * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
   * [ ] Monitor Build Size (impact on build size and code base)
   * [ ] Add 'Files[]' to Package.json
   
@@ -58,7 +58,6 @@ permalink: /teams/socketio/
     * [ ] getting devtool to talk to socket.io in page
     * [ ] implement io over RPC
   * [ ] implement mockups of devtool
-  
   
 * [ ] Whiteboard Guide
   * [ ] Color Picker
