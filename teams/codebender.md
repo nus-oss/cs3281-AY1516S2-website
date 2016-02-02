@@ -96,6 +96,9 @@ permalink: /teams/codebender/
 * Week 3, Sun - [Pull Request 17](https://github.com/codebendercc/eratosthenes/pull/17)(Merged)
 * Week 3, Sun - Fix [Issue 26](https://github.com/codebendercc/eratosthenes/issues/26)
 * Week 4, Mon - Fix [Issue 30](https://github.com/codebendercc/eratosthenes/issues/30)
+* Week 4, Tue - A discusion [post](http://blog.gisonrg.me/2016/eratosthenes-database-redesign/) about the new database design for Eratosthenes
 
 #### Technology expertise in Node.js
 * [Node.js: what, why, how](http://blog.gisonrg.me/2016/node-js-what-why-how/): a blog post to introduce Node.js
+* Leanring Node.js topics by attempting workshops provided on [NodeSchool.io](http://nodeschool.io)
+   * [My solutions for nodeschoo.io](https://github.com/Gisonrg/collections/tree/master/nodeschool)
