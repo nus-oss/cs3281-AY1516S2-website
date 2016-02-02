@@ -11,12 +11,13 @@ permalink: /teams/socketio/
    - Technology Expertise: d3.js
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
    - Technology Expertise:
- - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu))
-   - Technology Expertise:
+ - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu)) Team Lead - Week 4 to 7
+   - Technology Expertise: NodeJS
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
    - Technology Expertise:
  - Leow Yijin ([@YijinL](#))
    - Technology Expertise:
+
 
 ## Workplan
 
@@ -25,30 +26,48 @@ permalink: /teams/socketio/
 * [x] Product demo using deployed chat app - Week 2, Mon
 * [x] Tasks planned by project mentors and assigned to team members - Week 2, Thu
 * [x] High level architecture presentation - Week 3, Mon
-* [ ] Setup gulp task runner to replace make for:
+* [x] Setup gulp task runner to replace make for:
   * [x] Socket.io - Week 2, Sun
   * [x] socket.io-client - Week 3, Mon
-  * [ ] engine.io - Week 3
-  * [ ] engine.io-client - Week 3
-* [x] Babel for all packages - Week 3, Sun
+  * [x] engine.io - Week 3
+  * [x] engine.io-client - Week 3
+* [x] Babel for all packages - Week 3
   * [x] Socket.io - Week 2, Sun
   * [x] socket.io-client - Week 3, Tue
   * [x] engine.io - Week 3, Tue
-  * [x] engine.io-client - Week 3, Thu
-  * [ ] move from standalone process to webpack loader - Week 3, Sun
-* [ ] Webpack for client-packages - Week 3
-* [x] ESlint for the 4 main libraries - Week 3, Sun
-  * [x] ESlint for socket.io - Week 3, Sun
-  * [x] ESlint for socket.io-client - Week 3, Sun
-  * [x] ESlint for engine.io - Week 3, Sun
-  * [x] ESlint for engine.io-client - Week 3, Sun
-* [ ] Sourcemaps for client-side libraries - Week 4
-  * [x] Sourcemap for socket.io-client - Week 3, Sun
-  * [ ] Sourcemap for engine.io-client
-* [ ] Whiteboard demo for socket.io
-  * [x] UI Implementation using three.js - Week 3, Sun
-  * []
-
+  * [x] engine.io-client - Week 3
+* [x] Webpack for client-packages - Week 3
+* [x] Create PR for Gulp Task runner - Week 3, CS
+  * [x] socket.io-client - Week 3, CS
+  * [x] engine.io-client - Week 3, CS
+  
+### Targets after Code Sprint
+* [ ] Improve Build Process (for 1.5 release)
+  * [ ] ESLint + Gulp Task + Syntax 
+* [ ] Implement SourceMaps + Test that it is served
+* [ ] Uglify
+* [ ] Add Sourcemaps to CDN
+* [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
+* [ ] Monitor Build Size (impact on build size and code base)
+* [ ] Add 'Files' to Package.json
+  
+* [ ] Devtools - Socket.io Inspector
+  * [ ] Handshake with page to check if socket.io is used
+    * [ ] Getting started with building Chrome Dev Tools
+    * [ ] getting devtool to talk to page
+    * [ ] getting devtool to talk to socket.io in page
+    * [ ] implement io over RPC
+  * [ ] implement mockups of devtool
+  
+* [ ] Whiteboard Guide
+  * [x] Mouse tracking logic - Week 3, Sun
+  * [x] Drawing logic - Week 4, Tue
+  * [x] Color Picker - Week 4, Tue
+  * [ ] Connection Count
+  * [ ] Broadcasting
+  * [ ] In-memory Buffer + Cap (pruning)
+  * [ ] post
+  
 ## Contributions
 
 ### @paradite (Zhu Liang)
@@ -64,12 +83,15 @@ permalink: /teams/socketio/
 * [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
 * [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
 * [Added sourcemap for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
-* [Set up GUI for whiteboard example](https://github.com/nus-fboa2016-si/whiteboard) - Week 3, Sun
+* [Set up front-end UI and interactions for whiteboard example](https://github.com/nus-fboa2016-si/whiteboard) - Week 3, Sun
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
   * [Mapped 2D mouse position to 3D scene](https://github.com/nus-fboa2016-si/whiteboard/commit/83381f3be832990853b3a299fcb9c3a5d74095ca) - Week 3, Sun
+  * [Implemented simple color picker](https://github.com/nus-fboa2016-si/whiteboard/commit/ee503f3192747391213a07ba6bec3fa33e0140ac) - Week 4, Tue
+  * [Set up drawing logic](https://github.com/nus-fboa2016-si/whiteboard/commit/de3329b34e4c9ebb319d895ebed20e284f2bbcb8) - Week 4, Tue
 
 #### Technology expertise in d3.js
 * [Set up framework for d3.js project on cs3281 progress visualization using d3.js](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
+
 
 
 ### @YijinL (Leow Yijin)
@@ -99,9 +121,16 @@ Note: links to github commits represent the last commit for that contribution
 ### @whattokingu (Zheng Weihan)
 
 #### Contribution to project SI
-* [Setup Gulpfiles for Socket.io - Week 2](https://github.com/nus-fboa2016-si/socket.io/pull/1)
-* [Setup Gulpfiles for Socket.io-client - Week 2](https://github.com/nus-fboa2016-si/socket.io-client/pull/1)
-* Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2
+* [Setup Gulpfiles for Socket.io - Week 2, Mon](https://github.com/nus-fboa2016-si/socket.io/pull/1)
+* [Setup Gulpfiles for Socket.io-client - Week 2, Mon](https://github.com/nus-fboa2016-si/socket.io-client/pull/1)
+* Convert Tasks from Make to Gulp for [Socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/3) and [Socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/1) - Week 2, Mon
+* Fix for [issue #331](https://github.com/socketio/socket.io-client/issues/331) on socket.io-client. The fix spans both [socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/pull/2) and [socket.io](https://github.com/nus-fboa2016-si/socket.io/pull/4) - Week 3, CS
+* Test for above Fix in PR [#943](https://github.com/socketio/socket.io-client/pull/943). - Week 3, CS
+* Added [documentation](https://github.com/socketio/socket.io/pull/2415) for based on issue [#2400](https://github.com/socketio/socket.io/issues/2400 - Week 3, CS
+* Added [task](https://github.com/whattokingu/socket.io-client/commit/fdef60a24ea3edd5f0da746f5f7a133844fe05e1) in Gulp to run Zuul - Week 3, CS
+
+#### Contribution to minor project HubTurbo
+* PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196] -Week 4, Mon
 
 ### @digawp (Diga Widyaprana)
 
