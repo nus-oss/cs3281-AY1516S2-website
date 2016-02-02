@@ -45,11 +45,11 @@ permalink: /teams/socketio/
 * [ ] Improve Build Process (for 1.5 release)
   * [ ] ESLint + Gulp Task + Syntax 
 * [ ] Implement SourceMaps + Test that it is served
-  * [ ] Uglify
-  * [ ] Add Sourcemaps to CDN
-  * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
-  * [ ] Monitor Build Size (impact on build size and code base)
-  * [ ] Add 'Files' to Package.json
+* [ ] Uglify
+* [ ] Add Sourcemaps to CDN
+* [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
+* [ ] Monitor Build Size (impact on build size and code base)
+* [ ] Add 'Files' to Package.json
   
 * [ ] Devtools - Socket.io Inspector
   * [ ] Handshake with page to check if socket.io is used
@@ -60,12 +60,13 @@ permalink: /teams/socketio/
   * [ ] implement mockups of devtool
   
 * [ ] Whiteboard Guide
-  * [ ] Color Picker
+  * [x] Mouse tracking logic - Week 3, Sun
+  * [x] Drawing logic - Week 4, Tue
+  * [x] Color Picker - Week 4, Tue
   * [ ] Connection Count
   * [ ] Broadcasting
   * [ ] In-memory Buffer + Cap (pruning)
   * [ ] post
-
 
 ## Contributions
 
@@ -82,9 +83,11 @@ permalink: /teams/socketio/
 * [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
 * [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
 * [Added sourcemap for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
-* [Set up GUI for whiteboard example](https://github.com/nus-fboa2016-si/whiteboard) - Week 3, Sun
+* [Set up front-end UI and interactions for whiteboard example](https://github.com/nus-fboa2016-si/whiteboard) - Week 3, Sun
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
   * [Mapped 2D mouse position to 3D scene](https://github.com/nus-fboa2016-si/whiteboard/commit/83381f3be832990853b3a299fcb9c3a5d74095ca) - Week 3, Sun
+  * [Implemented simple color picker](https://github.com/nus-fboa2016-si/whiteboard/commit/ee503f3192747391213a07ba6bec3fa33e0140ac) - Week 4, Tue
+  * [Set up drawing logic](https://github.com/nus-fboa2016-si/whiteboard/commit/de3329b34e4c9ebb319d895ebed20e284f2bbcb8) - Week 4, Tue
 
 #### Technology expertise in d3.js
 * [Set up framework for d3.js project on cs3281 progress visualization using d3.js](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
