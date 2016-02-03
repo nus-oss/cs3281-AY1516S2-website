@@ -45,11 +45,11 @@ permalink: /teams/socketio/
 * [ ] Improve Build Process (for 1.5 release)
   * [ ] ESLint + Gulp Task + Syntax 
 * [ ] Implement SourceMaps + Test that it is served
-  * [ ] Uglify
-  * [ ] Add Sourcemaps to CDN
-  * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
-  * [ ] Monitor Build Size (impact on build size and code base)
-  * [ ] Add 'Files' to Package.json
+* [ ] Uglify
+* [ ] Add Sourcemaps to CDN
+* [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
+* [ ] Monitor Build Size (impact on build size and code base)
+* [ ] Add 'Files' to Package.json
   
 * [ ] Devtools - Socket.io Inspector
   * [ ] Handshake with page to check if socket.io is used
@@ -60,13 +60,14 @@ permalink: /teams/socketio/
   * [ ] implement mockups of devtool
   
 * [ ] Whiteboard Guide
-  * [ ] Color Picker
+  * [x] Mouse tracking logic - Week 3, Sun
+  * [x] Drawing logic - Week 4, Tue
+  * [x] Color Picker - Week 4, Tue
   * [ ] Connection Count
   * [ ] Broadcasting
   * [ ] In-memory Buffer + Cap (pruning)
   * [ ] post
-
-
+  
 ## Contributions
 
 ### @paradite (Zhu Liang)
@@ -82,9 +83,11 @@ permalink: /teams/socketio/
 * [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
 * [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
 * [Added sourcemap for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
-* [Set up GUI for whiteboard example](https://github.com/nus-fboa2016-si/whiteboard) - Week 3, Sun
+* [Set up front-end UI and interactions for whiteboard example](https://github.com/nus-fboa2016-si/whiteboard) - Week 3, Sun
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
   * [Mapped 2D mouse position to 3D scene](https://github.com/nus-fboa2016-si/whiteboard/commit/83381f3be832990853b3a299fcb9c3a5d74095ca) - Week 3, Sun
+  * [Implemented simple color picker](https://github.com/nus-fboa2016-si/whiteboard/commit/ee503f3192747391213a07ba6bec3fa33e0140ac) - Week 4, Tue
+  * [Set up drawing logic](https://github.com/nus-fboa2016-si/whiteboard/commit/de3329b34e4c9ebb319d895ebed20e284f2bbcb8) - Week 4, Tue
 
 #### Technology expertise in d3.js
 * [Set up framework for d3.js project on cs3281 progress visualization using d3.js](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
@@ -95,12 +98,13 @@ permalink: /teams/socketio/
 
 #### Contribution to project SI
 Note: links to github commits represent the last commit for that contribution
+
 * [Prepare textual slides and architecture diagrams for architecture presentation](https://docs.google.com/presentation/d/1OHRrAYRE8M2gV4wg2MwYk0BIfbEURwtMt17og5wWTfE/edit?usp=sharing) - Week 2, Sat
 * engine.io-client: [Set up gulp build file under browserify](https://github.com/nus-fboa2016-si/engine.io-client/pull/1) - Week 3, Thu
 * engine.io-client: [Merge babel, webpack with gulp + bugfix](https://github.com/nus-fboa2016-si/engine.io-client/commit/fad7e5b450566b86105421eb444b39bed4d0345a) - Week 3, CS
 * engine.io-client: [Clean up zuul browser testing and switched to child_process.exec for running zuul script](https://github.com/nus-fboa2016-si/engine.io-client/commit/9079369603a6f22d9ea445a485b3fbb9466e82b8) - Week 3, CS
 * engine.io: [Combine babel into gulpfile + minor refactoring](https://github.com/nus-fboa2016-si/engine.io/commit/06c3e8cea4158724aa86c012cc70ea1d3df05a93) - Week 3, CS
-* [socket.io](https://github.com/nus-fboa2016-si/socket.io/commit/920412587b245c4ae5f7c95a583dd37f20c2d904), [engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5), [engine.io-client](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5): Added eslint support + standardise gulpfiles - Week 3, CS
+* [socket.io](https://github.com/nus-fboa2016-si/socket.io/commit/920412587b245c4ae5f7c95a583dd37f20c2d904), [engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5), [engine.io-client](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5): Added eslint support and standardise gulpfiles - Week 3, CS
 
 ### @mikelimantara (Michael Limantara)
 
