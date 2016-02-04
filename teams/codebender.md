@@ -64,7 +64,7 @@ permalink: /teams/codebender/
 * [x] Minor enhancements - Week 4 & Codesprint
 * [x] Feature discussion with the mentor and finalisation - Week 4 & Codesprint
 * [x] Working methodology settlement - Week 4 & Codesprint
-* [ ] Milestone 1 - Due Week 4, Sun
+* [ ] **Milestone 1** - Due Week 4, Sun
     * [X] Create 6 new entities
         - [x] Preference
         - [x] Partner
@@ -74,20 +74,20 @@ permalink: /teams/codebender/
         - [x] LibraryExample
     * [X] Create migrations
     * [ ] Change example library folder structure to include versions
-* [ ] Milestone 2 Part 1 - Due Week 5, Wed
+* [ ] **Milestone 2 Part 1** - Due Week 5, Wed
     * [ ] Design public APIs: specify request urls and parameters
-* [ ] Milestone 2 Part 2 - Due Week 6, Wed
+* [ ] **Milestone 2 Part 2** - Due Week 6, Wed
     * [ ] Create ApiController
     * [ ] Create tests for ApiController
     * [ ] Create ApiHandler
     * [ ] Create tests for ApiController
-* [ ] Milestone 3 - Due Week 6, Sun
+* [ ] **Milestone 3** - Due Week 6, Sun
     * [ ] Change View Templates to include versions
     * [ ] Change ViewsController
-* [ ] Milestone 4 - Due Week 7, Sun
+* [ ] **Milestone 4** - Due Week 7, Sun
     * [ ] Component integration
     * [ ] Create integration tests
-* [ ] Milestone 5 - Due Week 8, Sun
+* [ ] **Milestone 5** - Due Week 8, Sun
     * [ ] Integrate multiple partner functionality into our codebase
     * [ ] Integrate features to remember preferences of partners
     * [ ] Create integration tests for partner and preferences
