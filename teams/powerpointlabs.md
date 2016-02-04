@@ -13,7 +13,7 @@ permalink: /teams/powerpointlabs/
  - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/)) **(Team Lead - Week 4 to 8)**
    - Technology Expertise:
  - Victor Hazali ([@vhazali](https://blog.nus.edu.sg/victorhz3281/))
-   - Technology Expertise:
+   - Technology Expertise: Information Security
 
 ## Workplan
 
@@ -73,7 +73,9 @@ permalink: /teams/powerpointlabs/
 ##### Pull Request
 * [Pull Request #21](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/21) (Merged) - Week 2, Mon
 * [Pull Request #894](https://github.com/PowerPointLabs/PowerPointLabs/pull/894) - Week 2, Fri
+* [Pull Request #910](https://github.com/PowerPointLabs/PowerPointLabs/pull/910) - Week 4, Sun
  
 ##### Positions Lab
 * Prepared UI Mockup for PositionsLab - Week 3, Thu
 * Implemented TaskPane UI for PositionsLab - Week 4, Sun
+* Implemented **Align** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Sun
