@@ -55,11 +55,14 @@ permalink: /teams/socketio/
   
 * [ ] Devtools - Socket.io Inspector
   * [ ] Handshake with page to check if socket.io is used
-    * [ ] Getting started with building Chrome Dev Tools
-    * [ ] getting devtool to talk to page
-    * [ ] getting devtool to talk to socket.io in page
-    * [ ] implement io over RPC
+    * [ ] Getting started with building Chrome Dev Tools - Week 4, Sun
+    * [ ] getting devtool to talk to page - Week 4, Sun
+    * [ ] getting devtool to talk to socket.io in page - Week 5, Fri
+    * [ ] implement io-emitter over chrome protocols - Week 7, Sun
+    * [ ] find ways to inspect io packets (to be added) - Week 10, Sun
   * [ ] implement mockups of devtool
+    * [ ] Basic HTML and CSS structure - Week 5, Sun
+    * [ ] JS Logic wiring - Week 8, Sun 
   
 * [ ] Whiteboard Guide
   * [x] Mouse tracking logic - Week 3, Sun
