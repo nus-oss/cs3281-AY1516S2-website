@@ -81,6 +81,17 @@ permalink: /teams/codebender/
     * [ ] Create tests for ApiController
     * [ ] Create ApiHandler
     * [ ] Create tests for ApiController
+* [ ] Milestone 3 - Due Week 6, Sun
+    * [ ] Change View Templates to include versions
+    * [ ] Change ViewsController
+* [ ] Milestone 4 - Due Week 7, Sun
+    * [ ] Component integration
+    * [ ] Create integration tests
+* [ ] Milestone 5 - Due Week 8, Sun
+    * [ ] Integrate multiple partner functionality into our codebase
+    * [ ] Integrate features to remember preferences of partners
+    * [ ] Create integration tests for partner and preferences
+* Buffer / minor features - Week 9 - 13 
 
 
 ## Contributions
