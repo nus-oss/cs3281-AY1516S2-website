@@ -42,15 +42,16 @@ permalink: /teams/socketio/
   * [x] engine.io-client - Week 3, CS
   
 ### Targets after Code Sprint
+* [ ] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
-  * [ ] ESLint + Gulp Task + Syntax 
-* [ ] Implement SourceMaps + Test that it is served
-* [ ] Uglify
-* [ ] Add Sourcemaps to CDN
-* [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
-  * [ ] Compact support
-* [ ] Monitor Build Size (impact on build size and code base)
-* [ ] Add 'Files' to Package.json
+  * [ ] ESLint + Gulp Task + Syntax - Week 5, Sun
+  * [ ] Implement SourceMaps + Test that it is served - Week 5, Sun
+  * [ ] Uglify
+  * [ ] Add Sourcemaps to CDN
+  * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
+    * [ ] Compact support
+  * [ ] Monitor Build Size (impact on build size and code base)
+  * [ ] Add 'Files' to Package.json
   
 * [ ] Devtools - Socket.io Inspector
   * [ ] Handshake with page to check if socket.io is used
