@@ -8,7 +8,7 @@ permalink: /teams/teammates/
 [nus-fboa2016-TM](https://github.com/nus-fboa2016-TM)
 
 ## Members
- - [@jkt001](https://github.com/jkt001) (John Kevin Tjahjadi)
+ - [@jkt001](https://github.com/jkt001) (John Kevin Tjahjadi) Team Lead - Week 4 to ...
    - Technology Expertise:
 
  - [@kennho](https://github.com/kennho) (Kenneth Ho Chee Chong)
@@ -27,6 +27,9 @@ permalink: /teams/teammates/
  * [x] Product demo - Week 2, Mon
  * [x] Project idea - Week 2, Thu
  * [x] Architecture demo - Week 3, Mon
+ * [x] CodeSprint - Fix a few issues - Week 3, Sat-Sun
+ * [ ] Fixing Issues - Continue fixing issues - Week 4 to Week 6
+ * [ ] Future Planning - Week 4 to Week 6
 
 ## Contributions
 
@@ -37,8 +40,10 @@ permalink: /teams/teammates/
  * [Pull Request #4638](https://github.com/TEAMMATES/repo/pull/4638) (Merged) - Week 1
  * [Pull Request #4649](https://github.com/TEAMMATES/repo/pull/4649) (Merged) - Week 2
  * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (Ongoing) - Week 3
- * [Pull Request #4695](https://github.com/TEAMMATES/repo/pull/4695) (Ongoing) - Week 3
+ * [Pull Request #4695](https://github.com/TEAMMATES/repo/pull/4695) (ToMerge) - Week 3
  * [Pull Request #4698](https://github.com/TEAMMATES/repo/pull/4698) (Ongoing) - Week 3
+ * [Issue #4715](https://github.com/TEAMMATES/repo/issues/4715) (Ongoing) - Week 4
+ * [Issue #4716](https://github.com/TEAMMATES/repo/issues/4716) (Ongoing) - Week 4
 
 #### Contribution to project Y
  * ...
@@ -67,7 +72,9 @@ permalink: /teams/teammates/
 ### [@Sumei1009](https://github.com/Sumei1009) (Su Sumei)
 
 #### Contribution to project TEAMMATES
- * [Pull Request #4670](https://github.com/TEAMMATES/repo/pull/4670) (Ongoing) - Week 3
+ * [Pull Request #4677](https://github.com/TEAMMATES/repo/pull/4677) (Merged) - Week 2
+ * [Pull Request #4678](https://github.com/TEAMMATES/repo/pull/4678) (Merged) - Week 3
+ * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (Ongoing) - Week 3
 
 #### Contribution to project Y
  * ...
