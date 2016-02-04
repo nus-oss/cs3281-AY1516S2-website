@@ -64,8 +64,8 @@ permalink: /teams/socketio/
   * [x] Mouse tracking logic - Week 3, Sun
   * [x] Drawing logic - Week 4, Tue
   * [x] Color Picker - Week 4, Tue
-  * [ ] Connection Count
-  * [ ] Broadcasting
+  * [ ] Connection Count - Week 4, Sun
+  * [ ] Broadcasting - Week 5, Sun
   * [ ] In-memory Buffer + Cap (pruning)
   * [ ] post
   
