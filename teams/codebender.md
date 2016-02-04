@@ -64,7 +64,24 @@ permalink: /teams/codebender/
 * [x] Minor enhancements - Week 4 & Codesprint
 * [x] Feature discussion with the mentor and finalisation - Week 4 & Codesprint
 * [x] Working methodology settlement - Week 4 & Codesprint
-* [ ] Feature implementation - Week 5
+* [ ] Milestone 1 - Due Week 4, Sun
+    * [X] Create 6 new entities
+        - [x] Preference
+        - [x] Partner
+        - [x] Architecture
+        - [x] Library
+        - [x] Version
+        - [x] LibraryExample
+    * [X] Create migrations
+    * [ ] Change example library folder structure to include versions
+* [ ] Milestone 2 Part 1 - Due Week 5, Wed
+    * [ ] Design public APIs: specify request urls and parameters
+* [ ] Milestone 2 Part 2 - Due Week 6, Wed
+    * [ ] Create ApiController
+    * [ ] Create tests for ApiController
+    * [ ] Create ApiHandler
+    * [ ] Create tests for ApiController
+
 
 ## Contributions
 
