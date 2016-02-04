@@ -48,6 +48,7 @@ permalink: /teams/socketio/
 * [ ] Uglify
 * [ ] Add Sourcemaps to CDN
 * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
+  * [ ] Compact support
 * [ ] Monitor Build Size (impact on build size and code base)
 * [ ] Add 'Files' to Package.json
   
