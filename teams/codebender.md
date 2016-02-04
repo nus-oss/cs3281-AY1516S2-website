@@ -73,6 +73,7 @@ permalink: /teams/codebender/
         - [x] Version
         - [x] LibraryExample
     * [X] Create migrations
+    * [ ] Create 6 fixtures
     * [ ] Change example library folder structure to include versions
 * [ ] **Milestone 2 Part 1** - Due Week 5, Wed
     * [ ] Design public APIs: specify request urls and parameters
