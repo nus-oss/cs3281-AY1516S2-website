@@ -72,7 +72,9 @@ permalink: /teams/teammates/
 ### [@Sumei1009](https://github.com/Sumei1009) (Su Sumei)
 
 #### Contribution to project TEAMMATES
- * [Pull Request #4670](https://github.com/TEAMMATES/repo/pull/4670) (Ongoing) - Week 3
+ * [Pull Request #4677](https://github.com/TEAMMATES/repo/pull/4677) (Merged) - Week 2
+ * [Pull Request #4678](https://github.com/TEAMMATES/repo/pull/4678) (Merged) - Week 3
+ * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (Ongoing) - Week 3
 
 #### Contribution to project Y
  * ...
