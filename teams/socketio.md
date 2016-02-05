@@ -42,29 +42,34 @@ permalink: /teams/socketio/
   * [x] engine.io-client - Week 3, CS
   
 ### Targets after Code Sprint
+* [ ] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
-  * [ ] ESLint + Gulp Task + Syntax 
-* [ ] Implement SourceMaps + Test that it is served
-* [ ] Uglify
-* [ ] Add Sourcemaps to CDN
-* [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
-* [ ] Monitor Build Size (impact on build size and code base)
-* [ ] Add 'Files' to Package.json
+  * [ ] ESLint + Gulp Task + Syntax - Week 5, Sun
+  * [ ] Implement SourceMaps + Test that it is served - Week 5, Sun
+  * [ ] Uglify
+  * [ ] Add Sourcemaps to CDN
+  * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
+    * [ ] Compact support
+  * [ ] Monitor Build Size (impact on build size and code base)
+  * [ ] Add 'Files' to Package.json
   
 * [ ] Devtools - Socket.io Inspector
   * [ ] Handshake with page to check if socket.io is used
-    * [ ] Getting started with building Chrome Dev Tools
-    * [ ] getting devtool to talk to page
-    * [ ] getting devtool to talk to socket.io in page
-    * [ ] implement io over RPC
+    * [ ] Getting started with building Chrome Dev Tools - Week 4, Sun
+    * [ ] getting devtool to talk to page - Week 4, Sun
+    * [ ] getting devtool to talk to socket.io in page - Week 5, Fri
+    * [ ] implement io-emitter over chrome protocols - Week 7, Sun
+    * [ ] find ways to inspect io packets (to be added) - Week 10, Sun
   * [ ] implement mockups of devtool
+    * [ ] Basic HTML and CSS structure - Week 5, Sun
+    * [ ] JS Logic wiring - Week 8, Sun 
   
 * [ ] Whiteboard Guide
   * [x] Mouse tracking logic - Week 3, Sun
   * [x] Drawing logic - Week 4, Tue
   * [x] Color Picker - Week 4, Tue
-  * [ ] Connection Count
-  * [ ] Broadcasting
+  * [ ] Connection Count - Week 4, Sun
+  * [ ] Broadcasting - Week 5, Sun
   * [ ] In-memory Buffer + Cap (pruning)
   * [ ] post
   
@@ -73,6 +78,8 @@ permalink: /teams/socketio/
 ### @paradite (Zhu Liang)
 
 #### Contribution to project SI
+
+###### Main codebase
 * [Set up own chat app using socket.io](https://github.com/paradite/socket-io-chat) - Week 1, Thu
 * [Draw architecture overview for socket.io](http://www.gliffy.com/go/publish/9806563) - Week 2, Sun
 * [Implement Babel for socket.io commit 1](https://github.com/nus-fboa2016-si/socket.io/commit/3cc6874205177e556d5d9e743d08992219f369cd) [commit 2](https://github.com/nus-fboa2016-si/socket.io/commit/2cb967a2033a82571ab8841296afa8e9da828065) - Week 2, Sun
@@ -83,15 +90,23 @@ permalink: /teams/socketio/
 * [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
 * [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
 * [Added sourcemap for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
-* [Set up front-end UI and interactions for whiteboard example](https://github.com/nus-fboa2016-si/whiteboard) - Week 3, Sun
+
+###### Set up front-end UI and interactions for whiteboard example: [repo](https://github.com/nus-fboa2016-si/whiteboard)
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
   * [Mapped 2D mouse position to 3D scene](https://github.com/nus-fboa2016-si/whiteboard/commit/83381f3be832990853b3a299fcb9c3a5d74095ca) - Week 3, Sun
   * [Implemented simple color picker](https://github.com/nus-fboa2016-si/whiteboard/commit/ee503f3192747391213a07ba6bec3fa33e0140ac) - Week 4, Tue
   * [Set up drawing logic](https://github.com/nus-fboa2016-si/whiteboard/commit/de3329b34e4c9ebb319d895ebed20e284f2bbcb8) - Week 4, Tue
 
-#### Technology expertise in d3.js
-* [Set up framework for d3.js project on cs3281 progress visualization using d3.js](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
+#### Contribution to project Teammates (Minor Project)
+* [Fork and set up project](https://github.com/paradite/repo) - Week 4, Fri
 
+#### Technology expertise in d3.js
+
+###### d3.js project on cs3281 progress visualization: [repo](https://github.com/paradite/cs3281viz)
+* [Set up framework](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
+* [Set up basic timeline and tooltip](https://github.com/paradite/cs3281viz/commit/c77a497ded06881c4b6d6575bcdcb2d783e0dda2) - Week 4, Wed
+
+###### Blog posts on d3.js
 
 
 ### @YijinL (Leow Yijin)
