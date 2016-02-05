@@ -10,7 +10,7 @@ permalink: /teams/socketio/
  - Zhu Liang ([@paradite](http://paradite.com))
    - Technology Expertise: d3.js
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
-   - Technology Expertise:
+   - Technology Expertise: Git
  - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu)) Team Lead - Week 4 to 7
    - Technology Expertise: NodeJS
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
@@ -157,3 +157,6 @@ Note: links to github commits represent the last commit for that contribution
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
+
+#### Technology expertise in Git
+* [Answered a question on Stack Overflow about Git workflow](http://stackoverflow.com/questions/30538019/git-merge-changes-between-upstream-brnches/30541348#30541348)
