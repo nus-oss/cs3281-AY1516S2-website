@@ -132,12 +132,37 @@
         margin-bottom: 20px;
     }
 
-    h4, h5, h6, h7, h8 {
+    h4 {
         font-size: 20px;
         font-family: 'Source Sans Pro', sans-serif;
 
         @include media-query($on-laptop) {
             font-size: 18px;
+        }
+
+        padding: 0px 10px;
+        margin-bottom: 20px;
+    }
+
+    h5 {
+        font-size: 18px;
+        font-family: 'Source Sans Pro', sans-serif;
+
+        @include media-query($on-laptop) {
+            font-size: 16px;
+        }
+
+        padding: 0px 10px;
+        margin-bottom: 20px;
+    }
+
+    h6, h7, h8 {
+        font-size: 16px;
+        color: #777;
+        font-family: 'Source Sans Pro', sans-serif;
+
+        @include media-query($on-laptop) {
+            font-size: 16px;
         }
 
         padding: 0px 10px;
