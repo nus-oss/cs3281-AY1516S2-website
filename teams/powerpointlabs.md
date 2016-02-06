@@ -108,8 +108,8 @@ permalink: /teams/powerpointlabs/
 * Implemented TaskPane UI for PositionsLab - Week 4, Sun
 * Implemented **Align** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Sun
 
-#### Contribution to project Y
+#### Contribution to project [Swift](http://www.apple.com/swift/)
  * ...
 
-#### Technology expertise in tool Z
+#### Technology expertise in Information Security
  * ...
