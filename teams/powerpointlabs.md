@@ -32,7 +32,7 @@ permalink: /teams/powerpointlabs/
 ### @oswellchan (Chan Ao Wei Oswell)
 
 
-#### Contribution to project PowerPointLabs
+#### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
 
 ###### Pull Request 
 * [Pull Request #20](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/20) (Merged) - Week 2, Mon
@@ -45,7 +45,7 @@ permalink: /teams/powerpointlabs/
 * Implemented **Snap Vertical and Snap Horizontal** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Sun
 * Implemented **Swap** and **Adjoin** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
 
-#### Contribution to project [Brackets](http://brackets.io/)
+#### Contributions to project [Brackets](http://brackets.io/)
  * ...
 
 #### Technology expertise in Web Development
@@ -53,7 +53,7 @@ permalink: /teams/powerpointlabs/
 
 ### @youthinkk (Wu Yu Ting)
 
-#### Contribution to project PowerPointLabs
+#### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
 
 ###### Pull Request
 * [Pull Request #22](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/22) (Closed) - Week 2, Wed
@@ -70,7 +70,7 @@ permalink: /teams/powerpointlabs/
 * Created the skeleton of possible exceptions in [`ResizeLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/8cb27511411b2cbfe58e95548f6f05bb536109a7/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.cs) - Week 4, Sun
 * Created the skeleton of event handlers for triggering functions in [`ResizePaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/86507fcc388b92fa8e7ab212196d156d842e110d/PowerPointLabs/PowerPointLabs/ResizeLab/ResizePaneWPF.xaml.cs) - Week 4, Sun
 
-#### Contribution to project Y
+#### Contributions to project Y
  * ...
 
 #### Technology expertise in tool Z
@@ -78,7 +78,7 @@ permalink: /teams/powerpointlabs/
 
 ### @yancmo (Yan Chan Min Oo)
 
-#### Contribution to project PowerPointLabs
+#### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
 
 ###### Pull Request
 * [Pull Request #892](https://github.com/PowerPointLabs/PowerPointLabs/pull/892) (Merged) - Week 2, Wed
@@ -89,7 +89,7 @@ permalink: /teams/powerpointlabs/
 * Implemented TaskPane UI for ResizeLab [current version](https://dl.dropboxusercontent.com/u/7610216/ResizeLabUIv1.PNG) - Week 4, Sun
 * Working on **Shrink & Stretch** feature in [`ResizeLabShrinkStretch.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/a5359541d70ce055621ceb8edb6823798d5039cb/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabShrinkStretch.cs) - Ongoing
 
-#### Contribution to project Y
+#### Contributions to project Y
  * ...
 
 #### Technology expertise in tool Z
@@ -97,7 +97,7 @@ permalink: /teams/powerpointlabs/
 
 ### @vhazali (Victor Hazali) 
 
-#### Contribution to project PowerPointLabs
+#### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
 
 ###### Pull Request
 * [Pull Request #21](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/21) (Merged) - Week 2, Mon
@@ -109,7 +109,7 @@ permalink: /teams/powerpointlabs/
 * Implemented TaskPane UI for PositionsLab - Week 4, Sun
 * Implemented **Align** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Sun
 
-#### Contribution to project [Swift](http://www.apple.com/swift/)
+#### Contributions to project [Swift](http://www.apple.com/swift/)
  * ...
 
 #### Technology expertise in Information Security
