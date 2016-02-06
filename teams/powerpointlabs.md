@@ -42,6 +42,7 @@ permalink: /teams/powerpointlabs/
 ###### Positions Lab 
 * Prepared UI Mockup for PositionsLab - Week 3, Thu
 * Implemented **Snap Vertical and Snap Horizontal** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Sun
+* Implemented **Swap** and **Adjoin** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
 
 #### Contribution to project [Brackets](http://brackets.io/)
  * ...
