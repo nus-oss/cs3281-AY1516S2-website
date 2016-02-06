@@ -24,7 +24,8 @@ permalink: /teams/powerpointlabs/
 * [x] High-level architecture demonstration - Week 3, Mon
 * [x] Mockup of new features - Week 3, Sat
 * [x] Code Sprint - Week 3, Sat & Week 4, Sun
-* [X] MVP for ResizeLab and Positions Lab - Week 4, Thu 
+* [x] MVP for ResizeLab and Positions Lab - Week 4, Thu 
+* [ ] Full functionality for Positions Lab - Week 5, Thu
 
 ## Contributions
 
