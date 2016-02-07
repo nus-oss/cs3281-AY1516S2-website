@@ -185,6 +185,8 @@ permalink: /teams/codebender/
 * Week 3, Sun - Fix [Issue 26](https://github.com/codebendercc/eratosthenes/issues/26)
 * Week 4, Mon - Fix [Issue 30](https://github.com/codebendercc/eratosthenes/issues/30)
 * Week 4, Tue - A discusion [post](http://blog.gisonrg.me/2016/eratosthenes-database-redesign/) about the new database design for Eratosthenes
+* Week 4, Fri - Fix [Issue 36](https://github.com/codebendercc/eratosthenes/issues/36)
+* Week 4, Sat - Fix [Issue 33](https://github.com/codebendercc/eratosthenes/issues/33)
 
 #### Contribution to minor project HubTurbo
 * PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
