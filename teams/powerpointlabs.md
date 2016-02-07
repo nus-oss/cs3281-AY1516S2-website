@@ -27,6 +27,7 @@ permalink: /teams/powerpointlabs/
 * [x] Code Sprint - Week 3, Sat & Week 4, Sun
 * [x] MVP for ResizeLab and Positions Lab - Week 4, Thu 
 
+===
 ###### Positions Lab
 * Functionality for Positions Lab
   * [x] TaskPane UI (with Metro Design) - Week 4, Tue
@@ -45,6 +46,7 @@ permalink: /teams/powerpointlabs/
   * [ ] Create unit/functional tests
   * [ ] Create icons
  
+===
 ###### Resize Lab
 * UI Design for Resize Lab
   * [x] TaskPane UI (with Metro Design) - Week 4, Mon
@@ -89,6 +91,7 @@ permalink: /teams/powerpointlabs/
 #### Technology expertise in Web Development
  * ...
 
+===
 ### @youthinkk (Wu Yu Ting)
 
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
@@ -116,6 +119,7 @@ permalink: /teams/powerpointlabs/
 #### Technology expertise in Website Development
  * ...
 
+===
 ### @yancmo (Yan Chan Min Oo)
 
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
@@ -136,6 +140,7 @@ permalink: /teams/powerpointlabs/
 #### Technology expertise in Information Security
  * ...
 
+===
 ### @vhazali (Victor Hazali) 
 
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
@@ -152,6 +157,13 @@ permalink: /teams/powerpointlabs/
 
 #### Contributions to project [Swift](http://www.apple.com/swift/)
  * ...
+
+#### Contributions to [CS2103 website](http://www.comp.nus.edu.sg/~cs2103/AY1516S2/)
+* [Pull request #103](https://github.com/nus-cs2103/website/pull/103)
+* [Pull request #132](https://github.com/nus-cs2103/website/pull/132)
+* [Pull request #140](https://github.com/nus-cs2103/website/pull/140)
+* [Pull request #153](https://github.com/nus-cs2103/website/pull/153)
+* [Pull request #154](https://github.com/nus-cs2103/website/pull/154)
 
 #### Technology expertise in Information Security
  * ...
