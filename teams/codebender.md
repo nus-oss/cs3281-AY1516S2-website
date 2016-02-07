@@ -162,6 +162,9 @@ permalink: /teams/codebender/
 * Week 3, Sun - [Added first PHPUnit test](https://github.com/codebendercc/Neuralyzer/pull/12) (Merged)
 * Week 4, Thu - Created a basic prototype
 
+### Contribution to minor project - HubTurbo
+ * 
+
 #### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
 * Week 2, Thurs - Setup development environment
