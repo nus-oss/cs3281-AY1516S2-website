@@ -28,8 +28,23 @@ permalink: /teams/powerpointlabs/
 * [x] MVP for ResizeLab and Positions Lab - Week 4, Thu 
 
 ###### Positions Lab
-* [ ] Full functionality for Positions Lab - Week 5, Thu
-
+* Functionality for Positions Lab
+  * [x] TaskPane UI (w/Metro Design) - Week 4, Tue
+  * [x] Snap (Horizontal, Vertical) - Week 4, Sun
+  * [x] Align (Left, Right, Top, Bottom, Middle, Center) - Week 4, Wed
+  * [x] Adjoin (Left, Right) - Week 4, Wed
+  * [x] Swap - Week 4, Wed
+* Workplan for Positions Lab
+  * [ ] Rotation by reference point - Week 5, Thu
+  * [ ] Movement only in one axis - Week 5, Thu 
+  * [ ] Distribute (Horizontal, Vertical, Center, First and Last Shape) - Week 5, Thu
+  * [ ] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
+  * [ ] Implement method to determine actual coordinates of shape instead of bounding box
+  * [ ] Implement method to determine direction of shapes
+  * [ ] Refactor architecture of Positions Lab
+  * [ ] Create unit/functional tests
+  * [ ] Create icons
+ 
 ###### Resize Lab
 * Basic functionality for Resize Lab
   * [x] Stretch & Shrink - Week 4, Tue
@@ -49,7 +64,6 @@ permalink: /teams/powerpointlabs/
 
 ### @oswellchan (Chan Ao Wei Oswell)
 
-
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
 
 ###### Pull Request 
@@ -61,7 +75,7 @@ permalink: /teams/powerpointlabs/
 ###### Positions Lab 
 * Prepared UI Mockup for PositionsLab - Week 3, Thu
 * Implemented **Snap Vertical and Snap Horizontal** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Sun
-* Implemented **Swap** and **Adjoin** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
+* Implemented **Swap** and **Adjoin (Left, Right)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
 
 #### Contributions to project [Brackets](http://brackets.io/)
  * ...
@@ -126,8 +140,8 @@ permalink: /teams/powerpointlabs/
 
 ###### Positions Lab
 * Prepared UI Mockup for PositionsLab - Week 3, Thu
-* Implemented TaskPane UI for PositionsLab - Week 4, Sun
-* Implemented **Align** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Sun
+* Implemented TaskPane UI w/ Metro Design for PositionsLab - Week 4, Sun
+* Implemented **Align (Left, Right, Top, Bottom, Middle, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
 
 #### Contributions to project [Swift](http://www.apple.com/swift/)
  * ...
