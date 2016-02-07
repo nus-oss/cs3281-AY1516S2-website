@@ -17,7 +17,7 @@ permalink: /teams/socketio/
    - Technology Expertise: NodeJS
    - Minor: HubTurbo
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
-   - Technology Expertise:
+   - Technology Expertise: ReactJS
    - Minor: Teammates
  - Leow Yijin ([@YijinL](#TBD))
    - Technology Expertise: ES6
@@ -141,9 +141,11 @@ Note: links to github commits represent the last commit for that contribution
 * [Refactor: Move babel configuration from .babelrc to gulpfile.js in socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/b31f21741e7e93399521a568cbfc80fa4ff8be57) - Week 3, Code Sprint
 * [Add webpack configuration to expose io as global variable for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/468200ed8ce2bb8cf9c4e4be83a86b1b2dee9170) - Week 3, Code Sprint 
 * [Add eslint support and default task for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/448d0e1e94ff0b1cf246aae2d8ecfbbb7b35c490) - Week 3, Code Sprint
+* [Learn how to build Chrome developer tools](https://github.com/mikelimantara/devtools) - Week 4, Sat
 
 #### Contribution to project Teammates (Minor Project)
 * [Setup project (In-Progress)](https://github.com/mikelimantara/repo) - Week 3, Code Sprint
+* Complete project setup to pass all the tests - Week 4, Wed
 
 ### @whattokingu (Zheng Weihan)
 
