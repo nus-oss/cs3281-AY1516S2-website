@@ -148,8 +148,8 @@ permalink: /teams/codebender/
 * Week 3, Thu - Actual implementation detail in preparation of Codesprint.
 * Week 3, Sun - Much clearer view on the system. Started as the team lead. Tried to settle the working methodology. Started feature implementation.
 * Week 3, Sun - [Pull Request #18](https://github.com/codebendercc/eratosthenes/pull/18) (Merged)
-* Week 4, Thu - Resolved [issue #27](https://github.com/codebendercc/eratosthenes/issues/27)
-* Week 4, Thu - Resolved [issue #31](https://github.com/codebendercc/eratosthenes/issues/31)
+* Week 4, Thu - Resolved [issue #27](https://github.com/codebendercc/eratosthenes/issues/27) (part of [PR #34](https://github.com/codebendercc/eratosthenes/pull/34))
+* Week 4, Thu - Resolved [issue #31](https://github.com/codebendercc/eratosthenes/issues/31) (part of [PR #34](https://github.com/codebendercc/eratosthenes/pull/34))
 * Week 4, Thu - Resolved [issue #32](https://github.com/codebendercc/eratosthenes/issues/32)
 
 ### Contribution to minor project - Teammates
