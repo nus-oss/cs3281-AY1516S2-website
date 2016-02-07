@@ -29,7 +29,7 @@ permalink: /teams/powerpointlabs/
 
 ###### Positions Lab
 * Functionality for Positions Lab
-  * [x] TaskPane UI (w/Metro Design) - Week 4, Tue
+  * [x] TaskPane UI (with Metro Design) - Week 4, Tue
   * [x] Snap (Horizontal, Vertical) - Week 4, Sun
   * [x] Align (Left, Right, Top, Bottom, Middle, Center) - Week 4, Wed
   * [x] Adjoin (Left, Right) - Week 4, Wed
@@ -46,19 +46,25 @@ permalink: /teams/powerpointlabs/
   * [ ] Create icons
  
 ###### Resize Lab
+* UI Design for Resize Lab
+  * [x] TaskPane UI (with Metro Design) - Week 4, Mon
+  * [ ] Create icons
 * Basic functionality for Resize Lab
   * [x] Stretch & Shrink - Week 4, Tue
   * [x] Same Dimension - Week 4, Sun
   * [x] Fit - Week 4, Tue
   * [x] Aspect Ratio - Week 4, Wed
 * Intermediate functionality for Resize Lab
-  * [ ] Enhance the reference point of Stretch & Shrink
-  * [ ] Refactor the architecture of Resize Lab
-  * [ ] Implement virtual dimension for resizing
-  * [ ] Create unit tests
-  * [ ] Create the icons
+  * [ ] Enhance the reference point of Stretch & Shrink - Week 5, Thu
+  * [ ] Enhance the scale factor of Restore Aspect Ratio - Week 5, Thu
+  * [ ] Refactor the architecture of Resize Lab - Week 5, Thu
+  * [ ] Implement virtual dimension for resizing - Week 5, Thu
 * Advanced functionality for Resize Lab
   * [ ] Preview feature
+* Others
+  * [ ] Create unit tests
+  * [ ] Create functional tests
+  * [ ] Merge with master branch 
 
 ## Contributions
 
