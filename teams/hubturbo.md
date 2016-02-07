@@ -12,6 +12,7 @@ permalink: /teams/hubturbo/
  - [@garbanzos](https://github.com/garbanzos)
    ([Tan Yi Yan](http://garbanzos.github.io))
    - Technology Expertise:
+	 Web Security
 
  - [@jinified](https://github.com/jinified)
    ([Tan Soon Jin](http://jinified.github.io))
@@ -21,7 +22,7 @@ permalink: /teams/hubturbo/
  - [@m133225](https://github.com/m133225)
    ([Choo Boon Yong Martin](http://m133225.github.io))
    - Technology Expertise:
-
+	 UX Design
  - [@raisfathin](https://github.com/raisfathin)
    ([Muhammad Rais Fathin Mudzakir](http://raisfathin.github.io))
    - Technology Expertise:
@@ -56,7 +57,7 @@ permalink: /teams/hubturbo/
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
-##### Technology expertise in tool Z
+##### Technology expertise in UX Design
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
@@ -96,7 +97,7 @@ permalink: /teams/hubturbo/
 
 ##### Contribution to MINOR project Y
 
-##### Technology expertise in tool  [OpenCV](https://github.com/Itseez/opencv)
+##### Technology expertise in tool [OpenCV](https://github.com/Itseez/opencv)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
@@ -108,4 +109,4 @@ permalink: /teams/hubturbo/
 
 ##### Contribution to MINOR project [Brackets](https://github.com/adobe/brackets)
 
-##### Technology expertise in tool Z
+##### Technology expertise in Web Security
