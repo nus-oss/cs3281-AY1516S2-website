@@ -9,7 +9,7 @@ permalink: /teams/powerpointlabs/
  - Chan Ao Wei Oswell ([@oswellchan](http://oswellchan.github.io/))
    - Technology Expertise: Web Development
  - Wu Yu Ting ([@youthinkk](http://blog.nus.edu.sg/cs3281youthinkk/))
-   - Technology Expertise:
+   - Technology Expertise: Web Development
  - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/)) **(Team Lead - Week 4 to 8)**
    - Technology Expertise:
  - Victor Hazali ([@vhazali](https://blog.nus.edu.sg/victorhz3281/))
@@ -17,6 +17,7 @@ permalink: /teams/powerpointlabs/
 
 ## Workplan
 
+###### General
 * [x] Project set up - Week 1, Thu
 * [x] Domain understood - Week 2, Mon
 * [x] Product demonstration - Week 2, Mon
@@ -25,7 +26,24 @@ permalink: /teams/powerpointlabs/
 * [x] Mockup of new features - Week 3, Sat
 * [x] Code Sprint - Week 3, Sat & Week 4, Sun
 * [x] MVP for ResizeLab and Positions Lab - Week 4, Thu 
+
+###### Positions Lab
 * [ ] Full functionality for Positions Lab - Week 5, Thu
+
+###### Resize Lab
+* Basic functionality for Resize Lab
+  * [x] Stretch & Shrink - Week 4, Tue
+  * [x] Same Dimension - Week 4, Sun
+  * [x] Fit - Week 4, Tue
+  * [x] Aspect Ratio - Week 4, Wed
+* Intermediate functionality for Resize Lab
+  * [ ] Enhance the reference point of Stretch & Shrink
+  * [ ] Refactor the architecture of Resize Lab
+  * [ ] Implement virtual dimension for resizing
+  * [ ] Create unit tests
+  * [ ] Create the icons
+* Advanced functionality for Resize Lab
+  * [ ] Preview feature
 
 ## Contributions
 
@@ -69,11 +87,13 @@ permalink: /teams/powerpointlabs/
 * Implemented **Same Dimensions** feature in [`ResizeLabSameSize.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/8cb27511411b2cbfe58e95548f6f05bb536109a7/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabSameSize.cs) - Week 4, Sun
 * Created the skeleton of possible exceptions in [`ResizeLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/8cb27511411b2cbfe58e95548f6f05bb536109a7/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.cs) - Week 4, Sun
 * Created the skeleton of event handlers for triggering functions in [`ResizePaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/86507fcc388b92fa8e7ab212196d156d842e110d/PowerPointLabs/PowerPointLabs/ResizeLab/ResizePaneWPF.xaml.cs) - Week 4, Sun
+* Implemented **Fit** feature in [`ResizeLabFitSize.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/547172b4d74e05a6fad4d2ab72ccb0b20317303f/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabFitSize.cs) - Week 4, Tue
+* Implemented **Lock and Restore Aspect Ratio** feature in [`ResizeLabAspectRatio.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d461f3429149ab29b9670bf711fdf2e4c4a766d4/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabAspectRatio.cs) and [`ThisAddIn.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/bb0aae956a344c7e4c5084967367e4d708c157a0/PowerPointLabs/PowerPointLabs/ThisAddIn.cs) - Week 4, Wed
 
-#### Contributions to project Y
+#### Contributions to project [OpenMRS](http://openmrs.org/)
  * ...
 
-#### Technology expertise in tool Z
+#### Technology expertise in Website Development
  * ...
 
 ### @yancmo (Yan Chan Min Oo)
