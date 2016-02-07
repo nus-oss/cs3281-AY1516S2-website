@@ -26,6 +26,7 @@ permalink: /teams/hubturbo/
  - [@raisfathin](https://github.com/raisfathin)
    ([Muhammad Rais Fathin Mudzakir](http://raisfathin.github.io))
    - Technology Expertise:
+	 Node.js
 
  - [@xinan](https://github.com/xinan)
    ([Liu Xinan](http://xinan.io))
@@ -67,9 +68,9 @@ permalink: /teams/hubturbo/
 
 ##### Contribution to MAJOR project HT
 
-##### Contribution to MINOR project Y
+##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
-##### Technology expertise in tool Z
+##### Technology expertise in Node.js
 
 ### Liu Xinan ([@xinan](https://github.com/xinan))
 
