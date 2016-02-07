@@ -105,12 +105,12 @@ permalink: /teams/hubturbo/
 * [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators) - Week 3, Mon
 * [Pull Request #1212](https://github.com/HubTurbo/HubTurbo/pull/1212) - Week 3, Mon
 * [Rewrite LabelPickerDialog view in fxml](https://github.com/nus-fboa2016-ht/HubTurbo/blob/SuperAwesomeLabelPicker/src/main/resources/ui/fxml/LabelPickerView.fxml) - Week 3, Sun
-
+* [Forked scikit-learn repository](https://github.com/jinified/scikit-learn) - Week 4, Sun
 ##### Contribution to MAJOR project HT
 
 ##### Contribution to MINOR project [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
-##### Technology expertise in tool [OpenCV](https://github.com/Itseez/opencv)
+##### Technology expertise in tool Computer Vision
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
