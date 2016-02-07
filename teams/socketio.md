@@ -9,14 +9,19 @@ permalink: /teams/socketio/
 ## Members
  - Zhu Liang ([@paradite](http://paradite.com))
    - Technology Expertise: d3.js
+   - Minor: Teammates
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
    - Technology Expertise: Git
+   - Minor: PowerpointLabs
  - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu)) Team Lead - Week 4 to 7
    - Technology Expertise: NodeJS
+   - Minor: HubTurbo
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
    - Technology Expertise:
+   - Minor: Teammates
  - Leow Yijin ([@YijinL](#TBD))
    - Technology Expertise: ES6
+   - Minor: HubTurbo
 
 
 ## Workplan
@@ -44,7 +49,7 @@ permalink: /teams/socketio/
 ### Targets after Code Sprint
 * [ ] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
-  * [ ] ESLint + Gulp Task + Syntax - Week 5, Sun
+  * [x] ESLint + Gulp Task + Syntax - Week 5, Sun
   * [ ] Implement SourceMaps + Test that it is served - Week 5, Sun
   * [ ] Uglify
   * [ ] Add Sourcemaps to CDN
