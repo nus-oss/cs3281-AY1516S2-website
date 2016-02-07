@@ -63,7 +63,7 @@ permalink: /teams/teammates/
  * [Pull Request #4704](https://github.com/TEAMMATES/repo/pull/4704) (ToReview) - Week 4
  * [Issue #4274](https://github.com/TEAMMATES/repo/issues/4274) (Ongoing) - Week 4
 
-#### Contribution to project brackets (Minor Project)
+#### Contribution to project [brakets](https://github.com/adobe/brackets)
  * Forked and set up project - Week 4 (https://github.com/kennho/brackets)
 
 #### Technology expertise in tool jQuery
@@ -78,7 +78,7 @@ permalink: /teams/teammates/
  * [Pull Request #4678](https://github.com/TEAMMATES/repo/pull/4678) (Merged) - Week 3
  * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (Ongoing) - Week 3
 
-#### Contribution to project react-bootstrap
+#### Contribution to project [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
  * Set up by week 4 (https://github.com/react-bootstrap/react-bootstrap.git)
 
 #### Technology expertise in Django
