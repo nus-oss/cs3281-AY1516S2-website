@@ -12,18 +12,21 @@ permalink: /teams/hubturbo/
  - [@garbanzos](https://github.com/garbanzos)
    ([Tan Yi Yan](http://garbanzos.github.io))
    - Technology Expertise:
+	 Web Security
 
  - [@jinified](https://github.com/jinified)
    ([Tan Soon Jin](http://jinified.github.io))
    - Technology Expertise:
+	  [OpenCV](https://github.com/Itseez/opencv)
 
  - [@m133225](https://github.com/m133225)
    ([Choo Boon Yong Martin](http://m133225.github.io))
    - Technology Expertise:
-
+	 UX Design
  - [@raisfathin](https://github.com/raisfathin)
    ([Muhammad Rais Fathin Mudzakir](http://raisfathin.github.io))
    - Technology Expertise:
+	 Node.js
 
  - [@xinan](https://github.com/xinan)
    ([Liu Xinan](http://xinan.io))
@@ -37,6 +40,20 @@ permalink: /teams/hubturbo/
 * [x] Project design presentation - Week 3, Mon
 * [x] Feature planned - Week 3, Mon
 * [ ] Refactor Label Picker - Week 3, Sat
+* [x] Code Sprint - Week 3, Sat & Week 4, Sun
+* [ ] MVP for issue editor/creator functionalities - Week 5, Wed
+	* [x] Issue Creator
+	* [ ] Milestone Picker
+	* [ ] Assignee Picker
+	* [ ] Open/Close Issues
+	* [ ] Issue Comments Retriever
+* [ ] Covering more use cases, UI improvements, refactoring & testing - Week 6
+	* [ ] Issue Creator
+	* [ ] Milestone Picker
+	* [ ] Assignee Picker
+	* [ ] Open/Close Issues
+	* [ ] Issue Comments Retriever
+* [ ] Combining & integrating features into a 'label editor' - Week 7
 
 # Contributions
 
@@ -46,14 +63,14 @@ permalink: /teams/hubturbo/
 * [Pull Request #1193](https://github.com/HubTurbo/HubTurbo/pull/1193) - Week 1, Sun
 * [Pull Request #1207](https://github.com/HubTurbo/HubTurbo/pull/1207) (Merged) - Week 2, Sat
 * [Pull Request #1208](https://github.com/HubTurbo/HubTurbo/pull/1208) - Week 2, Sat
-* [Pull Request #1228](https://github.com/HubTurbo/HubTurbo/pull/1228) - Week 4, Mon
+* [Pull Request #1228](https://github.com/HubTurbo/HubTurbo/pull/1228) (Closed) - Week 4, Mon
 
-##### Contribution to project HT
+##### Contribution to MAJOR project HT
 
 
-##### Contribution to project Y
+##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
-##### Technology expertise in tool Z
+##### Technology expertise in UX Design
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
@@ -61,11 +78,11 @@ permalink: /teams/hubturbo/
 * [Pull Request #1210](https://github.com/HubTurbo/HubTurbo/pull/1210) (Merged) - Week 3, Mon
 * [Pull Request #1226](https://github.com/HubTurbo/HubTurbo/pull/1226) - Week 3, Sun
 
-##### Contribution to project HT
+##### Contribution to MAJOR project HT
 
-##### Contribution to project Y
+##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
-##### Technology expertise in tool Z
+##### Technology expertise in Node.js
 
 ### Liu Xinan ([@xinan](https://github.com/xinan))
 
@@ -74,9 +91,9 @@ permalink: /teams/hubturbo/
 * [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201) - Week 2, Wed
 * [Pull Request #1224](https://github.com/HubTurbo/HubTurbo/pull/1224) - Week 3, Sun
 
-##### Contribution to project HT
+##### Contribution to MAJOR project HT
 
-##### Contribution to project Y
+##### Contribution to MINOR project Y
 
 ##### Technology expertise in tool Z
 
@@ -89,11 +106,11 @@ permalink: /teams/hubturbo/
 * [Pull Request #1212](https://github.com/HubTurbo/HubTurbo/pull/1212) - Week 3, Mon
 * [Rewrite LabelPickerDialog view in fxml](https://github.com/nus-fboa2016-ht/HubTurbo/blob/SuperAwesomeLabelPicker/src/main/resources/ui/fxml/LabelPickerView.fxml) - Week 3, Sun
 
-##### Contribution to project HT
+##### Contribution to MAJOR project HT
 
-##### Contribution to project Y
+##### Contribution to MINOR project [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
-##### Technology expertise in OpenCV
+##### Technology expertise in tool [OpenCV](https://github.com/Itseez/opencv)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
@@ -101,9 +118,8 @@ permalink: /teams/hubturbo/
 * [Pull Request #1222](https://github.com/HubTurbo/HubTurbo/pull/1222) - Week 3, Sat
 * [Pull Request #1225](https://github.com/HubTurbo/HubTurbo/pull/1225) - Week 3, Sun
 
-##### Contribution to project HT
+##### Contribution to MAJOR project HT
 
-##### Contribution to project Y
+##### Contribution to MINOR project [Brackets](https://github.com/adobe/brackets)
 
-##### Technology expertise in tool Z
-
+##### Technology expertise in Web Security
