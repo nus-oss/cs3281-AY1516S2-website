@@ -85,7 +85,7 @@ permalink: /teams/powerpointlabs/
 * Implemented **Snap Vertical and Snap Horizontal** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Sun
 * Implemented **Swap** and **Adjoin (Left, Right)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
 
-#### Contributions to project [Brackets](http://brackets.io/)
+#### Contributions to project [Brackets](http://brackets.io/) (Minor Project)
  * ...
 
 #### Technology expertise in Web Development
@@ -113,7 +113,7 @@ permalink: /teams/powerpointlabs/
 * Implemented **Fit** feature in [`ResizeLabFitSize.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/547172b4d74e05a6fad4d2ab72ccb0b20317303f/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabFitSize.cs) - Week 4, Tue
 * Implemented **Lock and Restore Aspect Ratio** feature in [`ResizeLabAspectRatio.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d461f3429149ab29b9670bf711fdf2e4c4a766d4/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabAspectRatio.cs) and [`ThisAddIn.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/bb0aae956a344c7e4c5084967367e4d708c157a0/PowerPointLabs/PowerPointLabs/ThisAddIn.cs) - Week 4, Wed
 
-#### Contributions to project [OpenMRS](http://openmrs.org/)
+#### Contributions to project [OpenMRS](http://openmrs.org/) (Minor Project)
  * ...
 
 #### Technology expertise in Website Development
@@ -133,7 +133,7 @@ permalink: /teams/powerpointlabs/
 * Implemented TaskPane UI for ResizeLab [current version](https://dl.dropboxusercontent.com/u/7610216/ResizeLabUIv1.PNG) - Week 4, Sun
 * Working on **Shrink & Stretch** feature in [`ResizeLabShrinkStretch.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/a5359541d70ce055621ceb8edb6823798d5039cb/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabShrinkStretch.cs) - Ongoing
 
-#### Contributions to project [Firefox for Android] (https://www.mozilla.org/en-US/firefox/android/)
+#### Contributions to project [Firefox for Android] (https://www.mozilla.org/en-US/firefox/android/) (Minor Project)
 
  * ...
 
@@ -155,7 +155,7 @@ permalink: /teams/powerpointlabs/
 * Implemented TaskPane UI w/ Metro Design for PositionsLab - Week 4, Sun
 * Implemented **Align (Left, Right, Top, Bottom, Middle, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
 
-#### Contributions to project [Swift](http://www.apple.com/swift/)
+#### Contributions to project [Swift](http://www.apple.com/swift/) (Minor Project)
  * ...
 
 #### Contributions to [CS2103 website](http://www.comp.nus.edu.sg/~cs2103/AY1516S2/)
