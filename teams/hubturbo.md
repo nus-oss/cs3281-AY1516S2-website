@@ -96,7 +96,7 @@ permalink: /teams/hubturbo/
 
 ##### Contribution to MAJOR project HT
 
-##### Contribution to MINOR project Y
+##### Contribution to MINOR project [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 ##### Technology expertise in tool [OpenCV](https://github.com/Itseez/opencv)
 
