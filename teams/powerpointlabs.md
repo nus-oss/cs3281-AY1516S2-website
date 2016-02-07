@@ -129,10 +129,11 @@ permalink: /teams/powerpointlabs/
 * Implemented TaskPane UI for ResizeLab [current version](https://dl.dropboxusercontent.com/u/7610216/ResizeLabUIv1.PNG) - Week 4, Sun
 * Working on **Shrink & Stretch** feature in [`ResizeLabShrinkStretch.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/a5359541d70ce055621ceb8edb6823798d5039cb/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabShrinkStretch.cs) - Ongoing
 
-#### Contributions to project Y
+#### Contributions to project [Firefox for Android] (https://www.mozilla.org/en-US/firefox/android/)
+
  * ...
 
-#### Technology expertise in tool Z
+#### Technology expertise in Information Security
  * ...
 
 ### @vhazali (Victor Hazali) 
