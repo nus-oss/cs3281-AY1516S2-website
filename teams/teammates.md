@@ -12,7 +12,7 @@ permalink: /teams/teammates/
    - Technology Expertise:
 
  - [@kennho](https://github.com/kennho) (Kenneth Ho Chee Chong)
-   - Technology Expertise:
+   - Technology Expertise: jQuery
 
  - [@Sumei1009](https://github.com/Sumei1009) (Su Sumei)
    - Technology Expertise:
@@ -63,10 +63,10 @@ permalink: /teams/teammates/
  * [Pull Request #4704](https://github.com/TEAMMATES/repo/pull/4704) (ToReview) - Week 4
  * [Issue #4274](https://github.com/TEAMMATES/repo/issues/4274) (Ongoing) - Week 4
 
-#### Contribution to project Y
- * ...
+#### Contribution to project brackets (Minor Project)
+ * Forked and set up project - Week 4 (https://github.com/kennho/brackets)
 
-#### Technology expertise in tool Z
+#### Technology expertise in tool jQuery
  * ...
 
 ---
