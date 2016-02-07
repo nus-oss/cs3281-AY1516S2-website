@@ -31,5 +31,5 @@ git remote add deploy https://${GH_TOKEN}@github.com/nus-oss/cs3281.git > /dev/n
 git config user.email "nus-oss-bot@users.noreply.github.com"
 git config user.name "NUS OSS Bot"
 git add -A .
-git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
+git commit -a -m "Built $TRAVIS_COMMIT (Travis build $TRAVIS_BUILD_NUMBER)"
 git push --quiet deploy gh-pages:gh-pages > /dev/null 2>&1
