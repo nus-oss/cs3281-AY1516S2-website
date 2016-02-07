@@ -9,7 +9,7 @@ permalink: /teams/teammates/
 
 ## Members
  - [@jkt001](https://github.com/jkt001) (John Kevin Tjahjadi) Team Lead - Week 4 to ...
-   - Technology Expertise:
+   - Technology Expertise: Data Structures & Algorithms
 
  - [@kennho](https://github.com/kennho) (Kenneth Ho Chee Chong)
    - Technology Expertise: jQuery
