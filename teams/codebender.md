@@ -64,7 +64,7 @@ permalink: /teams/codebender/
 * [x] Minor enhancements - Week 4 & Codesprint
 * [x] Feature discussion with the mentor and finalisation - Week 4 & Codesprint
 * [x] Working methodology settlement - Week 4 & Codesprint
-* [ ] **Milestone 1** - Due Week 4, Sun
+* [X] **Milestone 1** - Due Week 4, Sun (Fixed in PR [#34](https://github.com/codebendercc/eratosthenes/pull/34))
     * [X] Create 6 new entities
         - [x] Preference
         - [x] Partner
@@ -73,8 +73,8 @@ permalink: /teams/codebender/
         - [x] Version
         - [x] LibraryExample
     * [X] Create migrations
-    * [ ] Create 6 fixtures
-    * [ ] Change example library folder structure to include versions
+    * [X] Create 6 fixtures
+    * [X] Change example library folder structure to include versions
 * [ ] **Milestone 2 Part 1** - Due Week 5, Wed
     * [ ] Design public APIs: specify request urls and parameters
 * [ ] **Milestone 2 Part 2** - Due Week 6, Wed
