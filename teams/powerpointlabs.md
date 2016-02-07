@@ -11,7 +11,7 @@ permalink: /teams/powerpointlabs/
  - Wu Yu Ting ([@youthinkk](http://blog.nus.edu.sg/cs3281youthinkk/))
    - Technology Expertise: Web Development
  - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/)) **(Team Lead - Week 4 to 8)**
-   - Technology Expertise:
+   - Technology Expertise: Information Security
  - Victor Hazali ([@vhazali](https://blog.nus.edu.sg/victorhz3281/))
    - Technology Expertise: Information Security
 
@@ -27,7 +27,6 @@ permalink: /teams/powerpointlabs/
 * [x] Code Sprint - Week 3, Sat & Week 4, Sun
 * [x] MVP for ResizeLab and Positions Lab - Week 4, Thu 
 
-===
 ###### Positions Lab
 * Functionality for Positions Lab
   * [x] TaskPane UI (with Metro Design) - Week 4, Tue
@@ -45,8 +44,7 @@ permalink: /teams/powerpointlabs/
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
   * [ ] Create icons
- 
-===
+
 ###### Resize Lab
 * UI Design for Resize Lab
   * [x] TaskPane UI (with Metro Design) - Week 4, Mon
@@ -91,7 +89,8 @@ permalink: /teams/powerpointlabs/
 #### Technology expertise in Web Development
  * ...
 
-===
+---
+
 ### @youthinkk (Wu Yu Ting)
 
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
@@ -119,7 +118,8 @@ permalink: /teams/powerpointlabs/
 #### Technology expertise in Website Development
  * ...
 
-===
+---
+
 ### @yancmo (Yan Chan Min Oo)
 
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
@@ -133,14 +133,15 @@ permalink: /teams/powerpointlabs/
 * Implemented TaskPane UI for ResizeLab [current version](https://dl.dropboxusercontent.com/u/7610216/ResizeLabUIv1.PNG) - Week 4, Sun
 * Working on **Shrink & Stretch** feature in [`ResizeLabShrinkStretch.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/a5359541d70ce055621ceb8edb6823798d5039cb/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabShrinkStretch.cs) - Ongoing
 
-#### Contributions to project [Firefox for Android] (https://www.mozilla.org/en-US/firefox/android/) (Minor Project)
+#### Contributions to project [Firefox for Android](https://www.mozilla.org/en-US/firefox/android/) (Minor Project)
 
  * ...
 
 #### Technology expertise in Information Security
  * ...
 
-===
+---
+
 ### @vhazali (Victor Hazali) 
 
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
