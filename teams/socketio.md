@@ -15,8 +15,8 @@ permalink: /teams/socketio/
    - Technology Expertise: NodeJS
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
    - Technology Expertise:
- - Leow Yijin ([@YijinL](#))
-   - Technology Expertise:
+ - Leow Yijin ([@YijinL](#TBD))
+   - Technology Expertise: ES6
 
 
 ## Workplan
@@ -68,8 +68,8 @@ permalink: /teams/socketio/
   * [x] Mouse tracking logic - Week 3, Sun
   * [x] Drawing logic - Week 4, Tue
   * [x] Color Picker - Week 4, Tue
-  * [ ] Connection Count - Week 4, Sun
-  * [ ] Broadcasting - Week 5, Sun
+  * [x] Connection Count - Week 4, Sun
+  * [x] Broadcasting - Week 5, Sun
   * [ ] In-memory Buffer + Cap (pruning)
   * [ ] post
   
@@ -111,15 +111,21 @@ permalink: /teams/socketio/
 
 ### @YijinL (Leow Yijin)
 
-#### Contribution to project SI
 Note: links to github commits represent the last commit for that contribution
 
+#### Contribution to project SI
+###### Updating build tools and system
 * [Prepare textual slides and architecture diagrams for architecture presentation](https://docs.google.com/presentation/d/1OHRrAYRE8M2gV4wg2MwYk0BIfbEURwtMt17og5wWTfE/edit?usp=sharing) - Week 2, Sat
 * engine.io-client: [Set up gulp build file under browserify](https://github.com/nus-fboa2016-si/engine.io-client/pull/1) - Week 3, Thu
 * engine.io-client: [Merge babel, webpack with gulp + bugfix](https://github.com/nus-fboa2016-si/engine.io-client/commit/fad7e5b450566b86105421eb444b39bed4d0345a) - Week 3, CS
 * engine.io-client: [Clean up zuul browser testing and switched to child_process.exec for running zuul script](https://github.com/nus-fboa2016-si/engine.io-client/commit/9079369603a6f22d9ea445a485b3fbb9466e82b8) - Week 3, CS
 * engine.io: [Combine babel into gulpfile + minor refactoring](https://github.com/nus-fboa2016-si/engine.io/commit/06c3e8cea4158724aa86c012cc70ea1d3df05a93) - Week 3, CS
 * [socket.io](https://github.com/nus-fboa2016-si/socket.io/commit/920412587b245c4ae5f7c95a583dd37f20c2d904), [engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5), [engine.io-client](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5): Added eslint support and standardise gulpfiles - Week 3, CS
+
+###### Whiteboard demo/example backend
+* [Track connections and line drawing coordinates](https://github.com/nus-fboa2016-si/whiteboard/commit/0008a83cb0a3a1d3d133172a4458e8b8e9c8c2ec) - Week 4, Sat
+* [Every client can now see each other's drawings](https://github.com/nus-fboa2016-si/whiteboard/commit/21397aca5bbb7dbf41a82e968a7d3646edd8b5b3) - Week 4, Sun
+
 
 ### @mikelimantara (Michael Limantara)
 
