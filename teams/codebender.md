@@ -127,14 +127,20 @@ permalink: /teams/codebender/
 * Week 3, Thu - Resolved an issue with local tests (see [blog post on "Using Vagrant with Symfony"](http://cs3281-2.blogspot.sg/2016/01/using-vagrant-with-symfony.html))
 * Week 3, Sun - [Pull Request #16](https://github.com/codebendercc/eratosthenes/pull/16) (Merged)
 * Week 3, Sun - [Pull Request #24](https://github.com/codebendercc/eratosthenes/pull/24)
-* Week 3, Sun - Waiting to PR [fix to issue #25](https://github.com/codebendercc/eratosthenes/commit/1f44c1dc2bc3fa8a04239f99d7e46eae0f95d814)
-* Week 3, Sun - Waiting to PR [fix to issue #29](https://github.com/codebendercc/eratosthenes/commit/04008171417d1d09837d374bea2a32a5f48c5d20)
+* Week 4, Wed - [Resolved issue #25](https://github.com/codebendercc/eratosthenes/issues/25)
+* Week 4, Wed - [Resolved issue #29](https://github.com/codebendercc/eratosthenes/issues/29)
+* Week 4, Sun - [Resolved issue #35](https://github.com/codebendercc/eratosthenes/issues/35)
+* Week 4, Sun - [Pull Request #34](https://github.com/codebendercc/eratosthenes/pull/34)
+
+### Contribution to minor project - HubTurbo
+ * 
 
 ### Technology expertise in Information Security
- * Participated in a discussion of cyber range scenarios with Cyber Test Systems
- * Attended 2 training sessions with NUS GreyHats
- * Sharing on Cross-Site Request Forgeries ([Blog Post on CSRF](http://cs3281-2.blogspot.sg/2016/01/cross-site-request-forgeries-csrf.html))
- * Write-up on my participation in Insomni'hack 2016: ([Blog Post on the Smartcat Challenge](http://cs3281-2.blogspot.sg/2016/01/te-insomnihack-2016-teaser-smartcat-web.html))
+* Participated in a discussion of cyber range scenarios with Cyber Test Systems
+* Attended 2 training sessions with NUS GreyHats
+* Sharing on Cross-Site Request Forgeries ([Blog Post on CSRF](http://cs3281-2.blogspot.sg/2016/01/cross-site-request-forgeries-csrf.html))
+* Write-up on my participation in Insomni'hack 2016: ([Blog Post on the Smartcat Challenge](http://cs3281-2.blogspot.sg/2016/01/te-insomnihack-2016-teaser-smartcat-web.html))
+* Write-up on [cracking the substitution cipher](http://cs3281-2.blogspot.sg/2016/01/te-cracking-substitution-cipher.html)
 
 #### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
