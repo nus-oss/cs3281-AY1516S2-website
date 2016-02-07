@@ -36,7 +36,10 @@ permalink: /teams/hubturbo/
 * [x] Project demo - Week 2, Mon
 * [x] Project design presentation - Week 3, Mon
 * [x] Feature planned - Week 3, Mon
+
 * [ ] Refactor Label Picker - Week 3, Sat
+* [ ] Primitive issue editor/creator functionalities - Week 5, Wed
+* [ ] Improve on UI design & error handling - Week 6
 
 # Contributions
 
@@ -46,12 +49,12 @@ permalink: /teams/hubturbo/
 * [Pull Request #1193](https://github.com/HubTurbo/HubTurbo/pull/1193) - Week 1, Sun
 * [Pull Request #1207](https://github.com/HubTurbo/HubTurbo/pull/1207) (Merged) - Week 2, Sat
 * [Pull Request #1208](https://github.com/HubTurbo/HubTurbo/pull/1208) - Week 2, Sat
-* [Pull Request #1228](https://github.com/HubTurbo/HubTurbo/pull/1228) - Week 4, Mon
+* [Pull Request #1228](https://github.com/HubTurbo/HubTurbo/pull/1228) (Closed) - Week 4, Mon
 
 ##### Contribution to project HT
 
 
-##### Contribution to project Y
+##### Contribution to project [Atom](https://github.com/atom/atom)
 
 ##### Technology expertise in tool Z
 
@@ -103,7 +106,6 @@ permalink: /teams/hubturbo/
 
 ##### Contribution to project HT
 
-##### Contribution to project Y
+##### Contribution to project [Brackets](https://github.com/adobe/brackets)
 
 ##### Technology expertise in tool Z
-
