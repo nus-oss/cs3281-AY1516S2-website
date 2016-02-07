@@ -78,10 +78,10 @@ permalink: /teams/teammates/
  * [Pull Request #4678](https://github.com/TEAMMATES/repo/pull/4678) (Merged) - Week 3
  * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (Ongoing) - Week 3
 
-#### Contribution to project Y
- * ...
+#### Contribution to project react-bootstrap
+ * Set up by week 4 (https://github.com/react-bootstrap/react-bootstrap.git)
 
-#### Technology expertise in tool Z
+#### Technology expertise in Django
  * ...
 
 ---
