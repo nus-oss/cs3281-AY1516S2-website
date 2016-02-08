@@ -53,7 +53,7 @@ permalink: /teams/codebender/
 * [ ] Create admin page - Week 12
 * [ ] Create test case for admin page and features - Week 12
 
-## Workplan for Eratosthenis
+## Workplan for Eratosthenes
 
 * [x] Domain understood - Week 1, Thu
 * [x] Product demo - Week 2, Mon
