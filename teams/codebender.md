@@ -9,7 +9,7 @@ permalink: /teams/codebender/
  - Thng Kai Yuan ([@thngkaiyuan](http://cs3281-2.blogspot.sg/))
    - Technology Expertise: Information Security
  - Moon Seokmin ([@bsmmoon](http://moonmoon3281.blogspot.sg/))
-   - Technology Expertise:
+   - Technology Expertise: Web Crawling
  - Alex Yao ([@alexyaoyang](http://alexyy.com/))
    - Technology Expertise: Web Performance
  - Ma Tanghao ([@harryggg](https://blog.nus.edu.sg/matanghao/))
