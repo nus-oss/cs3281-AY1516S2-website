@@ -53,7 +53,7 @@ permalink: /teams/codebender/
 * [ ] Create admin page - Week 12
 * [ ] Create test case for admin page and features - Week 12
 
-## Workplan for Eratosthenis
+## Workplan for Eratosthenes
 
 * [x] Domain understood - Week 1, Thu
 * [x] Product demo - Week 2, Mon
@@ -190,6 +190,8 @@ permalink: /teams/codebender/
 * Week 4, Thurs - simplified the code, combined two current patterns, change the method of pattern recognition
 * Week 4, Fri - rewrite self-recovery for incompelte data transmission
 
+### Contribution to minor project - Coursemology
+ * 
 #### @gisonrg (Jiang Sheng)
 * Week 2, Tues - Received project details
 * Week 2, Thurs - Sun - Setup development environment, learning [Symfony framework](https://symfony.com/) by [tutorial](http://tutorial.symblog.co.uk/)
