@@ -192,6 +192,7 @@ permalink: /teams/codebender/
 
 ### Contribution to minor project - Coursemology
  * 
+
 #### @gisonrg (Jiang Sheng)
 * Week 2, Tues - Received project details
 * Week 2, Thurs - Sun - Setup development environment, learning [Symfony framework](https://symfony.com/) by [tutorial](http://tutorial.symblog.co.uk/)
