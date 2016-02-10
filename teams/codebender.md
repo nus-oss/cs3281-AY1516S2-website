@@ -107,7 +107,8 @@ permalink: /teams/codebender/
 * [x] Write data parser v0.0 for pattern recognizing Week 3
 * [x] Write chart plotter v0.0 (based on canvas.js) for plotting chart Week 3
 * [x] Self-recovery from incomplete transmission with missing data - Week 4
-* [ ] Self-recovery from corrupted transmission(happens when transmission rate is too high) - Week 5
+* [x] Self-recovery from corrupted transmission(happens when transmission rate is too high) - Week 5
+* [ ] Self-recovery from corrupted negative number - Week 5
 * [ ] set up unit test using jasmine (coverage aim:90%) - Week 6
 * [ ] refactor the code to improve robustness - Week 7
 * [ ] add new pattern: multi-line with X-coordinate - Week 8
