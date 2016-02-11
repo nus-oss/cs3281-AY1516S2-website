@@ -68,8 +68,8 @@ permalink: /teams/socketio/
   * [x] Mouse tracking logic - Week 3, Sun
   * [x] Drawing logic - Week 4, Tue
   * [x] Color Picker - Week 4, Tue
-  * [ ] Connection Count - Week 4, Sun
-  * [ ] Broadcasting - Week 5, Sun
+  * [x] Broadcasting - Week 4, Sun
+  * [ ] Connection Count - Week 5, Sun
   * [ ] In-memory Buffer + Cap (pruning)
   * [ ] post
   
@@ -105,6 +105,7 @@ permalink: /teams/socketio/
 ###### d3.js project on cs3281 progress visualization: [repo](https://github.com/paradite/cs3281viz)
 * [Set up framework](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
 * [Set up basic timeline and tooltip](https://github.com/paradite/cs3281viz/commit/c77a497ded06881c4b6d6575bcdcb2d783e0dda2) - Week 4, Wed
+* [Refactored code into proper components, added authentication for GitHub API](https://github.com/paradite/cs3281viz/commit/07421cceb72297c69f3e91eb8feb8b0c37c4a723) - Week 5, Wed
 
 ###### Blog posts on d3.js
 
