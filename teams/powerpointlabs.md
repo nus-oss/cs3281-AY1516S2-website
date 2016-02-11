@@ -34,11 +34,15 @@ permalink: /teams/powerpointlabs/
   * [x] Align (Left, Right, Top, Bottom, Middle, Center) - Week 4, Wed
   * [x] Adjoin (Left, Right) - Week 4, Wed
   * [x] Swap - Week 4, Wed
+  * [x] Rotation by reference point (for one object) - Week 5, Thu
+  * [x] Distribute (Horizontal, Vertical, Center) - Week 5, Thu
+* Groundwork for Positions Lab
+  * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
 * Workplan for Positions Lab
-  * [ ] Rotation by reference point - Week 5, Thu
-  * [ ] Movement only in one axis - Week 5, Thu 
-  * [ ] Distribute (Horizontal, Vertical, Center, First and Last Shape) - Week 5, Thu
-  * [ ] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
+  * [ ] Rotation by reference point (for multiple objects) - Week 6, Mon
+  * [ ] Movement only in one axis - Week 6, Mon
+  * [ ] Distribute (First and Last Shape) - Week 6, Mon
+  * [ ] Refactor Code to follow Action Framework
   * [ ] Implement method to determine actual coordinates of shape instead of bounding box
   * [ ] Implement method to determine direction of shapes
   * [ ] Refactor architecture of Positions Lab
