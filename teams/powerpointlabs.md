@@ -159,6 +159,8 @@ permalink: /teams/powerpointlabs/
 * Prepared UI Mockup for PositionsLab - Week 3, Thu
 * Implemented TaskPane UI w/ Metro Design for PositionsLab - Week 4, Sun
 * Implemented **Align (Left, Right, Top, Bottom, Middle, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
+* Implemented Scrolling Task Pane for PositionsLab - Week 4, Sat
+* Implemented **Distribute (Horizontal, Vertical, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/35cdaaf281e1373ac7c10f840fe37d97f28d6b7d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 5, Thu
 
 #### Contributions to project [Swift](http://www.apple.com/swift/) (Minor Project)
  * ...
