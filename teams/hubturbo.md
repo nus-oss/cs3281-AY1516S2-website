@@ -41,12 +41,12 @@ permalink: /teams/hubturbo/
 * [x] Feature planned - Week 3, Mon
 * [ ] Refactor Label Picker - Week 3, Sat
 * [x] Code Sprint - Week 3, Sat & Week 4, Sun
-* [ ] MVP for issue editor/creator functionalities - Week 5, Wed
+* [x] MVP for issue editor/creator functionalities - Week 5, Wed
 	* [x] Issue Creator
-	* [ ] Milestone Picker
-	* [ ] Assignee Picker
-	* [ ] Open/Close Issues
-	* [ ] Issue Comments Retriever
+	* [x] Milestone Picker
+	* [x] Assignee Picker
+	* [x] Open/Close Issues
+	* [x] Issue Comments Retriever
 * [ ] Covering more use cases, UI improvements, refactoring & testing - Week 6
 	* [ ] Issue Creator
 	* [ ] Milestone Picker
