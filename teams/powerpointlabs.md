@@ -167,4 +167,6 @@ permalink: /teams/powerpointlabs/
 * [Pull request #154](https://github.com/nus-cs2103/website/pull/154)
 
 #### Technology expertise in Information Security
- * ...
+ * Wrote a [SHA1 Reverser](https://github.com/vhazali/cs4236/tree/master/SHA1Reverser), which reverses a hash produced by SHA1 algorithm
+ * Wrote a [WEP Cracker](https://github.com/vhazali/cs4236/tree/master/WEPCracker), which cracks a WEP secured connection
+ * Wrote a short code to implement a [Rainbow Table](https://github.com/vhazali/cs4236/tree/master/Rainbow)
