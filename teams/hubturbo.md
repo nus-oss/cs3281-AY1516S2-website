@@ -30,7 +30,7 @@ permalink: /teams/hubturbo/
 
  - [@xinan](https://github.com/xinan)
    ([Liu Xinan](http://xinan.io))
-   - Technology Expertise:
+   - Technology Expertise: UI Responsiveness Optimization
 
 # Work Plan
 
@@ -67,7 +67,6 @@ permalink: /teams/hubturbo/
 
 ##### Contribution to MAJOR project HT
 
-
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
 ##### Technology expertise in UX Design
@@ -88,14 +87,15 @@ permalink: /teams/hubturbo/
 
 * [Pull Request #1180](https://github.com/HubTurbo/HubTurbo/pull/1180) (Merged) - Week 1, Tue
 * [Pull Request #1186](https://github.com/HubTurbo/HubTurbo/pull/1186) (Merged) - Week 1, Thu
+* [Pull Request #1188](https://github.com/HubTurbo/HubTurbo/pull/1188) (Closed) - Week 1, Fri
 * [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201) - Week 2, Wed
 * [Pull Request #1224](https://github.com/HubTurbo/HubTurbo/pull/1224) - Week 3, Sun
 
 ##### Contribution to MAJOR project HT
 
-##### Contribution to MINOR project Y
+##### Contribution to MINOR project [PencilCode](https://github.com/PencilCode/pencilcode/)
 
-##### Technology expertise in tool Z
+##### Technology expertise in UI Responsiveness Optimization
 
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
 
@@ -105,12 +105,12 @@ permalink: /teams/hubturbo/
 * [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators) - Week 3, Mon
 * [Pull Request #1212](https://github.com/HubTurbo/HubTurbo/pull/1212) - Week 3, Mon
 * [Rewrite LabelPickerDialog view in fxml](https://github.com/nus-fboa2016-ht/HubTurbo/blob/SuperAwesomeLabelPicker/src/main/resources/ui/fxml/LabelPickerView.fxml) - Week 3, Sun
-
+* [Forked scikit-learn repository](https://github.com/jinified/scikit-learn) - Week 4, Sun
 ##### Contribution to MAJOR project HT
 
 ##### Contribution to MINOR project [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
-##### Technology expertise in tool [OpenCV](https://github.com/Itseez/opencv)
+##### Technology expertise in tool Computer Vision
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
