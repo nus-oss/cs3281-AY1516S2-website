@@ -164,13 +164,24 @@ permalink: /teams/codebender/
 * Week 4, Thu - Resolved [issue #32](https://github.com/codebendercc/eratosthenes/issues/32)
 * Week 5, Wed - Discussion on [Eratosthenes API](https://docs.google.com/document/d/1-eUlYzHQypgWRRDwJ7lsj3f8nrbVt7owkldCdUSNKVs/edit?usp=sharing)
 * Week 5, Sun - Milestone2 fetch API implemented (branch [api-fetch](https://github.com/codebendercc/eratosthenes/tree/api-fetch))
+* Week 5, Sun - Made tests on fetch API
 * Week 5, Sun - Milestone2 list API implemented (branch [api-list](https://github.com/codebendercc/eratosthenes/tree/api-list))
+* Week 5, Sun - Made tests on list API
 
 ### Contribution to minor project - Teammates
  * 
  
-### Technology expertise in Web Crawling
- * 
+### Technology expertise in Intelligent Agent
+
+#### Short Term Plan
+ * Look for practical application in extension of my education so far
+ * Develop simple agent for simple problem
+ * Publish posts / tutorials on blog
+
+#### Long Term Plan
+ * Undergo further education: CS4246 (AI Planning and Decision Making), CS5340 (Uncertainty Modelling in AI)
+ * Apply skill on real world problem
+ * Maintain blog
 
 #### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
