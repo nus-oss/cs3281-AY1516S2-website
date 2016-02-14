@@ -11,7 +11,7 @@ permalink: /teams/socketio/
    - Technology Expertise: web-based data visualization
    - Minor: Teammates
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
-   - Technology Expertise: Git
+   - Technology Expertise: Git workflow
    - Minor: PowerpointLabs
  - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu)) Team Lead - Week 4 to 6.
    - Technology Expertise: RESTful APIs
@@ -196,9 +196,22 @@ Note: links to github commits represent the last commit for that contribution
 * [Create a simple chat app using socket.io to learn te product](https://github.com/digawp/socket-io-chat) - Week 1, Sat
 * [Convert bundling from browserify to webpack for engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/tree/webpack) - Week 2, Sun
 * [Fix engine.io-client webpack bundling where the `eio` global is not exposed](https://github.com/socketio/engine.io-client/commit/f22f990f1514521ebc8e0180f4791f26fbf79950)(link shows last commit) - Week 3, Sun
+* Doing clean up and miscellaneous fixes on outstanding PRs for [engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/db5e3168540b0516783598bd125f28c62313c809) and [socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/c7deec13cb32dfd6042f3c2f730d31a715c28a55) (link shows last commits) - Week 5, Friday
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
 
-#### Technology expertise in Git
+#### Technology expertise in Git workflow
+
+##### Current contribution to expertise
 * [Answered a question on Stack Overflow about Git workflow](http://stackoverflow.com/questions/30538019/git-merge-changes-between-upstream-brnches/30541348#30541348)
+
+##### Short term plan
+* Learn about Git best practices in terms of merging, branching, forking, and rebasing, and understand what is actually happening in the background
+* Be familiar and comfortable with Git rebase --interactive
+* Improve the team's Git workflow
+* Summarize knowledge and expertise in blog posts
+
+##### Long term plan
+* Keep up with Git version updates
+* Keep up with any changes in what considered as Git best practices
