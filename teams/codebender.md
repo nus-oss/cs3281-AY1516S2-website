@@ -223,11 +223,32 @@ permalink: /teams/codebender/
 * Week 4, Fri - Fix [Issue 36](https://github.com/codebendercc/eratosthenes/issues/36)
 * Week 4, Sat - Fix [Issue 33](https://github.com/codebendercc/eratosthenes/issues/33)
 * Week 5, Wed - Discussion on [Eratosthenes API](https://docs.google.com/document/d/1-eUlYzHQypgWRRDwJ7lsj3f8nrbVt7owkldCdUSNKVs/edit?usp=sharing)
+* Week 5, Sat - Implemented the [getExamples API](https://github.com/codebendercc/eratosthenes/commit/9ccd246932832b12b2316f05f90191f8f4a67e05)
+* Week 5, Sat - Created [test for getExamples API](https://github.com/codebendercc/eratosthenes/commit/f4e7fc3027270e59e22cc65a0401756dfe4729b3)
+* Week 5, Sun - Implemented the [getExampleCode API](https://github.com/codebendercc/eratosthenes/commit/71406c221b926ad94bd14e757ed93093fea984de)
+* Week 5, Sun - Created [test for getExampleCode API](https://github.com/codebendercc/eratosthenes/commit/cd56d7d6e820eb10504e9c53dca4017ea2aa18ee)
 
-#### Contribution to minor project HubTurbo
+#### Contribution to minor project Teammates
+* 
+
+###### Past Contribution to HubTurbo
 * PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
 
 #### Technology expertise in Node.js
+######Short-term plan:
+1. Understand advanced JavaScript topic. [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) is a good place to start.
+2. Master Node.js and get familiar with its core APIs. Understand its best practices and its limits.
+3. Get familiar with Node's popular frameworks and tools, such as [Express](http://expressjs.com/), [Gulp](http://gulpjs.com/) and [q](https://github.com/kriskowal/q), and be able to use them in personal projects.
+4. Learn JavaScript's ES6 standatd.
+5. Gain experience by developing simple Node packages and Node applications.
+6. Demostrate expertise through side projects, tutorials, and blog posts.
+
+######Long-term plan:
+1. Keep myself up-to-date with newest technology in JavaScript and Node.js industry.
+2. Participate in some open-source projects that use Node stack
+3. Understand Node project structures and workflow, and be able to design the application architecture with my experience.
+4. Take modules related to Web Programming, such as CS3216 to keep refining my developing skills.
+
 * [Node.js: what, why, how](http://blog.gisonrg.me/2016/node-js-what-why-how/): a blog post to introduce Node.js
 * Leanring Node.js topics by attempting workshops provided on [NodeSchool.io](http://nodeschool.io)
    * [My solutions for nodeschoo.io](https://github.com/Gisonrg/collections/tree/master/nodeschool)
