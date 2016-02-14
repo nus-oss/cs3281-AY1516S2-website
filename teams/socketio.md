@@ -13,8 +13,8 @@ permalink: /teams/socketio/
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
    - Technology Expertise: Git
    - Minor: PowerpointLabs
- - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu)) Team Lead - Week 4 to 7
-   - Technology Expertise: NodeJS
+ - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu)) Team Lead - Week 4 to 6.
+   - Technology Expertise: RESTful APIs
    - Minor: HubTurbo
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
    - Technology Expertise: ReactJS
@@ -60,9 +60,9 @@ permalink: /teams/socketio/
   
 * [ ] Devtools - Socket.io Inspector
   * [ ] Handshake with page to check if socket.io is used
-    * [ ] Getting started with building Chrome Dev Tools - Week 4, Sun
-    * [ ] getting devtool to talk to page - Week 4, Sun
-    * [ ] getting devtool to talk to socket.io in page - Week 5, Fri
+    * [x] Getting started with building Chrome Dev Tools - Week 4, Sun
+    * [x] getting devtool to talk to page - Week 4, Sun
+    * [x] getting devtool to talk to socket.io in page - Week 5, Fri
     * [ ] implement io-emitter over chrome protocols - Week 7, Sun
     * [ ] find ways to inspect io packets (to be added) - Week 10, Sun
   * [ ] implement mockups of devtool
@@ -159,6 +159,9 @@ Note: links to github commits represent the last commit for that contribution
 * Test for above Fix in PR [#943](https://github.com/socketio/socket.io-client/pull/943). - Week 3, CS
 * Added [documentation](https://github.com/socketio/socket.io/pull/2415) for based on issue [#2400](https://github.com/socketio/socket.io/issues/2400 - Week 3, CS
 * Added [task](https://github.com/whattokingu/socket.io-client/commit/fdef60a24ea3edd5f0da746f5f7a133844fe05e1) in Gulp to run Zuul - Week 3, CS
+* Worked on improvements to PR for [issue #331](https://github.com/socketio/socket.io-client/issues/331) based on feedback from Nkzawa - Week 5, Thurs
+* Worked on SI-devtool inter-process communication (will update once committed) - Week 5, Thurs
+
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196] -Week 4, Mon
