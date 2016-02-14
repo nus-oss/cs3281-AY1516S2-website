@@ -36,12 +36,12 @@ permalink: /teams/powerpointlabs/
   * [x] Swap - Week 4, Wed
   * [x] Rotation by reference point (for one object) - Week 5, Thu
   * [x] Distribute (Horizontal, Vertical, Center) - Week 5, Thu
+  * [x] Movement only in one axis - Week 6, Mon
+  * [x] Rotation by reference point (for multiple objects) - Week 6, Mon
+  * [x] Distribute (First and Last Shape selected) - Week 6, Mon
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
 * Workplan for Positions Lab
-  * [ ] Rotation by reference point (for multiple objects) - Week 6, Mon
-  * [ ] Movement only in one axis - Week 6, Mon
-  * [ ] Distribute (First and Last Shape) - Week 6, Mon
   * [ ] Refactor Code to follow Action Framework
   * [ ] Implement method to determine actual coordinates of shape instead of bounding box
   * [ ] Implement method to determine direction of shapes
@@ -89,6 +89,8 @@ permalink: /teams/powerpointlabs/
 * Implemented **Rotation-related methods** in [`Graphics.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/3d72034a677e74ce388593a77f37a2b132eaf965/PowerPointLabs/PowerPointLabs/Utils/Graphics.cs) - Week 4, Thu
 * Implemented **LeftMouseButtonDownListener** in [`PPMouse.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/45077b62832adb9f3cad285acbd4c538d152494e/PowerPointLabs/PowerPointLabs/PPMouse.cs)- Week 5, Thu
 * Implemented **Rotation by reference point (for one object)** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/45077b62832adb9f3cad285acbd4c538d152494e/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 5, Thu
+* Implemented **Rotation by reference point (for multiple objects)** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/834e6068aeadabd9febd35d0825c7f6ec40448e2/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 6, Sun
+* Implemented **Movement of shapes in one axis** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a11cea658054993f26a78d6b202843fac552ae1/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 6, Sun
 
 #### Contributions to project [Brackets](http://brackets.io/) (Minor Project)
  * ...
@@ -169,6 +171,7 @@ permalink: /teams/powerpointlabs/
 * Implemented **Align (Left, Right, Top, Bottom, Middle, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/c5bcfa16eb89f8fd081f1a87055ecfdc6d265898/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
 * Implemented Scrolling Task Pane for PositionsLab in [`PositionsPaneWPF.xaml`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/758374c4020d742b213dc84cf091e4c542b5079b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml)- Week 4, Sat
 * Implemented **Distribute (Horizontal, Vertical, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/554740f68abe2c37748a2f12aac6b67feb5e2254) - Week 5, Thu
+* Implemented **Distribute amongst shapes** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/1f8e3e4a0c901df6a396df479e4d38229323bcdf/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 6, Sun
 
 #### Contributions to project [Swift](http://www.apple.com/swift/) (Minor Project)
  * ...
