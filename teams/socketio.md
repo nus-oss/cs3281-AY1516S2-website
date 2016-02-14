@@ -173,11 +173,22 @@ Note: links to github commits represent the last commit for that contribution
 * Added [documentation](https://github.com/socketio/socket.io/pull/2415) for based on issue [#2400](https://github.com/socketio/socket.io/issues/2400 - Week 3, CS
 * Added [task](https://github.com/whattokingu/socket.io-client/commit/fdef60a24ea3edd5f0da746f5f7a133844fe05e1) in Gulp to run Zuul - Week 3, CS
 * Worked on improvements to PR for [issue #331](https://github.com/socketio/socket.io-client/issues/331) based on feedback from Nkzawa - Week 5, Thurs
-* Worked on SI-devtool inter-process communication (will update once committed) - Week 5, Thurs
+* Worked on SI-devtool inter-process communication. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/083d0ed33bc6e2c76df124b825b103c9aa19d427) - Week 6, Mon
 
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196] -Week 4, Mon
+
+#### Technology expertise in RESTful APIs
+
+##### Short term plan
+* Read up on RESTful implementation details.
+* Familiarize with latest HTTP standards and best-practices
+* Practice implementing RESTful API patterns
+
+##### Long term plan
+* Keep up with standards as it evolves.
+* Explore opportunities to convert/implement RESTful applications in real-life projects
 
 ### @digawp (Diga Widyaprana)
 
