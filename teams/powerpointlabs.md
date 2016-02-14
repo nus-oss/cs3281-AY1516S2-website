@@ -134,18 +134,23 @@ permalink: /teams/powerpointlabs/
 ###### Pull Request
 * [Pull Request #892](https://github.com/PowerPointLabs/PowerPointLabs/pull/892) (Merged) - Week 2, Wed
 * [Pull Request #896](https://github.com/PowerPointLabs/PowerPointLabs/pull/896) (Merged) - Week 2, Fri
+* [Pull Request #927](https://github.com/PowerPointLabs/PowerPointLabs/pull/927) (Merged) - Week 5, Tue
 
 ###### Resize Lab
 * Prepared mockup presentation for ResizeLab [v1](https://dl.dropboxusercontent.com/u/7610216/resizelab%20mockupv1.pptx) - Week 3, Sat
-* Implemented TaskPane UI for ResizeLab [current version](https://dl.dropboxusercontent.com/u/7610216/ResizeLabUIv1.PNG) - Week 4, Sun
+* Implemented TaskPane UI for ResizeLab 
+ * [First version](https://dl.dropboxusercontent.com/u/7610216/ResizeLab/ResizeLabUIv1.PNG) - Week 4, Sun
+ * [Current version](https://dl.dropboxusercontent.com/u/7610216/ResizeLab/ResizeLabUIv2.PNG), Added Metro style, added icons to task pane buttons, with a few other UI enhancements (Icons designed by @youthinkk) - Week 5 
 * Working on **Shrink & Stretch** feature in [`ResizeLabShrinkStretch.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/a5359541d70ce055621ceb8edb6823798d5039cb/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabShrinkStretch.cs) - Ongoing
+ * Added opposite stretch feature - Week 5
+ * Added rotation support for first reference shape - Week 5
 
-#### Contributions to project [Firefox for Android](https://www.mozilla.org/en-US/firefox/android/) (Minor Project)
+#### Contributions to project [OpenKeyChain](https://www.openkeychain.org) (Minor Project)
 
  * ...
 
 #### Technology expertise in Information Security
- * ...
+ * Keeping crypto keys secure
 
 ---
 
