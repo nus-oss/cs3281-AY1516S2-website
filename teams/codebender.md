@@ -33,7 +33,7 @@ permalink: /teams/codebender/
 * [x] Create one test and merge into main project [First PHPUnit test](https://github.com/codebendercc/Neuralyzer/pull/12) (Merged) - Week 3
 * [x] Setup [Sensiolabs Insight](https://insight.sensiolabs.com/projects/a371effa-c11d-473f-844d-d5f421df79be) for automated push test - Week 3
 * [x] Get started with basic prototype - Week 4
-* [ ] Fix bug related to flashing in iFrame - Week 5
+* [x] Fix bug related to flashing in iFrame - Week 5
 * [ ] Create test case for successful flashing - Week 5
 * [ ] Create landing page - Week 6
 * [ ] Create test case for landing page - Week 6
@@ -184,6 +184,8 @@ permalink: /teams/codebender/
 * Week 3, Sun - Merged 6 more PRs
 * Week 3, Sun - [Added first PHPUnit test](https://github.com/codebendercc/Neuralyzer/pull/12) (Merged)
 * Week 4, Thu - Created a basic prototype
+* Week 5, Thu - Fixed bug related to flashing
+* Week 6, Mon - Started on landing page
 
 ### Contribution to minor project - HubTurbo
  * 
