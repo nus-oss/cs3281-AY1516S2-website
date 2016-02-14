@@ -132,11 +132,21 @@ permalink: /teams/codebender/
 * Week 4, Wed - [Resolved issue #29](https://github.com/codebendercc/eratosthenes/issues/29)
 * Week 4, Sun - [Resolved issue #35](https://github.com/codebendercc/eratosthenes/issues/35)
 * Week 4, Sun - [Pull Request #34](https://github.com/codebendercc/eratosthenes/pull/34)
+* Week 5, Wed - [Designed the APIs](https://docs.google.com/document/d/1-eUlYzHQypgWRRDwJ7lsj3f8nrbVt7owkldCdUSNKVs/edit?usp=sharing) that are to be implemented
+* Week 5, Sat - [Pull Request #38](https://github.com/codebendercc/eratosthenes/pull/38) - A hotfix for the existing codebase
+* Week 5, Sat - Implemented the [getVersions API](https://github.com/codebendercc/eratosthenes/commit/c6d8b30a3f567dcecb5bc816977ae91aa96444aa)
+* Week 5, Sat - Wrote [tests for the getVersions API](https://github.com/codebendercc/eratosthenes/commit/cc3e92ac8be5db649a9e6f764a2cb863f01abb72)
+* Week 5, Sun - Implemented the [getKeywords API](https://github.com/codebendercc/eratosthenes/commit/93d4cdbb995cbaef6a653d3a449938b2dac3e659) (pending clarification from John)
+* Week 5, Sun - Created [tests for the getKeywords API](https://github.com/codebendercc/eratosthenes/commit/137dea9adab330167de28d95acc48ee6651967fb) (pending clarification from John)
+* Week 5, Sun - Implemented the checkGithubUpdates API ([80b8b38](https://github.com/codebendercc/eratosthenes/commit/80b8b389a0b9c15b0978d83f919b2b2e96fcdc7d) & [52898a0](https://github.com/codebendercc/eratosthenes/commit/52898a0b0f633e1975449dd2d71b4b6ed3f93651)) (pending clarification from John)
+* Week 5, Sun - Wrote tests for the checkGithubUpdates API ([75af2f5](https://github.com/codebendercc/eratosthenes/commit/75af2f52e35f700e606cc735b2ee4e72353b5285) & [5d9602a](https://github.com/codebendercc/eratosthenes/commit/5d9602a1bbcfe9ea105106a60b1933216fe0443a)) (pending clarification from John)
 
-### Contribution to minor project - HubTurbo
+### Contribution to minor project - Teammates
  * 
 
 ### Technology expertise in Information Security
+* **Short-Term Plan**: To expose myself to as many aspects of Information Security as possible (e.g. Cryptography, Web Security, Network Security, System Security, Software Security, Pen Testing) and in the process, acquire practical skills that can be applied in the information security industry.
+* **Long-Term Plan**: To become an information security professional. To achieve this, I intend to take modules (e.g. CS2107, CS3235, CS4238, CS5331, CS5321) that would allow me to develop a focus area in information security. I am also exposing myself to the industry through my internships (e.g. with FireEye) and external projects (with NUS GreyHats).
 * Participated in a discussion of cyber range scenarios with Cyber Test Systems
 * Attended 2 training sessions with NUS GreyHats
 * Sharing on Cross-Site Request Forgeries ([Blog Post on CSRF](http://cs3281-2.blogspot.sg/2016/01/cross-site-request-forgeries-csrf.html))
