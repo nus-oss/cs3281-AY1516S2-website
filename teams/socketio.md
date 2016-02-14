@@ -8,7 +8,7 @@ permalink: /teams/socketio/
 
 ## Members
  - Zhu Liang ([@paradite](http://paradite.com))
-   - Technology Expertise: d3.js
+   - Technology Expertise: web-based data visualization
    - Minor: Teammates
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
    - Technology Expertise: Git
@@ -75,7 +75,9 @@ permalink: /teams/socketio/
   * [x] Color Picker - Week 4, Tue
   * [x] Connection Count logic - Week 4, Sun
   * [x] Broadcasting - Week 5, Sun
+  * [x] Add support for touch - Week 5, Fri
   * [ ] Displaying connection count - Week 5, Sun
+  * [x] Screening clearing - Week 5, Sun
   * [ ] In-memory Buffer + Cap (pruning)
   * [ ] post
   
@@ -102,19 +104,30 @@ permalink: /teams/socketio/
   * [Mapped 2D mouse position to 3D scene](https://github.com/nus-fboa2016-si/whiteboard/commit/83381f3be832990853b3a299fcb9c3a5d74095ca) - Week 3, Sun
   * [Implemented simple color picker](https://github.com/nus-fboa2016-si/whiteboard/commit/ee503f3192747391213a07ba6bec3fa33e0140ac) - Week 4, Tue
   * [Set up drawing logic](https://github.com/nus-fboa2016-si/whiteboard/commit/de3329b34e4c9ebb319d895ebed20e284f2bbcb8) - Week 4, Tue
+  * [Add support for touch event](https://github.com/nus-fboa2016-si/whiteboard/commit/7360c038018c76af10fc9acf6b49a0c7dbac811c) - Week 5, Fri
+  * [Implement clear screen function](https://github.com/nus-fboa2016-si/whiteboard/commit/4c0000a8183f7376fd5aefee3efb919e8e206765) - Week 5, Sat
 
 #### Contribution to project Teammates (Minor Project)
 * [Fork and set up project](https://github.com/paradite/repo) - Week 4, Fri
 
-#### Technology expertise in d3.js
+#### Technology expertise in web-based data visualization
 
-###### d3.js project on cs3281 progress visualization: [repo](https://github.com/paradite/cs3281viz)
+##### Short term plan
+* Focus on mastering d3.js, learn and extend generic visualization techniques and patterns from d3.js
+* Be familiar with various ways to perform visualization for different types of data
+* Build up portfolio by working on visualization projects
+* Summarize knowledge and expertise in blog posts
+
+##### Long term plan
+* Keep up with other data visualization tools/library and learn their strength and weakness
+* Take relevant modules on UI/visualization such as CS3240 Interaction Design, CS3249 User Interface Development or NM3209 Designing for Interactivity
+
+###### cs3281/github progress visualization: [repo](https://github.com/paradite/cs3281viz)
 * [Set up framework](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
 * [Set up basic timeline and tooltip](https://github.com/paradite/cs3281viz/commit/c77a497ded06881c4b6d6575bcdcb2d783e0dda2) - Week 4, Wed
 * [Refactored code into proper components, added authentication for GitHub API](https://github.com/paradite/cs3281viz/commit/07421cceb72297c69f3e91eb8feb8b0c37c4a723) - Week 5, Wed
 
-###### Blog posts on d3.js
-
+###### Blog posts on d3.js/data visualization
 
 ### @YijinL (Leow Yijin)
 
