@@ -119,7 +119,7 @@ permalink: /teams/codebender/
 
 ## Contributions
 
-#### @thngkaiyuan (Thng Kai Yuan)
+### @thngkaiyuan (Thng Kai Yuan)
 * Week 2, Tue - Received project details
 * Week 2, Thu - Completed setting up of development environment
 * Week 2, Fri - Achieved high-level understanding of Eratosthenes
@@ -141,10 +141,10 @@ permalink: /teams/codebender/
 * Week 5, Sun - Implemented the checkGithubUpdates API ([80b8b38](https://github.com/codebendercc/eratosthenes/commit/80b8b389a0b9c15b0978d83f919b2b2e96fcdc7d) & [52898a0](https://github.com/codebendercc/eratosthenes/commit/52898a0b0f633e1975449dd2d71b4b6ed3f93651)) (pending clarification from John)
 * Week 5, Sun - Wrote tests for the checkGithubUpdates API ([75af2f5](https://github.com/codebendercc/eratosthenes/commit/75af2f52e35f700e606cc735b2ee4e72353b5285) & [5d9602a](https://github.com/codebendercc/eratosthenes/commit/5d9602a1bbcfe9ea105106a60b1933216fe0443a)) (pending clarification from John)
 
-### Contribution to minor project - Teammates
+#### Contribution to minor project - Teammates
  * 
 
-### Technology expertise in Information Security
+#### Technology expertise in Information Security
 * **Short-Term Plan**: To expose myself to as many aspects of Information Security as possible (e.g. Cryptography, Web Security, Network Security, System Security, Software Security, Pen Testing) and in the process, acquire practical skills that can be applied in the information security industry.
 * **Long-Term Plan**: To become an information security professional. To achieve this, I intend to take modules (e.g. CS2107, CS3235, CS4238, CS5331, CS5321) that would allow me to develop a focus area in information security. I am also exposing myself to the industry through my internships (e.g. with FireEye) and external projects (with NUS GreyHats).
 * Participated in a discussion of cyber range scenarios with Cyber Test Systems
@@ -153,7 +153,7 @@ permalink: /teams/codebender/
 * Write-up on my participation in Insomni'hack 2016: ([Blog Post on the Smartcat Challenge](http://cs3281-2.blogspot.sg/2016/01/te-insomnihack-2016-teaser-smartcat-web.html))
 * Write-up on [cracking the substitution cipher](http://cs3281-2.blogspot.sg/2016/01/te-cracking-substitution-cipher.html)
 
-#### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
+### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
 * Week 3, Mon - Setup and learn project structure and its related technologies such as Symfony.
 * Week 3, Thu - Actual implementation detail in preparation of Codesprint.
@@ -168,22 +168,22 @@ permalink: /teams/codebender/
 * Week 5, Sun - Milestone2 list API implemented (branch [api-list](https://github.com/codebendercc/eratosthenes/tree/api-list))
 * Week 5, Sun - Made tests on list API
 
-### Contribution to minor project - Teammates
+#### Contribution to minor project - Teammates
  * 
  
-### Technology expertise in Intelligent Agent
+#### Technology expertise in Intelligent Agent
 
-#### Short Term Plan
+##### Short Term Plan
  * Look for practical application in extension of my education so far
- * Develop simple agent for simple problem
+ * Develop agent for simple problem
  * Publish posts / tutorials on blog
 
-#### Long Term Plan
+##### Long Term Plan
  * Undergo further education: CS4246 (AI Planning and Decision Making), CS5340 (Uncertainty Modelling in AI)
  * Apply skill on real world problem
  * Maintain blog
 
-#### @alexyaoyang (Alex Yao)
+### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
 * Week 2, Sun - Received project details
 * Week 3, Mon - Presented on high level architecture of Neuralyzer and what will be
@@ -198,10 +198,10 @@ permalink: /teams/codebender/
 * Week 5, Thu - Fixed bug related to flashing
 * Week 6, Mon - Started on landing page
 
-### Contribution to minor project - HubTurbo
+#### Contribution to minor project - HubTurbo
  * 
 
-#### @harryggg (Ma Tanghao)
+### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
 * Week 2, Thurs - Setup development environment
 * Week 2, Thurs - Propose alternative solution/protocol (rejected)
@@ -217,10 +217,10 @@ permalink: /teams/codebender/
 * Week 4, Thurs - simplified the code, combined two current patterns, change the method of pattern recognition
 * Week 4, Fri - rewrite self-recovery for incompelte data transmission
 
-### Contribution to minor project - Coursemology
+#### Contribution to minor project - Coursemology
  * 
 
-#### @gisonrg (Jiang Sheng)
+### @gisonrg (Jiang Sheng)
 * Week 2, Tues - Received project details
 * Week 2, Thurs - Sun - Setup development environment, learning [Symfony framework](https://symfony.com/) by [tutorial](http://tutorial.symblog.co.uk/)
 * Week 2, Sun - Draw system diagrams of codebender.
