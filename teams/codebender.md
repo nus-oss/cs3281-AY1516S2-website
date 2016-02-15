@@ -35,6 +35,7 @@ permalink: /teams/codebender/
 * [x] Get started with basic prototype - Week 4
 * [x] Fix bug related to flashing in iFrame - Week 5
 * [ ] Create test case for successful flashing - Week 5
+* [x] Refactor code before moving on - Week 6
 * [ ] Create landing page - Week 6
 * [ ] Create test case for landing page - Week 6
 * [ ] Create database for user and tier - Week 6
@@ -195,7 +196,9 @@ permalink: /teams/codebender/
 * Week 3, Sun - Merged 6 more PRs
 * Week 3, Sun - [Added first PHPUnit test](https://github.com/codebendercc/Neuralyzer/pull/12) (Merged)
 * Week 4, Thu - Created a basic prototype
-* Week 5, Thu - Fixed bug related to flashing
+* Week 5, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/20)
+* Week 5, Sat - [Refactor existing code + follow good JS practice](https://github.com/codebendercc/Neuralyzer/pull/21)
+* Week 5, Sun - [Use Symfony's asset include for HTML importing](https://github.com/codebendercc/Neuralyzer/pull/22)
 * Week 6, Mon - Started on landing page
 
 #### Contribution to minor project - Powerpoint Labs
