@@ -42,12 +42,14 @@ permalink: /teams/powerpointlabs/
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
 * Workplan for Positions Lab
+  * [ ] Implement method to determine actual coordinates of shape instead of bounding box - Week 6, Thu
+  * [ ] Implement method to determine direction of shapes - Week 6, Thu
+  * [ ] Point to and away from object - Week 6, Thu
+  * [ ] Ensure all functionalities are up and running - Week 6, Thu
+  * [ ] Create icons - Reccess Week, Thu
   * [ ] Refactor Code to follow Action Framework
-  * [ ] Implement method to determine actual coordinates of shape instead of bounding box
-  * [ ] Implement method to determine direction of shapes
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
-  * [ ] Create icons
 
 ###### Resize Lab
 * UI Design for Resize Lab
@@ -207,7 +209,7 @@ permalink: /teams/powerpointlabs/
 * Implemented **Distribute (Horizontal, Vertical, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/554740f68abe2c37748a2f12aac6b67feb5e2254) - Week 5, Thu
 * Implemented **Distribute amongst shapes** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/1f8e3e4a0c901df6a396df479e4d38229323bcdf/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 6, Sun
 
-#### Contributions to project [Swift](http://www.apple.com/swift/) (Minor Project)
+#### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
  * ...
 
 #### Contributions to [CS2103 website](http://www.comp.nus.edu.sg/~cs2103/AY1516S2/)
