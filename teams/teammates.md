@@ -107,4 +107,11 @@ permalink: /teams/teammates/
  * ...
 
 #### Technology expertise in JQuery UI
- * ...
+
+##### Short Term Plan
+ * Learn more about JQuery UI: widgets, interactions, effects etc.
+ * Contribute to related issues in TEAMMATES
+
+##### Long Term Plan
+ * Learn new technologies in Javascript
+ * Contribute to other open-source projects that use Javascript-related technologies
