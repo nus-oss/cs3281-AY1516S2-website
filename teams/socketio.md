@@ -19,8 +19,8 @@ permalink: /teams/socketio/
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
    - Technology Expertise: ReactJS
    - Minor: Teammates
- - Leow Yijin ([@YijinL](#TBD))
-   - Technology Expertise: ES6
+ - Leow Yijin ([@YijinL](#))
+   - Technology Expertise: Cloud deployment and monitoring
    - Minor: HubTurbo
 
 
