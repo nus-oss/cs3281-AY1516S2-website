@@ -120,13 +120,32 @@ permalink: /teams/powerpointlabs/
 * Created the skeleton of possible exceptions in [`ResizeLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/8cb27511411b2cbfe58e95548f6f05bb536109a7/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.cs) - Week 4, Sun
 * Created the skeleton of event handlers for triggering functions in [`ResizePaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/86507fcc388b92fa8e7ab212196d156d842e110d/PowerPointLabs/PowerPointLabs/ResizeLab/ResizePaneWPF.xaml.cs) - Week 4, Sun
 * Implemented **Fit** feature in [`ResizeLabFitSize.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/547172b4d74e05a6fad4d2ab72ccb0b20317303f/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabFitSize.cs) - Week 4, Tue
-* Implemented **Lock and Restore Aspect Ratio** feature in [`ResizeLabAspectRatio.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d461f3429149ab29b9670bf711fdf2e4c4a766d4/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabAspectRatio.cs) and [`ThisAddIn.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/bb0aae956a344c7e4c5084967367e4d708c157a0/PowerPointLabs/PowerPointLabs/ThisAddIn.cs) - Week 4, Wed
+* Implemented basic **Lock and Restore Aspect Ratio** feature in [`ResizeLabAspectRatio.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d461f3429149ab29b9670bf711fdf2e4c4a766d4/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabAspectRatio.cs) and [`ThisAddIn.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/bb0aae956a344c7e4c5084967367e4d708c157a0/PowerPointLabs/PowerPointLabs/ThisAddIn.cs) - Week 4, Wed
+* Changed to UI observer pattern and renamed the classes to fit general achitecture in [`Commit 95867c8`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/fd7a4001511c44314d026ec13c218b369d102d9c) - Week 5, Mon
+* Improved **Restore Aspect Ratio** feature by resizing to current largest scaled side in [`Commit 8a58e9c`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/e6dba91bdcbacfcd5476178ed434af507d17ee0d) - Week 5 Mon
+* Created first version of [icons](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/10) for ResizeLab - Week 5, Tue
+* Created [`ResizeLabShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ab2d1ffcaf3edce42f88e601c7cbdc7b6ce84485/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabShape.cs) to support calculation related to rotated shape - Week 5, Wed
+* Supported rotated shape in **Same Dimensions** and **Fit** features - Week 5, Thu 
 
 #### Contributions to project [OpenMRS](http://openmrs.org/) (Minor Project)
  * ...
 
-#### Technology expertise in Website Development
- * ...
+#### Technology expertise in Artificial Intelligence (AI)
+
+###### Short Term Plan 
+* Increase the basic knowledge in AI
+* Make a comparision between Machine Learning and Knowledge-Based Systems
+* Focus on Knowledge-Based System currently
+* Produce a Knowledge-Based program by using *C Language Integrated Production System (CLIPS)*
+
+###### Long Term Plan 
+* Related module to AI
+  * CS3243 - Introduction to Aritificial Intelligence (Taken)
+  * CS3244 - Machine Learning (Plan to take)
+  * CS4244 - Knowledge-Based Systems (Taking now)
+  * CS4246 - AI Planning and Decision Making (Plan to take)
+  * CS5288 - Knowledge Discovery and Data Mining (Plan to take)
+* Work on AI related projects after deepening the knowledge of AI
 
 ---
 
