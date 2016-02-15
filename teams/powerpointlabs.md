@@ -52,21 +52,22 @@ permalink: /teams/powerpointlabs/
 ###### Resize Lab
 * UI Design for Resize Lab
   * [x] TaskPane UI (with Metro Design) - Week 4, Mon
-  * [ ] Create icons
+  * [x] Create icons - Week 5, Thu
 * Basic functionality for Resize Lab
   * [x] Stretch & Shrink - Week 4, Tue
   * [x] Same Dimension - Week 4, Sun
   * [x] Fit - Week 4, Tue
   * [x] Aspect Ratio - Week 4, Wed
 * Intermediate functionality for Resize Lab
-  * [ ] Enhance the reference point of Stretch & Shrink - Week 5, Thu
-  * [ ] Enhance the scale factor of Restore Aspect Ratio - Week 5, Thu
-  * [ ] Refactor the architecture of Resize Lab - Week 5, Thu
-  * [ ] Implement virtual dimension for resizing - Week 5, Thu
+  * [x] Enhance the reference point of Stretch & Shrink - Week 5, Mon
+  * [x] Enhance the scale factor of Restore Aspect Ratio - Week 5, Mon
+  * [x] Refactor the architecture of Resize Lab - Week 5, Tue
+  * [x] Implement absolute dimension for resizing - Week 5, Wed
+  * [ ] Implement restore aspect ratio with absolute dimension - Week 6, Thu
 * Advanced functionality for Resize Lab
   * [ ] Preview feature
 * Others
-  * [ ] Create unit tests
+  * [ ] Create unit tests - Week 6, Thu
   * [ ] Create functional tests
   * [ ] Merge with master branch 
 
