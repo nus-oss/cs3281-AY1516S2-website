@@ -7,9 +7,9 @@ permalink: /teams/powerpointlabs/
  
 ## Members
  - Chan Ao Wei Oswell ([@oswellchan](http://oswellchan.github.io/))
-   - Technology Expertise: Web Development
+   - Technology Expertise: Web Programming and Applications
  - Wu Yu Ting ([@youthinkk](http://blog.nus.edu.sg/cs3281youthinkk/))
-   - Technology Expertise: Web Development
+   - Technology Expertise: Artificial Intelligence (AI)
  - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/)) **(Team Lead - Week 4 to 8)**
    - Technology Expertise: Information Security
  - Victor Hazali ([@vhazali](https://blog.nus.edu.sg/victorhz3281/))
@@ -96,8 +96,22 @@ permalink: /teams/powerpointlabs/
 #### Contributions to project [Brackets](http://brackets.io/) (Minor Project)
  * ...
 
-#### Technology expertise in Web Development
- * ...
+#### Technology expertise in Web Programming and Applications
+
+###### Short Term Plan 
+* Increase knowledge in responsive frontend design
+* Increase knowledge in security of web applications
+* Increase knowledge in scalability and performance of web applications
+* Produce a web application with a team with personal responsibility in at least one of the above fields (security or scalability)
+
+###### Long Term Plan 
+* Related module to Web Programming
+  * CS2107 - Introduction to Information Security (Taken)
+  * CS3240 - Interaction Design (Taken)
+  * CS4249	- Phenomena and Theories of Human-Computer Interaction (Taken)
+  * CS3226 - Web Programming and Applications (Taking)
+  * CS2102 - Database Systems (Taking)
+* Work on Web Applications with focus on backend to improve security and performance
 
 ---
 
