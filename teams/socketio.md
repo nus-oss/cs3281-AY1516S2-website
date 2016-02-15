@@ -78,6 +78,7 @@ permalink: /teams/socketio/
   * [x] Add support for touch - Week 5, Fri
   * [ ] Displaying connection count - Week 5, Sun
   * [x] Screening clearing - Week 5, Sun
+  * [x] Buffered drawing - Week 6, Mon
   * [ ] In-memory Buffer + Cap (pruning)
   * [ ] post
   
@@ -106,6 +107,7 @@ permalink: /teams/socketio/
   * [Set up drawing logic](https://github.com/nus-fboa2016-si/whiteboard/commit/de3329b34e4c9ebb319d895ebed20e284f2bbcb8) - Week 4, Tue
   * [Add support for touch event](https://github.com/nus-fboa2016-si/whiteboard/commit/7360c038018c76af10fc9acf6b49a0c7dbac811c) - Week 5, Fri
   * [Implement clear screen function](https://github.com/nus-fboa2016-si/whiteboard/commit/4c0000a8183f7376fd5aefee3efb919e8e206765) - Week 5, Sat
+  * [Implemented buffer drawing and interpolation](https://github.com/nus-fboa2016-si/whiteboard/commit/dc772b8e00980a309223d6e7fce5c6ecf5eb2f17) [2](https://github.com/nus-fboa2016-si/whiteboard/commit/9ef304ea4f262af1dc85a12ef5c13f2e45995511) - Week 6, Mon
 
 #### Contribution to project Teammates (Minor Project)
 * [Fork and set up project](https://github.com/paradite/repo) - Week 4, Fri
