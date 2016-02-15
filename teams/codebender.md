@@ -108,7 +108,7 @@ permalink: /teams/codebender/
 * [x] Write chart plotter v0.0 (based on canvas.js) for plotting chart Week 3
 * [x] Self-recovery from incomplete transmission with missing data - Week 4
 * [x] Self-recovery from corrupted transmission(happens when transmission rate is too high) - Week 5
-* [ ] Self-recovery from corrupted negative number - Week 5
+* [x] Self-recovery from corrupted negative number - Week 5
 * [ ] set up unit test using jasmine (coverage aim:90%) - Week 6
 * [ ] refactor the code to improve robustness - Week 7
 * [ ] add new pattern: multi-line with X-coordinate - Week 8
@@ -218,7 +218,7 @@ permalink: /teams/codebender/
 * Week 4, Fri - rewrite self-recovery for incompelte data transmission
 
 #### Contribution to minor project - Coursemology
- * 
+ * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) - Week 5, Sun
 
 ### @gisonrg (Jiang Sheng)
 * Week 2, Tues - Received project details
