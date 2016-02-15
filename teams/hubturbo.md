@@ -22,7 +22,8 @@ permalink: /teams/hubturbo/
  - [@m133225](https://github.com/m133225)
    ([Choo Boon Yong Martin](http://m133225.github.io))
    - Technology Expertise:
-	 UX Design
+	 Artificial Intelligence in Motion Planning
+
  - [@raisfathin](https://github.com/raisfathin)
    ([Muhammad Rais Fathin Mudzakir](http://raisfathin.github.io))
    - Technology Expertise:
@@ -30,7 +31,8 @@ permalink: /teams/hubturbo/
 
  - [@xinan](https://github.com/xinan)
    ([Liu Xinan](http://xinan.io))
-   - Technology Expertise: UI Responsiveness Optimization
+   - Technology Expertise:
+	 UI Responsiveness Optimization
 
 # Work Plan
 
@@ -41,12 +43,12 @@ permalink: /teams/hubturbo/
 * [x] Feature planned - Week 3, Mon
 * [ ] Refactor Label Picker - Week 3, Sat
 * [x] Code Sprint - Week 3, Sat & Week 4, Sun
-* [ ] MVP for issue editor/creator functionalities - Week 5, Wed
+* [x] MVP for issue editor/creator functionalities - Week 5, Wed
 	* [x] Issue Creator
-	* [ ] Milestone Picker
-	* [ ] Assignee Picker
-	* [ ] Open/Close Issues
-	* [ ] Issue Comments Retriever
+	* [x] Milestone Picker
+	* [x] Assignee Picker
+	* [x] Open/Close Issues
+	* [x] Issue Comments Retriever
 * [ ] Covering more use cases, UI improvements, refactoring & testing - Week 6
 	* [ ] Issue Creator
 	* [ ] Milestone Picker
@@ -62,14 +64,15 @@ permalink: /teams/hubturbo/
 * [Pull Request #1191](https://github.com/HubTurbo/HubTurbo/pull/1191) (Merged) - Week 1, Sat
 * [Pull Request #1193](https://github.com/HubTurbo/HubTurbo/pull/1193) - Week 1, Sun
 * [Pull Request #1207](https://github.com/HubTurbo/HubTurbo/pull/1207) (Merged) - Week 2, Sat
-* [Pull Request #1208](https://github.com/HubTurbo/HubTurbo/pull/1208) - Week 2, Sat
+* [Pull Request #1208](https://github.com/HubTurbo/HubTurbo/pull/1208) (Merged) - Week 2, Sat
 * [Pull Request #1228](https://github.com/HubTurbo/HubTurbo/pull/1228) (Closed) - Week 4, Mon
+* [Forked atom repository](https://github.com/m133225/atom) - Week 4, Sun
 
 ##### Contribution to MAJOR project HT
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
-##### Technology expertise in UX Design
+##### Technology expertise in AI in Motion Planning
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
@@ -106,11 +109,14 @@ permalink: /teams/hubturbo/
 * [Pull Request #1212](https://github.com/HubTurbo/HubTurbo/pull/1212) - Week 3, Mon
 * [Rewrite LabelPickerDialog view in fxml](https://github.com/nus-fboa2016-ht/HubTurbo/blob/SuperAwesomeLabelPicker/src/main/resources/ui/fxml/LabelPickerView.fxml) - Week 3, Sun
 * [Forked scikit-learn repository](https://github.com/jinified/scikit-learn) - Week 4, Sun
+* [Added UI test for Issue-Creator](https://github.com/nus-fboa2016-ht/HubTurbo/blob/issue-creator/src/test/java/unstable/IssueCreatorTest.java) - Week 5, Sun
+* [Added auto-complete for mention and reference, Issue Creator](https://github.com/nus-fboa2016-ht/HubTurbo/blob/issue-creator/src/main/java/ui/components/issue_creators/IssueContentPane.java)
+
 ##### Contribution to MAJOR project HT
 
-##### Contribution to MINOR project [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+##### Contribution to MINOR project [opencv](https://github.com/Itseez/opencv)
 
-##### Technology expertise in tool Computer Vision
+##### Technology expertise in Computer Vision 
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
