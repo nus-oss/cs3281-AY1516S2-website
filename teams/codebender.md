@@ -219,9 +219,11 @@ permalink: /teams/codebender/
 * Week 3, Sun - [Pull Request #1](https://github.com/codebendercc/graphic_serial_monitor/pull/6) (Reviewing) (+459 -182)
 * Week 4, Thurs - simplified the code, combined two current patterns, change the method of pattern recognition
 * Week 4, Fri - rewrite self-recovery for incompelte data transmission
+* Week 5, Thurs - fix the bug involving breaking down of negative number
+* Week 6, Mon - Set up Jasmine and BlanketJS for unit test and coverage
 
 #### Contribution to minor project - Coursemology
- * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) - Week 5, Sun
+ * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
 
 ### @gisonrg (Jiang Sheng)
 * Week 2, Tues - Received project details
