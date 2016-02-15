@@ -11,10 +11,10 @@ permalink: /teams/socketio/
    - Technology Expertise: web-based data visualization
    - Minor: Teammates
  - Diga Widyaprana ([@digawp](http://digawp.blogspot.sg/))
-   - Technology Expertise: Git
+   - Technology Expertise: Git workflow
    - Minor: PowerpointLabs
- - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu)) Team Lead - Week 4 to 7
-   - Technology Expertise: NodeJS
+ - Zheng Weihan ([@whattokingu](http://medium.com/@whattokingu)) Team Lead - Week 4 to 6.
+   - Technology Expertise: RESTful APIs
    - Minor: HubTurbo
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
    - Technology Expertise: ReactJS
@@ -60,9 +60,9 @@ permalink: /teams/socketio/
   
 * [ ] Devtools - Socket.io Inspector
   * [ ] Handshake with page to check if socket.io is used
-    * [ ] Getting started with building Chrome Dev Tools - Week 4, Sun
-    * [ ] getting devtool to talk to page - Week 4, Sun
-    * [ ] getting devtool to talk to socket.io in page - Week 5, Fri
+    * [x] Getting started with building Chrome Dev Tools - Week 4, Sun
+    * [x] getting devtool to talk to page - Week 4, Sun
+    * [x] getting devtool to talk to socket.io in page - Week 5, Fri
     * [ ] implement io-emitter over chrome protocols - Week 7, Sun
     * [ ] find ways to inspect io packets (to be added) - Week 10, Sun
   * [ ] implement mockups of devtool
@@ -173,9 +173,23 @@ Note: links to github commits represent the last commit for that contribution
 * Test for above Fix in PR [#943](https://github.com/socketio/socket.io-client/pull/943). - Week 3, CS
 * Added [documentation](https://github.com/socketio/socket.io/pull/2415) for based on issue [#2400](https://github.com/socketio/socket.io/issues/2400 - Week 3, CS
 * Added [task](https://github.com/whattokingu/socket.io-client/commit/fdef60a24ea3edd5f0da746f5f7a133844fe05e1) in Gulp to run Zuul - Week 3, CS
+* Worked on improvements to PR for [issue #331](https://github.com/socketio/socket.io-client/issues/331) based on feedback from Nkzawa - Week 5, Thurs
+* Worked on SI-devtool inter-process communication. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/083d0ed33bc6e2c76df124b825b103c9aa19d427) - Week 6, Mon
+
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196] -Week 4, Mon
+
+#### Technology expertise in RESTful APIs
+
+##### Short term plan
+* Read up on RESTful implementation details.
+* Familiarize with latest HTTP standards and best-practices
+* Practice implementing RESTful API patterns
+
+##### Long term plan
+* Keep up with standards as it evolves.
+* Explore opportunities to convert/implement RESTful applications in real-life projects
 
 ### @digawp (Diga Widyaprana)
 
@@ -183,9 +197,22 @@ Note: links to github commits represent the last commit for that contribution
 * [Create a simple chat app using socket.io to learn te product](https://github.com/digawp/socket-io-chat) - Week 1, Sat
 * [Convert bundling from browserify to webpack for engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/tree/webpack) - Week 2, Sun
 * [Fix engine.io-client webpack bundling where the `eio` global is not exposed](https://github.com/socketio/engine.io-client/commit/f22f990f1514521ebc8e0180f4791f26fbf79950)(link shows last commit) - Week 3, Sun
+* Doing clean up and miscellaneous fixes on outstanding PRs for [engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/db5e3168540b0516783598bd125f28c62313c809) and [socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/c7deec13cb32dfd6042f3c2f730d31a715c28a55) (link shows last commits) - Week 5, Friday
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
 
-#### Technology expertise in Git
+#### Technology expertise in Git workflow
+
+##### Current contribution to expertise
 * [Answered a question on Stack Overflow about Git workflow](http://stackoverflow.com/questions/30538019/git-merge-changes-between-upstream-brnches/30541348#30541348)
+
+##### Short term plan
+* Learn about Git best practices in terms of merging, branching, forking, and rebasing, and understand what is actually happening in the background
+* Be familiar and comfortable with Git rebase --interactive
+* Improve the team's Git workflow
+* Summarize knowledge and expertise in blog posts
+
+##### Long term plan
+* Keep up with Git version updates
+* Keep up with any changes in what considered as Git best practices
