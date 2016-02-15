@@ -46,6 +46,7 @@ permalink: /teams/teammates/
  * [Issue #4716](https://github.com/TEAMMATES/repo/issues/4716) (Ongoing) - Week 4
  * [Pull Request #4761](https://github.com/TEAMMATES/teammates/pull/4761) (Merged) - Week 5
  * [Pull Request #4774](https://github.com/TEAMMATES/teammates/pull/4774) (ToReview) - Week 6
+ * [Issue #4488](https://github.com/TEAMMATES/repo/issues/4488) (ToBeDiscussed) - Week 6 - ...
 
 #### Contribution to project Y
  * ...
