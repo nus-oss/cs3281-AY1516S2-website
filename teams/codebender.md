@@ -198,7 +198,7 @@ permalink: /teams/codebender/
 * Week 5, Thu - Fixed bug related to flashing
 * Week 6, Mon - Started on landing page
 
-#### Contribution to minor project - HubTurbo
+#### Contribution to minor project - Powerpoint Labs
  * 
 
 ### @harryggg (Ma Tanghao)
