@@ -42,6 +42,7 @@ permalink: /teams/powerpointlabs/
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
 * Workplan for Positions Lab
+  * [ ] Implement toggle for taking reference from shape vs slide - Week 6, Thu
   * [ ] Implement method to determine actual coordinates of shape instead of bounding box - Week 6, Thu
   * [ ] Implement method to determine direction of shapes - Week 6, Thu
   * [ ] Point to and away from object - Week 6, Thu
