@@ -39,10 +39,10 @@ permalink: /teams/powerpointlabs/
   * [x] Movement only in one axis - Week 6, Mon
   * [x] Rotation by reference point (for multiple objects) - Week 6, Mon
   * [x] Distribute (First and Last Shape selected) - Week 6, Mon
+  * [x] Implement toggle for taking reference from shape vs slide - Week 6, Tue
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
 * Workplan for Positions Lab
-  * [ ] Implement toggle for taking reference from shape vs slide - Week 6, Thu
   * [ ] Implement method to determine actual coordinates of shape instead of bounding box - Week 6, Thu
   * [ ] Implement method to determine direction of shapes - Week 6, Thu
   * [ ] Point to and away from object - Week 6, Thu
@@ -93,8 +93,8 @@ permalink: /teams/powerpointlabs/
 * Implemented **Rotation-related methods** in [`Graphics.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/3d72034a677e74ce388593a77f37a2b132eaf965/PowerPointLabs/PowerPointLabs/Utils/Graphics.cs) - Week 4, Thu
 * Implemented **LeftMouseButtonDownListener** in [`PPMouse.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/45077b62832adb9f3cad285acbd4c538d152494e/PowerPointLabs/PowerPointLabs/PPMouse.cs)- Week 5, Thu
 * Implemented **Rotation by reference point (for one object)** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/45077b62832adb9f3cad285acbd4c538d152494e/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 5, Thu
-* Implemented **Rotation by reference point (for multiple objects)** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/834e6068aeadabd9febd35d0825c7f6ec40448e2/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 6, Sun
-* Implemented **Movement of shapes in one axis** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a11cea658054993f26a78d6b202843fac552ae1/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 6, Sun
+* Implemented **Rotation by reference point (for multiple objects)** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/834e6068aeadabd9febd35d0825c7f6ec40448e2/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 6, Mon
+* Implemented **Movement of shapes in one axis** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a11cea658054993f26a78d6b202843fac552ae1/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 6, Mon
 
 #### Contributions to project [Brackets](http://brackets.io/) (Minor Project)
  * ...
@@ -208,7 +208,8 @@ permalink: /teams/powerpointlabs/
 * Implemented **Align (Left, Right, Top, Bottom, Middle, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/c5bcfa16eb89f8fd081f1a87055ecfdc6d265898/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 4, Wed
 * Implemented Scrolling Task Pane for PositionsLab in [`PositionsPaneWPF.xaml`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/758374c4020d742b213dc84cf091e4c542b5079b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml)- Week 4, Sat
 * Implemented **Distribute (Horizontal, Vertical, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/554740f68abe2c37748a2f12aac6b67feb5e2254) - Week 5, Thu
-* Implemented **Distribute amongst shapes** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/1f8e3e4a0c901df6a396df479e4d38229323bcdf/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 6, Sun
+* Implemented **Distribute amongst shapes** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/1f8e3e4a0c901df6a396df479e4d38229323bcdf/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 6, Mon
+* Implemented **Toggle for taking reference from slide vs shapes** in [`feature/ReferenceToSlide`](https://github.com/nus-fboa2016-PL/PowerPointLabs/tree/feature/ReferenceToSlide/PowerPointLabs) - Week 6, Tue
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
  * ...
