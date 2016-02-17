@@ -48,8 +48,8 @@ permalink: /teams/powerpointlabs/
   * [ ] Point to and away from object - Week 6, Thu
   * [ ] Ensure all functionalities are up and running - Week 6, Thu
   * [ ] Create icons - Reccess Week, Thu
-  * [ ] Refactor Code to follow Action Framework
-  * [ ] Refactor architecture of Positions Lab
+  * [ ] Refactor Code to follow Action Framework - Week 7, Mon
+  * [ ] Refactor architecture of Positions Lab - Week 7, Mon
   * [ ] Create unit/functional tests
 
 ###### Resize Lab
@@ -225,3 +225,23 @@ permalink: /teams/powerpointlabs/
  * Wrote a [SHA1 Reverser](https://github.com/vhazali/cs4236/tree/master/SHA1Reverser), which reverses a hash produced by SHA1 algorithm
  * Wrote a [WEP Cracker](https://github.com/vhazali/cs4236/tree/master/WEPCracker), which cracks a WEP secured connection
  * Wrote a short code to implement a [Rainbow Table](https://github.com/vhazali/cs4236/tree/master/Rainbow)
+
+###### Short Term Plan 
+* Expose myself to more security related issues by going for talks
+* Gain hands on experience by participating in Capture The Flag competitions
+* Join a community that's geared towards Information Security (such as NUS GreyHats)
+* Contribute to OSS related to security to gain more exposure
+
+###### Long Term Plan 
+* Related modules to Information Security
+  * CS2107 - Introduction to Information Security (Taken)
+  * CS3235 - Computer Security (Taken)
+  * CS4236 - Cryptography Theory and Practice (Taken)
+  * CS4238 - Computer Security Practice (Taking)
+  * CS5321 - Network Security (Taking)
+  * CS4239 - Software Security (Intending to take)
+  * CS5231 - System Security (Intending to take)
+  * CS5331 - Web Security (Intending to take)
+* Learn more in-depth about common languages (such as Java, C) to understand the languages better, to understand how exploits can be made
+* Learn more in-depth assembly / machine code / binaries to know how to analyze binaries better
+* Look into Intrusion Detection and Prevention (main interest area for security)
