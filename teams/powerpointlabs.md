@@ -46,7 +46,7 @@ permalink: /teams/powerpointlabs/
   * [ ] Implement method to determine actual coordinates of shape instead of bounding box - Week 6, Thu
   * [ ] Implement method to determine direction of shapes - Week 6, Thu
   * [ ] Point to and away from object - Week 6, Thu
-  * [ ] Ensure all functionalities are up and running - Week 6, Thu
+  * [ ] Ensure all functionalities are up and running - Reccess Week, Thu
   * [ ] Create icons - Reccess Week, Thu
   * [ ] Refactor Code to follow Action Framework - Week 7, Mon
   * [ ] Refactor architecture of Positions Lab - Week 7, Mon
