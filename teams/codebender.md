@@ -78,15 +78,15 @@ permalink: /teams/codebender/
     * [X] Change example library folder structure to include versions
 * [x] **Milestone 2 Part 1** - Due Week 5, Wed
     * [X] Design public APIs: specify request urls and parameters
-* [ ] **Milestone 2 Part 2** - Due Week 6, Wed
+* [ ] **Milestone 2 Part 2** - Due Week 6, Sun
     * [ ] Create ApiController
     * [ ] Create tests for ApiController
     * [ ] Create ApiHandler
     * [ ] Create tests for ApiController
-* [ ] **Milestone 3** - Due Week 6, Sun
+* [ ] **Milestone 3** - Due Week 7, Mon
     * [ ] Change View Templates to include versions
     * [ ] Change ViewsController
-* [ ] **Milestone 4** - Due Week 7, Sun
+* [ ] **Milestone 4** - Due Week 7, Wed
     * [ ] Component integration
     * [ ] Create integration tests
 * [ ] **Milestone 5** - Due Week 8, Sun
@@ -94,6 +94,9 @@ permalink: /teams/codebender/
     * [ ] Integrate features to remember preferences of partners
     * [ ] Create integration tests for partner and preferences
 * Buffer / minor features - Week 9 - 13 
+* Enhancement
+    * [ ] Handle multiple built-in example versions
+
 
 ## Workplan for Graphite
 
