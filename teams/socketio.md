@@ -206,6 +206,7 @@ Note: links to github commits represent the last commit for that contribution
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
+* [Merge LMouseUpListener with PPMouse](https://github.com/PowerPointLabs/PowerPointLabs/pull/949) - Week 6, Wed
 
 #### Technology expertise in Git workflow
 
