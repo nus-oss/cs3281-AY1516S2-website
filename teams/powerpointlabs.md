@@ -40,16 +40,18 @@ permalink: /teams/powerpointlabs/
   * [x] Rotation by reference point (for multiple objects) - Week 6, Mon
   * [x] Distribute (First and Last Shape selected) - Week 6, Mon
   * [x] Implement toggle for taking reference from shape vs slide - Week 6, Tue
+  * [x] Implement method to determine direction of shapes - Week 6, Thu
+  * [x] Point to and away from object - Week 6, Thu
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
+  * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement method to determine actual coordinates of shape instead of bounding box - Week 6, Thu
-  * [ ] Implement method to determine direction of shapes - Week 6, Thu
-  * [ ] Point to and away from object - Week 6, Thu
+  * [ ] Implement method to determine actual coordinates of shape instead of bounding box - Recess Week, Mon
+  * [ ] Refactor Code to follow Action Framework - Reccess Week, Wed
   * [ ] Ensure all functionalities are up and running - Reccess Week, Thu
-  * [ ] Create icons - Reccess Week, Thu
-  * [ ] Refactor Code to follow Action Framework - Week 7, Mon
+  * [ ] Defensive coding & refactoring of existing functionalities - Recess Week, Sat
   * [ ] Refactor architecture of Positions Lab - Week 7, Mon
+  * [ ] Create icons
   * [ ] Create unit/functional tests
 
 ###### Resize Lab
