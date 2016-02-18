@@ -110,8 +110,8 @@ permalink: /teams/codebender/
 * [x] Self-recovery from incomplete transmission with missing data - Week 4
 * [x] Self-recovery from corrupted transmission(happens when transmission rate is too high) - Week 5
 * [x] Self-recovery from corrupted negative number - Week 5
-* [ ] set up unit test using jasmine (coverage aim:90%) - Week 6
-* [ ] refactor the code to improve robustness - Week 7
+* [x] set up unit test using jasmine (coverage aim:90%) - Week 6
+* [x] refactor the code to improve robustness - Week 6
 * [ ] add new pattern: multi-line with X-coordinate - Week 8
 * [ ] Create GUI for graph plotting, which can be put into IDE - Week 9
 * [ ] Allow user to define coordinates and axis on GUI - Week 10
@@ -223,6 +223,7 @@ permalink: /teams/codebender/
 * Week 4, Fri - rewrite self-recovery for incompelte data transmission
 * Week 5, Thurs - fix the bug involving breaking down of negative number
 * Week 6, Mon - Set up Jasmine and BlanketJS for unit test and coverage
+* Week 6, Wed - write unit test (coverage 91%)
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
