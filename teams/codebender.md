@@ -34,9 +34,9 @@ permalink: /teams/codebender/
 * [x] Setup [Sensiolabs Insight](https://insight.sensiolabs.com/projects/a371effa-c11d-473f-844d-d5f421df79be) for automated push test - Week 3
 * [x] Get started with basic prototype - Week 4
 * [x] Fix bug related to flashing in iFrame - Week 5
-* [ ] Create test case for successful flashing - Week 5
+* [x] Create test case for flashing page - Week 5
 * [x] Refactor code before moving on - Week 6
-* [ ] Create landing page - Week 6
+* [x] Create landing page - Week 6
 * [ ] Create test case for landing page - Week 6
 * [ ] Create database for user and tier - Week 6
 * [ ] Create test case for user & tier database - Week 7
@@ -195,11 +195,13 @@ permalink: /teams/codebender/
 * Week 3, Sat - Started using SensioLabs' Insight as an automated code quality (also has security, performance, bugrisk, architectural checks) assurance and setup hook for github, such that every push will be reviewed automatically
 * Week 3, Sun - Merged 6 more PRs
 * Week 3, Sun - [Added first PHPUnit test](https://github.com/codebendercc/Neuralyzer/pull/12) (Merged)
-* Week 4, Thu - Created a basic prototype
+* Week 4, Mon - Created a basic prototype
 * Week 5, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/20)
 * Week 5, Sat - [Refactor existing code + follow good JS practice](https://github.com/codebendercc/Neuralyzer/pull/21)
 * Week 5, Sun - [Use Symfony's asset include for HTML importing](https://github.com/codebendercc/Neuralyzer/pull/22)
 * Week 6, Mon - Started on landing page
+* Week 6, Fri - Added test case for landing page
+* Week 6, Sat - Created database for user and tier levels
 
 #### Contribution to minor project - Powerpoint Labs
  * 
