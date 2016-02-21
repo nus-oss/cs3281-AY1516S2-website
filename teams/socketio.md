@@ -128,6 +128,7 @@ permalink: /teams/socketio/
 * [Set up framework](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
 * [Set up basic timeline and tooltip](https://github.com/paradite/cs3281viz/commit/c77a497ded06881c4b6d6575bcdcb2d783e0dda2) - Week 4, Wed
 * [Refactored code into proper components, added authentication for GitHub API](https://github.com/paradite/cs3281viz/commit/07421cceb72297c69f3e91eb8feb8b0c37c4a723) - Week 5, Wed
+* [Implemented commits grouped by date, updated tooltip](https://github.com/paradite/gitviz/commit/d0dc5908fb63be32c7792826e15e3419452831b1) - Week 6, Wed
 
 ###### Blog posts on d3.js/data visualization
 
