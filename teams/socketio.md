@@ -77,11 +77,15 @@ permalink: /teams/socketio/
   * [x] Connection Count logic - Week 4, Sun
   * [x] Broadcasting - Week 5, Sun
   * [x] Add support for touch - Week 5, Fri
-  * [ ] Displaying connection count - Week 5, Sun
   * [x] Screening clearing - Week 5, Sun
   * [x] Buffered drawing - Week 6, Mon
-  * [ ] In-memory Buffer + Cap (pruning)
-  * [ ] post
+  * [x] Displaying connection count - Week 6, Thur
+  * [x] Implemented drawing logic with 2D Canvas
+  * [x] Compatibility fixes for mobile and desktop - Week 6, Sun
+  * [ ] Server-sdie In-memory Buffer + Cap (pruning) - Recess Week
+  * [ ] Particles for other drawing participants
+  * [ ] Scale/tranformation for mobile devices with portrait viewport
+  * [ ] Tutorial/guide
   
 ## Contributions
 
@@ -109,6 +113,8 @@ permalink: /teams/socketio/
   * [Add support for touch event](https://github.com/nus-fboa2016-si/whiteboard/commit/7360c038018c76af10fc9acf6b49a0c7dbac811c) - Week 5, Fri
   * [Implement clear screen function](https://github.com/nus-fboa2016-si/whiteboard/commit/4c0000a8183f7376fd5aefee3efb919e8e206765) - Week 5, Sat
   * [Implemented buffer drawing and interpolation](https://github.com/nus-fboa2016-si/whiteboard/commit/dc772b8e00980a309223d6e7fce5c6ecf5eb2f17) [2](https://github.com/nus-fboa2016-si/whiteboard/commit/9ef304ea4f262af1dc85a12ef5c13f2e45995511) - Week 6, Mon
+  * [Fixed color picker on mobile](https://github.com/nus-fboa2016-si/whiteboard/commit/eca548045f8a83d6d3674408c9f610351439b9e7) - Week 6, Sun
+  * [Handled mouse leave window and mouse release outside window](https://github.com/nus-fboa2016-si/whiteboard/commit/d8a8ba7d945f19a1a8d4426ff5f65222b725d7fe) - Week 6, Sun
 
 #### Contribution to project Teammates (Minor Project)
 * [Fork and set up project](https://github.com/paradite/repo) - Week 4, Fri
