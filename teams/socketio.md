@@ -138,6 +138,7 @@ permalink: /teams/socketio/
 * [Implemented commits grouped by date, updated tooltip](https://github.com/paradite/gitviz/commit/d0dc5908fb63be32c7792826e15e3419452831b1) - Week 6, Wed
 
 ###### Blog posts on d3.js/data visualization
+* [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/)
 
 ### @YijinL (Leow Yijin)
 
