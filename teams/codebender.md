@@ -178,7 +178,7 @@ permalink: /teams/codebender/
 * Week 5, Sun - Made tests on fetch API
 * Week 5, Sun - Milestone2 list API implemented (branch [api-list](https://github.com/codebendercc/eratosthenes/tree/api-list))
 * Week 5, Sun - Made tests on list API
-* Week 6, Thu - Suggested and implemented command pattern and factory pattern for better modularization. After further refinement, it is now in [PR #39](https://github.com/codebendercc/eratosthenes/pull/39).
+* Week 6, Thu - Suggested and implemented command pattern and factory pattern for better modularization. After further refinement by teammates, it is now in [PR #39](https://github.com/codebendercc/eratosthenes/pull/39).
 * Week 6, Sun - Implemented FetchApiCommand [PR #44](https://github.com/codebendercc/eratosthenes/pull/44/files)
 * Week 6, Sun - Implemented ListApiCommand [PR #45](https://github.com/codebendercc/eratosthenes/pull/44/files)
 
