@@ -67,7 +67,9 @@ permalink: /teams/socketio/
     * [ ] implement io-emitter over chrome protocols - Week 6, Sun
     * [ ] deliver devtools MVP - Recess Week
   * [ ] implement mockups of devtool
-    * [ ] Basic HTML and CSS structure - Week 5, Sun
+    * [x] Display list of IO Managers in devtools
+    * [x] Display list of sockets in devtools
+    * [ ] HTML and CSS structure according to mockups - Week 5, Sun
     * [ ] JS Logic wiring - Week 8, Sun 
   
 * [ ] Whiteboard Guide
@@ -200,10 +202,17 @@ Note: links to github commits represent the last commit for that contribution
 * [Add webpack configuration to expose io as global variable for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/468200ed8ce2bb8cf9c4e4be83a86b1b2dee9170) - Week 3, Code Sprint 
 * [Add eslint support and default task for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/448d0e1e94ff0b1cf246aae2d8ecfbbb7b35c490) - Week 3, Code Sprint
 * [Learn how to build Chrome developer tools](https://github.com/mikelimantara/devtools) - Week 4, Sat
+* [Refactor: Remove dist folders and include in .gitignore](https://github.com/nus-fboa2016-si/socketio-devtool/commit/79bb92e155f9612d5f6ab1ac60ae8c4bbecee490) - Week 6, Wed
+* [Receive, save and display a list of IO Managers in devtools panel in a simple format](https://github.com/nus-fboa2016-si/socketio-devtool/commit/86bc516886abb89f6ad013894870f4ea48dce9e8) - Week 6, Wed
+* [Add gulp watch task to automate bundling with browserify](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b1a02c1e2c1187470aec35f012034364facb27d9) - Week 6, Wed
+* [Add error handling for gulp browserify task](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4c3b7c076ffed404d418dc31db0f2a796860f38c) - Week 6, Thurs
+* [Receive, save and display a list of sockets for a specific manager on clicked](https://github.com/nus-fboa2016-si/socketio-devtool/commit/1f941df3307062ec4537d3f7ea8df84740ab9e4e) - Week 6, Fri
 
 #### Contribution to project Teammates (Minor Project)
+* [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
 * [Setup project (In-Progress)](https://github.com/mikelimantara/repo) - Week 3, Code Sprint
 * Complete project setup to pass all the tests - Week 4, Wed
+* [Fix Issue #4802](https://github.com/TEAMMATES/teammates/pull/4811) - Week 6, Sun
 
 ### @whattokingu (Zheng Weihan)
 
