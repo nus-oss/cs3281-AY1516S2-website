@@ -34,25 +34,25 @@ permalink: /teams/codebender/
 * [x] Setup [Sensiolabs Insight](https://insight.sensiolabs.com/projects/a371effa-c11d-473f-844d-d5f421df79be) for automated push test - Week 3
 * [x] Get started with basic prototype - Week 4
 * [x] Fix bug related to flashing in iFrame - Week 5
-* [x] Create test case for flashing page - Week 5
+* [x] Create test for flashing page - Week 5
 * [x] Refactor code before moving on - Week 6
 * [x] Create landing page - Week 6
-* [ ] Create test case for landing page - Week 6
-* [ ] Create database for user and tier - Week 6
-* [ ] Create test case for user & tier database - Week 7
+* [x] Create test for landing page - Week 6
+* [x] Create database for user and tier - Week 6
+* [x] Create test for user & tier database - Week 7
 * [ ] Create registration and login page - Week 7
-* [ ] Create test case for login and registration and database linkage - Week 7
+* [ ] Create test for login and registration and database linkage - Week 7
 * [ ] Create database for firmware - Week 8
-* [ ] Create test case to ensure that user and firmware database is linked correctly  - Week 8
+* [ ] Create test to ensure that user and firmware database is linked correctly  - Week 8
 * [ ] Create show info page - Week 8
-* [ ] Create test case to ensure show info page shows correct info - Week 9
+* [ ] Create test to ensure show info page shows correct info - Week 9
 * [ ] Create dashboard page - Week 9
-* [ ] Create test case to ensure dashboard page shows correct and links correctly - Week 10
+* [ ] Create test to ensure dashboard page shows correct and links correctly - Week 10
 * [ ] Create log/analytics database - Week 10
 * [ ] Create Analytics page - Week 11
-* [ ] Create test case to ensure Analytic page shows correct analytics - Week 11
+* [ ] Create test to ensure Analytic page shows correct analytics - Week 11
 * [ ] Create admin page - Week 12
-* [ ] Create test case for admin page and features - Week 12
+* [ ] Create test for admin page and features - Week 12
 
 ## Workplan for Eratosthenes
 
@@ -211,15 +211,22 @@ permalink: /teams/codebender/
 * Week 3, Sun - Merged 6 more PRs
 * Week 3, Sun - [Added first PHPUnit test](https://github.com/codebendercc/Neuralyzer/pull/12) (Merged)
 * Week 4, Mon - Created a basic prototype
-* Week 5, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/20)
-* Week 5, Sat - [Refactor existing code + follow good JS practice](https://github.com/codebendercc/Neuralyzer/pull/21)
-* Week 5, Sun - [Use Symfony's asset include for HTML importing](https://github.com/codebendercc/Neuralyzer/pull/22)
+* Week 5, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/23)
 * Week 6, Mon - Started on landing page
-* Week 6, Fri - Added test case for landing page
+* Week 6, Fri - [Landing page initial commit](https://github.com/codebendercc/Neuralyzer/pull/24)
+* Week 6, Fri - Added unit test for landing page
 * Week 6, Sat - Created database for user and tier levels
+* Week 6, Sat - Created functional tests for user and tier database
 
 #### Contribution to minor project - Powerpoint Labs
- * 
+* Week 6, Fri - Setup of project environment complete.
+* Week 6, Fri - Found out that Youtube's base.js takes up the most time (10216ms out of total of 15000ms) during page load.
+* Week 6, Sat - Oddly, base.js loads very fast when I'm at home (125ms) vs when I'm at school (10216ms), will look into why that is so.
+* Week 6, Sun - Ran a performance check on Powerpoint Labs website, found most images not compressed.
+* Week 6, Sun - Compressed all images used for Powerpoint Labs website and [submitted first PR for Powerpoint Labs](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/27)
+
+#### Technology expertise in Web Performance
+* Week 7, Mon - [Wrote a blog post on compressing images for Powerpoint Labs](http://alexyy.com)
 
 ### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
