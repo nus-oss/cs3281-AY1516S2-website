@@ -169,8 +169,8 @@ Note: links to github commits represent the last commit for that contribution
 * [Fixed z-index generator function to work for non-chrome browsers](https://github.com/nus-fboa2016-si/whiteboard/commit/b38260dd30a16d54f01ce85a5dfbfea636cefdcb) - Week 6, Sun
 
 #### Contribution to minor project HubTurbo
-# [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
-# [#1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
+* [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
+* [#1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
 
 #### Technology expertise in cloud deployment and monitoring
 
