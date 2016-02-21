@@ -263,9 +263,13 @@ permalink: /teams/codebender/
 * Week 5, Sat - Created [test for getExamples API](https://github.com/codebendercc/eratosthenes/commit/f4e7fc3027270e59e22cc65a0401756dfe4729b3)
 * Week 5, Sun - Implemented the [getExampleCode API](https://github.com/codebendercc/eratosthenes/commit/71406c221b926ad94bd14e757ed93093fea984de)
 * Week 5, Sun - Created [test for getExampleCode API](https://github.com/codebendercc/eratosthenes/commit/cd56d7d6e820eb10504e9c53dca4017ea2aa18ee)
+* Week 6, Tue - Completed the command pattern-based getExamples API ([Pull Request #46](https://github.com/codebendercc/eratosthenes/pull/46))
+* Week 6, Wed - Completed the command pattern-based getExampleCode API ([Pull Request #47](https://github.com/codebendercc/eratosthenes/pull/47))
 
 #### Contribution to minor project Teammates
-* 
+* Project set up / workflow understand - Week 5, Sat
+* PR [#4807](https://github.com/TEAMMATES/teammates/pull/4807) for issue [#3465](https://github.com/TEAMMATES/teammates/issues/3465) -Week 6, Sat
+* PR [#4810](https://github.com/TEAMMATES/teammates/pull/4810) for issue [#3922](https://github.com/TEAMMATES/teammates/issues/3922) -Week 6, Sun
 
 ###### Past Contribution to HubTurbo
 * PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
