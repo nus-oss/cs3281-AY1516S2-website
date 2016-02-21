@@ -82,8 +82,8 @@ permalink: /teams/socketio/
   * [x] Displaying connection count - Week 6, Thur
   * [x] Implemented drawing logic with 2D Canvas
   * [x] Compatibility fixes for mobile and desktop - Week 6, Sun
-  * [ ] Server-sdie In-memory Buffer + Cap (pruning) - Recess Week
-  * [ ] Particles for other drawing participants
+  * [ ] Server-side In-memory Buffer + Cap (pruning) - Recess Week
+  * [ ] Particles for other drawing participants - Recess Week
   * [ ] Scale/tranformation for mobile devices with portrait viewport
   * [ ] Tutorial/guide
   
