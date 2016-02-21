@@ -159,7 +159,8 @@ Note: links to github commits represent the last commit for that contribution
 * [Figure out how to layer 2d canvas and webGL layers without conflict](http://jsfiddle.net/7McS2/4/) - Week 5, Fri
 * [Create 2d canvas based whiteboard for separate layer](https://github.com/nus-fboa2016-si/whiteboard/tree/canvas) - Week 5, Sun
 * [Add inter-client communication for the 2d branch](https://github.com/nus-fboa2016-si/whiteboard/commit/e82ebdc208ffa9714686033a7c7991da20255214) - Week 5, Sun
-* Learn canvas and svg APIs, plan new architecture for whiteboard code (bottom drawing canvas layer, middle transparent 3d effects canvas layer, top HUD component layer) : will be a pseudo-library that generates the whiteboard at a target element for easy integration into official socket.io webpage - Week 6, Mon-Thu
+* Learn canvas and svg APIs - Week 6, Mon-Thu
+* Plan new architecture for whiteboard code (layered architecture draw|gfx|overlay) make exportable function that generates the whiteboard at a target element for easy integration into official socket.io webpage - Week 6, Wed-Fri
 * [Merge 2d and 3d branches and make both versions accessible to clients](https://github.com/nus-fboa2016-si/whiteboard/commit/864acc290c2a662dfaac520d4785b1bb112ae0b4) - Week 6, Tue
 * [Start implementing and refactoring into new architecture](https://github.com/nus-fboa2016-si/whiteboard/commit/79fc4c3551d1557cdd8fd7f0ecb176fa5e594b13) - Week 6, Sat
 * [Combine, position, and layer 2d and 3d canvases](https://github.com/nus-fboa2016-si/whiteboard/commit/58049282b563948757d55ab48930e03ee5584063) - Week 6, Sat
@@ -170,7 +171,7 @@ Note: links to github commits represent the last commit for that contribution
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
-* [#1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
+* [Issue #1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
 
 #### Technology expertise in cloud deployment and monitoring
 
