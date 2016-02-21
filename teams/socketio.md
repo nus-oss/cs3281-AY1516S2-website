@@ -63,8 +63,9 @@ permalink: /teams/socketio/
     * [x] Getting started with building Chrome Dev Tools - Week 4, Sun
     * [x] getting devtool to talk to page - Week 4, Sun
     * [x] getting devtool to talk to socket.io in page - Week 5, Fri
-    * [ ] implement io-emitter over chrome protocols - Week 7, Sun
-    * [ ] find ways to inspect io packets (to be added) - Week 10, Sun
+    * [X] find ways to inspect io packets - Week 10, Sun
+    * [ ] implement io-emitter over chrome protocols - Week 6, Sun
+    * [ ] deliver devtools MVP - Recess Week
   * [ ] implement mockups of devtool
     * [ ] Basic HTML and CSS structure - Week 5, Sun
     * [ ] JS Logic wiring - Week 8, Sun 
@@ -181,10 +182,13 @@ Note: links to github commits represent the last commit for that contribution
 * Added [task](https://github.com/whattokingu/socket.io-client/commit/fdef60a24ea3edd5f0da746f5f7a133844fe05e1) in Gulp to run Zuul - Week 3, CS
 * Worked on improvements to PR for [issue #331](https://github.com/socketio/socket.io-client/issues/331) based on feedback from Nkzawa - Week 5, Thurs
 * Worked on SI-devtool inter-process communication. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/083d0ed33bc6e2c76df124b825b103c9aa19d427) - Week 6, Mon
+* Implement message-passing and listening from SI to devtools. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/489f646bf053a3c15ce71ca3ab016538f11c9551) - Week 6, Thurs
 
 
 #### Contribution to minor project HubTurbo
-* PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196] -Week 4, Mon
+* PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
+* PR [#1255](https://github.com/HubTurbo/HubTurbo/pull/1255) for issue
+[#1102](https://github.com/HubTurbo/HubTurbo/issues/1102) - Week 6, Thurs
 
 #### Technology expertise in RESTful APIs
 
@@ -207,6 +211,7 @@ Note: links to github commits represent the last commit for that contribution
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
+* [Merge LMouseUpListener with PPMouse](https://github.com/PowerPointLabs/PowerPointLabs/pull/949) - Week 6, Wed
 
 #### Technology expertise in Git workflow
 
