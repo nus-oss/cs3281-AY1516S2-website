@@ -131,22 +131,28 @@ permalink: /teams/codebender/
 * Week 3, Mon - Presented on Eratosthene's high-level architecture
 * Week 3, Thu - Resolved an issue with local tests (see [blog post on "Using Vagrant with Symfony"](http://cs3281-2.blogspot.sg/2016/01/using-vagrant-with-symfony.html))
 * Week 3, Sun - [Pull Request #16](https://github.com/codebendercc/eratosthenes/pull/16) (Merged)
-* Week 3, Sun - [Pull Request #24](https://github.com/codebendercc/eratosthenes/pull/24)
+* Week 3, Sun - [Pull Request #24](https://github.com/codebendercc/eratosthenes/pull/24) (Superceded)
 * Week 4, Wed - [Resolved issue #25](https://github.com/codebendercc/eratosthenes/issues/25)
 * Week 4, Wed - [Resolved issue #29](https://github.com/codebendercc/eratosthenes/issues/29)
 * Week 4, Sun - [Resolved issue #35](https://github.com/codebendercc/eratosthenes/issues/35)
-* Week 4, Sun - [Pull Request #34](https://github.com/codebendercc/eratosthenes/pull/34)
+* Week 4, Sun - [Pull Request #34](https://github.com/codebendercc/eratosthenes/pull/34) (Superceded)
 * Week 5, Wed - [Designed the APIs](https://docs.google.com/document/d/1-eUlYzHQypgWRRDwJ7lsj3f8nrbVt7owkldCdUSNKVs/edit?usp=sharing) that are to be implemented
-* Week 5, Sat - [Pull Request #38](https://github.com/codebendercc/eratosthenes/pull/38) - A hotfix for the existing codebase
+* Week 5, Sat - [Pull Request #38](https://github.com/codebendercc/eratosthenes/pull/38) - A hotfix for the existing codebase (Merged)
 * Week 5, Sat - Implemented the [getVersions API](https://github.com/codebendercc/eratosthenes/commit/c6d8b30a3f567dcecb5bc816977ae91aa96444aa)
 * Week 5, Sat - Wrote [tests for the getVersions API](https://github.com/codebendercc/eratosthenes/commit/cc3e92ac8be5db649a9e6f764a2cb863f01abb72)
-* Week 5, Sun - Implemented the [getKeywords API](https://github.com/codebendercc/eratosthenes/commit/93d4cdbb995cbaef6a653d3a449938b2dac3e659) (pending clarification from John)
-* Week 5, Sun - Created [tests for the getKeywords API](https://github.com/codebendercc/eratosthenes/commit/137dea9adab330167de28d95acc48ee6651967fb) (pending clarification from John)
-* Week 5, Sun - Implemented the checkGithubUpdates API ([80b8b38](https://github.com/codebendercc/eratosthenes/commit/80b8b389a0b9c15b0978d83f919b2b2e96fcdc7d) & [52898a0](https://github.com/codebendercc/eratosthenes/commit/52898a0b0f633e1975449dd2d71b4b6ed3f93651)) (pending clarification from John)
-* Week 5, Sun - Wrote tests for the checkGithubUpdates API ([75af2f5](https://github.com/codebendercc/eratosthenes/commit/75af2f52e35f700e606cc735b2ee4e72353b5285) & [5d9602a](https://github.com/codebendercc/eratosthenes/commit/5d9602a1bbcfe9ea105106a60b1933216fe0443a)) (pending clarification from John)
+* Week 5, Sun - Implemented the [getKeywords API](https://github.com/codebendercc/eratosthenes/commit/93d4cdbb995cbaef6a653d3a449938b2dac3e659)
+* Week 5, Sun - Created [tests for the getKeywords API](https://github.com/codebendercc/eratosthenes/commit/137dea9adab330167de28d95acc48ee6651967fb)
+* Week 5, Sun - Implemented the checkGithubUpdates API ([80b8b38](https://github.com/codebendercc/eratosthenes/commit/80b8b389a0b9c15b0978d83f919b2b2e96fcdc7d) & [52898a0](https://github.com/codebendercc/eratosthenes/commit/52898a0b0f633e1975449dd2d71b4b6ed3f93651))
+* Week 5, Sun - Wrote tests for the checkGithubUpdates API ([75af2f5](https://github.com/codebendercc/eratosthenes/commit/75af2f52e35f700e606cc735b2ee4e72353b5285) & [5d9602a](https://github.com/codebendercc/eratosthenes/commit/5d9602a1bbcfe9ea105106a60b1933216fe0443a))
+* Week 6, Wed - Implemented a command pattern-based API dispatcher with tests so that APIs can be modularized and submitted in separate PRs ([Pull Request #39](https://github.com/codebendercc/eratosthenes/pull/39))
+* Week 6, Wed - Completed the command pattern-based getVersions API ([Pull Request #40](https://github.com/codebendercc/eratosthenes/pull/40))
+* Week 6, Wed - Completed the command pattern-based getKeywords API ([Pull Request #41](https://github.com/codebendercc/eratosthenes/pull/41))
+* Week 6, Wed - Completed the command pattern-based checkGithubUpdates API ([Pull Request #42](https://github.com/codebendercc/eratosthenes/pull/42))
 
 #### Contribution to minor project - Teammates
- * 
+* Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
+* Week 6, Sun - Development process understood
+* Week 6, Sun - Resolved [issue #4645](https://github.com/TEAMMATES/teammates/issues/4645) in [PR #4809](https://github.com/TEAMMATES/teammates/pull/4809)
 
 #### Technology expertise in Information Security
 * **Short-Term Plan**: To expose myself to as many aspects of Information Security as possible (e.g. Cryptography, Web Security, Network Security, System Security, Software Security, Pen Testing) and in the process, acquire practical skills that can be applied in the information security industry.
@@ -156,6 +162,7 @@ permalink: /teams/codebender/
 * Sharing on Cross-Site Request Forgeries ([Blog Post on CSRF](http://cs3281-2.blogspot.sg/2016/01/cross-site-request-forgeries-csrf.html))
 * Write-up on my participation in Insomni'hack 2016: ([Blog Post on the Smartcat Challenge](http://cs3281-2.blogspot.sg/2016/01/te-insomnihack-2016-teaser-smartcat-web.html))
 * Write-up on [cracking the substitution cipher](http://cs3281-2.blogspot.sg/2016/01/te-cracking-substitution-cipher.html)
+* Attended security wednesday talk on ["Building next generation security tools with Unicorn engine"](https://www.facebook.com/events/329195357204132/)
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
