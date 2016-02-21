@@ -94,16 +94,16 @@ permalink: /teams/socketio/
 #### Contribution to project SI
 
 ###### Main codebase
-* [Set up own chat app using socket.io](https://github.com/paradite/socket-io-chat) - Week 1, Thu
-* [Draw architecture overview for socket.io](http://www.gliffy.com/go/publish/9806563) - Week 2, Sun
-* [Implement Babel for socket.io commit 1](https://github.com/nus-fboa2016-si/socket.io/commit/3cc6874205177e556d5d9e743d08992219f369cd) [commit 2](https://github.com/nus-fboa2016-si/socket.io/commit/2cb967a2033a82571ab8841296afa8e9da828065) - Week 2, Sun
-* [Implement Babel for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/94127a34656a3d959625eda12a17113a46786d0d) - Week 3, Tue
-* [Implement Babel for engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/76106776e68f94fff5bad330ba26de7401c61598) - Week 3, Tue
-* [Implement Babel for engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/951a5c950230b2dfb968e85a5e7d42d34c932299) - Week 3, Thu
-* [Consolidated list of issues that can be closed](https://gist.github.com/paradite/b98c85ab6c8af5c2df21) - Week 3, Sat
-* [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
-* [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
-* [Added sourcemap for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
+  * [Set up own chat app using socket.io](https://github.com/paradite/socket-io-chat) - Week 1, Thu
+  * [Draw architecture overview for socket.io](http://www.gliffy.com/go/publish/9806563) - Week 2, Sun
+  * [Implement Babel for socket.io commit 1](https://github.com/nus-fboa2016-si/socket.io/commit/3cc6874205177e556d5d9e743d08992219f369cd) [commit 2](https://github.com/nus-fboa2016-si/socket.io/commit/2cb967a2033a82571ab8841296afa8e9da828065) - Week 2, Sun
+  * [Implement Babel for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/94127a34656a3d959625eda12a17113a46786d0d) - Week 3, Tue
+  * [Implement Babel for engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/76106776e68f94fff5bad330ba26de7401c61598) - Week 3, Tue
+  * [Implement Babel for engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/951a5c950230b2dfb968e85a5e7d42d34c932299) - Week 3, Thu
+  * [Consolidated list of issues that can be closed](https://gist.github.com/paradite/b98c85ab6c8af5c2df21) - Week 3, Sat
+  * [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
+  * [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
+  * [Added sourcemap for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
 
 ###### Set up front-end UI and interactions for whiteboard example: [repo](https://github.com/nus-fboa2016-si/whiteboard)
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
@@ -117,7 +117,7 @@ permalink: /teams/socketio/
   * [Handled mouse leave window and mouse release outside window](https://github.com/nus-fboa2016-si/whiteboard/commit/d8a8ba7d945f19a1a8d4426ff5f65222b725d7fe) - Week 6, Sun
 
 #### Contribution to project Teammates (Minor Project)
-* [Fork and set up project](https://github.com/paradite/repo) - Week 4, Fri
+  * [Fork and set up project](https://github.com/paradite/repo) - Week 4, Fri
 
 #### Technology expertise in web-based data visualization
 
@@ -159,6 +159,33 @@ Note: links to github commits represent the last commit for that contribution
 * [Figure out how to layer 2d canvas and webGL layers without conflict](http://jsfiddle.net/7McS2/4/) - Week 5, Fri
 * [Create 2d canvas based whiteboard for separate layer](https://github.com/nus-fboa2016-si/whiteboard/tree/canvas) - Week 5, Sun
 * [Add inter-client communication for the 2d branch](https://github.com/nus-fboa2016-si/whiteboard/commit/e82ebdc208ffa9714686033a7c7991da20255214) - Week 5, Sun
+* Learn canvas and svg APIs, plan new architecture for whiteboard code (bottom drawing canvas layer, middle transparent 3d effects canvas layer, top HUD component layer) : will be a pseudo-library that generates the whiteboard at a target element for easy integration into official socket.io webpage - Week 6, Mon-Thu
+* [Merge 2d and 3d branches and make both versions accessible to clients](https://github.com/nus-fboa2016-si/whiteboard/commit/864acc290c2a662dfaac520d4785b1bb112ae0b4) - Week 6, Tue
+* [Start implementing and refactoring into new architecture](https://github.com/nus-fboa2016-si/whiteboard/commit/79fc4c3551d1557cdd8fd7f0ecb176fa5e594b13) - Week 6, Sat
+* [Combine, position, and layer 2d and 3d canvases](https://github.com/nus-fboa2016-si/whiteboard/commit/58049282b563948757d55ab48930e03ee5584063) - Week 6, Sat
+* [Implement cache to preserve data upon canvas resizing](https://github.com/nus-fboa2016-si/whiteboard/commit/13fbcb2e629472b26bafe39fa61a96cf23f341d7) - Week 6, Sat
+* [Merge connection count component onto overlay layer as svg text](https://github.com/nus-fboa2016-si/whiteboard/commit/facf6bbbd4fb9c9a38983ee2417c055a789b718b) - Week 6, Sat
+* [Added middleware code to transform mouse event data relative to containing element](https://github.com/nus-fboa2016-si/whiteboard/commit/1ef3cecc05c0fb9b611acea78c715a934215335d) - Week 6, Sat
+* [Fixed z-index generator function to work for non-chrome browsers](https://github.com/nus-fboa2016-si/whiteboard/commit/b38260dd30a16d54f01ce85a5dfbfea636cefdcb) - Week 6, Sun
+
+#### Contribution to minor project HubTurbo
+# [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
+# [#1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
+
+#### Technology expertise in cloud deployment and monitoring
+
+##### Short term plan
+* Take online courses on cloud deployment
+* Write blog post(s) on the purpose of cloud deployment, when and why it is needed, its relation to the build process
+* Set up and deploy applications on all major cloud hosting/deployment services (GAE, AWS, EB, DO, Heroku etc)
+* Write new user tutorials for the above, focusing on common newbie mistakes/confusion
+* Research on industry standard tools and systems for cloud deployment and management
+* In depth comparison on top 3-5 most popular tools for each area of responsibility (eg load balancing, monitoring, deployment, CI) and when to use which.
+* Pick a sub-area of cloud deployment to go indepth (eg load balancing? monitoring of critical resources? Ensure accessibility of resources around world?)
+
+##### Long term plan
+* Deploy and manage a non-trivial service/app in the long term
+* Take relevant modules liks CS5224
 
 
 ### @mikelimantara (Michael Limantara)
