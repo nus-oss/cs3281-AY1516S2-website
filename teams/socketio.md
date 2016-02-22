@@ -63,8 +63,9 @@ permalink: /teams/socketio/
     * [x] Getting started with building Chrome Dev Tools - Week 4, Sun
     * [x] getting devtool to talk to page - Week 4, Sun
     * [x] getting devtool to talk to socket.io in page - Week 5, Fri
-    * [X] find ways to inspect io packets - Week 10, Sun
-    * [ ] implement io-emitter over chrome protocols - Week 6, Sun
+    * [x] find ways to inspect io packets - Week 10, Sun
+    * [x] implement io-emitter over chrome protocols - Week 6, Sun
+    * [ ] enhance reliability of messaging protocols - Recess Week
     * [ ] deliver devtools MVP - Recess Week
   * [ ] implement mockups of devtool
     * [x] Display list of IO Managers in devtools
@@ -227,6 +228,7 @@ Note: links to github commits represent the last commit for that contribution
 * Worked on improvements to PR for [issue #331](https://github.com/socketio/socket.io-client/issues/331) based on feedback from Nkzawa - Week 5, Thurs
 * Worked on SI-devtool inter-process communication. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/083d0ed33bc6e2c76df124b825b103c9aa19d427) - Week 6, Mon
 * Implement message-passing and listening from SI to devtools. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/489f646bf053a3c15ce71ca3ab016538f11c9551) - Week 6, Thurs
+* Parser for packets received by Dev tools. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/8f769b5ff4827ce65b5cb5306cee8546ede70ba4) - Recess Week, Sun
 
 
 #### Contribution to minor project HubTurbo
