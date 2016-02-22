@@ -50,7 +50,7 @@ permalink: /teams/hubturbo/
 	* [x] Open/Close Issues
 	* [x] Issue Comments Retriever
 * [ ] Covering more use cases, UI improvements, refactoring & testing - Week 6
-	* [ ] Issue Creator
+	* [x] Issue Creator
 	* [ ] Milestone Picker
 	* [ ] Assignee Picker
 	* [ ] Open/Close Issues
@@ -115,8 +115,29 @@ permalink: /teams/hubturbo/
 ##### Contribution to MAJOR project HT
 
 ##### Contribution to MINOR project [opencv](https://github.com/Itseez/opencv)
+- [Forked the repo](https://github.com/jinified/opencv)
+- Read contribution guideline
+- [Created sample application to understand more about the project](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/draw.py)
 
-##### Technology expertise in Computer Vision 
+##### Technology expertise in Computer Vision for Autonomous Systems
+Short term plan 
+- Analyzes main challenges for computer vision application in outdoor scenario i.e underwaater. 
+- Read up on most cited computer vision journal papers to understand most fundamental algortihms in the field.
+- Watch computer vision and machine learning related lecture videos to complement reading 
+ - [University of Central Florida Computer Vision 2012, Mubarak Shah](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)
+ - [Colorado School of Mines CSCI 512, William Hoff](https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL7v9EfkjLswLfjcI-qia-Z-e3ntl9l6vp)
+- Identify different areas of computer vision that I will work on and its sample applications
+
+Long term plan 
+- Integrate vision algorithm with [ROS(Robot Operating System)](http://www.ros.org/) which is commonly used in the industry and various robotics projects to create robotic software.
+- Successfully completed a vision task specified in [Robosub rules](http://www.auvsifoundation.org/foundation/competitions/competition-central/robosub)
+- Write a vision plugin for ROS
+
+Progress
+- [Created a GitHub repository for codes related to this project](https://github.com/jinified/visionx)
+- [Complete research of potential focus areas of the project including relevant journal papers](https://github.com/jinified/visionx/blob/master/doc/Research.md)
+- Complete basic ROS tutorials (needed to integrate vision algorithms)
+
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
