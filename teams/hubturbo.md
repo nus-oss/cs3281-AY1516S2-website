@@ -109,7 +109,7 @@ permalink: /teams/hubturbo/
 
 * [Pull Request #1187](https://github.com/HubTurbo/HubTurbo/pull/1187) (Merged) - Week 1, Thu
 * [Pull Request #1195](https://github.com/HubTurbo/HubTurbo/pull/1195) - Week 2, Tue
-* [Pull Request #1204](https://github.com/HubTurbo/HubTurbo/pull/1204) - Week 2, Fri
+* [Pull Request #1204](https://github.com/HubTurbo/HubTurbo/pull/1204) (Merged) - Week 2, Fri
 * [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators) - Week 3, Mon
 * [Pull Request #1212](https://github.com/HubTurbo/HubTurbo/pull/1212) - Week 3, Mon
 * [Rewrite LabelPickerDialog view in fxml](https://github.com/nus-fboa2016-ht/HubTurbo/blob/SuperAwesomeLabelPicker/src/main/resources/ui/fxml/LabelPickerView.fxml) - Week 3, Sun
