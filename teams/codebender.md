@@ -78,14 +78,14 @@ permalink: /teams/codebender/
     * [X] Change example library folder structure to include versions
 * [x] **Milestone 2 Part 1** - Due Week 5, Wed
     * [X] Design public APIs: specify request urls and parameters
-* [ ] **Milestone 2 Part 2** - Due Week 6, Sun
-    * [ ] Create ApiController
-    * [ ] Create tests for ApiController
-    * [ ] Create ApiHandler
-    * [ ] Create tests for ApiController
+* [x] **Milestone 2 Part 2** - Due Week 6, Sun
+    * [X] Create ApiController
+    * [X] Create tests for ApiController
+    * [X] Create ApiHandler
+    * [X] Create tests for ApiControlle
 * [ ] **Milestone 3** - Due Week 7, Mon
     * [ ] Change View Templates to include versions
-    * [ ] Change ViewsController
+    * [ ] Create ApiViewsController
 * [ ] **Milestone 4** - Due Week 7, Wed
     * [ ] Component integration
     * [ ] Create integration tests
