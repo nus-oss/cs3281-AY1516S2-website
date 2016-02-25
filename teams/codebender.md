@@ -273,14 +273,15 @@ permalink: /teams/codebender/
 * Week 5, Sun - Created [test for getExampleCode API](https://github.com/codebendercc/eratosthenes/commit/cd56d7d6e820eb10504e9c53dca4017ea2aa18ee)
 * Week 6, Tue - Completed the command pattern-based getExamples API ([Pull Request #46](https://github.com/codebendercc/eratosthenes/pull/46))
 * Week 6, Wed - Completed the command pattern-based getExampleCode API ([Pull Request #47](https://github.com/codebendercc/eratosthenes/pull/47))
+* Recess Week - [Implement new view for viewing library codes](https://github.com/nus-fboa2016-CB/eratosthenes/commit/fa0b9bb4a28a31ad0d611f375c6363867ef0d56e)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
-* PR [#4807](https://github.com/TEAMMATES/teammates/pull/4807) for issue [#3465](https://github.com/TEAMMATES/teammates/issues/3465) -Week 6, Sat
-* PR [#4810](https://github.com/TEAMMATES/teammates/pull/4810) for issue [#3922](https://github.com/TEAMMATES/teammates/issues/3922) -Week 6, Sun
+* (Merged) PR [#4807](https://github.com/TEAMMATES/teammates/pull/4807) for issue [#3465](https://github.com/TEAMMATES/teammates/issues/3465) -Week 6, Sat 
+* (Merged) PR [#4810](https://github.com/TEAMMATES/teammates/pull/4810) for issue [#3922](https://github.com/TEAMMATES/teammates/issues/3922) -Week 6, Sun 
 
 ###### Past Contribution to HubTurbo
-* PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
+* (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
 
 #### Technology expertise in Node.js
 ######Short-term plan:
@@ -300,3 +301,4 @@ permalink: /teams/codebender/
 * [Node.js: what, why, how](http://blog.gisonrg.me/2016/node-js-what-why-how/): a blog post to introduce Node.js
 * Leanring Node.js topics by attempting workshops provided on [NodeSchool.io](http://nodeschool.io)
    * [My solutions for nodeschoo.io](https://github.com/Gisonrg/collections/tree/master/nodeschool)
+* [An interesting JavaScript interview question](http://blog.gisonrg.me/2016/interesting-js-question/): starting from a JavaScript interview question to share my learning and understanding of some JavaScript features like hoisting, "this", and scope.
