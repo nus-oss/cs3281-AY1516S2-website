@@ -148,6 +148,13 @@ permalink: /teams/codebender/
 * Week 6, Wed - Completed the command pattern-based getVersions API ([Pull Request #40](https://github.com/codebendercc/eratosthenes/pull/40))
 * Week 6, Wed - Completed the command pattern-based getKeywords API ([Pull Request #41](https://github.com/codebendercc/eratosthenes/pull/41))
 * Week 6, Wed - Completed the command pattern-based checkGithubUpdates API ([Pull Request #42](https://github.com/codebendercc/eratosthenes/pull/42))
+* Recess Week, Wed - [Forked the Eratosthenes repository](https://github.com/nus-fboa2016-CB/eratosthenes/tree/v2-api-development) and merged existing PRs so that work on the next milestone may begin
+* Recess Week, Wed - Add routes and view controller for the new version of APIs
+* Recess Week, Wed - Implement v2 of gitUpdatesAction API
+* Recess Week, Wed - Implement v2 of toggleStatusAction API
+* Recess Week, Fri - Implement v2 of searchAction API
+* Recess Week, Fri - Implement v2 of downloadAction API
+* Recess Week, Fri - Refactored existing code
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
@@ -164,6 +171,7 @@ permalink: /teams/codebender/
 * Write-up on [cracking the substitution cipher](http://cs3281-2.blogspot.sg/2016/01/te-cracking-substitution-cipher.html)
 * Attended security wednesday talk on ["Building next generation security tools with Unicorn engine"](https://www.facebook.com/events/329195357204132/)
 * Attended [Null Singapore monthly meetup](http://www.meetup.com/Null-Singapore-The-Open-Security-Community/events/228606152/) on DDOS and DNS Hijacking
+* Write-up on a cryptographic challenge in Insomni'hack 2016 ([blog post on the challenge](http://cs3281-2.blogspot.com/2016/02/te-insomnihack-2016-teaser-bring-noise.html))
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
