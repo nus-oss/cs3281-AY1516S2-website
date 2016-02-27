@@ -47,9 +47,9 @@ permalink: /teams/socketio/
   * [x] engine.io-client - Week 3, CS
   
 ### Targets after Code Sprint
-* [ ] Merge pull request for gulp+webpack+babel - Week 4, Sun
+* [x] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
-  * [x] ESLint + Gulp Task + Syntax - Week 5, Sun
+  * [ ] ESLint + Gulp Task + Syntax - Week 5, Sun
   * [ ] Implement SourceMaps + Test that it is served - Week 5, Sun
   * [ ] Uglify
   * [ ] Add Sourcemaps to CDN
