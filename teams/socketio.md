@@ -47,9 +47,9 @@ permalink: /teams/socketio/
   * [x] engine.io-client - Week 3, CS
   
 ### Targets after Code Sprint
-* [ ] Merge pull request for gulp+webpack+babel - Week 4, Sun
+* [x] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
-  * [x] ESLint + Gulp Task + Syntax - Week 5, Sun
+  * [ ] ESLint + Gulp Task + Syntax - Week 5, Sun
   * [ ] Implement SourceMaps + Test that it is served - Week 5, Sun
   * [ ] Uglify
   * [ ] Add Sourcemaps to CDN
@@ -59,18 +59,18 @@ permalink: /teams/socketio/
   * [ ] Add 'Files' to Package.json
   
 * [ ] Devtools - Socket.io Inspector
-  * [ ] Handshake with page to check if socket.io is used
+  * [x] Handshake with page to check if socket.io is used
     * [x] Getting started with building Chrome Dev Tools - Week 4, Sun
     * [x] getting devtool to talk to page - Week 4, Sun
     * [x] getting devtool to talk to socket.io in page - Week 5, Fri
     * [x] find ways to inspect io packets - Week 10, Sun
     * [x] implement io-emitter over chrome protocols - Week 6, Sun
     * [ ] enhance reliability of messaging protocols - Recess Week
-    * [ ] deliver devtools MVP - Recess Week
+    * [x] deliver devtools MVP - Recess Week
   * [ ] implement mockups of devtool
     * [x] Display list of IO Managers in devtools
     * [x] Display list of sockets in devtools
-    * [ ] HTML and CSS structure according to mockups - Week 5, Sun
+    * [x] ~~HTML and CSS structure according to mockups - Week 5, Sun~~ (Mockups not given, but we have an idea of how it roughly looks and implemented it)
     * [ ] JS Logic wiring - Week 8, Sun 
   
 * [ ] Whiteboard Guide
@@ -232,6 +232,9 @@ Note: links to github commits represent the last commit for that contribution
 * Worked on SI-devtool inter-process communication. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/083d0ed33bc6e2c76df124b825b103c9aa19d427) - Week 6, Mon
 * Implement message-passing and listening from SI to devtools. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/489f646bf053a3c15ce71ca3ab016538f11c9551) - Week 6, Thurs
 * Parser for packets received by Dev tools. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/8f769b5ff4827ce65b5cb5306cee8546ede70ba4) - Recess Week, Sun
+* Styling for Devtool. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a62bd57d4529e5f00a040a9227057bf108755dfb) - Recess Week
+* Deliver dev-tool MVP together with Michael [link](https://github.com/nus-fboa2016-si/socketio-devtool) - Recess Week
+* [README](https://github.com/nus-fboa2016-si/socketio-devtool/blob/master/README.md) for dev-tool - Recess Week
 
 
 #### Contribution to minor project HubTurbo
@@ -240,6 +243,8 @@ Note: links to github commits represent the last commit for that contribution
 [#1102](https://github.com/HubTurbo/HubTurbo/issues/1102) - Week 6, Thurs
 
 #### Technology expertise in RESTful APIs
+* [Blogpost](https://medium.com/@whattokingu/what-i-know-about-rest-21ece615c949#.pebz7xf06) on introduction to REST
+
 
 ##### Short term plan
 * Read up on RESTful implementation details.
