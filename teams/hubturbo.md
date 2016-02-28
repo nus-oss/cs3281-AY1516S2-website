@@ -32,7 +32,7 @@ permalink: /teams/hubturbo/
  - [@xinan](https://github.com/xinan)
    ([Liu Xinan](http://xinan.io))
    - Technology Expertise:
-	 UI Responsiveness Optimization
+	 Building Tools
 
 # Work Plan
 
@@ -101,7 +101,7 @@ permalink: /teams/hubturbo/
 
 ##### Contribution to MINOR project [PencilCode](https://github.com/PencilCode/pencilcode/)
 
-##### Technology expertise in UI Responsiveness Optimization
+##### Technology expertise in Building Tools
 
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
 
