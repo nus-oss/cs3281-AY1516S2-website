@@ -283,12 +283,16 @@ permalink: /teams/codebender/
 * Week 5, Sun - Created [test for getExampleCode API](https://github.com/codebendercc/eratosthenes/commit/cd56d7d6e820eb10504e9c53dca4017ea2aa18ee)
 * Week 6, Tue - Completed the command pattern-based getExamples API ([Pull Request #46](https://github.com/codebendercc/eratosthenes/pull/46))
 * Week 6, Wed - Completed the command pattern-based getExampleCode API ([Pull Request #47](https://github.com/codebendercc/eratosthenes/pull/47))
-* Recess Week - [Implement new view and logic for viewing library codes](https://github.com/nus-fboa2016-CB/eratosthenes/commit/fa0b9bb4a28a31ad0d611f375c6363867ef0d56e)
+* Recess Week - Implement new view and logic for viewing library codes. [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/commit/fa0b9bb4a28a31ad0d611f375c6363867ef0d56e)
+* Recess Week - Implement views for adding new library; also help to implement the logic for adding new library. [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/commit/6dfa4f84fe348a21b3154590d6351e03c572e5a6)
+* Recess Week - Add testcases to strengthen the code coverage (Now >90% for most ApiCommands)
+* Recess Week - Add functional tests to new views (view, search, download) [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/blob/v2-api-development/Symfony/src/Codebender/LibraryBundle/Tests/Controller/ApiViewsControllerTest.php)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
 * (Merged) PR [#4807](https://github.com/TEAMMATES/teammates/pull/4807) for issue [#3465](https://github.com/TEAMMATES/teammates/issues/3465) -Week 6, Sat 
 * (Merged) PR [#4810](https://github.com/TEAMMATES/teammates/pull/4810) for issue [#3922](https://github.com/TEAMMATES/teammates/issues/3922) -Week 6, Sun 
+* (Ongoing) Working on [Issue#4538](https://github.com/TEAMMATES/teammates/issues/4538) -Recess Week 
 
 ###### Past Contribution to HubTurbo
 * (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
@@ -309,6 +313,10 @@ permalink: /teams/codebender/
 4. Take modules related to Web Programming, such as CS3216 to keep refining my developing skills.
 
 * [Node.js: what, why, how](http://blog.gisonrg.me/2016/node-js-what-why-how/): a blog post to introduce Node.js
-* Leanring Node.js topics by attempting workshops provided on [NodeSchool.io](http://nodeschool.io)
-   * [My solutions for nodeschoo.io](https://github.com/Gisonrg/collections/tree/master/nodeschool)
-* [An interesting JavaScript interview question](http://blog.gisonrg.me/2016/interesting-js-question/): starting from a JavaScript interview question to share my learning and understanding of some JavaScript features like hoisting, "this", and scope.
+* Leanring Node.js topics by attempting workshops provided on [NodeSchool.io](http://nodeschool.io). [My solutions](https://github.com/Gisonrg/collections/tree/master/nodeschool)
+   * [~~learnyounode~~](https://github.com/Gisonrg/collections/tree/master/nodeschool/learnyounode)
+   * [~~Promise It Won't Hurt~~](https://github.com/Gisonrg/collections/tree/master/nodeschool/promiseit)
+   * Count to 6
+   * Tower of Babel
+* [An interesting JavaScript interview question](http://blog.gisonrg.me/2016/interesting-js-question/): a blog post starting from a JavaScript interview question to share my learning and understanding of some JavaScript features like hoisting, "this" keyword, and scope.
+* (Ongoing) Wrtiing a blog post to share my findings for Promise vs Callback.
