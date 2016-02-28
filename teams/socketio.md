@@ -87,7 +87,7 @@ permalink: /teams/socketio/
   * [x] Implemented drawing logic with 2D Canvas
   * [x] Compatibility fixes for mobile and desktop - Week 6, Sun
   * [x] Server-side In-memory Buffer + Cap (pruning) - Recess Week
-  * [ ] Particles for other drawing participants - Recess Week
+  * [x] Particles for other drawing participants - Recess Week
   * [ ] Scale/tranformation for mobile devices with portrait viewport
   * [ ] Tutorial/guide
   
@@ -176,10 +176,13 @@ Note: links to github commits represent the last commit for that contribution
 * [Merge connection count component onto overlay layer as svg text](https://github.com/nus-fboa2016-si/whiteboard/commit/facf6bbbd4fb9c9a38983ee2417c055a789b718b) - Week 6, Sat
 * [Added middleware code to transform mouse event data relative to containing element](https://github.com/nus-fboa2016-si/whiteboard/commit/1ef3cecc05c0fb9b611acea78c715a934215335d) - Week 6, Sat
 * [Fixed z-index generator function to work for non-chrome browsers](https://github.com/nus-fboa2016-si/whiteboard/commit/b38260dd30a16d54f01ce85a5dfbfea636cefdcb) - Week 6, Sun
+* [Added support for particle effects from other users drawing](https://github.com/nus-fboa2016-si/whiteboard/commit/854e597843c31d07dc1b48f1b8f561abc2cc1428) - Recess Week, Sun
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
 * [Issue #1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
+* [Issue #1235 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1283) - Recess Week, Fri
+* [Issue #891 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1282) - Recess Week, Sun
 
 #### Technology expertise in cloud deployment and monitoring
 
