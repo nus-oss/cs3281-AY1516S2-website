@@ -11,7 +11,7 @@ permalink: /teams/powerpointlabs/
  - Wu Yu Ting ([@youthinkk](http://blog.nus.edu.sg/cs3281youthinkk/))
    - Technology Expertise: Artificial Intelligence (AI)
  - Yan Chan Min Oo ([@yancmo](https://yancmo.wordpress.com/)) **(Team Lead - Week 4 to 8)**
-   - Technology Expertise: Information Security
+   - Technology Expertise: Testing
  - Victor Hazali ([@vhazali](https://blog.nus.edu.sg/victorhz3281/))
    - Technology Expertise: Information Security
 
@@ -68,11 +68,12 @@ permalink: /teams/powerpointlabs/
   * [x] Enhance the scale factor of Restore Aspect Ratio - Week 5, Mon
   * [x] Refactor the architecture of Resize Lab - Week 5, Tue
   * [x] Implement absolute dimension for resizing - Week 5, Wed
-  * [ ] Implement restore aspect ratio with absolute dimension - Week 6, Thu
+  * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
+  * [ ] Improve on rotation support for shapes
 * Advanced functionality for Resize Lab
-  * [ ] Preview feature
+  * [x] Preview feature
 * Others
-  * [ ] Create unit tests - Week 6, Thu
+  * [ ] Create unit tests
   * [ ] Create functional tests
   * [ ] Merge with master branch 
 
@@ -185,14 +186,28 @@ permalink: /teams/powerpointlabs/
 * Working on **Shrink & Stretch** feature in [`ResizeLabShrinkStretch.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/a5359541d70ce055621ceb8edb6823798d5039cb/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabShrinkStretch.cs) - Ongoing
  * Added opposite stretch feature - Week 5
  * Added rotation support for first reference shape - Week 5
+ * Working on improving resizing of shapes when rotated
+* Created skeleton of powerpoint which will be used for testing - Week 5
+* Depreciated global methods - Week 6
+* Designed Resize, Position, Clone, Sync lab icons - Recess week
+* Migrated to Action Framework - Recess week
 
-#### Contributions to project [OpenKeyChain](https://www.openkeychain.org) (Minor Project)
+#### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
 
- * ...
+ * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
 
-#### Technology expertise in Information Security
- * Keeping crypto keys secure
+#### Technology expertise in Testing
 
+###### Short Term Plan 
+* Develop test cases for PowerPointLabs and OpenMRS
+* Find ways to make code more testable
+* Read up on a few tools related to test coverage / CI (Bamboo, Travis etc)
+
+###### Long Term Plan 
+* Related module to Testing
+  * CS4218 - Software Testing and Debugging (Plan to take)
+* Be able to write testable code
+* Learn about the different ways of testing at different layers
 ---
 
 ### @vhazali (Victor Hazali) 
