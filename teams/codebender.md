@@ -232,10 +232,12 @@ permalink: /teams/codebender/
 * Week 6, Fri - Found out that Youtube's base.js takes up the most time (10216ms out of total of 15000ms) during page load.
 * Week 6, Sat - Oddly, base.js loads very fast when I'm at home (125ms) vs when I'm at school (10216ms), will look into why that is so.
 * Week 6, Sun - Ran a performance check on Powerpoint Labs website, found most images not compressed.
-* Week 6, Sun - Compressed all images used for Powerpoint Labs website and [submitted first PR for Powerpoint Labs](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/27)
+* Week 6, Sun - Compressed all images used for Powerpoint Labs website and submitted [1st PR for Powerpoint Labs](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/27)
+* Recess Week - Created automation for image compression with rake and submitted [2nd PR for Powerpoint Labs](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/28)
 
 #### Technology expertise in Web Performance
-* Week 7, Mon - [Wrote a blog post on compressing images for Powerpoint Labs](http://alexyy.com)
+* Recess Week - [Wrote a blog post on lossless image compression for Powerpoint Labs](http://alexyy.com/2016/02/22/image-compression/)
+* Week 7, Mon - [Automation of image compression](http://alexyy.com/2016/02/29/automated-image-compression/)
 
 ### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
