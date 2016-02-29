@@ -117,8 +117,23 @@ permalink: /teams/hubturbo/
 * [Pull Request #1188](https://github.com/HubTurbo/HubTurbo/pull/1188) (Closed) - Week 1, Fri
 * [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201) - Week 2, Wed
 * [Pull Request #1224](https://github.com/HubTurbo/HubTurbo/pull/1224) - Week 3, Sun
+* [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1296) - Week 7, Mon
 
 ##### Contribution to MINOR project [PencilCode](https://github.com/PencilCode/pencilcode/)
+
+* [Pull Request #112](https://github.com/PencilCode/pencilcode/pull/112) (Merged)
+* [Pull Request #121](https://github.com/PencilCode/pencilcode/pull/121) (Merged)
+* [Pull Request #132](https://github.com/PencilCode/pencilcode/pull/132) (Merged)
+* [Pull Request #133](https://github.com/PencilCode/pencilcode/pull/133) (Merged)
+* [Pull Request #137](https://github.com/PencilCode/pencilcode/pull/137) (Merged)
+* [Pull Request #145](https://github.com/PencilCode/pencilcode/pull/145) (Merged)
+* [Pull Request #155](https://github.com/PencilCode/pencilcode/pull/155) (Merged)
+* [Pull Request #167](https://github.com/PencilCode/pencilcode/pull/167) (Merged)
+* [Pull Request #171](https://github.com/PencilCode/pencilcode/pull/171) (Merged)
+* [Pull Request #174](https://github.com/PencilCode/pencilcode/pull/174) (Merged)
+* [Pull Request #184](https://github.com/PencilCode/pencilcode/pull/184) (Merged)
+* [Pull Request #185](https://github.com/PencilCode/pencilcode/pull/185) (Merged)
+* [Pull Request #187](https://github.com/PencilCode/pencilcode/pull/187) (Merged)
 
 ##### Technology expertise in Building Tools
 
