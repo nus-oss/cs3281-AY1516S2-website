@@ -17,7 +17,7 @@ permalink: /teams/socketio/
    - Technology Expertise: RESTful APIs
    - Minor: HubTurbo
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
-   - Technology Expertise: ReactJS
+   - Technology Expertise: Mobile Development
    - Minor: Teammates
  - Leow Yijin ([@YijinL](#))
    - Technology Expertise: Cloud deployment and monitoring
@@ -213,14 +213,38 @@ Note: links to github commits represent the last commit for that contribution
 * [Refactor: Remove dist folders and include in .gitignore](https://github.com/nus-fboa2016-si/socketio-devtool/commit/79bb92e155f9612d5f6ab1ac60ae8c4bbecee490) - Week 6, Wed
 * [Receive, save and display a list of IO Managers in devtools panel in a simple format](https://github.com/nus-fboa2016-si/socketio-devtool/commit/86bc516886abb89f6ad013894870f4ea48dce9e8) - Week 6, Wed
 * [Add gulp watch task to automate bundling with browserify](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b1a02c1e2c1187470aec35f012034364facb27d9) - Week 6, Wed
-* [Add error handling for gulp browserify task](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4c3b7c076ffed404d418dc31db0f2a796860f38c) - Week 6, Thurs
+* [Add error handling for gulp browserify task](https://github.com/nus-fboa2(016-si/socketio-devtool/commit/4c3b7c076ffed404d418dc31db0f2a796860f38c) - Week 6, Thurs
 * [Receive, save and display a list of sockets for a specific manager on clicked](https://github.com/nus-fboa2016-si/socketio-devtool/commit/1f941df3307062ec4537d3f7ea8df84740ab9e4e) - Week 6, Fri
+* [Parse the packets received and save them, according to created/received as well as its types](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4cd4d77c4cf2e59ad8e3216779591ca334f3cfc2) - Recess Week, Thur
+* [Added timestamp before emitting packets to devtools](https://github.com/nus-fboa2016-si/socketio-devtool/commit/3b13d4babafec75f37868073c243310b3af3d405) - Recess Week, Fri
+* [Combine packets created and received into 1 list, so they can be sorted according to reverse chronological](https://github.com/nus-fboa2016-si/socketio-devtool/commit/01a75f863d53540791a0cd4235e090b27875201f) - Recess Week, Fri
+* [Display managers, sockets, and packets created in a new html template](https://github.com/nus-fboa2016-si/socketio-devtool/commit/1669b714aaecc1fa98329404915f815cd90a2df0) - Recess Week, Fri
+* [Display packets received & Distinguish packets created and received](https://github.com/nus-fboa2016-si/socketio-devtool/commit/117a4e96e2fe8cb1dbd2758438a1f46fa488b8ca) - Recess Week, Sat
+* [Improve styling of managers and packet list](https://github.com/nus-fboa2016-si/socketio-devtool/commit/7a5a5a6f489ea8a815e66a9202929c898e90c4c9) - Recess Week, Sat
+* [Add functionality to display packet content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ba4e561ea99c92a2a4625e9e811c326daf36337a) - Recess Week, Sat
+* [Display timestamp when displaying a list of packets](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a06a9c5329266d945dc6159066df8ca751eb3077) - Recess Week, Sat
+* [Deliver dev-tool MVP with Weihan](https://github.com/nus-fboa2016-si/socketio-devtool) - Recess Week
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
 * [Setup project (In-Progress)](https://github.com/mikelimantara/repo) - Week 3, Code Sprint
 * Complete project setup to pass all the tests - Week 4, Wed
-* [Fix Issue #4802](https://github.com/TEAMMATES/teammates/pull/4811) - Week 6, Sun
+* [Fix Issue #4802](https://github.com/TEAMMATES/teammates/pull/4811) - Week 6, Sun (PR Merged)
+
+#### Tech Expertise Plan: Mobile Development
+
+##### Deliverable could be in the form of: 
+* Blog post
+* Showcase of source codes
+
+##### Short-term plan
+* Learn Android basic concepts like layouting, activity and fragments management and their best practices
+* Delve into deeper concepts, eg. data storage, background services and tasks, security
+* Explore concepts about connectivity with the cloud and push notifications from the server
+* Explore on cross platform development frameworks for mobile development (eg. Phonegap, Cordova, Xamarin, etc.), and understand their similarities or differences among each other and native approach
+
+##### Long-term plan
+* Decide and learn on 1 cross platform mobile development framework
 
 ### @whattokingu (Zheng Weihan)
 
