@@ -41,16 +41,18 @@ permalink: /teams/powerpointlabs/
   * [x] Distribute (First and Last Shape selected) - Week 6, Mon
   * [x] Implement toggle for taking reference from shape vs slide - Week 6, Tue
   * [x] Implement method to determine direction of shapes - Week 6, Thu
-  * [x] Point to and away from object - Week 6, Thu
+  * [x] Implement Point to and away from object - Week 6, Thu
+  * [x] Refactor Code to follow Action Framework - Reccess Week, Thu
+  * [x] Refactoring of existing functionalities to make logic testable - Recess Week, Thu
+  * [x] Implement Distribute by Grid with user input - Recess Week, Fri
+  * [x] Improve User Interaction of Adjustments (Rotation and Lock Axis) - Recess Week, Tue + Sun
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement method to determine actual coordinates of shape instead of bounding box - Recess Week, Mon
-  * [ ] Refactor Code to follow Action Framework - Reccess Week, Wed
-  * [ ] Ensure all functionalities are up and running - Reccess Week, Thu
-  * [ ] Defensive coding & refactoring of existing functionalities - Recess Week, Sat
-  * [ ] Refactor architecture of Positions Lab - Week 7, Mon
+  * [ ] Implement method to determine actual coordinates of shape instead of bounding box
+  * [ ] Ensure all functionalities are up and running
+  * [ ] Refactor architecture of Positions Lab 
   * [ ] Create icons
   * [ ] Create unit/functional tests
 
@@ -98,9 +100,14 @@ permalink: /teams/powerpointlabs/
 * Implemented **Rotation by reference point (for one object)** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/45077b62832adb9f3cad285acbd4c538d152494e/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 5, Thu
 * Implemented **Rotation by reference point (for multiple objects)** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/834e6068aeadabd9febd35d0825c7f6ec40448e2/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 6, Mon
 * Implemented **Movement of shapes in one axis** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a11cea658054993f26a78d6b202843fac552ae1/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 6, Mon
+* Implement **Point to and away from object** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/f89afe1d3e6b505868e365594f86aa9d4967502b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 6, Thu
+* Refactored **PositionsLab** to follow Action Framework in [`Commit 31018459654a4d953bb3e7fb67024d74a0d0163a`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/31018459654a4d953bb3e7fb67024d74a0d0163a) and [`Commit d069bb588c684de81a1d82e97b76c25864dea014`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/d069bb588c684de81a1d82e97b76c25864dea014)- Reccess Week, Thu
+* Refactored existing functionalities to make logic testable in [`Commit d069bb588c684de81a1d82e97b76c25864dea014`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/d069bb588c684de81a1d82e97b76c25864dea014) - Recess Week, Thu
+* Implement **Distribute by Grid** with user input in [`Commit ce0b9b5da1fcb0b530755acdaa693fd4ded63589`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ce0b9b5da1fcb0b530755acdaa693fd4ded63589) - Recess Week, Fri
+* Improve User Interaction of **Adjustments** (Rotation and Lock Axis) in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/011ae62a6212993d379885336194d025ae53480f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Recess Week, Tue + Sun
 
 #### Contributions to project [Brackets](http://brackets.io/) (Minor Project)
- * ...
+ * Setting up environment
 
 #### Technology expertise in Web Programming and Applications
 
@@ -119,6 +126,11 @@ permalink: /teams/powerpointlabs/
   * CS2102 - Database Systems (Taking)
 * Work on Web Applications with focus on backend to improve security and performance
 
+###### Accomplished
+* [Personal Website](http://oswellchan.github.io/) - Week 4
+* Excercise on Responsive Design and HTML5 Canvas: [CS3226 Lab 3](http://cs3226.comp.nus.edu.sg/~a0096724/lab3/) - Week 6
+* Prototype of Cache Simulator: [Cache Simulator - Iteration 1](http://oswellchan.github.io/CacheSimulator/) - Week 6
+* Excercise on Client and Server Design: [CS3226 Lab 4](http://cs3226.comp.nus.edu.sg/~a0096724/lab4/) - Recess Week
 ---
 
 ### @youthinkk (Wu Yu Ting)
