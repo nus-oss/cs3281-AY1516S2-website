@@ -83,7 +83,7 @@ permalink: /teams/hubturbo/
 
 * [Pull Request #1184](https://github.com/HubTurbo/HubTurbo/pull/1184) (Merged) - Week 1, Thu
 * [Pull Request #1210](https://github.com/HubTurbo/HubTurbo/pull/1210) (Merged) - Week 3, Mon
-* [Pull Request #1226](https://github.com/HubTurbo/HubTurbo/pull/1226) - Week 3, Sun
+* [Pull Request #1226](https://github.com/HubTurbo/HubTurbo/pull/1226) (Merged) - Week 3, Sun
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
