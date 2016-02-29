@@ -62,10 +62,10 @@ permalink: /teams/teammates/
  * [Pull Request #4650](https://github.com/TEAMMATES/repo/pull/4650) (Merged) - Week 2
  * [Pull Request #4653](https://github.com/TEAMMATES/repo/pull/4653) (Merged) - Week 2
  * [Pull Reuqest #4691](https://github.com/TEAMMATES/repo/pull/4691) (Merged) - Week 3
- * [Pull Request #4664](https://github.com/TEAMMATES/repo/pull/4664) (ToReview) - Week 3
+ * [Pull Request #4664](https://github.com/TEAMMATES/repo/pull/4664) (Merged) - Week 3
  * [Pull Request #4704](https://github.com/TEAMMATES/repo/pull/4704) (Merged) - Week 4
  * [Issue #4274](https://github.com/TEAMMATES/repo/issues/4274) (Ongoing) - Week 4
- # [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (MergeApproved) - Week 6
+ * [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (Merged) - Week 6
 
 #### Contribution to project [brakets](https://github.com/adobe/brackets)
  * Forked and set up project - Week 4 (https://github.com/kennho/brackets)
@@ -107,12 +107,13 @@ permalink: /teams/teammates/
  * [Pull Request #4696](https://github.com/TEAMMATES/repo/pull/4696) (Merged) - Week 3
  * [Pull Request #4710](https://github.com/TEAMMATES/repo/pull/4710) (Merged) - Week 4
  * [Pull Request #4726](https://github.com/TEAMMATES/repo/pull/4726) (Merged) - Week 4
- * [Pull Request #4765](https://github.com/TEAMMATES/repo/pull/4765) (Merge Approved) - Week 5
- * [Pull Request #4777](https://github.com/TEAMMATES/repo/pull/4777) (Merge Approved) - Week 6
- * [Pull Request #4799](https://github.com/TEAMMATES/repo/pull/4799) (Merge Approved) - Week 6
+ * [Pull Request #4765](https://github.com/TEAMMATES/repo/pull/4765) (Merged) - Week 5
+ * [Pull Request #4777](https://github.com/TEAMMATES/repo/pull/4777) (Merged) - Week 6
+ * [Pull Request #4799](https://github.com/TEAMMATES/repo/pull/4799) (Merged) - Week 6
+ * [Pull Request #4818](https://github.com/TEAMMATES/repo/pull/4818) (Ongoing) - Recess Week
 
 #### Contribution to [OpenKeychain](https://github.com/open-keychain/open-keychain)
- * Working on [Issue #1644](https://github.com/open-keychain/open-keychain/issues/1644)
+ * [Pull Request #1728](https://github.com/open-keychain/open-keychain/pull/1728) - Recess Week
 
 #### Technology expertise in JQuery UI
  * [Pull Request #4663](https://github.com/TEAMMATES/repo/pull/4663) (Merged) - Week 3
