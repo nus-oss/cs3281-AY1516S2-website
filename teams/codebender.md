@@ -93,10 +93,14 @@ permalink: /teams/codebender/
     * [ ] Integrate multiple partner functionality into our codebase
     * [ ] Integrate features to remember preferences of partners
     * [ ] Create integration tests for partner and preferences
-* Buffer / minor features - Week 9 - 13 
-* Enhancement
-    * [ ] Handle multiple built-in example versions
+* [ ] **Milestone 6** - Due Week 10, Sun
     * [ ] Migrate existing built-in libraries into external libraries with a boolean to indicate if they're built-in
+    * [ ] Remove duplicate library files and modify v1 API to use v2 library files
+    * [ ] Handle multiple built-in example versions
+* [ ] **Milestone 7** - Due Week 12, Sun
+    * [ ] Migrate libraries from production database and filesystem into v2
+* [ ] **Final Milestone** - Due Week 13, Sun
+    * [ ] PR against codebendercc/eratosthenes
 
 
 ## Workplan for Graphite
