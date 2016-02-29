@@ -135,7 +135,7 @@ permalink: /teams/hubturbo/
 * [Pull Request #1279](https://github.com/HubTurbo/HubTurbo/pull/1279) - Week 5, Sun
 * [Pull Request #1273](https://github.com/HubTurbo/HubTurbo/pull/1273) - Week 6, Wed
 * [Pull Request #1275](https://github.com/HubTurbo/HubTurbo/pull/1275) (Merged) - Week 6, Sat
-* [Pull Request #1284](https://github.com/HubTurbo/HubTurbo/pull/1284) - Week 7, Wed
+* [Pull Request #1284](https://github.com/HubTurbo/HubTurbo/pull/1284) - Recess week, Wed
 
 ##### Contribution to MINOR project [opencv](https://github.com/Itseez/opencv)
 - [Forked the repo](https://github.com/jinified/opencv)
@@ -160,8 +160,8 @@ Progress
 - [Created a GitHub repository for codes related to this project](https://github.com/jinified/visionx)
 - [Complete research of potential focus areas of the project including relevant journal papers](https://github.com/jinified/visionx/blob/master/doc/Research.md)
 - Complete basic ROS tutorials (needed to integrate vision algorithms)
-- [Implemented Shade-of-Grey algorithm and tested with real footage](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/visual_toolbox.py#L11-L21)
-
+- [Implemented Gray-world algorithm, source code](https://github.com/jinified/visionx/blob/master/scripts/prototype.py#L74-L83)
+- [Video demonstration of implemented Gray-World algorithm](https://youtu.be/RJWIXfJJPdc)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
