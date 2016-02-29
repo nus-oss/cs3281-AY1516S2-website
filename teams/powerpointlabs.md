@@ -108,7 +108,7 @@ permalink: /teams/powerpointlabs/
 * Improve User Interaction of **Adjustments** (Rotation and Lock Axis) in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/011ae62a6212993d379885336194d025ae53480f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Recess Week, Tue + Sun
 
 #### Contributions to project [Brackets](http://brackets.io/) (Minor Project)
- * Setting up environment
+ * Setup Environment: [Screenshot](https://drive.google.com/file/d/0BzrjImOddxOKV1ktc1RDUTlCY0U/view?usp=sharing)
 
 #### Technology expertise in Web Programming and Applications
 
