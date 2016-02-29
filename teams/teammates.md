@@ -84,6 +84,7 @@ permalink: /teams/teammates/
  * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4751) (To Merge) - week 4
  * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4690) (Ongoing) - week 5
  * [Pull Request #4835](https://github.com/TEAMMATES/teammates/pull/4835) (To Review) - week 6
+ * [Issue #4541](https://github.com/TEAMMATES/teammates/issues/4541)
 
 #### Contribution to project [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
  * Set up by week 4 (https://github.com/react-bootstrap/react-bootstrap.git)
