@@ -115,11 +115,13 @@ permalink: /teams/codebender/
 * [x] Self-recovery from corrupted negative number - Week 5
 * [x] set up unit test using jasmine (coverage aim:90%) - Week 6
 * [x] refactor the code to improve robustness - Week 6
-* [ ] add new pattern: multi-line with X-coordinate - Week 8
-* [ ] Create GUI for graph plotting, which can be put into IDE - Week 9
-* [ ] Allow user to define coordinates and axis on GUI - Week 10
-* [ ] add new pattern: auto-generated timestamp as X-axis - Week 11
-* [ ] Documenation (on patterns and user manual) - Week 12
+* [x] add new pattern: multi-line with X-coordinate - Week 7
+* [x] Create GUI for graph plotting, which can be put into IDE - Week 7
+* [x] add new pattern: auto-generated timestamp as X-axis - Week 7
+* [ ] Documenation (on patterns and user manual) - Week 8
+* [ ] Pause and restart the chart plotting - Week 8
+* [ ] CSV Import - Week 8
+* [ ] User costumization of axis name, data name,etc - Week 9
 
 ## Contributions
 
@@ -268,9 +270,16 @@ permalink: /teams/codebender/
 * Week 5, Thurs - fix the bug involving breaking down of negative number
 * Week 6, Mon - Set up Jasmine and BlanketJS for unit test and coverage
 * Week 6, Wed - write unit test (coverage 91%)
+* Recess Week - write unit test (coverage 100%)
+* Recess Week - add new pattern: data with x-axis
+* Recess Week - refactor all the code done by previous group
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
+ * issue[#822](https://github.com/Coursemology/coursemology2/issues/822) - Week 6
+
+#### Technology expertise in Ruby on Rails
+* Publish self-written Ruby Gem [mthAuth](https://rubygems.org/gems/mthAuth) - Recess Week
 
 ### @gisonrg (Jiang Sheng)
 * Week 2, Tues - Received project details
