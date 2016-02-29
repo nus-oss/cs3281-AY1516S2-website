@@ -71,7 +71,7 @@ permalink: /teams/powerpointlabs/
   * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
   * [ ] Improve on rotation support for shapes
 * Advanced functionality for Resize Lab
-  * [x] Preview feature
+  * [x] Preview feature - Recess Week, Thu
 * Others
   * [ ] Create unit tests
   * [ ] Create functional tests
@@ -146,9 +146,12 @@ permalink: /teams/powerpointlabs/
 * Created first version of [icons](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/10) for ResizeLab - Week 5, Tue
 * Created [`ResizeLabShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ab2d1ffcaf3edce42f88e601c7cbdc7b6ce84485/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabShape.cs) to support calculation related to rotated shape - Week 5, Wed
 * Supported rotated shape in **Same Dimensions** and **Fit** features - Week 5, Thu 
+* Migrate `ResizeLabShape.cs` to gobal util `PPShape` - Week 6, Mon
+* Supported rotated shape in **Stretch and Shrink** - Week 6, Mon
+* Implemented [Preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/compare/3bb5f0221f23dc6bc738bcbc55d719f869203e98...nus-fboa2016-PL:9d94a942dbc48e1da1c8819b35621fbd7e9be974) feature - Recess Week
 
 #### Contributions to project [OpenMRS](http://openmrs.org/) (Minor Project)
- * ...
+ * Setting up project
 
 #### Technology expertise in Artificial Intelligence (AI)
 
@@ -162,10 +165,15 @@ permalink: /teams/powerpointlabs/
 * Related module to AI
   * CS3243 - Introduction to Aritificial Intelligence (Taken)
   * CS3244 - Machine Learning (Plan to take)
-  * CS4244 - Knowledge-Based Systems (Taking now)
+  * CS4244 - Knowledge-Based Systems (Taking)
   * CS4246 - AI Planning and Decision Making (Plan to take)
   * CS5288 - Knowledge Discovery and Data Mining (Plan to take)
 * Work on AI related projects after deepening the knowledge of AI
+
+###### Accomplished
+* Learned CLIPS and produced a simple diagnosis program for abdomen [diagnosis.clp](https://gist.github.com/youthinkk/782c8ba0f8db7084deea) - Recess Week
+* Planned and proposed larger scale knowledge-based systems on curriculum planner - Recess Week
+* Blog post [What is Artificial Intelligence?](https://blog.nus.edu.sg/cs3281youthinkk/2016/02/29/what-is-artificial-intelligence/) - Recess Week
 
 ---
 
