@@ -107,6 +107,7 @@ permalink: /teams/hubturbo/
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
 ##### Technology expertise in Node.js
+- Built a [command line tool](https://gist.github.com/raisfathin/8f1a7e8d322a53e4ba29) to verify a program's correctness based on some test cases. It can notify whether the tested program's output matches the corresponding expected output for each input, or whether the program encounters a run time error. [Screenshot](http://imgur.com/ZPJtUNX)
 
 ### Liu Xinan ([@xinan](https://github.com/xinan))
 
