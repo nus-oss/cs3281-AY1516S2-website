@@ -39,12 +39,14 @@ permalink: /teams/teammates/
  * [Pull Request #4632](https://github.com/TEAMMATES/repo/pull/4632) (Merged) - Week 1
  * [Pull Request #4638](https://github.com/TEAMMATES/repo/pull/4638) (Merged) - Week 1
  * [Pull Request #4649](https://github.com/TEAMMATES/repo/pull/4649) (Merged) - Week 2
- * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (ToMerge) - Week 3 - 5
+ * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (OnHold) - Week 3 - 5
  * [Pull Request #4695](https://github.com/TEAMMATES/repo/pull/4695) (Merged) - Week 3
  * [Pull Request #4698](https://github.com/TEAMMATES/repo/pull/4698) (MergeApproved) - Week 3
  * [Pull Request #4752](https://github.com/TEAMMATES/teammates/pull/4752) (Ongoing) - Week 4
  * [Issue #4716](https://github.com/TEAMMATES/repo/issues/4716) (Ongoing) - Week 4
  * [Pull Request #4761](https://github.com/TEAMMATES/teammates/pull/4761) (Merged) - Week 5
+ * [Pull Request #4774](https://github.com/TEAMMATES/teammates/pull/4774) (ToReview) - Week 6
+ * [Issue #4488](https://github.com/TEAMMATES/repo/issues/4488) (ToBeDiscussed) - Week 6 - ...
 
 #### Contribution to project Y
  * ...
@@ -60,11 +62,12 @@ permalink: /teams/teammates/
  * [Pull Request #4650](https://github.com/TEAMMATES/repo/pull/4650) (Merged) - Week 2
  * [Pull Request #4653](https://github.com/TEAMMATES/repo/pull/4653) (Merged) - Week 2
  * [Pull Reuqest #4691](https://github.com/TEAMMATES/repo/pull/4691) (Merged) - Week 3
- * [Pull Request #4664](https://github.com/TEAMMATES/repo/pull/4664) (Ongoing) - Week 3
- * [Pull Request #4704](https://github.com/TEAMMATES/repo/pull/4704) (ToReview) - Week 4
+ * [Pull Request #4664](https://github.com/TEAMMATES/repo/pull/4664) (ToReview) - Week 3
+ * [Pull Request #4704](https://github.com/TEAMMATES/repo/pull/4704) (Merged) - Week 4
  * [Issue #4274](https://github.com/TEAMMATES/repo/issues/4274) (Ongoing) - Week 4
+ # [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (MergeApproved) - Week 6
 
-#### Contribution to project brackets (Minor Project)
+#### Contribution to project [brakets](https://github.com/adobe/brackets)
  * Forked and set up project - Week 4 (https://github.com/kennho/brackets)
 
 #### Technology expertise in tool jQuery
@@ -82,7 +85,7 @@ permalink: /teams/teammates/
  * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4690) (Ongoing) - week 5
  * [Pull Request #4835](https://github.com/TEAMMATES/teammates/pull/4835) (To Review) - week 6
 
-#### Contribution to project react-bootstrap
+#### Contribution to project [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
  * Set up by week 4 (https://github.com/react-bootstrap/react-bootstrap.git)
  * Learn how to use the bootstrap library
  * Look through the issues and others' pull requests'
@@ -104,10 +107,20 @@ permalink: /teams/teammates/
  * [Pull Request #4696](https://github.com/TEAMMATES/repo/pull/4696) (Merged) - Week 3
  * [Pull Request #4710](https://github.com/TEAMMATES/repo/pull/4710) (Merged) - Week 4
  * [Pull Request #4726](https://github.com/TEAMMATES/repo/pull/4726) (Merged) - Week 4
- * [Pull Request #4762](https://github.com/TEAMMATES/repo/pull/4762) (Ongoing) - Week 5
+ * [Pull Request #4765](https://github.com/TEAMMATES/repo/pull/4765) (Merge Approved) - Week 5
+ * [Pull Request #4777](https://github.com/TEAMMATES/repo/pull/4777) (Merge Approved) - Week 6
+ * [Pull Request #4799](https://github.com/TEAMMATES/repo/pull/4799) (Merge Approved) - Week 6
 
 #### Contribution to [OpenKeychain](https://github.com/open-keychain/open-keychain)
- * ...
+ * Working on [Issue #1644](https://github.com/open-keychain/open-keychain/issues/1644)
 
 #### Technology expertise in JQuery UI
- * ...
+ * [Pull Request #4663](https://github.com/TEAMMATES/repo/pull/4663) (Merged) - Week 3
+
+##### Short Term Plan
+ * Learn more about JQuery UI: widgets, interactions, effects etc.
+ * Contribute to related issues in TEAMMATES
+
+##### Long Term Plan
+ * Learn new technologies in Javascript
+ * Contribute to other open-source projects that use Javascript-related technologies
