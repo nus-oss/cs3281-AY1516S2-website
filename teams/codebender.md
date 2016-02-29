@@ -83,10 +83,10 @@ permalink: /teams/codebender/
     * [X] Create tests for ApiController
     * [X] Create ApiHandler
     * [X] Create tests for ApiControlle
-* [ ] **Milestone 3** - Due Week 7, Mon
-    * [ ] Change View Templates to include versions
-    * [ ] Create ApiViewsController
-* [ ] **Milestone 4** - Due Week 7, Wed
+* [x] **Milestone 3** - Due Week 7, Mon
+    * [x] Change View Templates to include versions
+    * [x] Create ApiViewsController
+* [ ] **Milestone 4** - Due Week 7, Sun
     * [ ] Component integration
     * [ ] Create integration tests
 * [ ] **Milestone 5** - Due Week 8, Sun
@@ -190,23 +190,33 @@ permalink: /teams/codebender/
 * Week 6, Thu - Suggested and implemented command pattern and factory pattern for better modularization. After further refinement by teammates, it is now in [PR #39](https://github.com/codebendercc/eratosthenes/pull/39).
 * Week 6, Sun - Implemented FetchApiCommand [PR #44](https://github.com/codebendercc/eratosthenes/pull/44/files)
 * Week 6, Sun - Implemented ListApiCommand [PR #45](https://github.com/codebendercc/eratosthenes/pull/44/files)
+* Recess Week - Fixed ListApiCommand which was wrongly using the old schema models ([PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/6))
+* Recess Week - Implemented ApiViewsController's newLibraryAction and its own handler NewLibraryHandler ([PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/5))
 
 #### Contribution to minor project - HubTurbo
  * Week 6, Sun - Project setup
  * Week 6, Sun - Read [developer guides](https://github.com/HubTurbo/HubTurbo/blob/master/docs/developerGuide.md)
  * Week 6, Sun - [issue #1094](https://github.com/HubTurbo/HubTurbo/issues/1094) ([PR #1277](https://github.com/HubTurbo/HubTurbo/pull/1277))
+ * Recess Week - Interacted with other contributors and further expanded [PR #1277](https://github.com/HubTurbo/HubTurbo/pull/1277), Got merged at the end.
+ * Recess Week - Raised [issue #1281](https://github.com/HubTurbo/HubTurbo/issues/1281)
+ * Recess Week - Worked on issue 1233 but another PR made for very related issue so halted
  
-#### Technology expertise in Intelligent Agent
+#### Technology expertise in Ruby on Rails + ReactJS
 
 ##### Short Term Plan
- * Look for practical application in extension of my education so far
- * Develop agent for simple problem
- * Publish posts / tutorials on blog
+ * Online tutorials
+ * Go through Ruby on Rails Tutorial by Hartl
+ * Small project
 
 ##### Long Term Plan
- * Undergo further education: CS4246 (AI Planning and Decision Making), CS5340 (Uncertainty Modelling in AI)
- * Apply skill on real world problem
- * Maintain blog
+ * 6 months internship experience using the tools from May
+ * Pet projects
+ * Open source project contribution
+
+#### Progress
+ * Finished course on Ruby on Codecademy
+ * Finished course on Rails on Codecademy
+ * Reading Ruby on Rails Tutorial
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
