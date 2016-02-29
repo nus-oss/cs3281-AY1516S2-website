@@ -46,6 +46,7 @@ permalink: /teams/powerpointlabs/
   * [x] Refactoring of existing functionalities to make logic testable - Recess Week, Thu
   * [x] Implement Distribute by Grid with user input - Recess Week, Fri
   * [x] Improve User Interaction of Adjustments (Rotation and Lock Axis) - Recess Week, Tue + Sun
+  * [x] Settings button for Align functions to decide what to use as reference - Recess Week, Sun
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
