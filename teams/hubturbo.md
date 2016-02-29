@@ -44,18 +44,33 @@ permalink: /teams/hubturbo/
 * [ ] Refactor Label Picker - Week 3, Sat
 * [x] Code Sprint - Week 3, Sat & Week 4, Sun
 * [x] MVP for issue editor/creator functionalities - Week 5, Wed
-	* [x] Issue Creator
-	* [x] Milestone Picker
-	* [x] Assignee Picker
-	* [x] Open/Close Issues
-	* [x] Issue Comments Retriever
+	* [x] Issue Creator - Week 5, Wed
+	* [x] Milestone Picker - Week 5, Wed
+	* [x] Assignee Picker - Week 5, Wed
+	* [x] Open/Close Issues - Week 5, Wed
+	* [x] Issue Comments Retriever - Week 5, Wed
+	* [ ] Board Picker - Week 7, Sun
 * [ ] Covering more use cases, UI improvements, refactoring & testing - Week 6 & Recess Week
-	* [x] Issue Creator
-	* [x] Milestone Picker
-	* [ ] Assignee Picker
-	* [ ] Open/Close Issues
-	* [ ] Issue Comments Retriever
-* [ ] Combining & integrating features into a 'label editor' - Week 7
+	* [x] Issue Creator - Week 6 & Recess Week
+	* [x] Milestone Picker - Week 6 & Recess Week
+	* [ ] Assignee Picker - Week 6 & Recess Week
+	* [x] Open/Close Issues - Week 6 & Recess Week
+	* [ ] Issue Comments Retriever - Week 6 & Recess Week
+	* [ ] Board Picker - Week 8, Thu
+* [ ] Create Pull Requests for all features - Week 7, Mon
+	* [ ] Issue Creator - Week 7, Mon
+	* [ ] Milestone Picker - Week 7, Mon
+	* [ ] Assignee Picker - Week 7, Mon
+	* [ ] Open/Close Issues - Week 7, Mon
+	* [ ] Issue Comments Retriever - Week 7, Mon
+	* [ ] Board Picker - Week 8, Sun
+* [ ] Merge Pull Requests for all features - Week 7, Sun
+	* [ ] Issue Creator - Week 7, Sun
+	* [ ] Milestone Picker - Week 7, Sun
+	* [ ] Assignee Picker - Week 7, Sun
+	* [ ] Open/Close Issues - Week 7, Sun
+	* [ ] Issue Comments Retriever - Week 7, Sun
+	* [ ] Board Picker - Week 8, Thu
 
 # Contributions
 
@@ -70,12 +85,16 @@ permalink: /teams/hubturbo/
 * [Pull Request #1228](https://github.com/HubTurbo/HubTurbo/pull/1228) (Closed) - Week 4, Mon
 * [Pull Request #1251](https://github.com/HubTurbo/HubTurbo/pull/1251) (Closed) - Week 6, Mon
 * [Pull Request #1260](https://github.com/HubTurbo/HubTurbo/pull/1260) - Week 6, Mon
+* [Pull Request #1280](https://github.com/HubTurbo/HubTurbo/pull/1280) - Recess Week, Tue
+* [Pull Request #1285](https://github.com/HubTurbo/HubTurbo/pull/1285) - Recess Week, Thu
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
 * [Forked atom repository](https://github.com/m133225/atom) - Week 4, Sun
 
 ##### Technology expertise in AI in Motion Planning
+
+* [Workplan](http://m133225.github.io/introduction/2016/02/29/motion-planning-in-ai.html) - Week 7, Mon
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
