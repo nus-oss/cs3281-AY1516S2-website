@@ -96,6 +96,7 @@ permalink: /teams/codebender/
 * Buffer / minor features - Week 9 - 13 
 * Enhancement
     * [ ] Handle multiple built-in example versions
+    * [ ] Migrate existing built-in libraries into external libraries with a boolean to indicate if they're built-in
 
 
 ## Workplan for Graphite
