@@ -130,7 +130,7 @@ permalink: /teams/powerpointlabs/
 * [Personal Website](http://oswellchan.github.io/) - Week 4
 * Excercise on Responsive Design and HTML5 Canvas: [CS3226 Lab 3](http://cs3226.comp.nus.edu.sg/~a0096724/lab3/) - Week 6
 * Prototype of Cache Simulator: [Cache Simulator - Iteration 1](http://oswellchan.github.io/CacheSimulator/) - Week 6
-* Excercise on Client and Server Design: [CS3226 Lab 4](http://cs3226.comp.nus.edu.sg/~a0096724/lab4/) - Recess Week
+* Excercise on Client and Server Architecture: [CS3226 Lab 4](http://cs3226.comp.nus.edu.sg/~a0096724/lab4/) - Recess Week
 ---
 
 ### @youthinkk (Wu Yu Ting)
