@@ -89,13 +89,18 @@ permalink: /teams/teammates/
 #### Contribution to project TEAMMATES
  * [Pull Request #4677](https://github.com/TEAMMATES/repo/pull/4677) (Merged) - Week 2
  * [Pull Request #4678](https://github.com/TEAMMATES/repo/pull/4678) (Merged) - Week 3
- * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (Ongoing) - Week 3
+ * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (To Merge) - Week 3
+ * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4751) (To Merge) - week 4
+ * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4690) (Ongoing) - week 5
+ * [Pull Request #4835](https://github.com/TEAMMATES/teammates/pull/4835) (To Review) - week 6
 
 #### Contribution to project [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
  * Set up by week 4 (https://github.com/react-bootstrap/react-bootstrap.git)
+ * Learn how to use the bootstrap library
+ * Look through the issues and others' pull requests'
 
 #### Technology expertise in Django
- * ...
+* Figure out the basic use of Django: setup, database setup, basic automated testing
 
 ---
 
