@@ -318,7 +318,7 @@ permalink: /teams/codebender/
 * (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
 
 #### Technology expertise in Node.js
-######Short-term plan:
+###### Short-term plan:
 1. Understand advanced JavaScript topic. [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) is a good place to start.
 2. Master Node.js and get familiar with its core APIs. Understand its best practices and its limits.
 3. Get familiar with Node's popular frameworks and tools, such as [Express](http://expressjs.com/), [Gulp](http://gulpjs.com/) and [q](https://github.com/kriskowal/q), and be able to use them in personal projects.
@@ -326,7 +326,7 @@ permalink: /teams/codebender/
 5. Gain experience by developing simple Node packages and Node applications.
 6. Demostrate expertise through side projects, tutorials, and blog posts.
 
-######Long-term plan:
+###### Long-term plan:
 1. Keep myself up-to-date with newest technology in JavaScript and Node.js industry.
 2. Participate in some open-source projects that use Node stack
 3. Understand Node project structures and workflow, and be able to design the application architecture with my experience.
@@ -334,8 +334,8 @@ permalink: /teams/codebender/
 
 * [Node.js: what, why, how](http://blog.gisonrg.me/2016/node-js-what-why-how/): a blog post to introduce Node.js
 * Leanring Node.js topics by attempting workshops provided on [NodeSchool.io](http://nodeschool.io). [My solutions](https://github.com/Gisonrg/collections/tree/master/nodeschool)
-   * [~~learnyounode~~](https://github.com/Gisonrg/collections/tree/master/nodeschool/learnyounode)
-   * [~~Promise It Won't Hurt~~](https://github.com/Gisonrg/collections/tree/master/nodeschool/promiseit)
+   * [<del>learnyounode</del>](https://github.com/Gisonrg/collections/tree/master/nodeschool/learnyounode)
+   * [<del>Promise It Won't Hurt</del>](https://github.com/Gisonrg/collections/tree/master/nodeschool/promiseit)
    * Count to 6
    * Tower of Babel
 * [An interesting JavaScript interview question](http://blog.gisonrg.me/2016/interesting-js-question/): a blog post starting from a JavaScript interview question to share my learning and understanding of some JavaScript features like hoisting, "this" keyword, and scope.
