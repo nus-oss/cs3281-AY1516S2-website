@@ -217,6 +217,8 @@ permalink: /teams/powerpointlabs/
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
 
+ * Done setting up development environment - Recess week [screenshot](https://dl.dropboxusercontent.com/u/7610216/dev%20env.PNG)
+ * Successfully ran test cases - Recess week
  * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
 
 #### Technology expertise in Testing
@@ -231,6 +233,8 @@ permalink: /teams/powerpointlabs/
   * CS4218 - Software Testing and Debugging (Plan to take)
 * Be able to write testable code
 * Learn about the different ways of testing at different layers
+ 
+
 ---
 
 ### @vhazali (Victor Hazali) 
