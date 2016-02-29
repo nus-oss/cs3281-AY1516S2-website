@@ -108,16 +108,15 @@ permalink: /teams/hubturbo/
 ##### Contribution to MAJOR project HT
 
 * [Pull Request #1187](https://github.com/HubTurbo/HubTurbo/pull/1187) (Merged) - Week 1, Thu
-* [Pull Request #1195](https://github.com/HubTurbo/HubTurbo/pull/1195) - Week 2, Tue
+* [Pull Request #1195](https://github.com/HubTurbo/HubTurbo/pull/1195) (Merged) - Week 2, Tue
 * [Pull Request #1204](https://github.com/HubTurbo/HubTurbo/pull/1204) (Merged) - Week 2, Fri
 * [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators) - Week 3, Mon
-* [Pull Request #1212](https://github.com/HubTurbo/HubTurbo/pull/1212) - Week 3, Mon
+* [Pull Request #1212](https://github.com/HubTurbo/HubTurbo/pull/1212) (Merged) - Week 3, Mon
 * [Rewrite LabelPickerDialog view in fxml](https://github.com/nus-fboa2016-ht/HubTurbo/blob/SuperAwesomeLabelPicker/src/main/resources/ui/fxml/LabelPickerView.fxml) - Week 3, Sun
-* [Forked scikit-learn repository](https://github.com/jinified/scikit-learn) - Week 4, Sun
-* [Added UI test for Issue-Creator](https://github.com/nus-fboa2016-ht/HubTurbo/blob/issue-creator/src/test/java/unstable/IssueCreatorTest.java) - Week 5, Sun
-* [Added auto-complete for mention and reference, Issue Creator](https://github.com/nus-fboa2016-ht/HubTurbo/blob/issue-creator/src/main/java/ui/components/issue_creators/IssueContentPane.java)
+* [Pull Request #1279](https://github.com/HubTurbo/HubTurbo/pull/1279) - Week 5, Sun
 * [Pull Request #1273](https://github.com/HubTurbo/HubTurbo/pull/1273) - Week 6, Wed
 * [Pull Request #1275](https://github.com/HubTurbo/HubTurbo/pull/1275) (Merged) - Week 6, Sat
+* [Pull Request #1284](https://github.com/HubTurbo/HubTurbo/pull/1284) - Week 7, Wed
 
 ##### Contribution to MINOR project [opencv](https://github.com/Itseez/opencv)
 - [Forked the repo](https://github.com/jinified/opencv)
@@ -142,6 +141,8 @@ Progress
 - [Created a GitHub repository for codes related to this project](https://github.com/jinified/visionx)
 - [Complete research of potential focus areas of the project including relevant journal papers](https://github.com/jinified/visionx/blob/master/doc/Research.md)
 - Complete basic ROS tutorials (needed to integrate vision algorithms)
+- [Implemented Shade-of-Grey algorithm and tested with real footage](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/visual_toolbox.py#L11-L21)
+
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
