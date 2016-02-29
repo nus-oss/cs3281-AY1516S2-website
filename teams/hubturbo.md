@@ -32,7 +32,7 @@ permalink: /teams/hubturbo/
  - [@xinan](https://github.com/xinan)
    ([Liu Xinan](http://xinan.io))
    - Technology Expertise:
-	 Building Tools
+	 Build Tools
 
 # Work Plan
 
@@ -135,7 +135,24 @@ permalink: /teams/hubturbo/
 * [Pull Request #185](https://github.com/PencilCode/pencilcode/pull/185) (Merged)
 * [Pull Request #187](https://github.com/PencilCode/pencilcode/pull/187) (Merged)
 
-##### Technology expertise in Building Tools
+##### Technology expertise in Build Tools
+
+* [JFDI](https://github.com/cs2103jan2016-w13-4j/main) (Gradle project)
+  - Set up Gradle project
+  - Add `junit`, `mockito` and `powermock` for unit testing and easy mocking
+  - Integrate with Travis CI
+  - Add `Cobertura` and integrate with Coveralls.io
+  - Add and configure `checkstyle`, `findbugs` and `pmd`
+
+* [NUSModsCloud](https://github.com/nusmodifications/nusmods-cloud) (Rails project)
+  - Set up Rails project
+  - Add `rspec`, `shoulda-matchers`, `test_after_commit`, etc for happy behavioural driven testing
+  - Integrate with Travis CI
+  - Deployed it using `Docker`
+
+* Migrate build process of PencilCode from `requirejs` to `browerify`
+  - [Pull Request #145](https://github.com/PencilCode/pencilcode/pull/145) (Merged)
+
 
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
 
