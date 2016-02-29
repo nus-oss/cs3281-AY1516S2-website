@@ -166,7 +166,7 @@ permalink: /teams/powerpointlabs/
 * Implemented [Preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/compare/3bb5f0221f23dc6bc738bcbc55d719f869203e98...nus-fboa2016-PL:9d94a942dbc48e1da1c8819b35621fbd7e9be974) feature - Recess Week
 
 #### Contributions to project [OpenMRS](http://openmrs.org/) (Minor Project)
- * Setting up project
+ * Setting up project [screenshot](https://www.dropbox.com/s/j21ry9fhyinlf16/setup.PNG?dl=0)
 
 #### Technology expertise in Artificial Intelligence (AI)
 
