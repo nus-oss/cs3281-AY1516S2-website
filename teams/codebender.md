@@ -333,6 +333,7 @@ permalink: /teams/codebender/
 * Recess Week - Implement views for adding new library; also help to implement the logic for adding new library. [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/commit/6dfa4f84fe348a21b3154590d6351e03c572e5a6)
 * Recess Week - Add testcases to strengthen the code coverage (Now >90% for most ApiCommands)
 * Recess Week - Add functional tests to new views (view, search, download) [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/blob/v2-api-development/Symfony/src/Codebender/LibraryBundle/Tests/Controller/ApiViewsControllerTest.php)
+* Week 7, Tue - Implement adding library from Github Releases (frontend, logic) [PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/16)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
