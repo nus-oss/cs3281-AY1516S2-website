@@ -177,6 +177,15 @@ permalink: /teams/codebender/
 * Week 6, Sun - Resolved [issue #4645](https://github.com/TEAMMATES/teammates/issues/4645) in [PR #4809](https://github.com/TEAMMATES/teammates/pull/4809) (Merged)
 * Week 7, Tue - Resolved [issue #4006](https://github.com/TEAMMATES/teammates/issues/4006) in [PR #4849](https://github.com/TEAMMATES/teammates/pull/4849)
 * Week 7, Tue - Raised and resolved [issue #4850](https://github.com/TEAMMATES/teammates/issues/4850) in [PR #4851](https://github.com/TEAMMATES/teammates/pull/4851)
+* Week 7, Tue - Completed vulnerability assessment on Teammates
+* Week 7, Tue - Raised 3 security vulnerabilities discovered (along with recommendations), including:
+  * A recommendation to use HTTPS in links sent via email ([issue $4852](https://github.com/TEAMMATES/teammates/issues/4852))
+  * A recommendation to enforce HTTPS on all pages ([issue $4853](https://github.com/TEAMMATES/teammates/issues/4853))
+  * A recommendation to validate the institution name of an instructor at registration ([issue $4854](https://github.com/TEAMMATES/teammates/issues/4854))
+* Week 7, Tue - Other (less important) recommendations include:
+  * Use CBC mode-of-operation for AES encryption instead of ECB (ECB encryption can be exploited under certain obscure conditions)
+  * Issue different keys for different surveys for unregistered students (so that an attacker who possesses a student key would not be able to continuously exploit the same key)
+  * Introduce a more discreet channel for reporting security vulnerabilities (instead of Github using issues)
 
 #### Technology expertise in Information Security
 * **Short-Term Plan**: To expose myself to as many aspects of Information Security as possible (e.g. Cryptography, Web Security, Network Security, System Security, Software Security, Pen Testing) and in the process, acquire practical skills that can be applied in the information security industry.
