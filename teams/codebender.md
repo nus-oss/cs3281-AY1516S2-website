@@ -162,6 +162,14 @@ permalink: /teams/codebender/
 * Recess Week, Fri - Implement v2 of searchAction API
 * Recess Week, Fri - Implement v2 of downloadAction API
 * Recess Week, Fri - Refactored existing code
+* Week 7, Mon - Fix Travis CI integration on forked repository
+* Week 7, Tue - Fix miscellaneous bugs in codebase
+* Week 7, Tue - Add test for adding of Git libraries
+* Week 7, Tue - Add handling of version notes along with tests
+* Week 7, Tue - Implement test for adding of Zipped libraries
+* Week 7, Tue - Wrote test for adding of library from Git subdirectory
+* Week 7, Tue - Wrote test for adding of large libraries
+* Week 7, Tue - Enhance addNewLibrary API to update the last commit of a library when a newer commit is added
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
