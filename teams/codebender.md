@@ -175,6 +175,8 @@ permalink: /teams/codebender/
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
 * Week 6, Sun - Development process understood
 * Week 6, Sun - Resolved [issue #4645](https://github.com/TEAMMATES/teammates/issues/4645) in [PR #4809](https://github.com/TEAMMATES/teammates/pull/4809) (Merged)
+* Week 7, Tue - Resolved [issue #4006](https://github.com/TEAMMATES/teammates/issues/4006) in [PR #4849](https://github.com/TEAMMATES/teammates/pull/4849)
+* Week 7, Tue - Raised and resolved [issue #4850](https://github.com/TEAMMATES/teammates/issues/4850) in [PR #4851](https://github.com/TEAMMATES/teammates/pull/4851)
 
 #### Technology expertise in Information Security
 * **Short-Term Plan**: To expose myself to as many aspects of Information Security as possible (e.g. Cryptography, Web Security, Network Security, System Security, Software Security, Pen Testing) and in the process, acquire practical skills that can be applied in the information security industry.
