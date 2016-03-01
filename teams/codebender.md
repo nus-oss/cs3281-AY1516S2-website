@@ -170,6 +170,8 @@ permalink: /teams/codebender/
 * Week 7, Tue - Wrote test for adding of library from Git subdirectory
 * Week 7, Tue - Wrote test for adding of large libraries
 * Week 7, Tue - Enhance addNewLibrary API to update the last commit of a library when a newer commit is added
+* Week 7, Tue - Wrote test for adding of Git release
+* Week 7, Tue - Wrote test for updating of a library's last commit
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
