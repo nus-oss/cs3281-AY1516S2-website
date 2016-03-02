@@ -124,7 +124,7 @@ permalink: /teams/codebender/
 * [x] Create GUI for graph plotting, which can be put into IDE - Week 7
 * [x] add new pattern: auto-generated timestamp as X-axis - Week 7
 * [ ] Documenation (on patterns and user manual) - Week 8
-* [ ] Pause and restart the chart plotting - Week 8
+* [x] Pause and restart the chart plotting - Week 8
 * [ ] CSV Import - Week 8
 * [ ] User costumization of axis name, data name,etc - Week 9
 
@@ -299,6 +299,9 @@ permalink: /teams/codebender/
 * Recess Week - write unit test (coverage 100%)
 * Recess Week - add new pattern: data with x-axis
 * Recess Week - refactor all the code done by previous group
+* Week 7, Wed - add start/pause function
+* Week 7, Wed - fix a serious bug with dataparser
+* Week 7, Wed - unit test
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
@@ -306,6 +309,7 @@ permalink: /teams/codebender/
 
 #### Technology expertise in Ruby on Rails
 * Publish self-written Ruby Gem [mthAuth](https://rubygems.org/gems/mthAuth) - Recess Week
+* [My first Ruby Gem](http://blog.nus.edu.sg/matanghao/2016/02/29/my-first-ruby-gem-mthauth/) - Week 7
 
 ### @gisonrg (Jiang Sheng)
 * Week 2, Tues - Received project details
