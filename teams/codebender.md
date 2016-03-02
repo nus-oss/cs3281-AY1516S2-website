@@ -249,7 +249,7 @@ permalink: /teams/codebender/
  * Finished course on Ruby on Codecademy
  * Finished course on Rails on Codecademy
  * Reading Ruby on Rails Tutorial
- * Chapter 1 Monday: The Object Model
+ * Metaprogramming Ruby Chapter 1 Monday: The Object Model
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
