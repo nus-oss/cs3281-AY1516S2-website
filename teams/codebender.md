@@ -220,6 +220,9 @@ permalink: /teams/codebender/
 * Week 6, Sun - Implemented ListApiCommand [PR #45](https://github.com/codebendercc/eratosthenes/pull/44/files)
 * Recess Week - Fixed ListApiCommand which was wrongly using the old schema models ([PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/6))
 * Recess Week - Implemented ApiViewsController's newLibraryAction and its own handler NewLibraryHandler ([PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/5))
+* Week 7, Wed - Added test for testViewBuiltinExample
+* Week 7, Wed - Added test for testViewExternalZipLibrary
+* Week 7, Wed - Added test for testViewExternalGitLibrary
 
 #### Contribution to minor project - HubTurbo
  * Week 6, Sun - Project setup
@@ -233,7 +236,8 @@ permalink: /teams/codebender/
 
 ##### Short Term Plan
  * Online tutorials
- * Go through Ruby on Rails Tutorial by Hartl
+ * Read Metaprogramming Ruby by Paolo Perrotta
+ * Have a look at Ruby on Rails Tutorial by Hartl
  * Small project
 
 ##### Long Term Plan
@@ -245,6 +249,7 @@ permalink: /teams/codebender/
  * Finished course on Ruby on Codecademy
  * Finished course on Rails on Codecademy
  * Reading Ruby on Rails Tutorial
+ * Chapter 1 Monday: The Object Model
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
