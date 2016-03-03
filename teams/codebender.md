@@ -181,13 +181,13 @@ permalink: /teams/codebender/
 * Week 7, Tue - Raised and resolved [issue #4850](https://github.com/TEAMMATES/teammates/issues/4850) in [PR #4851](https://github.com/TEAMMATES/teammates/pull/4851)
 * Week 7, Tue - Completed vulnerability assessment on Teammates
 * Week 7, Tue - Raised 3 security vulnerabilities discovered (along with recommendations), including:
-  * A recommendation to use HTTPS in links sent via email ([issue $4852](https://github.com/TEAMMATES/teammates/issues/4852))
-  * A recommendation to enforce HTTPS on all pages ([issue $4853](https://github.com/TEAMMATES/teammates/issues/4853))
-  * A recommendation to validate the institution name of an instructor at registration ([issue $4854](https://github.com/TEAMMATES/teammates/issues/4854))
+  * A recommendation to use HTTPS in links sent via email ([issue #4852](https://github.com/TEAMMATES/teammates/issues/4852))
+  * A recommendation to enforce HTTPS on all pages ([issue #4853](https://github.com/TEAMMATES/teammates/issues/4853))
+  * A recommendation to validate the institution name of an instructor at registration ([issue #4854](https://github.com/TEAMMATES/teammates/issues/4854))
 * Week 7, Tue - Other (less important) recommendations include:
   * Use CBC mode-of-operation for AES encryption instead of ECB (ECB encryption can be exploited under certain obscure conditions)
   * Issue different keys for different surveys for unregistered students (so that an attacker who possesses a student key would not be able to continuously exploit the same key)
-  * Introduce a more discreet channel for reporting security vulnerabilities (instead of Github using issues)
+  * Introduce a more discreet channel for reporting security vulnerabilities (instead of posting issues on Github)
 
 #### Technology expertise in Information Security
 * **Short-Term Plan**: To expose myself to as many aspects of Information Security as possible (e.g. Cryptography, Web Security, Network Security, System Security, Software Security, Pen Testing) and in the process, acquire practical skills that can be applied in the information security industry.
@@ -200,6 +200,8 @@ permalink: /teams/codebender/
 * Attended security wednesday talk on ["Building next generation security tools with Unicorn engine"](https://www.facebook.com/events/329195357204132/)
 * Attended [Null Singapore monthly meetup](http://www.meetup.com/Null-Singapore-The-Open-Security-Community/events/228606152/) on DDOS and DNS Hijacking
 * Write-up on a cryptographic challenge in Insomni'hack 2016 ([blog post on the challenge](http://cs3281-2.blogspot.com/2016/02/te-insomnihack-2016-teaser-bring-noise.html))
+* Resolved XSS vulnerability on Teammates ([PR #4849](https://github.com/TEAMMATES/teammates/pull/4849))
+* Conducted a vulnerability assessment on Teammates and raised discovered security issues to the core developers ([issue #4852](https://github.com/TEAMMATES/teammates/issues/4852), [issue #4853](https://github.com/TEAMMATES/teammates/issues/4853) and [issue #4854](https://github.com/TEAMMATES/teammates/issues/4854))
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
