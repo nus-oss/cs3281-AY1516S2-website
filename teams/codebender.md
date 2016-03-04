@@ -350,8 +350,8 @@ permalink: /teams/codebender/
 * Project set up / workflow understand - Week 5, Sat
 * (Merged) PR [#4807](https://github.com/TEAMMATES/teammates/pull/4807) for issue [#3465](https://github.com/TEAMMATES/teammates/issues/3465) -Week 6, Sat 
 * (Merged) PR [#4810](https://github.com/TEAMMATES/teammates/pull/4810) for issue [#3922](https://github.com/TEAMMATES/teammates/issues/3922) -Week 6, Sun 
-* PR [#4839](https://github.com/TEAMMATES/teammates/pull/4839) for issue [#4538](https://github.com/TEAMMATES/teammates/issues/4538) - Recess Week
-* Raised issue [#4858](https://github.com/TEAMMATES/teammates/issues/4858)
+* (Merged) PR [#4839](https://github.com/TEAMMATES/teammates/pull/4839) for issue [#4538](https://github.com/TEAMMATES/teammates/issues/4538) - Recess Week
+* Working on issue [#4858](https://github.com/TEAMMATES/teammates/issues/4858)
 
 ###### Past Contribution to HubTurbo
 * (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
@@ -375,7 +375,7 @@ permalink: /teams/codebender/
 * Leanring Node.js topics by attempting workshops provided on [NodeSchool.io](http://nodeschool.io). [My solutions](https://github.com/Gisonrg/collections/tree/master/nodeschool)
    * [<del>learnyounode</del>](https://github.com/Gisonrg/collections/tree/master/nodeschool/learnyounode)
    * [<del>Promise It Won't Hurt</del>](https://github.com/Gisonrg/collections/tree/master/nodeschool/promiseit)
-   * Count to 6
-   * Tower of Babel
+   * [<del>Tower of Babel</del>](https://github.com/Gisonrg/collections/tree/master/nodeschool/tower-of-babel) - Week 7, Fri
 * [An interesting JavaScript interview question](http://blog.gisonrg.me/2016/interesting-js-question/): a blog post starting from a JavaScript interview question to share my learning and understanding of some JavaScript features like hoisting, "this" keyword, and scope.
 * (Ongoing) Wrtiing a blog post to share my findings for Promise vs Callback.
+* Working on a JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
