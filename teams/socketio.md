@@ -88,6 +88,7 @@ permalink: /teams/socketio/
   * [x] Compatibility fixes for mobile and desktop - Week 6, Sun
   * [x] Server-side In-memory Buffer + Cap (pruning) - Recess Week
   * [x] Particles for other drawing participants - Recess Week
+  * [x] Replace 3rd party color picker with HTML5 native color input - Week 7, Sat
   * [ ] Scale/tranformation for mobile devices with portrait viewport
   * [ ] Tutorial/guide
   
@@ -120,6 +121,7 @@ permalink: /teams/socketio/
   * [Fixed color picker on mobile](https://github.com/nus-fboa2016-si/whiteboard/commit/eca548045f8a83d6d3674408c9f610351439b9e7) - Week 6, Sun
   * [Handled mouse leave window and mouse release outside window](https://github.com/nus-fboa2016-si/whiteboard/commit/d8a8ba7d945f19a1a8d4426ff5f65222b725d7fe) - Week 6, Sun
   * [Implemented server-side buffer](https://github.com/nus-fboa2016-si/whiteboard/commit/67a8208cfb8011df08250216858d01487d368682) - Recess Week, Sat
+  * [Replace 3rd-party color picker with HTML5 native color input](https://github.com/nus-fboa2016-si/whiteboard/commit/daf835de5fd95d11af9d1c8fc47aac15507549fe) - Week 7, Sat
 
 #### Contribution to project Teammates (Minor Project)
   * [Fork and set up project](https://github.com/paradite/teammates) - Week 4, Fri
