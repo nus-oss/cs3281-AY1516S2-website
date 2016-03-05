@@ -86,9 +86,9 @@ permalink: /teams/codebender/
 * [x] **Milestone 3** - Due Week 7, Mon
     * [x] Change View Templates to include versions
     * [x] Create ApiViewsController
-* [ ] **Milestone 4** - Due Week 7, Sun
-    * [ ] Component integration
-    * [ ] Create integration tests
+* [x] **Milestone 4** - Due Week 7, Sun
+    * [x] Component integration
+    * [x] Create integration tests
 * [ ] **Milestone 5** - Due Week 8, Sun
     * [ ] Integrate multiple partner functionality into our codebase
     * [ ] Integrate features to remember preferences of partners
