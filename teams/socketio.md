@@ -126,6 +126,7 @@ permalink: /teams/socketio/
 #### Contribution to project Teammates (Minor Project)
   * [Fork and set up project](https://github.com/paradite/teammates) - Week 4, Fri
   * [First timer PR - Remove testng-old.xml from the repo](https://github.com/TEAMMATES/teammates/pull/4830) - Recess Week, Sat
+  * [POC for visitor's map feature](http://4-18-dot-teammates-paradite.appspot.com/visitors.html), [commit](https://github.com/paradite/teammates/commit/de30d85a44cfe5b29ecbef2ffdf73ef8354c5702) - Week 7, Sun
 
 #### Technology expertise in web-based data visualization
 
