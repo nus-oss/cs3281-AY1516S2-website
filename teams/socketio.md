@@ -291,6 +291,7 @@ Note: links to github commits represent the last commit for that contribution
 * [Fix engine.io-client webpack bundling where the `eio` global is not exposed](https://github.com/socketio/engine.io-client/commit/f22f990f1514521ebc8e0180f4791f26fbf79950)(link shows last commit) - Week 3, Sun
 * Doing clean up and miscellaneous fixes on outstanding PRs for [engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/db5e3168540b0516783598bd125f28c62313c809) and [socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/c7deec13cb32dfd6042f3c2f730d31a715c28a55) (link shows last commits) - Week 5, Friday
 * Add ESLint to socket.io-client, [PR](https://github.com/socketio/socket.io-client/pull/951) sent - Recess Week, Sunday
+* Add ESLint to engine.io-client, [PR](https://github.com/socketio/engine.io-client/pull/458) merged - Week 7, Wed
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
@@ -300,6 +301,7 @@ Note: links to github commits represent the last commit for that contribution
 
 ##### Current contribution to expertise
 * [Answered a question on Stack Overflow about Git workflow](http://stackoverflow.com/questions/30538019/git-merge-changes-between-upstream-brnches/30541348#30541348)
+* Blogpost on [Git tips and best practices](http://digawp.blogspot.sg/2016/03/git-tips-and-best-practices.html)
 
 ##### Short term plan
 * Learn about Git best practices in terms of merging, branching, forking, and rebasing, and understand what is actually happening in the background
