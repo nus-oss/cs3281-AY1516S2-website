@@ -378,5 +378,6 @@ permalink: /teams/codebender/
    * [<del>Promise It Won't Hurt</del>](https://github.com/Gisonrg/collections/tree/master/nodeschool/promiseit)
    * [<del>Tower of Babel</del>](https://github.com/Gisonrg/collections/tree/master/nodeschool/tower-of-babel) - Week 7, Fri
 * [An interesting JavaScript interview question](http://blog.gisonrg.me/2016/interesting-js-question/): a blog post starting from a JavaScript interview question to share my learning and understanding of some JavaScript features like hoisting, "this" keyword, and scope.
+* [Fix a mysterious travis build failure for a Node application ](http://blog.gisonrg.me/2016/fix-mysterious-travis-build-failure-for-node-application-js/): A blog post about how I investigated and fix an interesting build failure for [Unblock-Youku](https://github.com/Unblocker/Unblock-Youku). It's related to Travis, Node and headless browser test. [Merged Fix](https://github.com/Unblocker/Unblock-Youku/pull/613) - Week 7, Sat
 * (Ongoing) Wrtiing a blog post to share my findings for Promise vs Callback.
 * Working on a JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
