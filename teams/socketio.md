@@ -17,7 +17,7 @@ permalink: /teams/socketio/
    - Technology Expertise: RESTful APIs
    - Minor: HubTurbo
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
-   - Technology Expertise: ReactJS
+   - Technology Expertise: Mobile Development
    - Minor: Teammates
  - Leow Yijin ([@YijinL](#))
    - Technology Expertise: Cloud deployment and monitoring
@@ -47,9 +47,9 @@ permalink: /teams/socketio/
   * [x] engine.io-client - Week 3, CS
   
 ### Targets after Code Sprint
-* [ ] Merge pull request for gulp+webpack+babel - Week 4, Sun
+* [x] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
-  * [x] ESLint + Gulp Task + Syntax - Week 5, Sun
+  * [ ] ESLint + Gulp Task + Syntax - Week 5, Sun
   * [ ] Implement SourceMaps + Test that it is served - Week 5, Sun
   * [ ] Uglify
   * [ ] Add Sourcemaps to CDN
@@ -59,17 +59,19 @@ permalink: /teams/socketio/
   * [ ] Add 'Files' to Package.json
   
 * [ ] Devtools - Socket.io Inspector
-  * [ ] Handshake with page to check if socket.io is used
+  * [x] Handshake with page to check if socket.io is used
     * [x] Getting started with building Chrome Dev Tools - Week 4, Sun
     * [x] getting devtool to talk to page - Week 4, Sun
     * [x] getting devtool to talk to socket.io in page - Week 5, Fri
-    * [X] find ways to inspect io packets - Week 10, Sun
-    * [ ] implement io-emitter over chrome protocols - Week 6, Sun
-    * [ ] deliver devtools MVP - Recess Week
+    * [x] find ways to inspect io packets - Week 10, Sun
+    * [x] implement io-emitter over chrome protocols - Week 6, Sun
+    * [ ] enhance reliability of messaging protocols - Recess Week
+    * [x] deliver devtools MVP - Recess Week
   * [ ] implement mockups of devtool
     * [x] Display list of IO Managers in devtools
     * [x] Display list of sockets in devtools
-    * [ ] HTML and CSS structure according to mockups - Week 5, Sun
+    * [x] Display error packets in devtools
+    * [x] ~~HTML and CSS structure according to mockups - Week 5, Sun~~ (Mockups not given, but we have an idea of how it roughly looks and implemented it)
     * [ ] JS Logic wiring - Week 8, Sun 
   
 * [ ] Whiteboard Guide
@@ -84,8 +86,8 @@ permalink: /teams/socketio/
   * [x] Displaying connection count - Week 6, Thur
   * [x] Implemented drawing logic with 2D Canvas
   * [x] Compatibility fixes for mobile and desktop - Week 6, Sun
-  * [ ] Server-side In-memory Buffer + Cap (pruning) - Recess Week
-  * [ ] Particles for other drawing participants - Recess Week
+  * [x] Server-side In-memory Buffer + Cap (pruning) - Recess Week
+  * [x] Particles for other drawing participants - Recess Week
   * [ ] Scale/tranformation for mobile devices with portrait viewport
   * [ ] Tutorial/guide
   
@@ -117,9 +119,11 @@ permalink: /teams/socketio/
   * [Implemented buffer drawing and interpolation](https://github.com/nus-fboa2016-si/whiteboard/commit/dc772b8e00980a309223d6e7fce5c6ecf5eb2f17) [2](https://github.com/nus-fboa2016-si/whiteboard/commit/9ef304ea4f262af1dc85a12ef5c13f2e45995511) - Week 6, Mon
   * [Fixed color picker on mobile](https://github.com/nus-fboa2016-si/whiteboard/commit/eca548045f8a83d6d3674408c9f610351439b9e7) - Week 6, Sun
   * [Handled mouse leave window and mouse release outside window](https://github.com/nus-fboa2016-si/whiteboard/commit/d8a8ba7d945f19a1a8d4426ff5f65222b725d7fe) - Week 6, Sun
+  * [Implemented server-side buffer](https://github.com/nus-fboa2016-si/whiteboard/commit/67a8208cfb8011df08250216858d01487d368682) - Recess Week, Sat
 
 #### Contribution to project Teammates (Minor Project)
-  * [Fork and set up project](https://github.com/paradite/repo) - Week 4, Fri
+  * [Fork and set up project](https://github.com/paradite/teammates) - Week 4, Fri
+  * [First timer PR - Remove testng-old.xml from the repo](https://github.com/TEAMMATES/teammates/pull/4830) - Recess Week, Sat
 
 #### Technology expertise in web-based data visualization
 
@@ -133,11 +137,12 @@ permalink: /teams/socketio/
 * Keep up with other data visualization tools/library and learn their strength and weakness
 * Take relevant modules on UI/visualization such as CS3240 Interaction Design, CS3249 User Interface Development or NM3209 Designing for Interactivity
 
-###### cs3281/github progress visualization: [repo](https://github.com/paradite/cs3281viz)
+###### Portfolio project: github contribution visualization: [App](http://paradite.github.io/gitviz/) [GitHub repo](https://github.com/paradite/cs3281viz)
 * [Set up framework](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
 * [Set up basic timeline and tooltip](https://github.com/paradite/cs3281viz/commit/c77a497ded06881c4b6d6575bcdcb2d783e0dda2) - Week 4, Wed
 * [Refactored code into proper components, added authentication for GitHub API](https://github.com/paradite/cs3281viz/commit/07421cceb72297c69f3e91eb8feb8b0c37c4a723) - Week 5, Wed
 * [Implemented commits grouped by date, updated tooltip](https://github.com/paradite/gitviz/commit/d0dc5908fb63be32c7792826e15e3419452831b1) - Week 6, Wed
+* [Implemented UI, code cleanup, ready for release](https://github.com/paradite/gitviz/commit/7df4b94ca8198b531b23bbf603f7db7b79bb1744) - Recess Week, Sat
 
 ###### Blog posts on d3.js/data visualization
 * [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/)
@@ -171,10 +176,13 @@ Note: links to github commits represent the last commit for that contribution
 * [Merge connection count component onto overlay layer as svg text](https://github.com/nus-fboa2016-si/whiteboard/commit/facf6bbbd4fb9c9a38983ee2417c055a789b718b) - Week 6, Sat
 * [Added middleware code to transform mouse event data relative to containing element](https://github.com/nus-fboa2016-si/whiteboard/commit/1ef3cecc05c0fb9b611acea78c715a934215335d) - Week 6, Sat
 * [Fixed z-index generator function to work for non-chrome browsers](https://github.com/nus-fboa2016-si/whiteboard/commit/b38260dd30a16d54f01ce85a5dfbfea636cefdcb) - Week 6, Sun
+* [Added support for particle effects from other users drawing](https://github.com/nus-fboa2016-si/whiteboard/commit/854e597843c31d07dc1b48f1b8f561abc2cc1428) - Recess Week, Sun
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
 * [Issue #1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
+* [Issue #1235 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1283) - Recess Week, Fri
+* [Issue #891 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1282) - Recess Week, Sun
 
 #### Technology expertise in cloud deployment and monitoring
 
@@ -205,14 +213,38 @@ Note: links to github commits represent the last commit for that contribution
 * [Refactor: Remove dist folders and include in .gitignore](https://github.com/nus-fboa2016-si/socketio-devtool/commit/79bb92e155f9612d5f6ab1ac60ae8c4bbecee490) - Week 6, Wed
 * [Receive, save and display a list of IO Managers in devtools panel in a simple format](https://github.com/nus-fboa2016-si/socketio-devtool/commit/86bc516886abb89f6ad013894870f4ea48dce9e8) - Week 6, Wed
 * [Add gulp watch task to automate bundling with browserify](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b1a02c1e2c1187470aec35f012034364facb27d9) - Week 6, Wed
-* [Add error handling for gulp browserify task](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4c3b7c076ffed404d418dc31db0f2a796860f38c) - Week 6, Thurs
+* [Add error handling for gulp browserify task](https://github.com/nus-fboa2(016-si/socketio-devtool/commit/4c3b7c076ffed404d418dc31db0f2a796860f38c) - Week 6, Thurs
 * [Receive, save and display a list of sockets for a specific manager on clicked](https://github.com/nus-fboa2016-si/socketio-devtool/commit/1f941df3307062ec4537d3f7ea8df84740ab9e4e) - Week 6, Fri
+* [Parse the packets received and save them, according to created/received as well as its types](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4cd4d77c4cf2e59ad8e3216779591ca334f3cfc2) - Recess Week, Thur
+* [Added timestamp before emitting packets to devtools](https://github.com/nus-fboa2016-si/socketio-devtool/commit/3b13d4babafec75f37868073c243310b3af3d405) - Recess Week, Fri
+* [Combine packets created and received into 1 list, so they can be sorted according to reverse chronological](https://github.com/nus-fboa2016-si/socketio-devtool/commit/01a75f863d53540791a0cd4235e090b27875201f) - Recess Week, Fri
+* [Display managers, sockets, and packets created in a new html template](https://github.com/nus-fboa2016-si/socketio-devtool/commit/1669b714aaecc1fa98329404915f815cd90a2df0) - Recess Week, Fri
+* [Display packets received & Distinguish packets created and received](https://github.com/nus-fboa2016-si/socketio-devtool/commit/117a4e96e2fe8cb1dbd2758438a1f46fa488b8ca) - Recess Week, Sat
+* [Improve styling of managers and packet list](https://github.com/nus-fboa2016-si/socketio-devtool/commit/7a5a5a6f489ea8a815e66a9202929c898e90c4c9) - Recess Week, Sat
+* [Add functionality to display packet content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ba4e561ea99c92a2a4625e9e811c326daf36337a) - Recess Week, Sat
+* [Display timestamp when displaying a list of packets](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a06a9c5329266d945dc6159066df8ca751eb3077) - Recess Week, Sat
+* [Deliver dev-tool MVP with Weihan](https://github.com/nus-fboa2016-si/socketio-devtool) - Recess Week
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
 * [Setup project (In-Progress)](https://github.com/mikelimantara/repo) - Week 3, Code Sprint
 * Complete project setup to pass all the tests - Week 4, Wed
-* [Fix Issue #4802](https://github.com/TEAMMATES/teammates/pull/4811) - Week 6, Sun
+* [Fix Issue #4802](https://github.com/TEAMMATES/teammates/pull/4811) - Week 6, Sun (PR Merged)
+
+#### Tech Expertise Plan: Mobile Development
+
+##### Deliverable could be in the form of: 
+* Blog post
+* Showcase of source codes
+
+##### Short-term plan
+* Learn Android basic concepts like layouting, activity and fragments management and their best practices
+* Delve into deeper concepts, eg. data storage, background services and tasks, security
+* Explore concepts about connectivity with the cloud and push notifications from the server
+* Explore on cross platform development frameworks for mobile development (eg. Phonegap, Cordova, Xamarin, etc.), and understand their similarities or differences among each other and native approach
+
+##### Long-term plan
+* Decide and learn on 1 cross platform mobile development framework
 
 ### @whattokingu (Zheng Weihan)
 
@@ -227,14 +259,20 @@ Note: links to github commits represent the last commit for that contribution
 * Worked on improvements to PR for [issue #331](https://github.com/socketio/socket.io-client/issues/331) based on feedback from Nkzawa - Week 5, Thurs
 * Worked on SI-devtool inter-process communication. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/083d0ed33bc6e2c76df124b825b103c9aa19d427) - Week 6, Mon
 * Implement message-passing and listening from SI to devtools. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/489f646bf053a3c15ce71ca3ab016538f11c9551) - Week 6, Thurs
+* Parser for packets received by Dev tools. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/8f769b5ff4827ce65b5cb5306cee8546ede70ba4) - Recess Week, Sun
+* Styling for Devtool. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a62bd57d4529e5f00a040a9227057bf108755dfb) - Recess Week
+* Deliver dev-tool MVP together with Michael [link](https://github.com/nus-fboa2016-si/socketio-devtool) - Recess Week
+* Display Error to user [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c21991bdc07c87ad33a5fc600499ff748a3af976) - Recess Week
+* [README](https://github.com/nus-fboa2016-si/socketio-devtool/blob/master/README.md) for dev-tool - Recess Week
 
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
-* PR [#1255](https://github.com/HubTurbo/HubTurbo/pull/1255) for issue
-[#1102](https://github.com/HubTurbo/HubTurbo/issues/1102) - Week 6, Thurs
+* PR [#1255](https://github.com/HubTurbo/HubTurbo/pull/1255) for issue [#1102](https://github.com/HubTurbo/HubTurbo/issues/1102) - Week 6, Thurs
 
 #### Technology expertise in RESTful APIs
+* [Blogpost](https://medium.com/@whattokingu/what-i-know-about-rest-21ece615c949#.pebz7xf06) on introduction to REST
+
 
 ##### Short term plan
 * Read up on RESTful implementation details.
@@ -252,6 +290,7 @@ Note: links to github commits represent the last commit for that contribution
 * [Convert bundling from browserify to webpack for engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/tree/webpack) - Week 2, Sun
 * [Fix engine.io-client webpack bundling where the `eio` global is not exposed](https://github.com/socketio/engine.io-client/commit/f22f990f1514521ebc8e0180f4791f26fbf79950)(link shows last commit) - Week 3, Sun
 * Doing clean up and miscellaneous fixes on outstanding PRs for [engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/db5e3168540b0516783598bd125f28c62313c809) and [socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/c7deec13cb32dfd6042f3c2f730d31a715c28a55) (link shows last commits) - Week 5, Friday
+* Add ESLint to socket.io-client, [PR](https://github.com/socketio/socket.io-client/pull/951) sent - Recess Week, Sunday
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat

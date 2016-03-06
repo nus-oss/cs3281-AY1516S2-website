@@ -78,15 +78,15 @@ permalink: /teams/codebender/
     * [X] Change example library folder structure to include versions
 * [x] **Milestone 2 Part 1** - Due Week 5, Wed
     * [X] Design public APIs: specify request urls and parameters
-* [ ] **Milestone 2 Part 2** - Due Week 6, Sun
-    * [ ] Create ApiController
-    * [ ] Create tests for ApiController
-    * [ ] Create ApiHandler
-    * [ ] Create tests for ApiController
-* [ ] **Milestone 3** - Due Week 7, Mon
-    * [ ] Change View Templates to include versions
-    * [ ] Change ViewsController
-* [ ] **Milestone 4** - Due Week 7, Wed
+* [x] **Milestone 2 Part 2** - Due Week 6, Sun
+    * [X] Create ApiController
+    * [X] Create tests for ApiController
+    * [X] Create ApiHandler
+    * [X] Create tests for ApiControlle
+* [x] **Milestone 3** - Due Week 7, Mon
+    * [x] Change View Templates to include versions
+    * [x] Create ApiViewsController
+* [ ] **Milestone 4** - Due Week 7, Sun
     * [ ] Component integration
     * [ ] Create integration tests
 * [ ] **Milestone 5** - Due Week 8, Sun
@@ -115,11 +115,13 @@ permalink: /teams/codebender/
 * [x] Self-recovery from corrupted negative number - Week 5
 * [x] set up unit test using jasmine (coverage aim:90%) - Week 6
 * [x] refactor the code to improve robustness - Week 6
-* [ ] add new pattern: multi-line with X-coordinate - Week 8
-* [ ] Create GUI for graph plotting, which can be put into IDE - Week 9
-* [ ] Allow user to define coordinates and axis on GUI - Week 10
-* [ ] add new pattern: auto-generated timestamp as X-axis - Week 11
-* [ ] Documenation (on patterns and user manual) - Week 12
+* [x] add new pattern: multi-line with X-coordinate - Week 7
+* [x] Create GUI for graph plotting, which can be put into IDE - Week 7
+* [x] add new pattern: auto-generated timestamp as X-axis - Week 7
+* [ ] Documenation (on patterns and user manual) - Week 8
+* [ ] Pause and restart the chart plotting - Week 8
+* [ ] CSV Import - Week 8
+* [ ] User costumization of axis name, data name,etc - Week 9
 
 ## Contributions
 
@@ -148,11 +150,18 @@ permalink: /teams/codebender/
 * Week 6, Wed - Completed the command pattern-based getVersions API ([Pull Request #40](https://github.com/codebendercc/eratosthenes/pull/40))
 * Week 6, Wed - Completed the command pattern-based getKeywords API ([Pull Request #41](https://github.com/codebendercc/eratosthenes/pull/41))
 * Week 6, Wed - Completed the command pattern-based checkGithubUpdates API ([Pull Request #42](https://github.com/codebendercc/eratosthenes/pull/42))
+* Recess Week, Wed - [Forked the Eratosthenes repository](https://github.com/nus-fboa2016-CB/eratosthenes/tree/v2-api-development) and merged existing PRs so that work on the next milestone may begin
+* Recess Week, Wed - Add routes and view controller for the new version of APIs
+* Recess Week, Wed - Implement v2 of gitUpdatesAction API
+* Recess Week, Wed - Implement v2 of toggleStatusAction API
+* Recess Week, Fri - Implement v2 of searchAction API
+* Recess Week, Fri - Implement v2 of downloadAction API
+* Recess Week, Fri - Refactored existing code
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
 * Week 6, Sun - Development process understood
-* Week 6, Sun - Resolved [issue #4645](https://github.com/TEAMMATES/teammates/issues/4645) in [PR #4809](https://github.com/TEAMMATES/teammates/pull/4809)
+* Week 6, Sun - Resolved [issue #4645](https://github.com/TEAMMATES/teammates/issues/4645) in [PR #4809](https://github.com/TEAMMATES/teammates/pull/4809) (Merged)
 
 #### Technology expertise in Information Security
 * **Short-Term Plan**: To expose myself to as many aspects of Information Security as possible (e.g. Cryptography, Web Security, Network Security, System Security, Software Security, Pen Testing) and in the process, acquire practical skills that can be applied in the information security industry.
@@ -163,6 +172,8 @@ permalink: /teams/codebender/
 * Write-up on my participation in Insomni'hack 2016: ([Blog Post on the Smartcat Challenge](http://cs3281-2.blogspot.sg/2016/01/te-insomnihack-2016-teaser-smartcat-web.html))
 * Write-up on [cracking the substitution cipher](http://cs3281-2.blogspot.sg/2016/01/te-cracking-substitution-cipher.html)
 * Attended security wednesday talk on ["Building next generation security tools with Unicorn engine"](https://www.facebook.com/events/329195357204132/)
+* Attended [Null Singapore monthly meetup](http://www.meetup.com/Null-Singapore-The-Open-Security-Community/events/228606152/) on DDOS and DNS Hijacking
+* Write-up on a cryptographic challenge in Insomni'hack 2016 ([blog post on the challenge](http://cs3281-2.blogspot.com/2016/02/te-insomnihack-2016-teaser-bring-noise.html))
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
@@ -181,23 +192,33 @@ permalink: /teams/codebender/
 * Week 6, Thu - Suggested and implemented command pattern and factory pattern for better modularization. After further refinement by teammates, it is now in [PR #39](https://github.com/codebendercc/eratosthenes/pull/39).
 * Week 6, Sun - Implemented FetchApiCommand [PR #44](https://github.com/codebendercc/eratosthenes/pull/44/files)
 * Week 6, Sun - Implemented ListApiCommand [PR #45](https://github.com/codebendercc/eratosthenes/pull/44/files)
+* Recess Week - Fixed ListApiCommand which was wrongly using the old schema models ([PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/6))
+* Recess Week - Implemented ApiViewsController's newLibraryAction and its own handler NewLibraryHandler ([PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/5))
 
 #### Contribution to minor project - HubTurbo
  * Week 6, Sun - Project setup
  * Week 6, Sun - Read [developer guides](https://github.com/HubTurbo/HubTurbo/blob/master/docs/developerGuide.md)
  * Week 6, Sun - [issue #1094](https://github.com/HubTurbo/HubTurbo/issues/1094) ([PR #1277](https://github.com/HubTurbo/HubTurbo/pull/1277))
+ * Recess Week - Interacted with other contributors and further expanded [PR #1277](https://github.com/HubTurbo/HubTurbo/pull/1277), Got merged at the end.
+ * Recess Week - Raised [issue #1281](https://github.com/HubTurbo/HubTurbo/issues/1281)
+ * Recess Week - Worked on issue 1233 but another PR made for very related issue so halted
  
-#### Technology expertise in Intelligent Agent
+#### Technology expertise in Ruby on Rails + ReactJS
 
 ##### Short Term Plan
- * Look for practical application in extension of my education so far
- * Develop agent for simple problem
- * Publish posts / tutorials on blog
+ * Online tutorials
+ * Go through Ruby on Rails Tutorial by Hartl
+ * Small project
 
 ##### Long Term Plan
- * Undergo further education: CS4246 (AI Planning and Decision Making), CS5340 (Uncertainty Modelling in AI)
- * Apply skill on real world problem
- * Maintain blog
+ * 6 months internship experience using the tools from May
+ * Pet projects
+ * Open source project contribution
+
+#### Progress
+ * Finished course on Ruby on Codecademy
+ * Finished course on Rails on Codecademy
+ * Reading Ruby on Rails Tutorial
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
@@ -223,10 +244,13 @@ permalink: /teams/codebender/
 * Week 6, Fri - Found out that Youtube's base.js takes up the most time (10216ms out of total of 15000ms) during page load.
 * Week 6, Sat - Oddly, base.js loads very fast when I'm at home (125ms) vs when I'm at school (10216ms), will look into why that is so.
 * Week 6, Sun - Ran a performance check on Powerpoint Labs website, found most images not compressed.
-* Week 6, Sun - Compressed all images used for Powerpoint Labs website and [submitted first PR for Powerpoint Labs](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/27)
+* Week 6, Sun - Compressed all images used for Powerpoint Labs website and submitted [1st PR for Powerpoint Labs](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/27)
+* Recess Week - Created automation for image compression with rake and submitted [2nd PR for Powerpoint Labs](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/28)
+* Week 7, Mon - Loading Youtube's base.js seems to be very fast when I tested it at school again (30ms). So I will monitor it further if action is needed.
 
 #### Technology expertise in Web Performance
-* Week 7, Mon - [Wrote a blog post on compressing images for Powerpoint Labs](http://alexyy.com)
+* Recess Week - [Wrote a blog post on lossless image compression for Powerpoint Labs](http://alexyy.com/2016/02/22/image-compression/)
+* Week 7, Mon - [Automation of image compression](http://alexyy.com/2016/02/29/automated-image-compression/)
 
 ### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
@@ -246,9 +270,16 @@ permalink: /teams/codebender/
 * Week 5, Thurs - fix the bug involving breaking down of negative number
 * Week 6, Mon - Set up Jasmine and BlanketJS for unit test and coverage
 * Week 6, Wed - write unit test (coverage 91%)
+* Recess Week - write unit test (coverage 100%)
+* Recess Week - add new pattern: data with x-axis
+* Recess Week - refactor all the code done by previous group
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
+ * issue[#822](https://github.com/Coursemology/coursemology2/issues/822) - Week 6
+
+#### Technology expertise in Ruby on Rails
+* Publish self-written Ruby Gem [mthAuth](https://rubygems.org/gems/mthAuth) - Recess Week
 
 ### @gisonrg (Jiang Sheng)
 * Week 2, Tues - Received project details
@@ -272,14 +303,19 @@ permalink: /teams/codebender/
 * Week 5, Sun - Created [test for getExampleCode API](https://github.com/codebendercc/eratosthenes/commit/cd56d7d6e820eb10504e9c53dca4017ea2aa18ee)
 * Week 6, Tue - Completed the command pattern-based getExamples API ([Pull Request #46](https://github.com/codebendercc/eratosthenes/pull/46))
 * Week 6, Wed - Completed the command pattern-based getExampleCode API ([Pull Request #47](https://github.com/codebendercc/eratosthenes/pull/47))
+* Recess Week - Implement new view and logic for viewing library codes. [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/commit/fa0b9bb4a28a31ad0d611f375c6363867ef0d56e)
+* Recess Week - Implement views for adding new library; also help to implement the logic for adding new library. [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/commit/6dfa4f84fe348a21b3154590d6351e03c572e5a6)
+* Recess Week - Add testcases to strengthen the code coverage (Now >90% for most ApiCommands)
+* Recess Week - Add functional tests to new views (view, search, download) [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/blob/v2-api-development/Symfony/src/Codebender/LibraryBundle/Tests/Controller/ApiViewsControllerTest.php)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
-* PR [#4807](https://github.com/TEAMMATES/teammates/pull/4807) for issue [#3465](https://github.com/TEAMMATES/teammates/issues/3465) -Week 6, Sat
-* PR [#4810](https://github.com/TEAMMATES/teammates/pull/4810) for issue [#3922](https://github.com/TEAMMATES/teammates/issues/3922) -Week 6, Sun
+* (Merged) PR [#4807](https://github.com/TEAMMATES/teammates/pull/4807) for issue [#3465](https://github.com/TEAMMATES/teammates/issues/3465) -Week 6, Sat 
+* (Merged) PR [#4810](https://github.com/TEAMMATES/teammates/pull/4810) for issue [#3922](https://github.com/TEAMMATES/teammates/issues/3922) -Week 6, Sun 
+* (Ongoing) Working on [Issue#4538](https://github.com/TEAMMATES/teammates/issues/4538) -Recess Week 
 
 ###### Past Contribution to HubTurbo
-* PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
+* (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
 
 #### Technology expertise in Node.js
 ######Short-term plan:
@@ -297,5 +333,10 @@ permalink: /teams/codebender/
 4. Take modules related to Web Programming, such as CS3216 to keep refining my developing skills.
 
 * [Node.js: what, why, how](http://blog.gisonrg.me/2016/node-js-what-why-how/): a blog post to introduce Node.js
-* Leanring Node.js topics by attempting workshops provided on [NodeSchool.io](http://nodeschool.io)
-   * [My solutions for nodeschoo.io](https://github.com/Gisonrg/collections/tree/master/nodeschool)
+* Leanring Node.js topics by attempting workshops provided on [NodeSchool.io](http://nodeschool.io). [My solutions](https://github.com/Gisonrg/collections/tree/master/nodeschool)
+   * [~~learnyounode~~](https://github.com/Gisonrg/collections/tree/master/nodeschool/learnyounode)
+   * [~~Promise It Won't Hurt~~](https://github.com/Gisonrg/collections/tree/master/nodeschool/promiseit)
+   * Count to 6
+   * Tower of Babel
+* [An interesting JavaScript interview question](http://blog.gisonrg.me/2016/interesting-js-question/): a blog post starting from a JavaScript interview question to share my learning and understanding of some JavaScript features like hoisting, "this" keyword, and scope.
+* (Ongoing) Wrtiing a blog post to share my findings for Promise vs Callback.
