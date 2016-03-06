@@ -73,6 +73,9 @@ permalink: /teams/powerpointlabs/
   * [x] Implement absolute dimension for resizing - Week 5, Wed
   * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
   * [ ] Improve on rotation support for shapes
+  * [ ] Work on Make Symmetric feature
+  * [ ] Create Crop To Match feature
+  * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
   * [x] Preview feature - Recess Week, Thu
 * Others
@@ -214,6 +217,13 @@ permalink: /teams/powerpointlabs/
 * Depreciated global methods - Week 6
 * Designed Resize, Position, Clone, Sync lab icons - Recess week
 * Migrated to Action Framework - Recess week
+* Minor feature enhancements (Error message at preview surpressing, persistent aspect ratio checking, removed aspect ratio status for same dimension) - Week 7
+* Improved resizing logic for locked aspect ratio - Week 7
+* Redesigned icons for stretch / shrink - Week 7
+* Updated icons and UI for make symmetric - Week 7
+* Working on redesigning icons for ResizeLab
+* Working on crop to match feature
+
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
 
