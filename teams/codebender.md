@@ -123,9 +123,9 @@ permalink: /teams/codebender/
 * [x] add new pattern: multi-line with X-coordinate - Week 7
 * [x] Create GUI for graph plotting, which can be put into IDE - Week 7
 * [x] add new pattern: auto-generated timestamp as X-axis - Week 7
-* [ ] Documenation (on patterns and user manual) - Week 8
+* [x] Documenation (on patterns and user manual) - Week 8
 * [x] Pause and restart the chart plotting - Week 8
-* [ ] CSV Import - Week 8
+* [x] CSV Import - Week 8
 * [ ] User costumization of axis name, data name,etc - Week 9
 
 ## Contributions
@@ -310,6 +310,8 @@ permalink: /teams/codebender/
 * Week 7, Wed - add start/pause function
 * Week 7, Wed - fix a serious bug with dataparser
 * Week 7, Wed - unit test
+* Week 7, Fri - CSV import
+* Week 7, Sun - Documentation(readme.md)
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
