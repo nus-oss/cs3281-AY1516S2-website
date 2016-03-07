@@ -49,13 +49,16 @@ permalink: /teams/powerpointlabs/
   * [x] Settings button for Align functions to decide what to use as reference - Recess Week, Sun
   * [x] Improve Distrubute by Grid to conform to dimensions given by user and allow alignment for columns - Week 7, Wed
   * [x] Add Defensive code with error dialogs - Week 7, Thu
+  * [x] Align, Distribute uses actual shape as reference instead of bounding box
+  * [x] Settings window for Distribute
+  * [x] Settings window for Swap
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement method to determine actual coordinates of shape instead of bounding box
-  * [ ] Ensure all functionalities are up and running
-  * [ ] Refactor architecture of Positions Lab 
+  * [ ] Implement Distribute Along Edge
+  * [ ] Implement Adjoin to use internal vertices instead of bounding box
+  * [ ] Refactor architecture of Positions Lab
   * [ ] Create icons
   * [ ] Create unit/functional tests
 
@@ -270,6 +273,10 @@ permalink: /teams/powerpointlabs/
 * Implemented **Distribute (Horizontal, Vertical, Center)** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/554740f68abe2c37748a2f12aac6b67feb5e2254) - Week 5, Thu
 * Implemented **Distribute amongst shapes** feature in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/1f8e3e4a0c901df6a396df479e4d38229323bcdf/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 6, Mon
 * Implemented **Toggle for taking reference from slide vs shapes** in [`feature/ReferenceToSlide`](https://github.com/nus-fboa2016-PL/PowerPointLabs/tree/feature/ReferenceToSlide/PowerPointLabs) - Week 6, Tue
+* Implemented **Settings page for Align** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/679f6c4cdafd8f7b1bcec5d6ad112041a9ebd271) - Week 7, Mon
+* Implemented **Settings page for Distribute** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8ea277d1243fc63fb53d715ba6a586aeeca9cef7) - Week 7, Mon
+* Implemented **Align and Distribute functions to use internal vertices as reference point** in [`PoitionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/273650b8181c9d08772761178e4e38f152e78349) - Week 7, Sun
+* Created the **Settings page UI for Swap** in [`ReorderSettingsDialog.xaml`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/192ca1b23feed3739c2d8c9b343cf5a8f47b1f41) - Week 8, Mon
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
  * ...
