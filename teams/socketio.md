@@ -181,13 +181,12 @@ Note: links to github commits represent the last commit for that contribution
 * [Fixed z-index generator function to work for non-chrome browsers](https://github.com/nus-fboa2016-si/whiteboard/commit/b38260dd30a16d54f01ce85a5dfbfea636cefdcb) - Week 6, Sun
 * [Added support for particle effects from other users drawing](https://github.com/nus-fboa2016-si/whiteboard/commit/854e597843c31d07dc1b48f1b8f561abc2cc1428) - Recess Week, Sun
 * [Updated node express server to also serve guide versions through /guide/vX/index.html](https://github.com/nus-fboa2016-si/whiteboard/commit/dff683550b0127e1ddd29dd5bbe3e33d4d694d8e) - Week 8, Mon
-* [Finish all html/js/package.json resource files and record of shell commands for guide milestone 1](https://github.com/nus-fboa2016-si/whiteboard/commit/2b1d0442f787ef92a477804090dd7bfe8007ed09) - Week 8, Mon
-* [Prepare skeleton of resource files for guide milestones 2-4](https://github.com/nus-fboa2016-si/whiteboard/commit/933141a96c461189a12340f4297c3e73a58f3119) - Week 8, Mon
 
 ###### Whiteboard guide
 * [Differentiate feature list between guide and demo versions](https://github.com/nus-fboa2016-si/whiteboard/commit/0c9049d5492871ffe09420624082b95d0b22e2f7) - Week 7, Sat
 * [Plan milestones in guide](https://github.com/nus-fboa2016-si/whiteboard/commit/7c210b2243376d44c2be5dffe6f1f7f065b8ccd0) - Week 8, Mon
-* []
+* [Finish all html/js/package.json resource files and record of shell commands for guide milestone 1](https://github.com/nus-fboa2016-si/whiteboard/commit/2b1d0442f787ef92a477804090dd7bfe8007ed09) - Week 8, Mon
+* [Prepare skeleton of resource files for guide milestones 2-4](https://github.com/nus-fboa2016-si/whiteboard/commit/933141a96c461189a12340f4297c3e73a58f3119) - Week 8, Mon
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
