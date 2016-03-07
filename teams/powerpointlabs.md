@@ -52,6 +52,7 @@ permalink: /teams/powerpointlabs/
   * [x] Align, Distribute uses actual shape as reference instead of bounding box
   * [x] Settings window for Distribute
   * [x] Settings window for Swap
+  * [x] Settings Page does not animate
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
@@ -60,7 +61,6 @@ permalink: /teams/powerpointlabs/
   * [ ] [All functions should support undo](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/29) - Week 8, Thu
   * [ ] [Swap by Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/25) - Week 8, Thu
   * [ ] Implement Distribute Along Edge - Week 9, Mon
-  * [ ] Settings Page should not animate
   * [ ] [Preview for all functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/30)
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
