@@ -162,13 +162,13 @@ permalink: /teams/hubturbo/
 * [Pull Request #1187](https://github.com/HubTurbo/HubTurbo/pull/1187) (Merged) - Week 1, Thu
 * [Pull Request #1195](https://github.com/HubTurbo/HubTurbo/pull/1195) (Merged) - Week 2, Tue
 * [Pull Request #1204](https://github.com/HubTurbo/HubTurbo/pull/1204) (Merged) - Week 2, Fri
-* [Write a basic Issue Creator](https://github.com/jinified/HubTurbo/tree/issue-creator/src/main/java/ui/components/issue_creators) - Week 3, Mon
 * [Pull Request #1212](https://github.com/HubTurbo/HubTurbo/pull/1212) (Merged) - Week 3, Mon
-* [Rewrite LabelPickerDialog view in fxml](https://github.com/nus-fboa2016-ht/HubTurbo/blob/SuperAwesomeLabelPicker/src/main/resources/ui/fxml/LabelPickerView.fxml) - Week 3, Sun
+* [Pull Request #1232](https://github.com/HubTurbo/HubTurbo/pull/1232) (Merged) - Week 3, Mon
 * [Pull Request #1279](https://github.com/HubTurbo/HubTurbo/pull/1279) - Week 5, Sun
 * [Pull Request #1273](https://github.com/HubTurbo/HubTurbo/pull/1273) - Week 6, Wed
 * [Pull Request #1275](https://github.com/HubTurbo/HubTurbo/pull/1275) (Merged) - Week 6, Sat
-* [Pull Request #1284](https://github.com/HubTurbo/HubTurbo/pull/1284) - Recess week, Wed
+* [Pull Request #1284](https://github.com/HubTurbo/HubTurbo/pull/1284) (Merged) - Recess week, Wed
+* [Pull Request #1319](https://github.com/HubTurbo/HubTurbo/pull/1319) - Week 8, Mon
 
 ##### Contribution to MINOR project [opencv](https://github.com/Itseez/opencv)
 - [Forked the repo](https://github.com/jinified/opencv)
@@ -195,6 +195,7 @@ Progress
 - Complete basic ROS tutorials (needed to integrate vision algorithms)
 - [Implemented Gray-world algorithm, source code](https://github.com/jinified/visionx/blob/master/scripts/prototype.py#L74-L83)
 - [Video demonstration of implemented Gray-World algorithm](https://youtu.be/RJWIXfJJPdc)
+- [Implemented Basic orange marker detector](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/lane_detector.py)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
