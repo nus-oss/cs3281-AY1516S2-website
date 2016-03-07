@@ -75,12 +75,16 @@ permalink: /teams/teammates/
  * [Pull Request #4704](https://github.com/TEAMMATES/repo/pull/4704) (Merged) - Week 4
  * [Issue #4274](https://github.com/TEAMMATES/repo/issues/4274) (Ongoing) - Week 4
  * [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (Merged) - Week 6
+ * [Pull Request #4922](https://github.com/TEAMMATES/teammates/pull/4922) (ToReview) - Week 7
 
-#### Contribution to project [brakets](https://github.com/adobe/brackets)
+#### Contribution to project [brackets](https://github.com/adobe/brackets)
  * Forked and set up project - Week 4 (https://github.com/kennho/brackets)
 
 #### Technology expertise in tool jQuery
- * ...
+##### Short Term Plan - Until the end of semester
+ * Read up on more jQuery related stuff.
+ * Write blog posts about jQuery.
+ * Contribute to TEAMMATES on jQuery related issues.
 
 ---
 
