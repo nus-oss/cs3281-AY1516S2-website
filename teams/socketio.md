@@ -67,12 +67,15 @@ permalink: /teams/socketio/
     * [x] implement io-emitter over chrome protocols - Week 6, Sun
     * [ ] enhance reliability of messaging protocols - Recess Week
     * [x] deliver devtools MVP - Recess Week
-  * [ ] implement mockups of devtool
+  * [x] implement mockups of devtool
     * [x] Display list of IO Managers in devtools
     * [x] Display list of sockets in devtools
     * [x] Display error packets in devtools
     * [x] ~~HTML and CSS structure according to mockups - Week 5, Sun~~ (Mockups not given, but we have an idea of how it roughly looks and implemented it)
-    * [ ] JS Logic wiring - Week 8, Sun 
+  * [ ] refactor devtool
+    * [x] project set-up - Week 8
+    * [ ] build UI according to mockup - Week 11
+    * [ ] integrate ESlint - Week 11
   
 * [ ] Whiteboard Guide
   * [x] Mouse tracking logic - Week 3, Sun
@@ -274,7 +277,7 @@ Note: links to github commits represent the last commit for that contribution
 * Deliver dev-tool MVP together with Michael [link](https://github.com/nus-fboa2016-si/socketio-devtool) - Recess Week
 * Display Error to user [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c21991bdc07c87ad33a5fc600499ff748a3af976) - Recess Week
 * [README](https://github.com/nus-fboa2016-si/socketio-devtool/blob/master/README.md) for dev-tool - Recess Week
-
+* Project setup for SI-devtool refactor [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ed0472ac0f488333ba99b999e1f9d6dcfe39a79a) - Week 8, Mon
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
