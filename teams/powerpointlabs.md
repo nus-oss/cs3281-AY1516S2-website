@@ -56,10 +56,13 @@ permalink: /teams/powerpointlabs/
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement Distribute Along Edge
-  * [ ] Implement Adjoin to use internal vertices instead of bounding box
+  * [ ] Create icons - Week 8, Thu  
+  * [ ] All functions should support undo - Week 8, Thu
+  * [ ] Swap by Reference Point - Week 8, Thu
+  * [ ] Implement Distribute Along Edge - Week 9, Mon
+  * [ ] Settings Page should not animate
+  * [ ] Preview for all functions
   * [ ] Refactor architecture of Positions Lab
-  * [ ] Create icons
   * [ ] Create unit/functional tests
 
 ###### Resize Lab
