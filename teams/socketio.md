@@ -164,7 +164,7 @@ Note: links to github commits represent the last commit for that contribution
 * [socket.io](https://github.com/nus-fboa2016-si/socket.io/commit/920412587b245c4ae5f7c95a583dd37f20c2d904), [engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5), [engine.io-client](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5): Added eslint support and standardise gulpfiles - Week 3, CS
 * engine.io-client: [auto cleaning of test generated files](https://github.com/nus-fboa2016-si/engine.io-client/commit/46b28e0a0c9c3b36f208b22eaee7a8f75037b268) - Week 5, Wed
 
-###### Whiteboard demo/example backend
+###### Whiteboard demo
 * [Track connections and line drawing coordinates](https://github.com/nus-fboa2016-si/whiteboard/commit/0008a83cb0a3a1d3d133172a4458e8b8e9c8c2ec) - Week 4, Sat
 * [Every client can now see each other's drawings](https://github.com/nus-fboa2016-si/whiteboard/commit/21397aca5bbb7dbf41a82e968a7d3646edd8b5b3) - Week 4, Sun
 * [Figure out how to layer 2d canvas and webGL layers without conflict](http://jsfiddle.net/7McS2/4/) - Week 5, Fri
@@ -180,6 +180,14 @@ Note: links to github commits represent the last commit for that contribution
 * [Added middleware code to transform mouse event data relative to containing element](https://github.com/nus-fboa2016-si/whiteboard/commit/1ef3cecc05c0fb9b611acea78c715a934215335d) - Week 6, Sat
 * [Fixed z-index generator function to work for non-chrome browsers](https://github.com/nus-fboa2016-si/whiteboard/commit/b38260dd30a16d54f01ce85a5dfbfea636cefdcb) - Week 6, Sun
 * [Added support for particle effects from other users drawing](https://github.com/nus-fboa2016-si/whiteboard/commit/854e597843c31d07dc1b48f1b8f561abc2cc1428) - Recess Week, Sun
+* [Updated node express server to also serve guide versions through /guide/vX/index.html](https://github.com/nus-fboa2016-si/whiteboard/commit/dff683550b0127e1ddd29dd5bbe3e33d4d694d8e) - Week 8, Mon
+* [Finish all html/js/package.json resource files and record of shell commands for guide milestone 1](https://github.com/nus-fboa2016-si/whiteboard/commit/2b1d0442f787ef92a477804090dd7bfe8007ed09) - Week 8, Mon
+* [Prepare skeleton of resource files for guide milestones 2-4](https://github.com/nus-fboa2016-si/whiteboard/commit/933141a96c461189a12340f4297c3e73a58f3119) - Week 8, Mon
+
+###### Whiteboard guide
+* [Differentiate feature list between guide and demo versions](https://github.com/nus-fboa2016-si/whiteboard/commit/0c9049d5492871ffe09420624082b95d0b22e2f7) - Week 7, Sat
+* [Plan milestones in guide](https://github.com/nus-fboa2016-si/whiteboard/commit/7c210b2243376d44c2be5dffe6f1f7f065b8ccd0) - Week 8, Mon
+* []
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
