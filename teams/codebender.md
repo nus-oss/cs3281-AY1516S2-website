@@ -226,6 +226,7 @@ permalink: /teams/codebender/
 * Week 7, Wed - Added test for testViewBuiltinExample
 * Week 7, Wed - Added test for testViewExternalZipLibrary
 * Week 7, Wed - Added test for testViewExternalGitLibrary
+* Week 7, Sun - Refactoring and pruning of tests
 
 #### Contribution to minor project - HubTurbo
  * Week 6, Sun - Project setup
@@ -253,6 +254,8 @@ permalink: /teams/codebender/
  * Finished course on Rails on Codecademy
  * Reading Ruby on Rails Tutorial
  * Metaprogramming Ruby Chapter 1 Monday: The Object Model
+ * Wrote Metaprogramming in Ruby Introduction Summary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=1719897351251213357;onPublishedMenu=posts;onClosedMenu=posts;postNum=1;src=postname)
+ * Wrote Metaprogramming in Ruby Chapter 1 Sumary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=7217799080200561162;onPublishedMenu=posts;onClosedMenu=posts;postNum=0;src=postname)
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
