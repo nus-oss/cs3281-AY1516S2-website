@@ -226,7 +226,7 @@ Note: links to github commits represent the last commit for that contribution
 * [Refactor: Remove dist folders and include in .gitignore](https://github.com/nus-fboa2016-si/socketio-devtool/commit/79bb92e155f9612d5f6ab1ac60ae8c4bbecee490) - Week 6, Wed
 * [Receive, save and display a list of IO Managers in devtools panel in a simple format](https://github.com/nus-fboa2016-si/socketio-devtool/commit/86bc516886abb89f6ad013894870f4ea48dce9e8) - Week 6, Wed
 * [Add gulp watch task to automate bundling with browserify](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b1a02c1e2c1187470aec35f012034364facb27d9) - Week 6, Wed
-* [Add error handling for gulp browserify task](https://github.com/nus-fboa2(016-si/socketio-devtool/commit/4c3b7c076ffed404d418dc31db0f2a796860f38c) - Week 6, Thurs
+* [Add error handling for gulp browserify task](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4c3b7c076ffed404d418dc31db0f2a796860f38c) - Week 6, Thurs
 * [Receive, save and display a list of sockets for a specific manager on clicked](https://github.com/nus-fboa2016-si/socketio-devtool/commit/1f941df3307062ec4537d3f7ea8df84740ab9e4e) - Week 6, Fri
 * [Parse the packets received and save them, according to created/received as well as its types](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4cd4d77c4cf2e59ad8e3216779591ca334f3cfc2) - Recess Week, Thur
 * [Added timestamp before emitting packets to devtools](https://github.com/nus-fboa2016-si/socketio-devtool/commit/3b13d4babafec75f37868073c243310b3af3d405) - Recess Week, Fri
@@ -243,8 +243,10 @@ Note: links to github commits represent the last commit for that contribution
 * [Setup project (In-Progress)](https://github.com/mikelimantara/repo) - Week 3, Code Sprint
 * Complete project setup to pass all the tests - Week 4, Wed
 * [Fix Issue #4802](https://github.com/TEAMMATES/teammates/pull/4811) - Week 6, Sun (PR Merged)
+* [Fix Issue #3979](https://github.com/TEAMMATES/teammates/pull/4866) - Week 7, Wed (PR Merged)
 
 #### Tech Expertise Plan: Mobile Development
+* Blogpost about Android Project Structure and Naming Convention Guidelines [link](https://medium.com/@mikelimantara/overview-of-android-project-structure-and-naming-conventions-b08f6d0b7291#.z58j2vliw)
 
 ##### Deliverable could be in the form of: 
 * Blog post
