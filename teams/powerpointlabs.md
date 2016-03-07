@@ -74,14 +74,14 @@ permalink: /teams/powerpointlabs/
   * [x] Same Dimension - Week 4, Sun
   * [x] Fit - Week 4, Tue
   * [x] Aspect Ratio - Week 4, Wed
+  * [x] Make Symmetry - Week 7, Fri
 * Intermediate functionality for Resize Lab
   * [x] Enhance the reference point of Stretch & Shrink - Week 5, Mon
   * [x] Enhance the scale factor of Restore Aspect Ratio - Week 5, Mon
   * [x] Refactor the architecture of Resize Lab - Week 5, Tue
   * [x] Implement absolute dimension for resizing - Week 5, Wed
   * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
-  * [ ] Improve on rotation support for shapes
-  * [ ] Work on Make Symmetric feature
+  * [x] Improve on rotation support for shapes - Week 7, Thu
   * [ ] Create Crop To Match feature
   * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
@@ -163,6 +163,7 @@ permalink: /teams/powerpointlabs/
 * [Pull Request #25](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/25) (Merged) - Week 3, Wed
 * [Pull Request #905](https://github.com/PowerPointLabs/PowerPointLabs/pull/905) (Merged) - Week 3, Thu
 * [Pull Request #911](https://github.com/PowerPointLabs/PowerPointLabs/pull/911) (Merged) - Week 3, Sat
+* [Pull Request #970](https://github.com/PowerPointLabs/PowerPointLabs/pull/970) (Merged) - Week 7, Fri
 
 ###### Resize Lab
 * Prepared mockup UI for ResizeLab - Week 3, Sat
@@ -179,6 +180,10 @@ permalink: /teams/powerpointlabs/
 * Migrate `ResizeLabShape.cs` to gobal util `PPShape` - Week 6, Mon
 * Supported rotated shape in **Stretch and Shrink** - Week 6, Mon
 * Implemented [Preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/compare/3bb5f0221f23dc6bc738bcbc55d719f869203e98...nus-fboa2016-PL:9d94a942dbc48e1da1c8819b35621fbd7e9be974) feature - Recess Week
+* Implemented the redefinition of bounding box in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/c14b014770d3bc00a743914cbc8fcd718cf1f3ac/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 7, Thu
+* Created **Symmetry** feature in [`ResizeLabMain.Symmetry.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b994d66268cb1eb29597d47ea687f781b70f40d1/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.Symmetry.cs) - Week 7, Thu
+* Created preview of **Symmetry** in [`Commit e99bf89`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1a76458a8a6168f37771c95e245b88e45b2512e7) - Week 7, Fri
+* Refactor preview and execute action in [`Commit 99f13a1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ab4c5086cd3bb9425d7280858658609655d67167) - Week 7, Fri
 
 #### Contributions to project [OpenMRS](http://openmrs.org/) (Minor Project)
  * Setting up project [screenshot](https://www.dropbox.com/s/j21ry9fhyinlf16/setup.PNG?dl=0)
