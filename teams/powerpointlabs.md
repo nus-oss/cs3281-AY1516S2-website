@@ -56,12 +56,12 @@ permalink: /teams/powerpointlabs/
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Create icons - Week 8, Thu  
-  * [ ] All functions should support undo - Week 8, Thu
-  * [ ] Swap by Reference Point - Week 8, Thu
+  * [ ] [Create icons](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/28) - Week 8, Thu  
+  * [ ] [All functions should support undo](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/29) - Week 8, Thu
+  * [ ] [Swap by Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/25) - Week 8, Thu
   * [ ] Implement Distribute Along Edge - Week 9, Mon
   * [ ] Settings Page should not animate
-  * [ ] Preview for all functions
+  * [ ] [Preview for all functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/30)
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
 
