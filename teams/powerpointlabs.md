@@ -47,6 +47,8 @@ permalink: /teams/powerpointlabs/
   * [x] Implement Distribute by Grid with user input - Recess Week, Fri
   * [x] Improve User Interaction of Adjustments (Rotation and Lock Axis) - Recess Week, Tue + Sun
   * [x] Settings button for Align functions to decide what to use as reference - Recess Week, Sun
+  * [x] Improve Distrubute by Grid to conform to dimensions given by user and allow alignment for columns - Week 7, Wed
+  * [x] Add Defensive code with error dialogs - Week 7, Thu
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
@@ -94,6 +96,7 @@ permalink: /teams/powerpointlabs/
 * [Pull Request #840](https://github.com/PowerPointLabs/PowerPointLabs/pull/893) (Merged) - Week 2, Wed
 * [Pull Request #895](https://github.com/PowerPointLabs/PowerPointLabs/pull/895) (Merged) - Week 3, Wed
 * [Pull Request #913](https://github.com/PowerPointLabs/PowerPointLabs/pull/913) (Merged) - Week 3, Sat
+* [Pull Request #977](https://github.com/PowerPointLabs/PowerPointLabs/pull/977) (Merged) - Week 8, Sun
 
 ###### Positions Lab 
 * Prepared UI Mockup for PositionsLab - Week 3, Thu
@@ -109,6 +112,9 @@ permalink: /teams/powerpointlabs/
 * Refactored existing functionalities to make logic testable in [`Commit d069bb588c684de81a1d82e97b76c25864dea014`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/d069bb588c684de81a1d82e97b76c25864dea014) - Recess Week, Thu
 * Implement **Distribute by Grid** with user input in [`Commit ce0b9b5da1fcb0b530755acdaa693fd4ded63589`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ce0b9b5da1fcb0b530755acdaa693fd4ded63589) - Recess Week, Fri
 * Improve User Interaction of **Adjustments** (Rotation and Lock Axis) in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/011ae62a6212993d379885336194d025ae53480f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Recess Week, Tue + Sun
+* Improve **Distribute by Grid** to conform to dimensions given by user and allow alignment for columns in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/5fcfb2e4679dd1f4837d94aff6ddeec102deacb3/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 7 Wed
+* Add Defensive code with error dialogs in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/918aa3f03b8f5be6cfc41d807fdcbf7490081e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) and [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/918aa3f03b8f5be6cfc41d807fdcbf7490081e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 7, Thu
+* Fix Settings not opening after closing in [`Commit 2bf8506f1e04f078ae5eb2de3b9c6ce5409a5637`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/2bf8506f1e04f078ae5eb2de3b9c6ce5409a5637) - Week 7, Thu
 
 #### Contributions to project [Brackets](http://brackets.io/) (Minor Project)
  * Setup Environment: [Screenshot](https://drive.google.com/file/d/0BzrjImOddxOKV1ktc1RDUTlCY0U/view?usp=sharing)
@@ -134,8 +140,8 @@ permalink: /teams/powerpointlabs/
 * [Personal Website](http://oswellchan.github.io/) - Week 4
 * Excercise on Responsive Design and HTML5 Canvas: [CS3226 Lab 3](http://cs3226.comp.nus.edu.sg/~a0096724/lab3/) - Week 6
 * Prototype of Cache Simulator: [Cache Simulator - Iteration 1](http://oswellchan.github.io/CacheSimulator/) - Week 6
-* Excercise on Client and Server Architecture: [CS3226 Lab 4](http://cs3226.comp.nus.edu.sg/~a0096724/lab4/) - Recess Week
- 
+* Excercise on Client and Server Architecture (w/ AJAX): [CS3226 Lab 4](http://cs3226.comp.nus.edu.sg/~a0096724/lab4/) - Recess Week
+* Exercise on use of Database and Input sanitisation to prevent SQL injections: [CS3226 Lab 5](http://cs3226.comp.nus.edu.sg/~a0096724/lab5/) - Week 7
 
 ---
 
