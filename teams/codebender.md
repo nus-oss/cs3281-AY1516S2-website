@@ -99,8 +99,7 @@ permalink: /teams/codebender/
     * [ ] Handle multiple built-in example versions
 * [ ] **Milestone 7** - Due Week 12, Sun
     * [ ] Migrate libraries from production database and filesystem into v2
-* [ ] **Final Milestone** - Due Week 13, Sun
-    * [ ] PR against codebendercc/eratosthenes
+* Week 13 - Buffer time
 
 
 ## Workplan for Graphite
