@@ -355,6 +355,7 @@ permalink: /teams/codebender/
 * Week 7, Tue - Implement adding library from Github Releases (frontend, logic) [PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/16)
 * Week 7, Sat - Implement auto populating library meta when adding version for existing library [PR](https://github.com/codebendercc/eratosthenes/pull/50)
 * Week 7, Sun - UI improvement for version section [PR](https://github.com/codebendercc/eratosthenes/pull/51)
+* Week 8, Wed - Support architectures when add and view library [PR](https://github.com/codebendercc/eratosthenes/pull/55)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
