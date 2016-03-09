@@ -178,7 +178,7 @@ permalink: /teams/codebender/
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
 * Week 6, Sun - Development process understood
 * Week 6, Sun - Resolved [issue #4645](https://github.com/TEAMMATES/teammates/issues/4645) in [PR #4809](https://github.com/TEAMMATES/teammates/pull/4809) (Merged)
-* Week 7, Tue - Resolved [issue #4006](https://github.com/TEAMMATES/teammates/issues/4006) in [PR #4849](https://github.com/TEAMMATES/teammates/pull/4849)
+* Week 7, Tue - Resolved XSS vulnerability in Teammates ([issue #4006](https://github.com/TEAMMATES/teammates/issues/4006), [PR #4849](https://github.com/TEAMMATES/teammates/pull/4849)) (Merged)
 * Week 7, Tue - Raised and resolved [issue #4850](https://github.com/TEAMMATES/teammates/issues/4850) in [PR #4851](https://github.com/TEAMMATES/teammates/pull/4851)
 * Week 7, Tue - Completed vulnerability assessment on Teammates
 * Week 7, Tue - Raised 3 security vulnerabilities discovered (along with recommendations), including:
