@@ -76,6 +76,9 @@ permalink: /teams/teammates/
  * [Issue #4274](https://github.com/TEAMMATES/repo/issues/4274) (Ongoing) - Week 4
  * [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (Merged) - Week 6
  * [Pull Request #4922](https://github.com/TEAMMATES/teammates/pull/4922) (ToReview) - Week 7
+ * [Pull Request #4942](https://github.com/TEAMMATES/teammates/pull/4942) (Merged) - Week 8
+ * [Pull Request #4947](https://github.com/TEAMMATES/teammates/pull/4947) (Merged) - Week 8
+ * [Pull Request #4963](https://github.com/TEAMMATES/teammates/pull/4963) (Merged) - Week 8
 
 #### Contribution to project [brackets](https://github.com/adobe/brackets)
  * Forked and set up project - Week 4 (https://github.com/kennho/brackets)
