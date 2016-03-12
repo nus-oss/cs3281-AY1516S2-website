@@ -189,6 +189,7 @@ permalink: /teams/codebender/
   * Use CBC mode-of-operation for AES encryption instead of ECB (ECB encryption can be exploited under certain obscure conditions)
   * Issue different keys for different surveys for unregistered students (so that an attacker who possesses a student key would not be able to continuously exploit the same key)
   * Introduce a more discreet channel for reporting security vulnerabilities (instead of posting issues on Github)
+* Week 8, Sat - Completed the [comparison of the development process between Eratosthenes and Teammates](http://cs3281-2.blogspot.sg/2016/03/a-comparison-of-my-major-and-minor.html)
 
 #### Technology expertise in Information Security
 * **Short-Term Plan**: To expose myself to as many aspects of Information Security as possible (e.g. Cryptography, Web Security, Network Security, System Security, Software Security, Pen Testing) and in the process, acquire practical skills that can be applied in the information security industry.
