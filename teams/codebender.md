@@ -363,6 +363,7 @@ permalink: /teams/codebender/
 * Week 7, Sat - Implement auto populating library meta when adding version for existing library [PR](https://github.com/codebendercc/eratosthenes/pull/50)
 * Week 7, Sun - UI improvement for version section [PR](https://github.com/codebendercc/eratosthenes/pull/51)
 * Week 8, Wed - Support architectures when add and view library [PR](https://github.com/codebendercc/eratosthenes/pull/55)
+* Week 8, Sun - Refine the process when header file name collision when add new library [ref](https://github.com/codebendercc/eratosthenes/commit/c17b3073ae5c7ef5449e04aae9cfdf9924d296f1)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
@@ -370,7 +371,7 @@ permalink: /teams/codebender/
 * (Merged) PR [#4810](https://github.com/TEAMMATES/teammates/pull/4810) for issue [#3922](https://github.com/TEAMMATES/teammates/issues/3922) -Week 6, Sun 
 * (Merged) PR [#4839](https://github.com/TEAMMATES/teammates/pull/4839) for issue [#4538](https://github.com/TEAMMATES/teammates/issues/4538) - Recess Week
 * (Merged) PR [#4893](https://github.com/TEAMMATES/teammates/pull/4893) for issue [#4858](https://github.com/TEAMMATES/teammates/issues/4858) - Week 7, Fri
-* PR [#4953](https://github.com/TEAMMATES/teammates/pull/4953) for issue [#4950](https://github.com/TEAMMATES/teammates/issues/4950) -  [Bug Analysis](https://github.com/TEAMMATES/teammates/issues/4950#issuecomment-194369745)- Week 8, Wed
+* (Merged) PR [#4953](https://github.com/TEAMMATES/teammates/pull/4953) for issue [#4950](https://github.com/TEAMMATES/teammates/issues/4950) -  [Bug Analysis](https://github.com/TEAMMATES/teammates/issues/4950#issuecomment-194369745)- Week 8, Wed
 
 ###### Past Contribution to HubTurbo
 * (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
@@ -401,4 +402,5 @@ permalink: /teams/codebender/
 * Implement and test auto blog post update using Github webhook on my blog [ref](https://github.com/Gisonrg/blog-me/commit/a452150c56b453d3f793cfe68231cec46355112d) - Week 8, Sat 
 * Write a [blog post](http://blog.gisonrg.me/2016/invalid-javascript-date-in-different-browser/) to share my finding on handling invalid date in different browser - Week 8, Sat
 * Submitted a bug report for the Safari Invalid Date issue (refer to the above blog post) - Week 8, Sun
+* Write a [blog post](http://blog.gisonrg.me/2016/create-github-webhook-handler/) to share my learning experience on developing my first node package [express-github-webhook](https://github.com/Gisonrg/express-github-webhook/)
 * Working on a JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
