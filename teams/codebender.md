@@ -233,6 +233,9 @@ permalink: /teams/codebender/
 * Week 7, Wed - Added test for testViewExternalZipLibrary
 * Week 7, Wed - Added test for testViewExternalGitLibrary
 * Week 7, Sun - Refactoring and pruning of tests
+* Week 8, Sun - Implemented latest version view [PR #56](https://github.com/codebendercc/eratosthenes/pull/56)
+* Week 8, Sun - Implemented latest version fetch API [PR #56](https://github.com/codebendercc/eratosthenes/pull/56)
+* Week 8, Sun - Created latest version tests [PR #56](https://github.com/codebendercc/eratosthenes/pull/56)
 
 #### Contribution to minor project - HubTurbo
  * Week 6, Sun - Project setup
@@ -242,7 +245,7 @@ permalink: /teams/codebender/
  * Recess Week - Raised [issue #1281](https://github.com/HubTurbo/HubTurbo/issues/1281)
  * Recess Week - Worked on issue 1233 but another PR made for very related issue so halted
  
-#### Technology expertise in Ruby on Rails + ReactJS
+#### Technology expertise in Ruby on Rails
 
 ##### Short Term Plan
  * Online tutorials
@@ -259,9 +262,11 @@ permalink: /teams/codebender/
  * Finished course on Ruby on Codecademy
  * Finished course on Rails on Codecademy
  * Reading Ruby on Rails Tutorial
- * Metaprogramming Ruby Chapter 1 Monday: The Object Model
- * Wrote Metaprogramming in Ruby Introduction Summary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=1719897351251213357;onPublishedMenu=posts;onClosedMenu=posts;postNum=1;src=postname)
- * Wrote Metaprogramming in Ruby Chapter 1 Sumary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=7217799080200561162;onPublishedMenu=posts;onClosedMenu=posts;postNum=0;src=postname)
+ * Metaprogramming Ruby. Chapter 1: The M Word
+ * Metaprogramming Ruby. Chapter 2: The Object Model
+ * Wrote Metaprogramming in Ruby. Introduction Summary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=1719897351251213357;onPublishedMenu=posts;onClosedMenu=posts;postNum=1;src=postname)
+ * Wrote Metaprogramming in Ruby. Chapter 1 Sumary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=7217799080200561162;onPublishedMenu=posts;onClosedMenu=posts;postNum=0;src=postname)
+ * Metaprogramming Ruby 2. Chapter 3: Methods
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
