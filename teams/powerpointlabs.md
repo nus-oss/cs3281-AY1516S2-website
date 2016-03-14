@@ -57,13 +57,13 @@ permalink: /teams/powerpointlabs/
   * [x] [Undo for all functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/29) - Week 8, Thu
   * [x] [Preview for all functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/30) - Week 8, Thu
   * [x] [Swap by Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/25) - Week 8, Thu
-  * [x] Distribute Grid by two Reference Point - Week 9, Sun
+  * [x] [Distribute functions by two Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Sun
+  * [x] [Implemented Powerpoint's in-built align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Sun
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement Distribute Along Edge - Week 9, Mon
-  * [ ] Align should include powerpoint's default functions and buttons
+  * [ ] Implement Distribute Along Edge - Week 10, Mon
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
   * [ ] Side-by-side preview for all possible implementation of a function
@@ -303,6 +303,9 @@ permalink: /teams/powerpointlabs/
 * Implemented **Settings page for Distribute** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8ea277d1243fc63fb53d715ba6a586aeeca9cef7) - Week 7, Mon
 * Implemented **Align and Distribute functions to use internal vertices as reference point** in [`PoitionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/273650b8181c9d08772761178e4e38f152e78349) - Week 7, Sun
 * Created the **Settings page UI for Swap** in [`ReorderSettingsDialog.xaml`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/192ca1b23feed3739c2d8c9b343cf5a8f47b1f41) - Week 8, Mon
+* **Created Icons for Align and Distribute** in [Icons for all Positions Lab Pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/28) - Week 8, Mon
+* **Supports Powerpoint's align functions** in [PowerPoint Align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Mon
+* **Implemented Distribute Horizontal and Vertical using two anchorpoints** in [Distribute Shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Mon
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
  * ...
