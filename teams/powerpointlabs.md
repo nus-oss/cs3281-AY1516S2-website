@@ -57,13 +57,13 @@ permalink: /teams/powerpointlabs/
   * [x] [Undo for all functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/29) - Week 8, Thu
   * [x] [Preview for all functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/30) - Week 8, Thu
   * [x] [Swap by Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/25) - Week 8, Thu
+  * [x] Distribute Grid by two Reference Point - Week 9, Sun
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
   * [ ] Implement Distribute Along Edge - Week 9, Mon
   * [ ] Align should include powerpoint's default functions and buttons
-  * [ ] Change Distribute to have two anchor points, and remove Distribute Shapes button
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
   * [ ] Side-by-side preview for all possible implementation of a function
@@ -85,7 +85,6 @@ permalink: /teams/powerpointlabs/
   * [x] Implement absolute dimension for resizing - Week 5, Wed
   * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
   * [x] Improve on rotation support for shapes - Week 7, Thu
-  * [ ] Add settings for Same Dimension
   * [ ] Create Crop To Match feature
   * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
@@ -125,9 +124,17 @@ permalink: /teams/powerpointlabs/
 * Improve **Distribute by Grid** to conform to dimensions given by user and allow alignment for columns in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/5fcfb2e4679dd1f4837d94aff6ddeec102deacb3/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 7 Wed
 * Add Defensive code with error dialogs in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/918aa3f03b8f5be6cfc41d807fdcbf7490081e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) and [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/918aa3f03b8f5be6cfc41d807fdcbf7490081e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 7, Thu
 * Fix Settings not opening after closing in [`Commit 2bf8506f1e04f078ae5eb2de3b9c6ce5409a5637`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/2bf8506f1e04f078ae5eb2de3b9c6ce5409a5637) - Week 7, Thu
+* Implement **Swap by Click Order** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/e48bf5fa09a20728c20abdf1b9884fbc616e949b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs)- Week 8, Mon
+* Implement **Swap by Reference Point within Shape** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/560c95ffb0f2e34748b4aaea553d2acd928b69c5/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 8, Tues
+* Improve **Swap from Left to Right** to maintain order in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/560c95ffb0f2e34748b4aaea553d2acd928b69c5/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 8, Tues
+* Create icons in [`Commit e6b78212399d8013a0d18a1a34d7428078c85ccc`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/e6b78212399d8013a0d18a1a34d7428078c85ccc) - Week 8, Wed
+* Enable Undo for PositionsLab in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/3be5c078f66471729725ddc07f7faa624148449a/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 8, Wed
+* Implement Preview for Align, Adjoin, Distribute (except Grid) and Swap in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d906410c8ee7490536eec30eea79714502299746/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml) - Week 8, Wed
+* Implement **Distribute Grid by two Anchor shapes** [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/0ab2e5aa71bfc4db6722eebd01a28bfa5bc9af9d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 9, Sun
 
-#### Contributions to project [Brackets](http://brackets.io/) (Minor Project)
- * Setup Environment: [Screenshot](https://drive.google.com/file/d/0BzrjImOddxOKV1ktc1RDUTlCY0U/view?usp=sharing)
+#### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
+ * Setup Environment: [Screenshot](https://drive.google.com/open?id=0BzrjImOddxOKSVY4eHBEdHlQcjg) - Week 8, Fri
+ * Working on [Issue #1381](https://github.com/oppia/oppia/issues/1381) - Week 8, Sat
 
 #### Technology expertise in Web Programming and Applications
 
@@ -152,6 +159,7 @@ permalink: /teams/powerpointlabs/
 * Prototype of Cache Simulator: [Cache Simulator - Iteration 1](http://oswellchan.github.io/CacheSimulator/) - Week 6
 * Excercise on Client and Server Architecture (w/ AJAX): [CS3226 Lab 4](http://cs3226.comp.nus.edu.sg/~a0096724/lab4/) - Recess Week
 * Exercise on use of Database and Input sanitisation to prevent SQL injections: [CS3226 Lab 5](http://cs3226.comp.nus.edu.sg/~a0096724/lab5/) - Week 7
+* Exercise on Authentication and Authorisation: [CS3226 Lab 6](http://cs3226.comp.nus.edu.sg/~a0096724/lab6/) - Week 8
 
 ---
 
@@ -242,8 +250,7 @@ permalink: /teams/powerpointlabs/
 * Improved resizing logic for locked aspect ratio - Week 7
 * Redesigned icons for stretch / shrink - Week 7
 * Updated icons and UI for make symmetric - Week 7
-* Redesigned icons for ResizeLab - Week 8
-* Created unit tests for Stretch/Shrink - Week 8
+* Working on redesigning icons for ResizeLab
 * Working on crop to match feature
 
 
