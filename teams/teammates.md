@@ -128,8 +128,11 @@ permalink: /teams/teammates/
  * [Pull Request #4777](https://github.com/TEAMMATES/repo/pull/4777) (Merged) - Week 6
  * [Pull Request #4799](https://github.com/TEAMMATES/repo/pull/4799) (Merged) - Week 6
  * [Pull Request #4818](https://github.com/TEAMMATES/repo/pull/4818) (Merged) - Recess Week
- * [Pull Request #4847](https://github.com/TEAMMATES/repo/pull/4847) (Merge Approved) - Week 7
+ * [Pull Request #4847](https://github.com/TEAMMATES/repo/pull/4847) (Merged) - Week 7
  * [Pull Request #4861](https://github.com/TEAMMATES/repo/pull/4861) (Merged) - Week 7
+ * [Pull Request #4924](https://github.com/TEAMMATES/repo/pull/4924) (Merged) - Week 8
+ * [Pull Request #4927](https://github.com/TEAMMATES/repo/pull/4927) (Merged) - Week 8
+ * [Pull Request #4987](https://github.com/TEAMMATES/repo/pull/4987) (Ongoing) - Week 8
 
 #### Contribution to [OpenKeychain](https://github.com/open-keychain/open-keychain)
  * [Pull Request #1728](https://github.com/open-keychain/open-keychain/pull/1728) - Recess Week
