@@ -67,12 +67,15 @@ permalink: /teams/socketio/
     * [x] implement io-emitter over chrome protocols - Week 6, Sun
     * [ ] enhance reliability of messaging protocols - Recess Week
     * [x] deliver devtools MVP - Recess Week
-  * [ ] implement mockups of devtool
+  * [x] implement mockups of devtool
     * [x] Display list of IO Managers in devtools
     * [x] Display list of sockets in devtools
     * [x] Display error packets in devtools
     * [x] ~~HTML and CSS structure according to mockups - Week 5, Sun~~ (Mockups not given, but we have an idea of how it roughly looks and implemented it)
-    * [ ] JS Logic wiring - Week 8, Sun 
+  * [ ] refactor devtool
+    * [x] project set-up - Week 8
+    * [ ] build UI according to mockup - Week 11
+    * [ ] integrate ESlint - Week 11
   
 * [ ] Whiteboard Guide
   * [x] Mouse tracking logic - Week 3, Sun
@@ -88,6 +91,7 @@ permalink: /teams/socketio/
   * [x] Compatibility fixes for mobile and desktop - Week 6, Sun
   * [x] Server-side In-memory Buffer + Cap (pruning) - Recess Week
   * [x] Particles for other drawing participants - Recess Week
+  * [x] Replace 3rd party color picker with HTML5 native color input - Week 7, Sat
   * [ ] Scale/tranformation for mobile devices with portrait viewport
   * [ ] Tutorial/guide
   
@@ -120,10 +124,12 @@ permalink: /teams/socketio/
   * [Fixed color picker on mobile](https://github.com/nus-fboa2016-si/whiteboard/commit/eca548045f8a83d6d3674408c9f610351439b9e7) - Week 6, Sun
   * [Handled mouse leave window and mouse release outside window](https://github.com/nus-fboa2016-si/whiteboard/commit/d8a8ba7d945f19a1a8d4426ff5f65222b725d7fe) - Week 6, Sun
   * [Implemented server-side buffer](https://github.com/nus-fboa2016-si/whiteboard/commit/67a8208cfb8011df08250216858d01487d368682) - Recess Week, Sat
+  * [Replace 3rd-party color picker with HTML5 native color input](https://github.com/nus-fboa2016-si/whiteboard/commit/daf835de5fd95d11af9d1c8fc47aac15507549fe) - Week 7, Sat
 
 #### Contribution to project Teammates (Minor Project)
   * [Fork and set up project](https://github.com/paradite/teammates) - Week 4, Fri
   * [First timer PR - Remove testng-old.xml from the repo](https://github.com/TEAMMATES/teammates/pull/4830) - Recess Week, Sat
+  * [POC for visitor's map feature](http://4-18-dot-teammates-paradite.appspot.com/visitors.html), [commit](https://github.com/paradite/teammates/commit/de30d85a44cfe5b29ecbef2ffdf73ef8354c5702) - Week 7, Sun
 
 #### Technology expertise in web-based data visualization
 
@@ -161,7 +167,7 @@ Note: links to github commits represent the last commit for that contribution
 * [socket.io](https://github.com/nus-fboa2016-si/socket.io/commit/920412587b245c4ae5f7c95a583dd37f20c2d904), [engine.io](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5), [engine.io-client](https://github.com/nus-fboa2016-si/engine.io/commit/49fac3af62693cf3cda40da52c09f37845df04e5): Added eslint support and standardise gulpfiles - Week 3, CS
 * engine.io-client: [auto cleaning of test generated files](https://github.com/nus-fboa2016-si/engine.io-client/commit/46b28e0a0c9c3b36f208b22eaee7a8f75037b268) - Week 5, Wed
 
-###### Whiteboard demo/example backend
+###### Whiteboard demo
 * [Track connections and line drawing coordinates](https://github.com/nus-fboa2016-si/whiteboard/commit/0008a83cb0a3a1d3d133172a4458e8b8e9c8c2ec) - Week 4, Sat
 * [Every client can now see each other's drawings](https://github.com/nus-fboa2016-si/whiteboard/commit/21397aca5bbb7dbf41a82e968a7d3646edd8b5b3) - Week 4, Sun
 * [Figure out how to layer 2d canvas and webGL layers without conflict](http://jsfiddle.net/7McS2/4/) - Week 5, Fri
@@ -177,6 +183,13 @@ Note: links to github commits represent the last commit for that contribution
 * [Added middleware code to transform mouse event data relative to containing element](https://github.com/nus-fboa2016-si/whiteboard/commit/1ef3cecc05c0fb9b611acea78c715a934215335d) - Week 6, Sat
 * [Fixed z-index generator function to work for non-chrome browsers](https://github.com/nus-fboa2016-si/whiteboard/commit/b38260dd30a16d54f01ce85a5dfbfea636cefdcb) - Week 6, Sun
 * [Added support for particle effects from other users drawing](https://github.com/nus-fboa2016-si/whiteboard/commit/854e597843c31d07dc1b48f1b8f561abc2cc1428) - Recess Week, Sun
+* [Updated node express server to also serve guide versions through /guide/vX/index.html](https://github.com/nus-fboa2016-si/whiteboard/commit/dff683550b0127e1ddd29dd5bbe3e33d4d694d8e) - Week 8, Mon
+
+###### Whiteboard guide
+* [Differentiate feature list between guide and demo versions](https://github.com/nus-fboa2016-si/whiteboard/commit/0c9049d5492871ffe09420624082b95d0b22e2f7) - Week 7, Sat
+* [Plan milestones in guide](https://github.com/nus-fboa2016-si/whiteboard/commit/7c210b2243376d44c2be5dffe6f1f7f065b8ccd0) - Week 8, Mon
+* [Finish all html/js/package.json resource files and record of shell commands for guide milestone 1](https://github.com/nus-fboa2016-si/whiteboard/commit/2b1d0442f787ef92a477804090dd7bfe8007ed09) - Week 8, Mon
+* [Prepare skeleton of resource files for guide milestones 2-4](https://github.com/nus-fboa2016-si/whiteboard/commit/933141a96c461189a12340f4297c3e73a58f3119) - Week 8, Mon
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
@@ -213,7 +226,7 @@ Note: links to github commits represent the last commit for that contribution
 * [Refactor: Remove dist folders and include in .gitignore](https://github.com/nus-fboa2016-si/socketio-devtool/commit/79bb92e155f9612d5f6ab1ac60ae8c4bbecee490) - Week 6, Wed
 * [Receive, save and display a list of IO Managers in devtools panel in a simple format](https://github.com/nus-fboa2016-si/socketio-devtool/commit/86bc516886abb89f6ad013894870f4ea48dce9e8) - Week 6, Wed
 * [Add gulp watch task to automate bundling with browserify](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b1a02c1e2c1187470aec35f012034364facb27d9) - Week 6, Wed
-* [Add error handling for gulp browserify task](https://github.com/nus-fboa2(016-si/socketio-devtool/commit/4c3b7c076ffed404d418dc31db0f2a796860f38c) - Week 6, Thurs
+* [Add error handling for gulp browserify task](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4c3b7c076ffed404d418dc31db0f2a796860f38c) - Week 6, Thurs
 * [Receive, save and display a list of sockets for a specific manager on clicked](https://github.com/nus-fboa2016-si/socketio-devtool/commit/1f941df3307062ec4537d3f7ea8df84740ab9e4e) - Week 6, Fri
 * [Parse the packets received and save them, according to created/received as well as its types](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4cd4d77c4cf2e59ad8e3216779591ca334f3cfc2) - Recess Week, Thur
 * [Added timestamp before emitting packets to devtools](https://github.com/nus-fboa2016-si/socketio-devtool/commit/3b13d4babafec75f37868073c243310b3af3d405) - Recess Week, Fri
@@ -230,8 +243,10 @@ Note: links to github commits represent the last commit for that contribution
 * [Setup project (In-Progress)](https://github.com/mikelimantara/repo) - Week 3, Code Sprint
 * Complete project setup to pass all the tests - Week 4, Wed
 * [Fix Issue #4802](https://github.com/TEAMMATES/teammates/pull/4811) - Week 6, Sun (PR Merged)
+* [Fix Issue #3979](https://github.com/TEAMMATES/teammates/pull/4866) - Week 7, Wed (PR Merged)
 
 #### Tech Expertise Plan: Mobile Development
+* Blogpost about Android Project Structure and Naming Convention Guidelines [link](https://medium.com/@mikelimantara/overview-of-android-project-structure-and-naming-conventions-b08f6d0b7291#.z58j2vliw)
 
 ##### Deliverable could be in the form of: 
 * Blog post
@@ -264,7 +279,7 @@ Note: links to github commits represent the last commit for that contribution
 * Deliver dev-tool MVP together with Michael [link](https://github.com/nus-fboa2016-si/socketio-devtool) - Recess Week
 * Display Error to user [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c21991bdc07c87ad33a5fc600499ff748a3af976) - Recess Week
 * [README](https://github.com/nus-fboa2016-si/socketio-devtool/blob/master/README.md) for dev-tool - Recess Week
-
+* Project setup for SI-devtool refactor [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ed0472ac0f488333ba99b999e1f9d6dcfe39a79a) - Week 8, Mon
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
@@ -291,6 +306,9 @@ Note: links to github commits represent the last commit for that contribution
 * [Fix engine.io-client webpack bundling where the `eio` global is not exposed](https://github.com/socketio/engine.io-client/commit/f22f990f1514521ebc8e0180f4791f26fbf79950)(link shows last commit) - Week 3, Sun
 * Doing clean up and miscellaneous fixes on outstanding PRs for [engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/db5e3168540b0516783598bd125f28c62313c809) and [socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/c7deec13cb32dfd6042f3c2f730d31a715c28a55) (link shows last commits) - Week 5, Friday
 * Add ESLint to socket.io-client, [PR](https://github.com/socketio/socket.io-client/pull/951) sent - Recess Week, Sunday
+* Add ESLint to engine.io-client, [PR](https://github.com/socketio/engine.io-client/pull/458) merged - Week 7, Wed
+* Sent [PR](https://github.com/socketio/engine.io-client/pull/460) for some minor gulp task refactoring on engine.io-client - Week 7, Sat
+* Sent PR to add gulp and babel to [engine.io](https://github.com/socketio/engine.io/pull/384) and [socket.io](https://github.com/socketio/socket.io/pull/2471) repos - Week 7, Sat
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
@@ -300,6 +318,7 @@ Note: links to github commits represent the last commit for that contribution
 
 ##### Current contribution to expertise
 * [Answered a question on Stack Overflow about Git workflow](http://stackoverflow.com/questions/30538019/git-merge-changes-between-upstream-brnches/30541348#30541348)
+* Blogpost on [Git tips and best practices](http://digawp.blogspot.sg/2016/03/git-tips-and-best-practices.html)
 
 ##### Short term plan
 * Learn about Git best practices in terms of merging, branching, forking, and rebasing, and understand what is actually happening in the background
