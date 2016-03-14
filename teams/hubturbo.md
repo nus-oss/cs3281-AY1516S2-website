@@ -107,8 +107,14 @@ permalink: /teams/hubturbo/
 * [Pull Request #1184](https://github.com/HubTurbo/HubTurbo/pull/1184) (Merged) - Week 1, Thu
 * [Pull Request #1210](https://github.com/HubTurbo/HubTurbo/pull/1210) (Merged) - Week 3, Mon
 * [Pull Request #1226](https://github.com/HubTurbo/HubTurbo/pull/1226) (Merged) - Week 3, Sun
+* [Pull Request #1305](https://github.com/HubTurbo/HubTurbo/pull/1305) - Week 7, Wed
+* [Pull Request #1306](https://github.com/HubTurbo/HubTurbo/pull/1306) - Week 7, Thu
+* [Pull Request #1316](https://github.com/HubTurbo/HubTurbo/pull/1316) - Week 8, Mon
+* [Pull Request #1305](https://github.com/HubTurbo/HubTurbo/pull/1305) - Week 9, Mon
+
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
+- Submitted a [pull request](https://github.com/atom/status-bar/pull/130) to [atom/status-bar](https://github.com/atom/status-bar) - Week 8, Sun
 
 ##### Technology expertise in Node.js
 - Built a [command line tool](https://gist.github.com/raisfathin/8f1a7e8d322a53e4ba29) to verify a program's correctness based on some test cases. It can notify whether the tested program's output matches the corresponding expected output for each input, or whether the program encounters a run time error. [Screenshot](http://imgur.com/ZPJtUNX)
