@@ -128,8 +128,8 @@ permalink: /teams/powerpointlabs/
 * Implement **Swap by Reference Point within Shape** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/560c95ffb0f2e34748b4aaea553d2acd928b69c5/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 8, Tues
 * Improve **Swap from Left to Right** to maintain order in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/560c95ffb0f2e34748b4aaea553d2acd928b69c5/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 8, Tues
 * Create icons in [`Commit e6b78212399d8013a0d18a1a34d7428078c85ccc`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/e6b78212399d8013a0d18a1a34d7428078c85ccc) - Week 8, Wed
-* Enable Undo for PositionsLab in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/3be5c078f66471729725ddc07f7faa624148449a/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 8, Wed
-* Implement Preview for Align, Adjoin, Distribute (except Grid) and Swap in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d906410c8ee7490536eec30eea79714502299746/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml) - Week 8, Wed
+* Enable **Undo for PositionsLab** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/3be5c078f66471729725ddc07f7faa624148449a/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 8, Wed
+* Implement **Preview for Align, Adjoin, Distribute (except Grid) and Swap** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d906410c8ee7490536eec30eea79714502299746/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml) - Week 8, Wed
 * Implement **Distribute Grid by two Anchor shapes** [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/0ab2e5aa71bfc4db6722eebd01a28bfa5bc9af9d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 9, Sun
 
 #### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
