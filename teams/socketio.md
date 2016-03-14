@@ -315,6 +315,8 @@ Note: links to github commits represent the last commit for that contribution
 * Add ESLint to engine.io-client, [PR](https://github.com/socketio/engine.io-client/pull/458) merged - Week 7, Wed
 * Sent [PR](https://github.com/socketio/engine.io-client/pull/460) for some minor gulp task refactoring on engine.io-client - Week 7, Sat
 * Sent PR to add gulp and babel to [engine.io](https://github.com/socketio/engine.io/pull/384) and [socket.io](https://github.com/socketio/socket.io/pull/2471) repos - Week 7, Sat
+* PR adding gulp and babel to [engine.io](https://github.com/socketio/engine.io/pull/384) and [socket.io](https://github.com/socketio/socket.io/pull/2471) merged - Week 8, Sat
+* Sent [PR](https://github.com/socketio/socket.io/pull/2486) to add ESLint to socket.io - Week 8, Sun
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
