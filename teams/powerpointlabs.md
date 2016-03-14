@@ -85,6 +85,7 @@ permalink: /teams/powerpointlabs/
   * [x] Implement absolute dimension for resizing - Week 5, Wed
   * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
   * [x] Improve on rotation support for shapes - Week 7, Thu
+  * [ ] Add settings for Same Dimension
   * [ ] Create Crop To Match feature
   * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
@@ -241,7 +242,8 @@ permalink: /teams/powerpointlabs/
 * Improved resizing logic for locked aspect ratio - Week 7
 * Redesigned icons for stretch / shrink - Week 7
 * Updated icons and UI for make symmetric - Week 7
-* Working on redesigning icons for ResizeLab
+* Redesigned icons for ResizeLab - Week 8
+* Created unit tests for Stretch/Shrink - Week 8
 * Working on crop to match feature
 
 
