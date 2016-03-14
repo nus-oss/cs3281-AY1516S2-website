@@ -49,7 +49,7 @@ permalink: /teams/socketio/
 ### Targets after Code Sprint
 * [x] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
-  * [ ] ESLint + Gulp Task + Syntax - Week 5, Sun
+  * [x] ESLint + Gulp Task + Syntax - Week 5, Sun
   * [x] Implement SourceMaps + Test that it is served - Week 5, Sun
   * [ ] Uglify
   * [ ] Add Sourcemaps to CDN
