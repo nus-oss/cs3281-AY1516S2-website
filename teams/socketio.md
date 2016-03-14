@@ -49,8 +49,8 @@ permalink: /teams/socketio/
 ### Targets after Code Sprint
 * [x] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
-  * [ ] ESLint + Gulp Task + Syntax - Week 5, Sun
-  * [ ] Implement SourceMaps + Test that it is served - Week 5, Sun
+  * [x] ESLint + Gulp Task + Syntax - Week 5, Sun
+  * [x] Implement SourceMaps + Test that it is served - Week 5, Sun
   * [ ] Uglify
   * [ ] Add Sourcemaps to CDN
   * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
@@ -112,6 +112,9 @@ permalink: /teams/socketio/
   * [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
   * [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
   * [Added sourcemap for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
+  * [Serve sourcemap from socket.io server and ensure it is working](https://github.com/nus-fboa2016-si/socket.io/commit/e59220a43b5cbb1372343d9724aa435750578e87) - Week 8, Thu
+  * [Sourcemap PR for socket.io](https://github.com/socketio/socket.io/pull/2482) - Week 8, Thu
+  * [Sourcemap PR for socket.io-client](https://github.com/socketio/socket.io-client/pull/953) - Week 8, Thu
 
 ###### Set up front-end UI and interactions for whiteboard example: [repo](https://github.com/nus-fboa2016-si/whiteboard)
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
@@ -127,9 +130,14 @@ permalink: /teams/socketio/
   * [Replace 3rd-party color picker with HTML5 native color input](https://github.com/nus-fboa2016-si/whiteboard/commit/daf835de5fd95d11af9d1c8fc47aac15507549fe) - Week 7, Sat
 
 #### Contribution to project Teammates (Minor Project)
+##### General
   * [Fork and set up project](https://github.com/paradite/teammates) - Week 4, Fri
   * [First timer PR - Remove testng-old.xml from the repo](https://github.com/TEAMMATES/teammates/pull/4830) - Recess Week, Sat
+
+##### Feature user map
   * [POC for visitor's map feature](http://4-18-dot-teammates-paradite.appspot.com/visitors.html), [commit](https://github.com/paradite/teammates/commit/de30d85a44cfe5b29ecbef2ffdf73ef8354c5702) - Week 7, Sun
+  * [Added parsing for actual data, renamed feature to user map](https://github.com/paradite/teammates/commit/685a8a1154e06ec1cacd13dfb36d2fedd1130be1) - Week 8, Mon
+  * [PR for user map feature, merged](https://github.com/TEAMMATES/teammates/pull/4929/commits) - Week 8, Mon
 
 #### Technology expertise in web-based data visualization
 
@@ -149,6 +157,8 @@ permalink: /teams/socketio/
 * [Refactored code into proper components, added authentication for GitHub API](https://github.com/paradite/cs3281viz/commit/07421cceb72297c69f3e91eb8feb8b0c37c4a723) - Week 5, Wed
 * [Implemented commits grouped by date, updated tooltip](https://github.com/paradite/gitviz/commit/d0dc5908fb63be32c7792826e15e3419452831b1) - Week 6, Wed
 * [Implemented UI, code cleanup, ready for release](https://github.com/paradite/gitviz/commit/7df4b94ca8198b531b23bbf603f7db7b79bb1744) - Recess Week, Sat
+* [Added server-side caching to improve performance](https://github.com/paradite/gitviz/commit/695e92daad54e090433ed271c4af1bb3245f43fd) - Week 8, Mon
+* [Separated home page with app page, update UI](https://github.com/paradite/gitviz/commit/6f64bcd4f769491264ff0e73d26564a3674f8fc4) - Week 8, Sun
 
 ###### Blog posts on d3.js/data visualization
 * [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/)
@@ -237,6 +247,11 @@ Note: links to github commits represent the last commit for that contribution
 * [Add functionality to display packet content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ba4e561ea99c92a2a4625e9e811c326daf36337a) - Recess Week, Sat
 * [Display timestamp when displaying a list of packets](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a06a9c5329266d945dc6159066df8ca751eb3077) - Recess Week, Sat
 * [Deliver dev-tool MVP with Weihan](https://github.com/nus-fboa2016-si/socketio-devtool) - Recess Week
+* [Create React Component for packet list, packet and packet content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/473677724b16f87e04a05383f7af1bc529c7acf5) - Week 8, Wed
+* [Project app folder restructuring and configure webpack with necessary loaders, remove gulpfile](https://github.com/nus-fboa2016-si/socketio-devtool/commit/d217a2f785ecf9f12a2b21bbbcb1edb4a908df20) - Week 8, Fri - Sat
+* [Refactor packet list, packet and packet content and give styling to them](https://github.com/nus-fboa2016-si/socketio-devtool/commit/08ce93caeca5bb5e8ad671f49de6680dd4be2ac6) - Week 8, Sat
+* [Add search bar component with its styling](https://github.com/nus-fboa2016-si/socketio-devtool/commit/22ed094607c818523282c2ff5f9e4a2b2ab8faeb) - Week 8, Sun
+* [Add packet content box containing PacketMetaData and PacketData component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/d028be47a636f30d0feed07578032dae04053cab) - Week 8, Sun
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
@@ -280,6 +295,8 @@ Note: links to github commits represent the last commit for that contribution
 * Display Error to user [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c21991bdc07c87ad33a5fc600499ff748a3af976) - Recess Week
 * [README](https://github.com/nus-fboa2016-si/socketio-devtool/blob/master/README.md) for dev-tool - Recess Week
 * Project setup for SI-devtool refactor [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ed0472ac0f488333ba99b999e1f9d6dcfe39a79a) - Week 8, Mon
+* Refactor connecting codes for SI-devtool [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b50d17f1e43d6685f69cedd112d7929172d30fcd) - Week 9, Mon
+* Link updates from Socket to devtool component [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/535759802c011499c9ce0623be306d7f53f56428) - Week 9, Mon
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
@@ -309,6 +326,8 @@ Note: links to github commits represent the last commit for that contribution
 * Add ESLint to engine.io-client, [PR](https://github.com/socketio/engine.io-client/pull/458) merged - Week 7, Wed
 * Sent [PR](https://github.com/socketio/engine.io-client/pull/460) for some minor gulp task refactoring on engine.io-client - Week 7, Sat
 * Sent PR to add gulp and babel to [engine.io](https://github.com/socketio/engine.io/pull/384) and [socket.io](https://github.com/socketio/socket.io/pull/2471) repos - Week 7, Sat
+* PR adding gulp and babel to [engine.io](https://github.com/socketio/engine.io/pull/384) and [socket.io](https://github.com/socketio/socket.io/pull/2471) merged - Week 8, Sat
+* Sent [PR](https://github.com/socketio/socket.io/pull/2486) to add ESLint to socket.io - Week 8, Sun
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
