@@ -64,7 +64,7 @@ permalink: /teams/hubturbo/
 	* [x] Open/Close Issues - Week 7, Mon
 	* [x] Issue Comments Retriever - (On hold) Week 7, Mon
 * [x] Review UI Design for individual pickers and increase code coverage - Week 8, Mon
-  * [x] Milestone Picker - Week 8, Thur 
+  * [x] Milestone Picker - Week 8, Thur
   * [x] Assignee Picker (Added backend tests) - Week 8, Fri
   * [x] Repo Picker (Improved auto-complete) - Week 8, Thur
   * [x] Issue Picker (Basic version without tests) - Week 8, Sun
@@ -83,18 +83,22 @@ permalink: /teams/hubturbo/
 ##### Contribution to MAJOR project HT
 
 * [Pull Request #1191](https://github.com/HubTurbo/HubTurbo/pull/1191) (Merged) - Week 1, Sat
-* [Pull Request #1193](https://github.com/HubTurbo/HubTurbo/pull/1193) - Week 1, Sun
+* [Pull Request #1193](https://github.com/HubTurbo/HubTurbo/pull/1193) (Closed) - Week 1, Sun
 * [Pull Request #1207](https://github.com/HubTurbo/HubTurbo/pull/1207) (Merged) - Week 2, Sat
 * [Pull Request #1208](https://github.com/HubTurbo/HubTurbo/pull/1208) (Merged) - Week 2, Sat
 * [Pull Request #1228](https://github.com/HubTurbo/HubTurbo/pull/1228) (Closed) - Week 4, Mon
 * [Pull Request #1251](https://github.com/HubTurbo/HubTurbo/pull/1251) (Closed) - Week 6, Mon
-* [Pull Request #1260](https://github.com/HubTurbo/HubTurbo/pull/1260) - Week 6, Mon
-* [Pull Request #1280](https://github.com/HubTurbo/HubTurbo/pull/1280) - Recess Week, Tue
-* [Pull Request #1285](https://github.com/HubTurbo/HubTurbo/pull/1285) - Recess Week, Thu
+* [Pull Request #1260](https://github.com/HubTurbo/HubTurbo/pull/1260) (Merged) - Week 6, Mon
+* [Pull Request #1280](https://github.com/HubTurbo/HubTurbo/pull/1280) (Merged) - Recess Week, Tue
+* [Pull Request #1285](https://github.com/HubTurbo/HubTurbo/pull/1285) (Merged) - Recess Week, Thu
+* [Pull Request #1297](https://github.com/HubTurbo/HubTurbo/pull/1297) and [Pull Request #1352](https://github.com/HubTurbo/HubTurbo/pull/1352) - Week 7, Mon
+* [Pull Request #1323](https://github.com/HubTurbo/HubTurbo/pull/1323) - Week 8, Mon
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
 * [Forked atom repository](https://github.com/m133225/atom) - Week 4, Sun
+* [Pull Request #758](https://github.com/atom/tree-view/pull/758) (Closed, combined into another PR) - Week 7, Sat
+
 
 ##### Technology expertise in AI in Motion Planning
 
@@ -213,7 +217,7 @@ Progress
 - [Video demonstration of implemented Gray-World algorithm](https://youtu.be/RJWIXfJJPdc)
 - [Implemented Basic orange marker detector](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/lane_detector.py)
 - [Written journal paper for Robosub 2015 on computer vision](http://higherlogicdownload.s3.amazonaws.com/AUVSI/fb9a8da0-2ac8-42d1-a11e-d58c1e158347/UploadedImages/2015%20RoboSub%20/Journal%20Papers/NatlUSingapore_Journal_RS2015.pdf)
-- [Design banner to explain about the current state of software stack](https://drive.google.com/open?id=0B2qn3kO2bUfUVWQtWkRQVER6RDQ) 
+- [Design banner to explain about the current state of software stack](https://drive.google.com/open?id=0B2qn3kO2bUfUVWQtWkRQVER6RDQ)
 - [Footage of object detection during testing](https://www.facebook.com/bbauv/videos/935345183191362/)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
