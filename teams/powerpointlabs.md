@@ -184,12 +184,15 @@ permalink: /teams/powerpointlabs/
 * Supported rotated shape in **Stretch and Shrink** - Week 6, Mon
 * Implemented [Preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/compare/3bb5f0221f23dc6bc738bcbc55d719f869203e98...nus-fboa2016-PL:9d94a942dbc48e1da1c8819b35621fbd7e9be974) feature - Recess Week
 * Implemented the redefinition of bounding box in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/c14b014770d3bc00a743914cbc8fcd718cf1f3ac/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 7, Thu
-* Created **Symmetry** feature in [`ResizeLabMain.Symmetry.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b994d66268cb1eb29597d47ea687f781b70f40d1/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.Symmetry.cs) - Week 7, Thu
-* Created preview of **Symmetry** in [`Commit e99bf89`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1a76458a8a6168f37771c95e245b88e45b2512e7) - Week 7, Fri
+* Created **Symmetric** feature in [`ResizeLabMain.Symmetry.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b994d66268cb1eb29597d47ea687f781b70f40d1/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.Symmetry.cs) - Week 7, Thu
+* Created preview of **Symmetric** in [`Commit e99bf89`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1a76458a8a6168f37771c95e245b88e45b2512e7) - Week 7, Fri
 * Refactor preview and execute action in [`Commit 99f13a1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ab4c5086cd3bb9425d7280858658609655d67167) - Week 7, Fri
+* Remove **Symmetric** from UI - Week 8, Thu
 
-#### Contributions to project [OpenMRS](http://openmrs.org/) (Minor Project)
- * Setting up project [screenshot](https://www.dropbox.com/s/j21ry9fhyinlf16/setup.PNG?dl=0)
+#### Contributions to project [aima-python](https://github.com/aimacode/aima-python) (Minor Project)
+ * [Pull Request #108](https://github.com/aimacode/aima-python/pull/108) (Merged) - Week 8, Wed
+ * [Pull Request #112](https://github.com/aimacode/aima-python/pull/112) (Merged) - Week 8, Thu
+ * [Pull Request #118](https://github.com/aimacode/aima-python/pull/118) (Merged) - Week 8, Sat
 
 #### Technology expertise in Artificial Intelligence (AI)
 
