@@ -68,7 +68,7 @@ permalink: /teams/hubturbo/
   * [x] Assignee Picker (Added backend tests) - Week 8, Fri
   * [x] Repo Picker (Improved auto-complete) - Week 8, Thur
   * [x] Issue Picker (Basic version without tests) - Week 8, Sun
-	* [x] Board Picker - Week 8, Sun
+  * [x] Board Picker - Week 8, Sun
 * [ ] Merge Pull Requests for all features - Week 9, Sun
 	* [ ] Milestone Picker - Week 9, Sun
 	* [ ] Assignee Picker - Week 9, Sun
@@ -187,6 +187,12 @@ permalink: /teams/hubturbo/
 * [Pull Request #1326](https://github.com/HubTurbo/HubTurbo/pull/1326) - Week 8, Thurs
 * [Pull Request #1328](https://github.com/HubTurbo/HubTurbo/pull/1328) - Week 8, Thurs
 * [Pull Request #1347](https://github.com/HubTurbo/HubTurbo/pull/1347) - Week 9, Mon
+* [Pull Request #1348](https://github.com/HubTurbo/HubTurbo/pull/1348) - Week 9, Mon
+* [Pull Request #1349](https://github.com/HubTurbo/HubTurbo/pull/1349) - Week 9, Mon
+* [Pull Request #1350](https://github.com/HubTurbo/HubTurbo/pull/1350) - Week 9, Mon
+
+
+
 
 ##### Contribution to MINOR project [opencv](https://github.com/Itseez/opencv)
 - [Forked the repo](https://github.com/jinified/opencv)
