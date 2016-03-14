@@ -41,7 +41,7 @@ permalink: /teams/hubturbo/
 * [x] Project demo - Week 2, Mon
 * [x] Project design presentation - Week 3, Mon
 * [x] Feature planned - Week 3, Mon
-* [ ] Refactor Label Picker - Week 3, Sat
+* [x] Refactor Label Picker - Week 3, Sat
 * [x] Code Sprint - Week 3, Sat & Week 4, Sun
 * [x] MVP for issue editor/creator functionalities - Week 5, Wed
 	* [x] Issue Creator - Week 5, Wed
@@ -57,20 +57,24 @@ permalink: /teams/hubturbo/
 	* [x] Open/Close Issues - Week 6 & Recess Week
 	* [ ] Issue Comments Retriever - Week 6 & Recess Week
 	* [ ] Board Picker - Week 8, Thu
-* [ ] Create Pull Requests for all features - Week 7, Mon
-	* [ ] Issue Creator - Week 7, Mon
-	* [ ] Milestone Picker - Week 7, Mon
-	* [ ] Assignee Picker - Week 7, Mon
-	* [ ] Open/Close Issues - Week 7, Mon
-	* [ ] Issue Comments Retriever - Week 7, Mon
-	* [ ] Board Picker - Week 8, Sun
-* [ ] Merge Pull Requests for all features - Week 7, Sun
-	* [ ] Issue Creator - Week 7, Sun
-	* [ ] Milestone Picker - Week 7, Sun
-	* [ ] Assignee Picker - Week 7, Sun
-	* [ ] Open/Close Issues - Week 7, Sun
-	* [ ] Issue Comments Retriever - Week 7, Sun
-	* [ ] Board Picker - Week 8, Thu
+* [x] Create Pull Requests for all features - Week 7, Mon
+	* [x] Issue Creator - (On hold) Week 7, Mon
+	* [x] Milestone Picker - Week 7, Mon
+	* [x] Assignee Picker - Week 7, Mon
+	* [x] Open/Close Issues - Week 7, Mon
+	* [x] Issue Comments Retriever - (On hold) Week 7, Mon
+* [x] Review UI Design for individual pickers and increase code coverage - Week 8, Mon
+  * [x] Milestone Picker - Week 8, Thur 
+  * [x] Assignee Picker (Added backend tests) - Week 8, Fri
+  * [x] Repo Picker (Improved auto-complete) - Week 8, Thur
+  * [x] Issue Picker (Basic version without tests) - Week 8, Sun
+	* [x] Board Picker - Week 8, Sun
+* [ ] Merge Pull Requests for all features - Week 9, Sun
+	* [ ] Milestone Picker - Week 9, Sun
+	* [ ] Assignee Picker - Week 9, Sun
+	* [ ] Board Picker - Week 9, Sun
+  * [ ] Issue Picker - Week 9, Sun
+  * [ ] Repo Picker  - Week 9, Sun
 
 # Contributions
 
