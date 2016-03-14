@@ -168,12 +168,18 @@ permalink: /teams/hubturbo/
 * [Pull Request #1273](https://github.com/HubTurbo/HubTurbo/pull/1273) - Week 6, Wed
 * [Pull Request #1275](https://github.com/HubTurbo/HubTurbo/pull/1275) (Merged) - Week 6, Sat
 * [Pull Request #1284](https://github.com/HubTurbo/HubTurbo/pull/1284) (Merged) - Recess week, Wed
-* [Pull Request #1319](https://github.com/HubTurbo/HubTurbo/pull/1319) - Week 8, Mon
+* [Pull Request #1319](https://github.com/HubTurbo/HubTurbo/pull/1319) (Merged) - Week 8, Mon
+* [Pull Request #1319](https://github.com/HubTurbo/HubTurbo/pull/1319) (Merged) - Week 8, Mon
+* [Pull Request #1326](https://github.com/HubTurbo/HubTurbo/pull/1326) - Week 8, Thurs
+* [Pull Request #1328](https://github.com/HubTurbo/HubTurbo/pull/1328) - Week 8, Thurs
+* [Pull Request #1347](https://github.com/HubTurbo/HubTurbo/pull/1347) - Week 9, Mon
 
 ##### Contribution to MINOR project [opencv](https://github.com/Itseez/opencv)
 - [Forked the repo](https://github.com/jinified/opencv)
 - Read contribution guideline
 - [Created sample application to understand more about the project](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/draw.py)
+- [Pull Request #6536](https://github.com/scikit-learn/scikit-learn/pull/6536) - [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [Interfaces OpenCV with skimage to make use of both vision library](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/core.py#L26-L30)
 
 ##### Technology expertise in Computer Vision for Autonomous Systems
 Short term plan
@@ -196,6 +202,9 @@ Progress
 - [Implemented Gray-world algorithm, source code](https://github.com/jinified/visionx/blob/master/scripts/prototype.py#L74-L83)
 - [Video demonstration of implemented Gray-World algorithm](https://youtu.be/RJWIXfJJPdc)
 - [Implemented Basic orange marker detector](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/lane_detector.py)
+- [Written journal paper for Robosub 2015 on computer vision](http://higherlogicdownload.s3.amazonaws.com/AUVSI/fb9a8da0-2ac8-42d1-a11e-d58c1e158347/UploadedImages/2015%20RoboSub%20/Journal%20Papers/NatlUSingapore_Journal_RS2015.pdf)
+- [Design banner to explain about the current state of software stack](https://drive.google.com/open?id=0B2qn3kO2bUfUVWQtWkRQVER6RDQ) 
+- [Footage of object detection during testing](https://www.facebook.com/bbauv/videos/935345183191362/)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
