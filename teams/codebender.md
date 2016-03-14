@@ -13,7 +13,7 @@ permalink: /teams/codebender/
  - Alex Yao ([@alexyaoyang](http://alexyy.com/))
    - Technology Expertise: Web Performance
  - Ma Tanghao ([@harryggg](https://blog.nus.edu.sg/matanghao/))
-   - Technology Expertise: Ruby on Rails
+   - Technology Expertise: Regular Expressions
  - Jiang Sheng ([@gisonrg](http://blog.gisonrg.me/))
    - Technology Expertise: Node.js
 
@@ -40,7 +40,7 @@ permalink: /teams/codebender/
 * [x] Create test for landing page - Week 6
 * [x] Create database for user and tier - Week 6
 * [x] Create test for user & tier database - Week 7
-* [ ] Create registration and login page - Week 7
+* [x] Create registration and login page - Week 7
 * [ ] Create test for login and registration and database linkage - Week 7
 * [ ] Create database for firmware - Week 8
 * [ ] Create test to ensure that user and firmware database is linked correctly  - Week 8
@@ -126,6 +126,8 @@ permalink: /teams/codebender/
 * [x] Pause and restart the chart plotting - Week 8
 * [x] CSV Import - Week 8
 * [ ] User costumization of axis name, data name,etc - Week 9
+* [ ] Bar Chart - Week 9
+* [ ] Performance evaluation - Week 10
 
 ## Contributions
 
@@ -171,12 +173,14 @@ permalink: /teams/codebender/
 * Week 7, Tue - Enhance addNewLibrary API to update the last commit of a library when a newer commit is added
 * Week 7, Tue - Wrote test for adding of Git release
 * Week 7, Tue - Wrote test for updating of a library's last commit
+* Week 8, Tue - Implemented support for the authentication of multiple partners
+* Week 8, Tue - Created tests for testing the authentication mechanism
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
 * Week 6, Sun - Development process understood
 * Week 6, Sun - Resolved [issue #4645](https://github.com/TEAMMATES/teammates/issues/4645) in [PR #4809](https://github.com/TEAMMATES/teammates/pull/4809) (Merged)
-* Week 7, Tue - Resolved [issue #4006](https://github.com/TEAMMATES/teammates/issues/4006) in [PR #4849](https://github.com/TEAMMATES/teammates/pull/4849)
+* Week 7, Tue - Resolved XSS vulnerability in Teammates ([issue #4006](https://github.com/TEAMMATES/teammates/issues/4006), [PR #4849](https://github.com/TEAMMATES/teammates/pull/4849)) (Merged)
 * Week 7, Tue - Raised and resolved [issue #4850](https://github.com/TEAMMATES/teammates/issues/4850) in [PR #4851](https://github.com/TEAMMATES/teammates/pull/4851)
 * Week 7, Tue - Completed vulnerability assessment on Teammates
 * Week 7, Tue - Raised 3 security vulnerabilities discovered (along with recommendations), including:
@@ -187,6 +191,7 @@ permalink: /teams/codebender/
   * Use CBC mode-of-operation for AES encryption instead of ECB (ECB encryption can be exploited under certain obscure conditions)
   * Issue different keys for different surveys for unregistered students (so that an attacker who possesses a student key would not be able to continuously exploit the same key)
   * Introduce a more discreet channel for reporting security vulnerabilities (instead of posting issues on Github)
+* Week 8, Sat - Completed the [comparison of the development process between Eratosthenes and Teammates](http://cs3281-2.blogspot.sg/2016/03/a-comparison-of-my-major-and-minor.html)
 
 #### Technology expertise in Information Security
 * **Short-Term Plan**: To expose myself to as many aspects of Information Security as possible (e.g. Cryptography, Web Security, Network Security, System Security, Software Security, Pen Testing) and in the process, acquire practical skills that can be applied in the information security industry.
@@ -202,6 +207,8 @@ permalink: /teams/codebender/
 * Resolved XSS vulnerability on Teammates ([PR #4849](https://github.com/TEAMMATES/teammates/pull/4849))
 * Conducted a vulnerability assessment on Teammates and raised discovered security issues to the core developers ([issue #4852](https://github.com/TEAMMATES/teammates/issues/4852), [issue #4853](https://github.com/TEAMMATES/teammates/issues/4853) and [issue #4854](https://github.com/TEAMMATES/teammates/issues/4854))
 * Participated in [Null Singapore's special meetup](http://www.meetup.com/Null-Singapore-The-Open-Security-Community/events/229196202/) on lessons learnt from Rowhammer for future security research
+* Posted a write-up on a web/cryptographic challenge in Insomni'hack 2016 ([blog post on the challenge](http://cs3281-2.blogspot.sg/2016/03/te-insomnihack-2016-teaser-fridginator.html))
+* Posted a write-up on a cryptographic/exploit challenge in SSCTF Quals 2016 ([blog post on the challenge](http://cs3281-2.blogspot.sg/2016/03/te-ssctf-2016-heheda-crypto-exploit.html))
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
@@ -226,6 +233,9 @@ permalink: /teams/codebender/
 * Week 7, Wed - Added test for testViewExternalZipLibrary
 * Week 7, Wed - Added test for testViewExternalGitLibrary
 * Week 7, Sun - Refactoring and pruning of tests
+* Week 8, Sun - Implemented latest version view [PR #56](https://github.com/codebendercc/eratosthenes/pull/56)
+* Week 8, Sun - Implemented latest version fetch API [PR #56](https://github.com/codebendercc/eratosthenes/pull/56)
+* Week 8, Sun - Created latest version tests [PR #56](https://github.com/codebendercc/eratosthenes/pull/56)
 
 #### Contribution to minor project - HubTurbo
  * Week 6, Sun - Project setup
@@ -235,7 +245,7 @@ permalink: /teams/codebender/
  * Recess Week - Raised [issue #1281](https://github.com/HubTurbo/HubTurbo/issues/1281)
  * Recess Week - Worked on issue 1233 but another PR made for very related issue so halted
  
-#### Technology expertise in Ruby on Rails + ReactJS
+#### Technology expertise in Ruby on Rails
 
 ##### Short Term Plan
  * Online tutorials
@@ -252,9 +262,11 @@ permalink: /teams/codebender/
  * Finished course on Ruby on Codecademy
  * Finished course on Rails on Codecademy
  * Reading Ruby on Rails Tutorial
- * Metaprogramming Ruby Chapter 1 Monday: The Object Model
- * Wrote Metaprogramming in Ruby Introduction Summary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=1719897351251213357;onPublishedMenu=posts;onClosedMenu=posts;postNum=1;src=postname)
- * Wrote Metaprogramming in Ruby Chapter 1 Sumary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=7217799080200561162;onPublishedMenu=posts;onClosedMenu=posts;postNum=0;src=postname)
+ * Metaprogramming Ruby. Chapter 1: The M Word
+ * Metaprogramming Ruby. Chapter 2: The Object Model
+ * Wrote Metaprogramming in Ruby. Introduction Summary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=1719897351251213357;onPublishedMenu=posts;onClosedMenu=posts;postNum=1;src=postname)
+ * Wrote Metaprogramming in Ruby. Chapter 1 Sumary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=7217799080200561162;onPublishedMenu=posts;onClosedMenu=posts;postNum=0;src=postname)
+ * Metaprogramming Ruby 2. Chapter 3: Methods
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
@@ -274,6 +286,8 @@ permalink: /teams/codebender/
 * Week 6, Fri - Added unit test for landing page
 * Week 6, Sat - Created database for user and tier levels
 * Week 6, Sat - Created functional tests for user and tier database
+* Week 7, Fri - Created Login and Register page
+* Week 8, Mon - Linked Login and Register page to database
 
 #### Contribution to minor project - Powerpoint Labs
 * Week 6, Fri - Setup of project environment complete.
@@ -314,14 +328,19 @@ permalink: /teams/codebender/
 * Week 7, Wed - unit test
 * Week 7, Fri - CSV import
 * Week 7, Sun - Documentation(readme.md)
+* Week 8, Tues - dataparser logic for frequency bar chart
+* Week 8, Sun - finish implementing bar chart (both frontend and backend)
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
  * issue[#822](https://github.com/Coursemology/coursemology2/issues/822) - Week 6
+ * PR [#897](https://github.com/Coursemology/coursemology2/pull/897) for issue[#613](https://github.com/Coursemology/coursemology2/issues/613) - Week 5, Mon
 
-#### Technology expertise in Ruby on Rails
+#### Technology expertise in Regular Expressions
 * Publish self-written Ruby Gem [mthAuth](https://rubygems.org/gems/mthAuth) - Recess Week
 * [My first Ruby Gem](http://blog.nus.edu.sg/matanghao/2016/02/29/my-first-ruby-gem-mthauth/) - Week 7
+* [Summary of Mastering Regular Expression Chapter.1](http://blog.nus.edu.sg/matanghao/2016/03/09/summary-of-mastering-regular-expression-chapter-1/) - Week 8
+* [Useful Regular Expressions 1 - Date and time](http://blog.nus.edu.sg/matanghao/2016/03/09/useful-regular-expression-1-time-and-date/) - Week 8
 
 ### @gisonrg (Jiang Sheng) (Team Lead - Week 9 - 12)
 * Week 2, Tues - Received project details
@@ -352,6 +371,8 @@ permalink: /teams/codebender/
 * Week 7, Tue - Implement adding library from Github Releases (frontend, logic) [PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/16)
 * Week 7, Sat - Implement auto populating library meta when adding version for existing library [PR](https://github.com/codebendercc/eratosthenes/pull/50)
 * Week 7, Sun - UI improvement for version section [PR](https://github.com/codebendercc/eratosthenes/pull/51)
+* Week 8, Wed - Support architectures when add and view library [PR](https://github.com/codebendercc/eratosthenes/pull/55)
+* Week 8, Sun - Refine the process when header file name collision when add new library [ref](https://github.com/codebendercc/eratosthenes/commit/c17b3073ae5c7ef5449e04aae9cfdf9924d296f1)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
@@ -359,6 +380,9 @@ permalink: /teams/codebender/
 * (Merged) PR [#4810](https://github.com/TEAMMATES/teammates/pull/4810) for issue [#3922](https://github.com/TEAMMATES/teammates/issues/3922) -Week 6, Sun 
 * (Merged) PR [#4839](https://github.com/TEAMMATES/teammates/pull/4839) for issue [#4538](https://github.com/TEAMMATES/teammates/issues/4538) - Recess Week
 * (Merged) PR [#4893](https://github.com/TEAMMATES/teammates/pull/4893) for issue [#4858](https://github.com/TEAMMATES/teammates/issues/4858) - Week 7, Fri
+* (Merged) PR [#4953](https://github.com/TEAMMATES/teammates/pull/4953) for issue [#4950](https://github.com/TEAMMATES/teammates/issues/4950) -  [Bug Analysis](https://github.com/TEAMMATES/teammates/issues/4950#issuecomment-194369745)- Week 8, Wed
+* Raised [#4975](https://github.com/TEAMMATES/teammates/issues/4975)
+* PR [#4988](https://github.com/TEAMMATES/teammates/pull/4988) for issue [#4631](https://github.com/TEAMMATES/teammates/issues/4631) - Week 8, Sun
 
 ###### Past Contribution to HubTurbo
 * (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
@@ -386,5 +410,8 @@ permalink: /teams/codebender/
 * [An interesting JavaScript interview question](http://blog.gisonrg.me/2016/interesting-js-question/): a blog post starting from a JavaScript interview question to share my learning and understanding of some JavaScript features like hoisting, "this" keyword, and scope.
 * [Fix a mysterious travis build failure for a Node application ](http://blog.gisonrg.me/2016/fix-mysterious-travis-build-failure-for-node-application-js/): A blog post about how I investigated and fix an interesting build failure for [Unblock-Youku](https://github.com/Unblocker/Unblock-Youku). It's related to Travis, Node and headless browser test. [Merged Fix](https://github.com/Unblocker/Unblock-Youku/pull/613) - Week 7, Sat
 * Create my first npm package: [express-github-webhook](https://github.com/Gisonrg/express-github-webhook/), a middleware for Express to help handle Github Webhook events. - Week 7, Sun
+* Implement and test auto blog post update using Github webhook on my blog [ref](https://github.com/Gisonrg/blog-me/commit/a452150c56b453d3f793cfe68231cec46355112d) - Week 8, Sat 
+* Write a [blog post](http://blog.gisonrg.me/2016/invalid-javascript-date-in-different-browser/) to share my finding on handling invalid date in different browser - Week 8, Sat
+* Submitted a bug report for the Safari Invalid Date issue (refer to the above blog post) - Week 8, Sun
+* Write a [blog post](http://blog.gisonrg.me/2016/create-github-webhook-handler/) to share my learning experience on developing my first node package [express-github-webhook](https://github.com/Gisonrg/express-github-webhook/) - Week 8, Sun
 * Working on a JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
-* (Ongoing) Wrtiing a blog post to share my findings for Promise vs Callback.
