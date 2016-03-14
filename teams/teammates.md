@@ -80,8 +80,9 @@ permalink: /teams/teammates/
  * [Pull Request #4947](https://github.com/TEAMMATES/teammates/pull/4947) (Merged) - Week 8
  * [Pull Request #4963](https://github.com/TEAMMATES/teammates/pull/4963) (Merged) - Week 8
 
-#### Contribution to project [brackets](https://github.com/adobe/brackets)
- * Forked and set up project - Week 4 (https://github.com/kennho/brackets)
+#### Contribution to project [oppia](https://github.com/oppia/oppia)
+ * Forked and set up project - Week 9 (https://github.com/kennho/oppia)
+ * [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) - Week 9
 
 #### Technology expertise in tool jQuery
 ##### Short Term Plan - Until the end of semester
