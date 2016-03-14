@@ -247,6 +247,11 @@ Note: links to github commits represent the last commit for that contribution
 * [Add functionality to display packet content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ba4e561ea99c92a2a4625e9e811c326daf36337a) - Recess Week, Sat
 * [Display timestamp when displaying a list of packets](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a06a9c5329266d945dc6159066df8ca751eb3077) - Recess Week, Sat
 * [Deliver dev-tool MVP with Weihan](https://github.com/nus-fboa2016-si/socketio-devtool) - Recess Week
+* [Create React Component for packet list, packet and packet content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/473677724b16f87e04a05383f7af1bc529c7acf5) - Week 8, Wed
+* [Project app folder restructuring and configure webpack with necessary loaders, remove gulpfile](https://github.com/nus-fboa2016-si/socketio-devtool/commit/d217a2f785ecf9f12a2b21bbbcb1edb4a908df20) - Week 8, Fri - Sat
+* [Refactor packet list, packet and packet content and give styling to them](https://github.com/nus-fboa2016-si/socketio-devtool/commit/08ce93caeca5bb5e8ad671f49de6680dd4be2ac6) - Week 8, Sat
+* [Add search bar component with its styling](https://github.com/nus-fboa2016-si/socketio-devtool/commit/22ed094607c818523282c2ff5f9e4a2b2ab8faeb) - Week 8, Sun
+* [Add packet content box containing PacketMetaData and PacketData component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/d028be47a636f30d0feed07578032dae04053cab) - Week 8, Sun
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
