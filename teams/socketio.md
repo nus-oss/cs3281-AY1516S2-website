@@ -50,7 +50,7 @@ permalink: /teams/socketio/
 * [x] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
   * [ ] ESLint + Gulp Task + Syntax - Week 5, Sun
-  * [ ] Implement SourceMaps + Test that it is served - Week 5, Sun
+  * [x] Implement SourceMaps + Test that it is served - Week 5, Sun
   * [ ] Uglify
   * [ ] Add Sourcemaps to CDN
   * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
@@ -112,6 +112,9 @@ permalink: /teams/socketio/
   * [Move babel from standalone to webpack loader - engine.io-client](https://github.com/nus-fboa2016-si/engine.io-client/commit/f8ae734b736706d771a6da2f2cf55a1eb65b7bbf) - Week 3, Sun
   * [Move babel from standalone to webpack loader - socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
   * [Added sourcemap for socket.io-client](https://github.com/nus-fboa2016-si/socket.io-client/commit/64eae4b377f37ede2befc35cca2b2ac31ca5e0dc) - Week 3, Sun
+  * [Serve sourcemap from socket.io server and ensure it is working](https://github.com/nus-fboa2016-si/socket.io/commit/e59220a43b5cbb1372343d9724aa435750578e87) - Week 8, Thu
+  * [Sourcemap PR for socket.io](https://github.com/socketio/socket.io/pull/2482) - Week 8, Thu
+  * [Sourcemap PR for socket.io-client](https://github.com/socketio/socket.io-client/pull/953) - Week 8, Thu
 
 ###### Set up front-end UI and interactions for whiteboard example: [repo](https://github.com/nus-fboa2016-si/whiteboard)
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
@@ -134,7 +137,7 @@ permalink: /teams/socketio/
 ##### Feature user map
   * [POC for visitor's map feature](http://4-18-dot-teammates-paradite.appspot.com/visitors.html), [commit](https://github.com/paradite/teammates/commit/de30d85a44cfe5b29ecbef2ffdf73ef8354c5702) - Week 7, Sun
   * [Added parsing for actual data, renamed feature to user map](https://github.com/paradite/teammates/commit/685a8a1154e06ec1cacd13dfb36d2fedd1130be1) - Week 8, Mon
-  * [PR for user map feature](https://github.com/TEAMMATES/teammates/pull/4929/commits) - Week 8, Mon
+  * [PR for user map feature, merged](https://github.com/TEAMMATES/teammates/pull/4929/commits) - Week 8, Mon
 
 #### Technology expertise in web-based data visualization
 
@@ -155,6 +158,7 @@ permalink: /teams/socketio/
 * [Implemented commits grouped by date, updated tooltip](https://github.com/paradite/gitviz/commit/d0dc5908fb63be32c7792826e15e3419452831b1) - Week 6, Wed
 * [Implemented UI, code cleanup, ready for release](https://github.com/paradite/gitviz/commit/7df4b94ca8198b531b23bbf603f7db7b79bb1744) - Recess Week, Sat
 * [Added server-side caching to improve performance](https://github.com/paradite/gitviz/commit/695e92daad54e090433ed271c4af1bb3245f43fd) - Week 8, Mon
+* [Separated home page with app page, update UI](https://github.com/paradite/gitviz/commit/6f64bcd4f769491264ff0e73d26564a3674f8fc4) - Week 8, Sun
 
 ###### Blog posts on d3.js/data visualization
 * [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/)
