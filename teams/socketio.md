@@ -164,8 +164,9 @@ permalink: /teams/socketio/
 * [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/)
 
 ### @YijinL (Leow Yijin)
-
-Note: links to github commits represent the last commit for that contribution
+Notes: 
+- Links to github commits represent the last commit for that contribution
+- Only major bugfixes are listed; minor ones omitted for readability
 
 #### Contribution to project SI
 ###### Updating build tools and system
@@ -194,18 +195,26 @@ Note: links to github commits represent the last commit for that contribution
 * [Fixed z-index generator function to work for non-chrome browsers](https://github.com/nus-fboa2016-si/whiteboard/commit/b38260dd30a16d54f01ce85a5dfbfea636cefdcb) - Week 6, Sun
 * [Added support for particle effects from other users drawing](https://github.com/nus-fboa2016-si/whiteboard/commit/854e597843c31d07dc1b48f1b8f561abc2cc1428) - Recess Week, Sun
 * [Updated node express server to also serve guide versions through /guide/vX/index.html](https://github.com/nus-fboa2016-si/whiteboard/commit/dff683550b0127e1ddd29dd5bbe3e33d4d694d8e) - Week 8, Mon
+* [Fix document event handler clash when multiple boards created](https://github.com/nus-fboa2016-si/whiteboard/commit/0c4142477ee5e8ad9e6e66980c7789b4f0e2ec06) - Week 9, Tue
+* [Create alternative page to demo /multiple.html to show 2 boards on same page](https://github.com/nus-fboa2016-si/whiteboard/commit/1c818317a4aa9aab704923dd5a5d0a8b98827ed5) - Week 9, Tue
 
 ###### Whiteboard guide
 * [Differentiate feature list between guide and demo versions](https://github.com/nus-fboa2016-si/whiteboard/commit/0c9049d5492871ffe09420624082b95d0b22e2f7) - Week 7, Sat
 * [Plan milestones in guide](https://github.com/nus-fboa2016-si/whiteboard/commit/7c210b2243376d44c2be5dffe6f1f7f065b8ccd0) - Week 8, Mon
-* [Finish all html/js/package.json resource files and record of shell commands for guide milestone 1](https://github.com/nus-fboa2016-si/whiteboard/commit/2b1d0442f787ef92a477804090dd7bfe8007ed09) - Week 8, Mon
+* [Finish snapshot of project directory for guide milestone 1](https://github.com/nus-fboa2016-si/whiteboard/commit/2b1d0442f787ef92a477804090dd7bfe8007ed09) - Week 8, Mon
 * [Prepare skeleton of resource files for guide milestones 2-4](https://github.com/nus-fboa2016-si/whiteboard/commit/933141a96c461189a12340f4297c3e73a58f3119) - Week 8, Mon
+* [Snapshot of project directory for guide milestone 2](https://github.com/nus-fboa2016-si/whiteboard/commit/83179bd582edcdc7f2c7d4a44cd76f44d9d3dbdb) - Week 8, Mon
+* [Snapshot of project dir for guide milestone 3](https://github.com/nus-fboa2016-si/whiteboard/commit/847204b5a7b53de35199ceb350699c256fe5fbe1) - Week 8, Tue
+* [Snapshot of project dir for guide milestone 4](https://github.com/nus-fboa2016-si/whiteboard/commit/d837a61ff8113281d6e28f6a922da7b9f68c7017) - Week 8, Thu
+* [Split up guide milestones into ordered subtasks with descriptions](https://github.com/nus-fboa2016-si/whiteboard/commit/502c82685ff059cf98c8d20ed0f089adcf3d3e87) - Week 9, Tue
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
 * [Issue #1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
 * [Issue #1235 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1283) - Recess Week, Fri
 * [Issue #891 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1282) - Recess Week, Sun
+* [Opened issue #1338](https://github.com/HubTurbo/HubTurbo/issues/1338) - Week 8, Sat
+* [Issue #1340 PR (in progress)](https://github.com/HubTurbo/HubTurbo/pull/1340) - Week 8, Sat
 
 #### Technology expertise in cloud deployment and monitoring
 
