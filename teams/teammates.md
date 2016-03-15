@@ -75,14 +75,14 @@ permalink: /teams/teammates/
  * [Pull Request #4704](https://github.com/TEAMMATES/repo/pull/4704) (Merged) - Week 4
  * [Issue #4274](https://github.com/TEAMMATES/repo/issues/4274) (Ongoing) - Week 4
  * [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (Merged) - Week 6
- * [Pull Request #4922](https://github.com/TEAMMATES/teammates/pull/4922) (ToReview) - Week 7
+ * [Pull Request #4922](https://github.com/TEAMMATES/teammates/pull/4922) (Merged) - Week 7
  * [Pull Request #4942](https://github.com/TEAMMATES/teammates/pull/4942) (Merged) - Week 8
  * [Pull Request #4947](https://github.com/TEAMMATES/teammates/pull/4947) (Merged) - Week 8
  * [Pull Request #4963](https://github.com/TEAMMATES/teammates/pull/4963) (Merged) - Week 8
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
  * Forked and set up project - Week 9 (https://github.com/kennho/oppia)
- * [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) - Week 9
+ * [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
 
 #### Technology expertise in tool jQuery
 ##### Short Term Plan - Until the end of semester
