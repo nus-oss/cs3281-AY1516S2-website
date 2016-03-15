@@ -335,14 +335,16 @@ permalink: /teams/codebender/
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
- * issue[#822](https://github.com/Coursemology/coursemology2/issues/822) - Week 6
- * PR [#897](https://github.com/Coursemology/coursemology2/pull/897) for issue[#613](https://github.com/Coursemology/coursemology2/issues/613) - Week 5, Mon
+ * Raised issue[#822](https://github.com/Coursemology/coursemology2/issues/822) - Week 6
+ * PR [#897](https://github.com/Coursemology/coursemology2/pull/897) for issue[#613](https://github.com/Coursemology/coursemology2/issues/613)(Merged) - Week 8, Mon
 
 #### Technology expertise in Regular Expressions
 * Publish self-written Ruby Gem [mthAuth](https://rubygems.org/gems/mthAuth) - Recess Week
 * [My first Ruby Gem](http://blog.nus.edu.sg/matanghao/2016/02/29/my-first-ruby-gem-mthauth/) - Week 7
 * [Summary of Mastering Regular Expression Chapter.1](http://blog.nus.edu.sg/matanghao/2016/03/09/summary-of-mastering-regular-expression-chapter-1/) - Week 8
 * [Useful Regular Expressions 1 - Date and time](http://blog.nus.edu.sg/matanghao/2016/03/09/useful-regular-expression-1-time-and-date/) - Week 8
+* [Summary of Mastering Regular Expression Chapter.2](http://blog.nus.edu.sg/matanghao/2016/03/15/summary-of-mastering-regular-expressions-chapter-2/) - Week 9
+* [Useful Regular Expressions 2](http://blog.nus.edu.sg/matanghao/2016/03/15/useful-regular-expression-2/) - Week 9
 
 ### @gisonrg (Jiang Sheng) (Team Lead - Week 9 - 12)
 * Week 2, Tues - Received project details
