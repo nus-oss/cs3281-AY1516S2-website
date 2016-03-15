@@ -58,7 +58,7 @@ permalink: /teams/teammates/
  * Tested student programs and debug the code submitted in sit-in labs for a module in SoC (CS1020) - Ongoing (Start - End of Semester)
  * Generated test-cases for code written as assignment in an SoC module (CS1020) - Ongoing (Start - End of Semester). Tests are designed to be as strict as possible and tried to cover all cases. Designed based on the principles learned on CS4218 (Software Testing and Debugging).
 
-#### Short Term Plan - Until the end of this semester
+#### Plan - Until the end of this semester
  * Writing blog posts about different software testing paradigms, with the pros and cons of each approach and when to use which
  * Teach students in an SoC module (CS1020) on how to debug their code for their labs (so that they can test their code thoroughly) based on principles learned in CS4218.
  * Applying Test-Driven Development (TDD) for several bash shell applications written in Java for a project module (CS4218).
@@ -85,6 +85,7 @@ permalink: /teams/teammates/
  * [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
 
 #### Technology expertise in tool jQuery
+
 ##### Short Term Plan - Until the end of semester
  * Read up on more jQuery related stuff.
  * Write blog posts about jQuery.
