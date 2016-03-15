@@ -374,6 +374,7 @@ permalink: /teams/codebender/
 * Week 7, Sun - UI improvement for version section [PR](https://github.com/codebendercc/eratosthenes/pull/51)
 * Week 8, Wed - Support architectures when add and view library [PR](https://github.com/codebendercc/eratosthenes/pull/55)
 * Week 8, Sun - Refine the process when header file name collision when add new library [ref](https://github.com/codebendercc/eratosthenes/commit/c17b3073ae5c7ef5449e04aae9cfdf9924d296f1)
+* Week 9, Tue - Implement default version of library for partners [PR](https://github.com/codebendercc/eratosthenes/pull/60)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
