@@ -175,6 +175,7 @@ permalink: /teams/codebender/
 * Week 7, Tue - Wrote test for updating of a library's last commit
 * Week 8, Tue - Implemented support for the authentication of multiple partners
 * Week 8, Tue - Created tests for testing the authentication mechanism
+* Week 9, Tue - Wrote the ultimate migration script for migrating everything on the production server ([PR #62](https://github.com/codebendercc/eratosthenes/pull/62))
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
