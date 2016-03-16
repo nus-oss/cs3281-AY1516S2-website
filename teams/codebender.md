@@ -41,9 +41,8 @@ permalink: /teams/codebender/
 * [x] Create database for user and tier - Week 6
 * [x] Create test for user & tier database - Week 7
 * [x] Create registration and login page - Week 7
-* [ ] Create test for login and registration and database linkage - Week 7
-* [ ] Create database for firmware - Week 8
-* [ ] Create test to ensure that user and firmware database is linked correctly  - Week 8
+* [x] Create test for login and registration and database linkage - Week 7
+* [x] Create database for firmware - Week 8
 * [ ] Create show info page - Week 8
 * [ ] Create test to ensure show info page shows correct info - Week 9
 * [ ] Create dashboard page - Week 9
@@ -290,6 +289,9 @@ permalink: /teams/codebender/
 * Week 6, Sat - Created functional tests for user and tier database
 * Week 7, Fri - Created Login and Register page
 * Week 8, Mon - Linked Login and Register page to database
+* Week 8, Thu - Created database for firmware
+* Week 9, Mon - Fixed bug related to login
+* Week 9, Thu - Created functional test for Registration
 
 #### Contribution to minor project - Powerpoint Labs
 * Week 6, Fri - Setup of project environment complete.
