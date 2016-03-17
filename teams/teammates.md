@@ -88,8 +88,9 @@ permalink: /teams/teammates/
  * [Blog post comparing the processes of the two projects and suggestions about how to improve each](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/)
 
 #### Technology expertise in tool jQuery
+ * [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
 
-##### Short Term Plan - Until the end of semester
+##### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
  * Write blog posts about jQuery.
  * Contribute to TEAMMATES on jQuery related issues.
