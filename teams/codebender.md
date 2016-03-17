@@ -88,16 +88,20 @@ permalink: /teams/codebender/
 * [x] **Milestone 4** - Due Week 7, Sun
     * [x] Component integration
     * [x] Create integration tests
-* [ ] **Milestone 5** - Due Week 8, Sun
-    * [ ] Integrate multiple partner functionality into our codebase
-    * [ ] Integrate features to remember preferences of partners
-    * [ ] Create integration tests for partner and preferences
-* [ ] **Milestone 6** - Due Week 10, Sun
-    * [ ] Migrate existing built-in libraries into external libraries with a boolean to indicate if they're built-in
-    * [ ] Remove duplicate library files and modify v1 API to use v2 library files
-    * [ ] Handle multiple built-in example versions
+* [x] **Milestone 5** - Due Week 8, Sun
+    * [x] Integrate multiple partner functionality into our codebase
+    * [x] Integrate features to remember preferences of partners
+    * [x] Create integration tests for partner and preferences
+* [x] **Milestone 6** - Due Week 10, Sun
+    * [x] Migrate existing built-in libraries into external libraries with a boolean to indicate if they're built-in
+    * [x] Write script to migrate libraries from production database and filesystem into v2 schema
+    * [x] Add front-end validation for adding of new version to an existing library
+    * [x] Generate a schema diagram for our new database design
 * [ ] **Milestone 7** - Due Week 12, Sun
-    * [ ] Migrate libraries from production database and filesystem into v2
+    * [ ] Implement preferences for all APIs
+    * [ ] Remove duplicate library files and modify v1 API to use v2 library files
+    * [ ] Remove duplicate code by changing duplicated code to reference v1 methods
+    * [ ] Perform migration tests on virtual instance
 * Week 13 - Buffer time
 
 
@@ -142,7 +146,7 @@ permalink: /teams/codebender/
 * Week 4, Wed - [Resolved issue #25](https://github.com/codebendercc/eratosthenes/issues/25)
 * Week 4, Wed - [Resolved issue #29](https://github.com/codebendercc/eratosthenes/issues/29)
 * Week 4, Sun - [Resolved issue #35](https://github.com/codebendercc/eratosthenes/issues/35)
-* Week 4, Sun - [Pull Request #34](https://github.com/codebendercc/eratosthenes/pull/34) (Superceded)
+* Week 4, Sun - [Pull Request #48](https://github.com/codebendercc/eratosthenes/pull/48) (Merged)
 * Week 5, Wed - [Designed the APIs](https://docs.google.com/document/d/1-eUlYzHQypgWRRDwJ7lsj3f8nrbVt7owkldCdUSNKVs/edit?usp=sharing) that are to be implemented
 * Week 5, Sat - [Pull Request #38](https://github.com/codebendercc/eratosthenes/pull/38) - A hotfix for the existing codebase (Merged)
 * Week 5, Sat - Implemented the [getVersions API](https://github.com/codebendercc/eratosthenes/commit/c6d8b30a3f567dcecb5bc816977ae91aa96444aa)
@@ -151,10 +155,10 @@ permalink: /teams/codebender/
 * Week 5, Sun - Created [tests for the getKeywords API](https://github.com/codebendercc/eratosthenes/commit/137dea9adab330167de28d95acc48ee6651967fb)
 * Week 5, Sun - Implemented the checkGithubUpdates API ([80b8b38](https://github.com/codebendercc/eratosthenes/commit/80b8b389a0b9c15b0978d83f919b2b2e96fcdc7d) & [52898a0](https://github.com/codebendercc/eratosthenes/commit/52898a0b0f633e1975449dd2d71b4b6ed3f93651))
 * Week 5, Sun - Wrote tests for the checkGithubUpdates API ([75af2f5](https://github.com/codebendercc/eratosthenes/commit/75af2f52e35f700e606cc735b2ee4e72353b5285) & [5d9602a](https://github.com/codebendercc/eratosthenes/commit/5d9602a1bbcfe9ea105106a60b1933216fe0443a))
-* Week 6, Wed - Implemented a command pattern-based API dispatcher with tests so that APIs can be modularized and submitted in separate PRs ([Pull Request #39](https://github.com/codebendercc/eratosthenes/pull/39))
-* Week 6, Wed - Completed the command pattern-based getVersions API ([Pull Request #40](https://github.com/codebendercc/eratosthenes/pull/40)) (Reviewed)
-* Week 6, Wed - Completed the command pattern-based getKeywords API ([Pull Request #41](https://github.com/codebendercc/eratosthenes/pull/41)) (Reviewed)
-* Week 6, Wed - Completed the command pattern-based checkGithubUpdates API ([Pull Request #42](https://github.com/codebendercc/eratosthenes/pull/42)) (Reviewed)
+* Week 6, Wed - Implemented a command pattern-based API dispatcher with tests so that APIs can be modularized and submitted in separate PRs ([Pull Request #39](https://github.com/codebendercc/eratosthenes/pull/39)) (Merged)
+* Week 6, Wed - Completed the command pattern-based getVersions API ([Pull Request #40](https://github.com/codebendercc/eratosthenes/pull/40)) (Merged)
+* Week 6, Wed - Completed the command pattern-based getKeywords API ([Pull Request #41](https://github.com/codebendercc/eratosthenes/pull/41)) (Merged)
+* Week 6, Wed - Completed the command pattern-based checkGithubUpdates API ([Pull Request #42](https://github.com/codebendercc/eratosthenes/pull/42)) (Merged)
 * Recess Week, Wed - [Forked the Eratosthenes repository](https://github.com/nus-fboa2016-CB/eratosthenes/tree/v2-api-development) and merged existing PRs so that work on the next milestone may begin
 * Recess Week, Wed - Add routes and view controller for the new version of APIs
 * Recess Week, Wed - Implement v2 of gitUpdatesAction API
@@ -175,6 +179,7 @@ permalink: /teams/codebender/
 * Week 8, Tue - Implemented support for the authentication of multiple partners
 * Week 8, Tue - Created tests for testing the authentication mechanism
 * Week 9, Tue - Wrote the ultimate migration script for migrating everything on the production server ([PR #62](https://github.com/codebendercc/eratosthenes/pull/62))
+* Week 9, Thu - Generated a schema diagram of our new database design
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
