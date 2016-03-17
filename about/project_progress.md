@@ -5,22 +5,28 @@ permalink: /about/project_progress/
 ---
 
 ### @adamtan (Adam Tan)
- * [x] First PR submitted - Week 1, Mon
- * [x] First PR merged - Week 1, Mon
+#### Week 1, Monday
+##### Major Project Contributions
+
+ * [x] First PR submitted
+ * [x] First PR merged
  * [ ] ...
 
-#### Contribution to project HT
+##### Minor Project Contributions
+
  * ...
  * ...
 
-#### Contribution to project Y
- * ...
- * ...
+##### Technology expertise in tool Z
 
-### Technology expertise in tool Z
  * Link to intro of Z
  * My participation in Z users forum: [1] [2] [3]
  * ...
+
+#### Week 1, Thursday
+##### Major Project Contributions
+
+...
 
 ### @jeanyap (Jean Yap)
  * ...
