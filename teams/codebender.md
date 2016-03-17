@@ -125,8 +125,8 @@ permalink: /teams/codebender/
 * [x] Pause and restart the chart plotting - Week 8
 * [x] CSV Import - Week 8
 * [ ] User costumization of axis name, data name,etc - Week 9
-* [ ] Bar Chart - Week 9
-* [ ] Performance evaluation - Week 10
+* [x] Bar Chart - Week 9
+* [x] Performance evaluation - Week 10
 
 ## Contributions
 
@@ -334,6 +334,8 @@ permalink: /teams/codebender/
 * Week 7, Sun - Documentation(readme.md)
 * Week 8, Tues - dataparser logic for frequency bar chart
 * Week 8, Sun - finish implementing bar chart (both frontend and backend)
+* Week 9, Tues - fix an issue about switches between bar/line chart
+* Week 9, Wed - Performance Evaluation
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
