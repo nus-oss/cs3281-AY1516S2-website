@@ -306,6 +306,7 @@ Notes:
 * Project setup for SI-devtool refactor [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ed0472ac0f488333ba99b999e1f9d6dcfe39a79a) - Week 8, Mon
 * Refactor connecting codes for SI-devtool [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b50d17f1e43d6685f69cedd112d7929172d30fcd) - Week 9, Mon
 * Link updates from Socket to devtool component [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/535759802c011499c9ce0623be306d7f53f56428) - Week 9, Mon
+* Build UI for sockets and socket info display field[link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/f67ee2fb1164471cbb5216bd031bdcb78a510522) - Week 9, Thurs
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
@@ -313,7 +314,7 @@ Notes:
 
 #### Technology expertise in RESTful APIs
 * [Blogpost](https://medium.com/@whattokingu/what-i-know-about-rest-21ece615c949#.pebz7xf06) on introduction to REST
-
+* [Blogpost](https://medium.com/@whattokingu/hypermedia-apis-bdec8c78c8dc#.wmsl68uwu) on Hypermedia APIs.
 
 ##### Short term plan
 * Read up on RESTful implementation details.
