@@ -92,6 +92,7 @@ permalink: /teams/teammates/
  * [How to use jQuery?](https://cs3281.wordpress.com/2016/03/18/how-to-use-jquery/) - Week 9
  * [Interesting finds](https://cs3281.wordpress.com/2016/03/18/interesting-finds/) - Week 9
  * [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
+ * [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
 
 ##### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
