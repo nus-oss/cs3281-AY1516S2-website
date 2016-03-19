@@ -405,6 +405,7 @@ permalink: /teams/codebender/
 * (Merged) PR [#4953](https://github.com/TEAMMATES/teammates/pull/4953) for issue [#4950](https://github.com/TEAMMATES/teammates/issues/4950) -  [Bug Analysis](https://github.com/TEAMMATES/teammates/issues/4950#issuecomment-194369745)- Week 8, Wed
 * Raised [#4975](https://github.com/TEAMMATES/teammates/issues/4975)
 * (Merged) PR [#4988](https://github.com/TEAMMATES/teammates/pull/4988) for issue [#4631](https://github.com/TEAMMATES/teammates/issues/4631) - Week 8, Sun
+* Add code coverage for js tests in PR [#5054](https://github.com/TEAMMATES/teammates/pull/5054) for issue [#5040](https://github.com/TEAMMATES/teammates/issues/5040) - Week 9, Sat
 
 ###### Past Contribution to HubTurbo
 * (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
@@ -437,4 +438,5 @@ permalink: /teams/codebender/
 * Week 8, Sun - Submitted a bug report for the Safari Invalid Date issue (refer to the above blog post)
 * Week 8, Sun - Write a [blog post](http://blog.gisonrg.me/2016/create-github-webhook-handler/) to share my learning experience on developing my first node package [express-github-webhook](https://github.com/Gisonrg/express-github-webhook/)
 * Week 9, Wed - Write a [blog post](http://blog.gisonrg.me/2016/automation-tool-gulp-vs-grunt/) on JavaScript task runner
+* Week 9, Sat - Found a bug in [Blanket.js](blanketjs.org) when adding code coverage for TEAMMATES. Try fix it in [PR](https://github.com/alex-seville/blanket/pull/557)
 * (Ongoing) Working on a JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
