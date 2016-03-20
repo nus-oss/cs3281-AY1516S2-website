@@ -326,6 +326,9 @@ Notes:
 * Refactor connecting codes for SI-devtool [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b50d17f1e43d6685f69cedd112d7929172d30fcd) - Week 9, Mon
 * Link updates from Socket to devtool component [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/535759802c011499c9ce0623be306d7f53f56428) - Week 9, Mon
 * Build UI for sockets and socket info display field[link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/f67ee2fb1164471cbb5216bd031bdcb78a510522) - Week 9, Thurs
+* Implement latency check for sockets[link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4ea1bb788d9b30d454b2160dc4b1c749bee29101) - Week 10, Mon
+* Implement Socket status check [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/6e001146b0c35b8993df2988e9bffef192310a2b) - Week 10, Mon
+* Implement time ticker to trigger timer refresh [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/98017f7e6a1b1085c17b3a539fde353f95ed9ba5) - Week 10, Mon
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
