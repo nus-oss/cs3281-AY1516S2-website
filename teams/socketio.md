@@ -270,6 +270,13 @@ Notes:
 * [Refactor packet list, packet and packet content and give styling to them](https://github.com/nus-fboa2016-si/socketio-devtool/commit/08ce93caeca5bb5e8ad671f49de6680dd4be2ac6) - Week 8, Sat
 * [Add search bar component with its styling](https://github.com/nus-fboa2016-si/socketio-devtool/commit/22ed094607c818523282c2ff5f9e4a2b2ab8faeb) - Week 8, Sun
 * [Add packet content box containing PacketMetaData and PacketData component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/d028be47a636f30d0feed07578032dae04053cab) - Week 8, Sun
+* [Add styling to PacketMetaData and PacketData component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c9380f80161036288c14b645712afb3ba08795ee) - Week 9, Mon
+* [Implement functionality to add packet to the list and select packet to display the content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/2f546323a69dc556ef6369bc925461139085ba18) - Week 9, Mon
+* [Hide searchable packet list and packet content box when io is not detected](https://github.com/nus-fboa2016-si/socketio-devtool/commit/32ea6dbcd3b48f0083269c5ab3b303f92702b3ec) - Week 9, Tue
+* [Improve styling for search bar](https://github.com/nus-fboa2016-si/socketio-devtool/commit/383634b5a7be773fd41073c4f776be9cfbd5132f) - Week 9, Tue
+* [Implement color coding of packet based on its hashed event name](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b7ea28d736d3335e93b3b22d1993b8be5af3d440) - Week 9, Wed
+* [Implement active searching of packet based on keyword, and refactor PacketList and SearchBar component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b696707c9d582e5d395e2f3347eb3450eafc74bf) - Week 9, Thur
+* [Added elapsed time to PacketMetaData, refactor PacketData and PacketMetaData component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/e7683f6673929cccbedbab333ab88cad29848ee0) - Week 9, Sat
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
@@ -279,7 +286,10 @@ Notes:
 * [Fix Issue #3979](https://github.com/TEAMMATES/teammates/pull/4866) - Week 7, Wed (PR Merged)
 
 #### Tech Expertise Plan: Mobile Development
-* Blogpost about Android Project Structure and Naming Convention Guidelines [link](https://medium.com/@mikelimantara/overview-of-android-project-structure-and-naming-conventions-b08f6d0b7291#.z58j2vliw)
+* Blogpost about Android Project Structure and Naming Convention Guidelines [Link](https://medium.com/@mikelimantara/overview-of-android-project-structure-and-naming-conventions-b08f6d0b7291#.z58j2vliw)
+* Created Wealth Management App prototype in Android for UBS Technology Case Challenge - First Winner [Github link](https://github.com/mikelimantara/UBSTechChallenge2015)
+* Blogpost about Making HTTP request with Retrofit Library [Link](https://medium.com/@mikelimantara/making-http-requests-in-android-with-retrofit-library-5829b4f22311#.u0x5n4voa)
+* Created Demo for making HTTP request using Retrofit Library [Github Link](https://github.com/mikelimantara/retrofit-demo)
 
 ##### Deliverable could be in the form of: 
 * Blog post
