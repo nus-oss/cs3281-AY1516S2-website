@@ -43,9 +43,9 @@ permalink: /teams/codebender/
 * [x] Create registration and login page - Week 7
 * [x] Create test for login and registration and database linkage - Week 7
 * [x] Create database for firmware - Week 8
-* [ ] Create show info page - Week 8
-* [ ] Create test to ensure show info page shows correct info - Week 9
-* [ ] Create dashboard page - Week 9
+* [x] Create show info page - Week 8
+* [x] Create test to ensure show info page shows correct info - Week 9
+* [x] Create dashboard page - Week 9
 * [ ] Create test to ensure dashboard page shows correct and links correctly - Week 10
 * [ ] Create log/analytics database - Week 10
 * [ ] Create Analytics page - Week 11
@@ -302,6 +302,8 @@ permalink: /teams/codebender/
 * Week 8, Thu - Created database for firmware
 * Week 9, Mon - Fixed bug related to login
 * Week 9, Thu - Created functional test for Registration
+* Week 9, Sat - Created Show Info Page
+* Week 9, Sun - Created Dashboard Page
 
 #### Contribution to minor project - Powerpoint Labs
 * Week 6, Fri - Setup of project environment complete.
@@ -313,7 +315,7 @@ permalink: /teams/codebender/
 * Week 7, Mon - Loading Youtube's base.js seems to be very fast when I tested it at school again (30ms). So I will monitor it further if action is needed.
 * Week 8, Thu - PR #2 Merged, hurray!
 * Week 9, Thu - Solved issue #953 with [PR #3](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/29)
-* Week 9, Thu - Included some images which was outside of /img folder into the rake task in [PR #4](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30)
+* Week 9, Thu - Included some images which was outside of /img folder into the rake task in [PR #4](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30) (Merged)
 
 #### Technology expertise in Web Performance
 * Recess Week - [Wrote a blog post on lossless image compression for Powerpoint Labs](http://alexyy.com/2016/02/22/image-compression/)
