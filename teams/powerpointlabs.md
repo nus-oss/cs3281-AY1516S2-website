@@ -276,7 +276,7 @@ permalink: /teams/powerpointlabs/
  * Done setting up development environment - Recess week [screenshot](https://dl.dropboxusercontent.com/u/7610216/dev%20env.PNG)
  * Successfully ran test cases - Recess week
  * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
- * Submitted [pull request] to fix UI test case(https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) - Week 9
+ * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case - Week 9
 
 #### Technology expertise in Testing
 
