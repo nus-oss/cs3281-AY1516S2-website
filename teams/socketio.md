@@ -130,14 +130,17 @@ permalink: /teams/socketio/
   * [Replace 3rd-party color picker with HTML5 native color input](https://github.com/nus-fboa2016-si/whiteboard/commit/daf835de5fd95d11af9d1c8fc47aac15507549fe) - Week 7, Sat
 
 #### Contribution to project Teammates (Minor Project)
+
 ##### General
   * [Fork and set up project](https://github.com/paradite/teammates) - Week 4, Fri
-  * [First timer PR - Remove testng-old.xml from the repo](https://github.com/TEAMMATES/teammates/pull/4830) - Recess Week, Sat
+  * [First timer PR - Remove testng-old.xml from the repo, merged](https://github.com/TEAMMATES/teammates/pull/4830) - Recess Week, Sat
 
 ##### Feature user map
   * [POC for visitor's map feature](http://4-18-dot-teammates-paradite.appspot.com/visitors.html), [commit](https://github.com/paradite/teammates/commit/de30d85a44cfe5b29ecbef2ffdf73ef8354c5702) - Week 7, Sun
   * [Added parsing for actual data, renamed feature to user map](https://github.com/paradite/teammates/commit/685a8a1154e06ec1cacd13dfb36d2fedd1130be1) - Week 8, Mon
   * [PR for user map feature, merged](https://github.com/TEAMMATES/teammates/pull/4929/commits) - Week 8, Mon
+  * [PR for user data cleaning, merged](https://github.com/TEAMMATES/teammates/pull/4995) - Week 9, Mon
+  * [Raised issue for solving visibility of smaller countries, currently under discussion](https://github.com/TEAMMATES/teammates/issues/5001) - Week 9, Tue
 
 #### Technology expertise in web-based data visualization
 
