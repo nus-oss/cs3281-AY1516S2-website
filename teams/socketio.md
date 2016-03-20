@@ -369,7 +369,8 @@ Notes:
 
 ##### Current contribution to expertise
 * [Answered a question on Stack Overflow about Git workflow](http://stackoverflow.com/questions/30538019/git-merge-changes-between-upstream-brnches/30541348#30541348)
-* Blogpost on [Git tips and best practices](http://digawp.blogspot.sg/2016/03/git-tips-and-best-practices.html)
+* [Blogpost](http://digawp.blogspot.sg/2016/03/git-tips-and-best-practices.html) on Git tips and best practices - Week 7, Fri
+* [Blogpost](http://digawp.blogspot.sg/2016/03/git-vs-mercurial-workflow-history.html) comparing Git and Mercurial's workflow - Week 9, Sun
 
 ##### Short term plan
 * Learn about Git best practices in terms of merging, branching, forking, and rebasing, and understand what is actually happening in the background
