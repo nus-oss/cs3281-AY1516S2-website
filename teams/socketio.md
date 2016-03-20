@@ -167,8 +167,9 @@ permalink: /teams/socketio/
 * [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/)
 
 ### @YijinL (Leow Yijin)
-
-Note: links to github commits represent the last commit for that contribution
+Notes: 
+- Links to github commits represent the last commit for that contribution
+- Only major bugfixes are listed; minor ones omitted for readability
 
 #### Contribution to project SI
 ###### Updating build tools and system
@@ -197,18 +198,26 @@ Note: links to github commits represent the last commit for that contribution
 * [Fixed z-index generator function to work for non-chrome browsers](https://github.com/nus-fboa2016-si/whiteboard/commit/b38260dd30a16d54f01ce85a5dfbfea636cefdcb) - Week 6, Sun
 * [Added support for particle effects from other users drawing](https://github.com/nus-fboa2016-si/whiteboard/commit/854e597843c31d07dc1b48f1b8f561abc2cc1428) - Recess Week, Sun
 * [Updated node express server to also serve guide versions through /guide/vX/index.html](https://github.com/nus-fboa2016-si/whiteboard/commit/dff683550b0127e1ddd29dd5bbe3e33d4d694d8e) - Week 8, Mon
+* [Fix document event handler clash when multiple boards created](https://github.com/nus-fboa2016-si/whiteboard/commit/0c4142477ee5e8ad9e6e66980c7789b4f0e2ec06) - Week 9, Tue
+* [Create alternative page to demo /multiple.html to show 2 boards on same page](https://github.com/nus-fboa2016-si/whiteboard/commit/1c818317a4aa9aab704923dd5a5d0a8b98827ed5) - Week 9, Tue
 
 ###### Whiteboard guide
 * [Differentiate feature list between guide and demo versions](https://github.com/nus-fboa2016-si/whiteboard/commit/0c9049d5492871ffe09420624082b95d0b22e2f7) - Week 7, Sat
 * [Plan milestones in guide](https://github.com/nus-fboa2016-si/whiteboard/commit/7c210b2243376d44c2be5dffe6f1f7f065b8ccd0) - Week 8, Mon
-* [Finish all html/js/package.json resource files and record of shell commands for guide milestone 1](https://github.com/nus-fboa2016-si/whiteboard/commit/2b1d0442f787ef92a477804090dd7bfe8007ed09) - Week 8, Mon
+* [Finish snapshot of project directory for guide milestone 1](https://github.com/nus-fboa2016-si/whiteboard/commit/2b1d0442f787ef92a477804090dd7bfe8007ed09) - Week 8, Mon
 * [Prepare skeleton of resource files for guide milestones 2-4](https://github.com/nus-fboa2016-si/whiteboard/commit/933141a96c461189a12340f4297c3e73a58f3119) - Week 8, Mon
+* [Snapshot of project directory for guide milestone 2](https://github.com/nus-fboa2016-si/whiteboard/commit/83179bd582edcdc7f2c7d4a44cd76f44d9d3dbdb) - Week 8, Mon
+* [Snapshot of project dir for guide milestone 3](https://github.com/nus-fboa2016-si/whiteboard/commit/847204b5a7b53de35199ceb350699c256fe5fbe1) - Week 8, Tue
+* [Snapshot of project dir for guide milestone 4](https://github.com/nus-fboa2016-si/whiteboard/commit/d837a61ff8113281d6e28f6a922da7b9f68c7017) - Week 8, Thu
+* [Split up guide milestones into ordered subtasks with descriptions](https://github.com/nus-fboa2016-si/whiteboard/commit/502c82685ff059cf98c8d20ed0f089adcf3d3e87) - Week 9, Tue
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
 * [Issue #1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
 * [Issue #1235 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1283) - Recess Week, Fri
 * [Issue #891 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1282) - Recess Week, Sun
+* [Opened issue #1338](https://github.com/HubTurbo/HubTurbo/issues/1338) - Week 8, Sat
+* [Issue #1340 PR (in progress)](https://github.com/HubTurbo/HubTurbo/pull/1340) - Week 8, Sat
 
 #### Technology expertise in cloud deployment and monitoring
 
@@ -250,6 +259,11 @@ Note: links to github commits represent the last commit for that contribution
 * [Add functionality to display packet content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ba4e561ea99c92a2a4625e9e811c326daf36337a) - Recess Week, Sat
 * [Display timestamp when displaying a list of packets](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a06a9c5329266d945dc6159066df8ca751eb3077) - Recess Week, Sat
 * [Deliver dev-tool MVP with Weihan](https://github.com/nus-fboa2016-si/socketio-devtool) - Recess Week
+* [Create React Component for packet list, packet and packet content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/473677724b16f87e04a05383f7af1bc529c7acf5) - Week 8, Wed
+* [Project app folder restructuring and configure webpack with necessary loaders, remove gulpfile](https://github.com/nus-fboa2016-si/socketio-devtool/commit/d217a2f785ecf9f12a2b21bbbcb1edb4a908df20) - Week 8, Fri - Sat
+* [Refactor packet list, packet and packet content and give styling to them](https://github.com/nus-fboa2016-si/socketio-devtool/commit/08ce93caeca5bb5e8ad671f49de6680dd4be2ac6) - Week 8, Sat
+* [Add search bar component with its styling](https://github.com/nus-fboa2016-si/socketio-devtool/commit/22ed094607c818523282c2ff5f9e4a2b2ab8faeb) - Week 8, Sun
+* [Add packet content box containing PacketMetaData and PacketData component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/d028be47a636f30d0feed07578032dae04053cab) - Week 8, Sun
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
@@ -293,6 +307,9 @@ Note: links to github commits represent the last commit for that contribution
 * Display Error to user [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c21991bdc07c87ad33a5fc600499ff748a3af976) - Recess Week
 * [README](https://github.com/nus-fboa2016-si/socketio-devtool/blob/master/README.md) for dev-tool - Recess Week
 * Project setup for SI-devtool refactor [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ed0472ac0f488333ba99b999e1f9d6dcfe39a79a) - Week 8, Mon
+* Refactor connecting codes for SI-devtool [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b50d17f1e43d6685f69cedd112d7929172d30fcd) - Week 9, Mon
+* Link updates from Socket to devtool component [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/535759802c011499c9ce0623be306d7f53f56428) - Week 9, Mon
+* Build UI for sockets and socket info display field[link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/f67ee2fb1164471cbb5216bd031bdcb78a510522) - Week 9, Thurs
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
@@ -300,7 +317,7 @@ Note: links to github commits represent the last commit for that contribution
 
 #### Technology expertise in RESTful APIs
 * [Blogpost](https://medium.com/@whattokingu/what-i-know-about-rest-21ece615c949#.pebz7xf06) on introduction to REST
-
+* [Blogpost](https://medium.com/@whattokingu/hypermedia-apis-bdec8c78c8dc#.wmsl68uwu) on Hypermedia APIs.
 
 ##### Short term plan
 * Read up on RESTful implementation details.
