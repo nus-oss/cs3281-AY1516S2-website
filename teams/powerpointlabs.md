@@ -268,7 +268,7 @@ permalink: /teams/powerpointlabs/
  * [Resized and implemented suggested icons for UI](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/acb619366babff07387ab5596c8fba40d9dd6ccc)
  * [Added labels below buttons, redesigned UI to maximise space usage](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ad2100ec383be55631803538a841ffca2d789a3a)
 * [Added Slight Adjust feature](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a63046eef0deb8ade3351aab5f59fb0b00154bb4) - Week 9
-* Working on UI (Bring settings out, bring refractor tooltips and several enhancements)
+* Working on UI (Bring settings out, refractor tooltips and several enhancements)
 
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
