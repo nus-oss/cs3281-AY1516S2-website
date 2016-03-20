@@ -86,8 +86,10 @@ permalink: /teams/powerpointlabs/
   * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
   * [x] Improve on rotation support for shapes - Week 7, Thu
   * [x] Redesign icons for ResizeLab - Week 8
-  * [ ] Add settings for Same Dimension
-  * [ ] Create Crop To Match feature
+  * [x] Add settings for Same Dimension
+  * [x] Add settings for Stretch/Shrink
+  * [x] Slight adjust feature
+  * [ ] Add delay to preview
   * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
   * [x] Preview feature - Recess Week, Thu
@@ -257,7 +259,16 @@ permalink: /teams/powerpointlabs/
 * Updated icons and UI for make symmetric - Week 7
 * Redesigned icons for ResizeLab - Week 8
 * Created unit tests for stretch / shrink - Week 8
-* Working on crop to match feature
+* Add settings for Stretch/Shrink, updated UI for settings for Stretch/Shrink and Same dimension - Week 9
+* Several code refractoring, with the major one allowing more flexible error handling and increased testibility - Week 9
+* Redesigned UI - Week 9
+ * Updated fit to slide icon
+ * Redesigned aspect ratio's UI
+ * Updated UI for Slight Adjust
+ * Resized and implemented suggested icons for UI
+ * Added labels below buttons, redesigned UI to maximise space usage
+* Added Slight Adjust feature - Week 9
+* Working on UI (Bring settings out, bring refractor tooltips and several enhancements)
 
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
@@ -265,8 +276,12 @@ permalink: /teams/powerpointlabs/
  * Done setting up development environment - Recess week [screenshot](https://dl.dropboxusercontent.com/u/7610216/dev%20env.PNG)
  * Successfully ran test cases - Recess week
  * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
+ * Submitted [pull request] to fix UI test case(https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) - Week 9
 
 #### Technology expertise in Testing
+* Wrote unit tests for stretch/shrink - Week 8
+* Fixed one of OpenMRS's UI tests to conform with their guidelines, and increase testibility and reliability - Week 9
+* Refractored code in PPTLab to increase testibility such that logic/model no longer couples with view - Week 9
 
 ###### Short Term Plan 
 * Develop test cases for PowerPointLabs and OpenMRS
