@@ -279,9 +279,6 @@ permalink: /teams/powerpointlabs/
  * Submitted [pull request] to fix UI test case(https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) - Week 9
 
 #### Technology expertise in Testing
-* Wrote unit tests for stretch/shrink - Week 8
-* Fixed one of OpenMRS's UI tests to conform with their guidelines, and increase testibility and reliability - Week 9
-* Refractored code in PPTLab to increase testibility such that logic/model no longer couples with view - Week 9
 
 ###### Short Term Plan 
 * Develop test cases for PowerPointLabs and OpenMRS
@@ -294,6 +291,10 @@ permalink: /teams/powerpointlabs/
 * Be able to write testable code
 * Learn about the different ways of testing at different layers
  
+###### Accomplished
+* Wrote unit tests for stretch/shrink - Week 8
+* Fixed one of OpenMRS's UI tests to conform with their guidelines, and increase testibility and reliability - Week 9
+* Refractored code in PPTLab to increase testibility such that logic/model no longer couples with view - Week 9
 
 ---
 
