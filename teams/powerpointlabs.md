@@ -259,15 +259,15 @@ permalink: /teams/powerpointlabs/
 * Updated icons and UI for make symmetric - Week 7
 * Redesigned icons for ResizeLab - Week 8
 * Created unit tests for stretch / shrink - Week 8
-* Add settings for Stretch/Shrink, updated UI for settings for Stretch/Shrink and Same dimension - Week 9
-* Several code refractoring, with the major one allowing more flexible error handling and increased testibility - Week 9
+* Add [settings for Stretch/Shrink and outermost stretch](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/730472fb9f434ce356a28fa3f33bf2f1925a4a43), updated [UI for settings for Same dimension](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ed91d7a4ae9462cc52e73922a3bd454b677f41ff) - Week 9
+* Several code refractoring, with the [major one allowing more flexible error handling and increased testibility](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a63046eef0deb8ade3351aab5f59fb0b00154bb4) - Week 9
 * Redesigned UI - Week 9
- * Updated fit to slide icon
+ * [Updated fit to slide icon](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/f7bb6f57b75b18bf3dae8c16e23479b43c158fff)
  * Redesigned aspect ratio's UI
  * Updated UI for Slight Adjust
- * Resized and implemented suggested icons for UI
- * Added labels below buttons, redesigned UI to maximise space usage
-* Added Slight Adjust feature - Week 9
+ * [Resized and implemented suggested icons for UI](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/acb619366babff07387ab5596c8fba40d9dd6ccc)
+ * [Added labels below buttons, redesigned UI to maximise space usage](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ad2100ec383be55631803538a841ffca2d789a3a)
+* [Added Slight Adjust feature](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a63046eef0deb8ade3351aab5f59fb0b00154bb4) - Week 9
 * Working on UI (Bring settings out, bring refractor tooltips and several enhancements)
 
 
