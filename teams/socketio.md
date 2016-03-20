@@ -50,11 +50,11 @@ permalink: /teams/socketio/
 * [x] Merge pull request for gulp+webpack+babel - Week 4, Sun
 * [ ] Improve Build Process (for 1.5 release)
   * [x] ESLint + Gulp Task + Syntax - Week 5, Sun
-  * [x] Implement SourceMaps + Test that it is served - Week 5, Sun
-  * [ ] Uglify
-  * [ ] Add Sourcemaps to CDN
+  * [x] Implement SourceMaps + Test that it is served - Week 5, Sun (Pending PR merge)
+  * [ ] Uglify (Pending sourcemap PR)
+  * [ ] Add Sourcemaps to CDN (Pending sourcemap PR)
+  * [ ] Compact support for old node versions (Pending PR merge)
   * [ ] ES6 Refactor for server(classes, self=this, .bind, etc.)
-    * [ ] Compact support
   * [ ] Monitor Build Size (impact on build size and code base)
   * [ ] Add 'Files' to Package.json
   
@@ -115,6 +115,7 @@ permalink: /teams/socketio/
   * [Serve sourcemap from socket.io server and ensure it is working](https://github.com/nus-fboa2016-si/socket.io/commit/e59220a43b5cbb1372343d9724aa435750578e87) - Week 8, Thu
   * [Sourcemap PR for socket.io](https://github.com/socketio/socket.io/pull/2482) - Week 8, Thu
   * [Sourcemap PR for socket.io-client](https://github.com/socketio/socket.io-client/pull/953) - Week 8, Thu
+  * [Compat version test PR for socket.io](https://github.com/socketio/socket.io/pull/2496) - Week 9, Sat
 
 ###### Set up front-end UI and interactions for whiteboard example: [repo](https://github.com/nus-fboa2016-si/whiteboard)
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
@@ -164,7 +165,8 @@ permalink: /teams/socketio/
 * [Separated home page with app page, update UI](https://github.com/paradite/gitviz/commit/6f64bcd4f769491264ff0e73d26564a3674f8fc4) - Week 8, Sun
 
 ###### Blog posts on d3.js/data visualization
-* [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/)
+* [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/) - Week 6, Sun
+* [Modular d3 app with commonJS and webpack](http://paradite.com/2016/03/18/modular-d3-app-commonjs-webpack/) - Week 9, Fri
 
 ### @YijinL (Leow Yijin)
 Notes: 
