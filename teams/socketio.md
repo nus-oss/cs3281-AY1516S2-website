@@ -163,6 +163,8 @@ permalink: /teams/socketio/
 * [Implemented UI, code cleanup, ready for release](https://github.com/paradite/gitviz/commit/7df4b94ca8198b531b23bbf603f7db7b79bb1744) - Recess Week, Sat
 * [Added server-side caching to improve performance](https://github.com/paradite/gitviz/commit/695e92daad54e090433ed271c4af1bb3245f43fd) - Week 8, Mon
 * [Separated home page with app page, update UI](https://github.com/paradite/gitviz/commit/6f64bcd4f769491264ff0e73d26564a3674f8fc4) - Week 8, Sun
+* [Rewrite the modules in commonJS and use webpack to bundle the code and handle dependencies](https://github.com/paradite/gitviz/commit/cdded2a5dfddaaff7e47ed05ba7d79a675c07128) - Week 9, Mon
+* [Allow saving teammates information as a link that can be used directly next time](https://github.com/paradite/gitviz/commit/c87ca1a950bca600d829afc03b969081e54995e9) - Week 9, Sun
 
 ###### Blog posts on d3.js/data visualization
 * [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/) - Week 6, Sun
