@@ -354,6 +354,7 @@ permalink: /teams/codebender/
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
  * Raised issue[#822](https://github.com/Coursemology/coursemology2/issues/822) - Week 6
  * PR [#897](https://github.com/Coursemology/coursemology2/pull/897) for issue[#613](https://github.com/Coursemology/coursemology2/issues/613)(Merged) - Week 8, Mon
+ * PR [#936](https://github.com/Coursemology/coursemology2/pull/936) for issue[#933](https://github.com/Coursemology/coursemology2/issues/933) - Week 9, Sun
 
 #### Technology expertise in Regular Expressions
 * Publish self-written Ruby Gem [mthAuth](https://rubygems.org/gems/mthAuth) - Recess Week
