@@ -59,6 +59,11 @@ permalink: /teams/powerpointlabs/
   * [x] [Swap by Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/25) - Week 8, Thu
   * [x] [Distribute functions by two Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Sun
   * [x] [Implemented Powerpoint's in-built align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Sun
+  * [x] Change LockAxis to be follow same UX behaviour as Rotation - Week 9, Wed
+  * [x] Change Rotation and LockAxis to have visual indicator(highlighted) when they are active - Week 9, Wed
+  * [x] Add UT for Align - Week 9, Thu
+  * [x] Refactor PositionsLab to use lambda expressions - Week 10, Sun
+  * [x] PositionsLab functions now do not change the shape properties (shapeType, flip, etc) - Week 10, Sun
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
@@ -137,10 +142,17 @@ permalink: /teams/powerpointlabs/
 * Enable **Undo for PositionsLab** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/3be5c078f66471729725ddc07f7faa624148449a/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 8, Wed
 * Implement **Preview for Align, Adjoin, Distribute (except Grid) and Swap** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d906410c8ee7490536eec30eea79714502299746/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml) - Week 8, Wed
 * Implement **Distribute Grid by two Anchor shapes** [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/0ab2e5aa71bfc4db6722eebd01a28bfa5bc9af9d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 9, Sun
+* Change **LockAxis** to be follow same UX behaviour as Rotation in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/fc91579e862220b2209638a4f800d97727c00ffb/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 9, Wed
+* Change **Rotation** and **LockAxis** to have visual indicator(highlighted) when they are active in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b0c9c98a51b412b608a077c5ecd436defc767681/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 9, Wed
+* Add **UT for Align** in [`PositionsLabAlignTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/faba1ecebe778d4498d1aa8732154550ff07107c/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabAlignTest.cs) - Week 9, Thu
+* Fix bug with **PPShape** not generating properly when Shape is flipped in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/39e61c98179997152b967c69a755290cd8efc9ab/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 9, Sat
+* Refactor **PositionsLab** to use lambda expressions in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
+* **PositionsLab** functions now do not change the shape properties (shapeType, flip, etc) in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
 
 #### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
  * Setup Environment: [Screenshot](https://drive.google.com/open?id=0BzrjImOddxOKSVY4eHBEdHlQcjg) - Week 8, Fri
- * Working on [Issue #1381](https://github.com/oppia/oppia/issues/1381) - Week 8, Sat
+ * [Pull Request #1607](https://github.com/oppia/oppia/pull/1607) (Merged) - Week 9, Tue
+ * [Pull Request #1608](https://github.com/oppia/oppia/pull/1608) (Pending resolving of issue with e2e testing not working on Vagrant) - Week 9, Tue
 
 #### Technology expertise in Web Programming and Applications
 
@@ -166,6 +178,8 @@ permalink: /teams/powerpointlabs/
 * Excercise on Client and Server Architecture (w/ AJAX): [CS3226 Lab 4](http://cs3226.comp.nus.edu.sg/~a0096724/lab4/) - Recess Week
 * Exercise on use of Database and Input sanitisation to prevent SQL injections: [CS3226 Lab 5](http://cs3226.comp.nus.edu.sg/~a0096724/lab5/) - Week 7
 * Exercise on Authentication and Authorisation: [CS3226 Lab 6](http://cs3226.comp.nus.edu.sg/~a0096724/lab6/) - Week 8
+* Prototype of Cache Simulator: [Cache Simulator - Iteration 2](http://oswellchan.github.io/CacheSimulator/) - Week 9
+* [Blog Post on SEO](https://medium.com/@oswellchan/search-engine-optimization-how-site-architecture-affects-seo-8e1815a34752#.td99u8jp9) - Week 10 
 
 ---
 
