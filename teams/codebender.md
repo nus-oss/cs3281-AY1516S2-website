@@ -276,10 +276,13 @@ permalink: /teams/codebender/
  * Reading Ruby on Rails Tutorial
  * Metaprogramming Ruby. Chapter 1: The M Word
  * Metaprogramming Ruby. Chapter 2: The Object Model
- * Wrote Metaprogramming Ruby. Chapter 1 Summary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=1719897351251213357;onPublishedMenu=posts;onClosedMenu=posts;postNum=1;src=postname)
- * Wrote Metaprogramming Ruby. Chapter 2 Summary [Link](https://www.blogger.com/blogger.g?blogID=8015375721045239679#editor/target=post;postID=7217799080200561162;onPublishedMenu=posts;onClosedMenu=posts;postNum=0;src=postname)
+ * Wrote Metaprogramming Ruby. Chapter 1 Summary [Link](http://moonmoon3281.blogspot.com/2016/03/metaprogramming-in-ruby-introduction.html)
+ * Wrote Metaprogramming Ruby. Chapter 2 Summary [Link](http://moonmoon3281.blogspot.sg/2016/03/metaprogramming-in-ruby-chapter-1.html)
  * Metaprogramming Ruby 2. Chapter 3: Methods
  * Wrote Metaprogramming Ruby 2. Chapter 3 Summary [Link](http://moonmoon3281.blogspot.sg/2016/03/metaprogramming-ruby-chapter-3-summary.html)
+ * Metaprogramming Ruby 2. Chapter 4: Blocks
+ * Wrote Metaprogramming Ruby 2. Chapter 4 Summary [Link](http://moonmoon3281.blogspot.sg/2016/03/metaprogramming-ruby-2-chapter-4-summary.html)
+ * Metaprogramming Ruby 2. Chapter 5: Class Definition
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
