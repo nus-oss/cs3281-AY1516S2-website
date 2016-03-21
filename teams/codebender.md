@@ -327,7 +327,7 @@ permalink: /teams/codebender/
 #### Technology expertise in Web Performance
 * Recess Week - [Wrote a blog post on lossless image compression for Powerpoint Labs](http://alexyy.com/2016/02/22/image-compression/)
 * Week 7, Mon - [Automation of image compression](http://alexyy.com/2016/02/29/automated-image-compression/)
-* Week 10, Mon - Wrote blog post regarding gzip
+* Week 10, Mon - [Wrote blog post regarding gzip](http://alexyy.com/2016/03/21/gzip-benefits/)
 
 ### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
