@@ -98,19 +98,32 @@ permalink: /teams/teammates/
 #### Contribution to project TEAMMATES
  * [Pull Request #4677](https://github.com/TEAMMATES/repo/pull/4677) (Merged) - Week 2
  * [Pull Request #4678](https://github.com/TEAMMATES/repo/pull/4678) (Merged) - Week 3
- * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (To Merge) - Week 3
- * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4751) (To Merge) - week 4
- * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4690) (Ongoing) - week 5
- * [Pull Request #4835](https://github.com/TEAMMATES/teammates/pull/4835) (To Review) - week 6
- * [Issue #4541](https://github.com/TEAMMATES/teammates/issues/4541)
+ * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (Merged) - Week 3
+ * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 4
+ * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4690) (Merged) - week 5
+ * [Pull Request #4835](https://github.com/TEAMMATES/teammates/pull/4835) (Onging) - week 6 till present
+ * [Pull Request #4915](https://github.com/TEAMMATES/teammates/pull/4915) (Merged) - week 7
+ * [Pull Request #4751](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 7
+ * [Pull Request #4514](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 7
+ * [Pull Request #5074](https://github.com/TEAMMATES/teammates/pull/5074) (Ongoing) - week 8
+ * [Pull Request #5024](https://github.com/TEAMMATES/teammates/pull/4751) (Ongoing) - week 8
+ * [Issue #4578] (https://github.com/TEAMMATES/teammates/issues/4578) (working) - week 9
+ 
 
+
+ 
+ 
 #### Contribution to project [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
  * Set up by week 4 (https://github.com/react-bootstrap/react-bootstrap.git)
  * Learn how to use the bootstrap library
  * Look through the issues and others' pull requests'
 
-#### Technology expertise in Django
-* Figure out the basic use of Django: setup, database setup, basic automated testing
+#### Technology expertise in React
+* Official tutorial: https://facebook.github.io/react/docs/tutorial.html
+* Javascript ecosystem: https://github.com/petehunt/react-howto
+* Use React with Webpack: http://survivejs.com/webpack_react/introduction/
+                          https://github.com/Sumei1009/webpack_react/tree/dev/project_source
+* Start writing a blog post regarding the issues for beginners to pick up React
 
 ---
 
