@@ -252,6 +252,7 @@ permalink: /teams/powerpointlabs/
 * Learned CLIPS and produced a simple diagnosis program for abdomen [diagnosis.clp](https://gist.github.com/youthinkk/782c8ba0f8db7084deea) - Recess Week
 * Planned and proposed larger scale knowledge-based systems on curriculum planner - Recess Week
 * Blog post [What is Artificial Intelligence?](https://blog.nus.edu.sg/cs3281youthinkk/2016/02/29/what-is-artificial-intelligence/) - Recess Week
+* Working on the project of curriculum planner
 
 ---
 
