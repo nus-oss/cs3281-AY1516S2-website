@@ -86,15 +86,17 @@ permalink: /teams/powerpointlabs/
   * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
   * [x] Improve on rotation support for shapes - Week 7, Thu
   * [x] Redesign icons for ResizeLab - Week 8
-  * [x] Add settings for Same Dimension
-  * [x] Add settings for Stretch/Shrink
-  * [x] Slight adjust feature
+  * [x] Add settings for Same Dimension - Week 9, Wed
+  * [x] Add settings for Stretch/Shrink - Week 9, Thu
+  * [x] Implement slight adjust feature - Week 10, Sun
+  * [ ] Implement adjust aspect ratio
+  * [ ] Implement resize propotionally (Height and Width)
   * [ ] Add delay to preview
   * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
   * [x] Preview feature - Recess Week, Thu
 * Others
-  * [ ] Create unit tests
+  * [x] Create unit tests for major functions - Week 9, Thu
   * [ ] Create functional tests
   * [ ] Merge with master branch 
 
@@ -199,8 +201,16 @@ permalink: /teams/powerpointlabs/
 * Implemented the redefinition of bounding box in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/c14b014770d3bc00a743914cbc8fcd718cf1f3ac/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 7, Thu
 * Created **Symmetric** feature in [`ResizeLabMain.Symmetry.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b994d66268cb1eb29597d47ea687f781b70f40d1/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.Symmetry.cs) - Week 7, Thu
 * Created preview of **Symmetric** in [`Commit e99bf89`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1a76458a8a6168f37771c95e245b88e45b2512e7) - Week 7, Fri
-* Refactor preview and execute action in [`Commit 99f13a1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ab4c5086cd3bb9425d7280858658609655d67167) - Week 7, Fri
-* Remove **Symmetric** from UI - Week 8, Thu
+* Refactored preview and execute action in [`Commit 99f13a1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ab4c5086cd3bb9425d7280858658609655d67167) - Week 7, Fri
+* Removed **Symmetric** from UI - Week 8, Thu
+* Implemented reset nodes to its original rotation in [`Commit 0d44fce`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1e3a2314ef4b6cb7081042db82f5191f50b424ae) - Week 9, Wed
+* Added Resize Lab base unit test in [`ResizeLabBaseTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4757354d6de862da0079cdea8ed637e5a9ee5075/PowerPointLabs/Test/UnitTest/ResizeLab/ResizeLabBaseTest.cs) - Week 9, Wed
+* Added unit tests for **Same Dimension** in [`SameDimensionTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4757354d6de862da0079cdea8ed637e5a9ee5075/PowerPointLabs/Test/UnitTest/ResizeLab/SameDimensionTest.cs) - Week 9, Wed
+* Added unit tests for **Fit to Slide** in [`FitToSlideTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/2e175998d1946aa88b4d45d7be02e9060ce9d4f9/PowerPointLabs/Test/UnitTest/ResizeLab/FitToSlideTest.cs) - Week 9, Thu
+* Implemented anchor alignment to **Same Dimension** in [`Commit 9034054`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8a84a5f7d3578ef335c44349929c5b69c1d3d92c) - Week 9, Thu
+* Integrated the reset of nodes in Resize Lab after previewing in [`Commit a4c1f4f`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/cd27419f860ca5cd7dec84f880d2035fdfa08b35) - Week 9, Fri
+* Refactored `PPShape` in [`Commit e4088b`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/37a9daf5aca1724643215dcd53197dd14075a539) - Week 9, Fri
+* Changed shape identifier for preview in [`Commit acb6193`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/c42b6a164fcc6976aea1c179503a7d74cdbacc29) - Week 10, Sun
 
 #### Contributions to project [aima-python](https://github.com/aimacode/aima-python) (Minor Project)
  * [Pull Request #108](https://github.com/aimacode/aima-python/pull/108) (Merged) - Week 8, Wed
