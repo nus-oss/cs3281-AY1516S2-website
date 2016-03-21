@@ -59,11 +59,19 @@ permalink: /teams/powerpointlabs/
   * [x] [Swap by Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/25) - Week 8, Thu
   * [x] [Distribute functions by two Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Sun
   * [x] [Implemented Powerpoint's in-built align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Sun
+  * [x] [Adjoin no longer auto aligns](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/42) - Week 9, Mon
+  * [x] [Allow user to choose distribute by shape edges or center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/44) - Week 9, Tue
+  * [x] [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
+  * [x] Change LockAxis to be follow same UX behaviour as Rotation - Week 9, Wed
+  * [x] Change Rotation and LockAxis to have visual indicator(highlighted) when they are active - Week 9, Wed
+  * [x] Add UT for Align - Week 9, Thu
+  * [x] Refactor PositionsLab to use lambda expressions - Week 10, Sun
+  * [x] PositionsLab functions now do not change the shape properties (shapeType, flip, etc) - Week 10, Sun
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement Distribute Along Edge - Week 10, Mon
+  * [ ] Implement Distribute Along Edge
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
   * [ ] Side-by-side preview for all possible implementation of a function
@@ -86,13 +94,17 @@ permalink: /teams/powerpointlabs/
   * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
   * [x] Improve on rotation support for shapes - Week 7, Thu
   * [x] Redesign icons for ResizeLab - Week 8
-  * [ ] Add settings for Same Dimension
-  * [ ] Create Crop To Match feature
+  * [x] Add settings for Same Dimension - Week 9, Wed
+  * [x] Add settings for Stretch/Shrink - Week 9, Thu
+  * [x] Implement slight adjust feature - Week 10, Sun
+  * [ ] Implement adjust aspect ratio
+  * [ ] Implement resize propotionally (Height and Width)
+  * [ ] Add delay to preview
   * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
   * [x] Preview feature - Recess Week, Thu
 * Others
-  * [ ] Create unit tests
+  * [x] Create unit tests for major functions - Week 9, Thu
   * [ ] Create functional tests
   * [ ] Merge with master branch 
 
@@ -133,10 +145,17 @@ permalink: /teams/powerpointlabs/
 * Enable **Undo for PositionsLab** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/3be5c078f66471729725ddc07f7faa624148449a/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 8, Wed
 * Implement **Preview for Align, Adjoin, Distribute (except Grid) and Swap** in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d906410c8ee7490536eec30eea79714502299746/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml) - Week 8, Wed
 * Implement **Distribute Grid by two Anchor shapes** [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/0ab2e5aa71bfc4db6722eebd01a28bfa5bc9af9d/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 9, Sun
+* Change **LockAxis** to be follow same UX behaviour as Rotation in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/fc91579e862220b2209638a4f800d97727c00ffb/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 9, Wed
+* Change **Rotation** and **LockAxis** to have visual indicator(highlighted) when they are active in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b0c9c98a51b412b608a077c5ecd436defc767681/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 9, Wed
+* Add **UT for Align** in [`PositionsLabAlignTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/faba1ecebe778d4498d1aa8732154550ff07107c/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabAlignTest.cs) - Week 9, Thu
+* Fix bug with **PPShape** not generating properly when Shape is flipped in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/39e61c98179997152b967c69a755290cd8efc9ab/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 9, Sat
+* Refactor **PositionsLab** to use lambda expressions in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
+* **PositionsLab** functions now do not change the shape properties (shapeType, flip, etc) in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
 
 #### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
  * Setup Environment: [Screenshot](https://drive.google.com/open?id=0BzrjImOddxOKSVY4eHBEdHlQcjg) - Week 8, Fri
- * Working on [Issue #1381](https://github.com/oppia/oppia/issues/1381) - Week 8, Sat
+ * [Pull Request #1607](https://github.com/oppia/oppia/pull/1607) (Merged) - Week 9, Tue
+ * [Pull Request #1608](https://github.com/oppia/oppia/pull/1608) (Pending resolving of issue with e2e testing not working on Vagrant) - Week 9, Tue
 
 #### Technology expertise in Web Programming and Applications
 
@@ -162,6 +181,8 @@ permalink: /teams/powerpointlabs/
 * Excercise on Client and Server Architecture (w/ AJAX): [CS3226 Lab 4](http://cs3226.comp.nus.edu.sg/~a0096724/lab4/) - Recess Week
 * Exercise on use of Database and Input sanitisation to prevent SQL injections: [CS3226 Lab 5](http://cs3226.comp.nus.edu.sg/~a0096724/lab5/) - Week 7
 * Exercise on Authentication and Authorisation: [CS3226 Lab 6](http://cs3226.comp.nus.edu.sg/~a0096724/lab6/) - Week 8
+* Prototype of Cache Simulator: [Cache Simulator - Iteration 2](http://oswellchan.github.io/CacheSimulator/) - Week 9
+* [Blog Post on SEO](https://medium.com/@oswellchan/search-engine-optimization-how-site-architecture-affects-seo-8e1815a34752#.td99u8jp9) - Week 10 
 
 ---
 
@@ -197,8 +218,16 @@ permalink: /teams/powerpointlabs/
 * Implemented the redefinition of bounding box in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/c14b014770d3bc00a743914cbc8fcd718cf1f3ac/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 7, Thu
 * Created **Symmetric** feature in [`ResizeLabMain.Symmetry.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b994d66268cb1eb29597d47ea687f781b70f40d1/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.Symmetry.cs) - Week 7, Thu
 * Created preview of **Symmetric** in [`Commit e99bf89`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1a76458a8a6168f37771c95e245b88e45b2512e7) - Week 7, Fri
-* Refactor preview and execute action in [`Commit 99f13a1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ab4c5086cd3bb9425d7280858658609655d67167) - Week 7, Fri
-* Remove **Symmetric** from UI - Week 8, Thu
+* Refactored preview and execute action in [`Commit 99f13a1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ab4c5086cd3bb9425d7280858658609655d67167) - Week 7, Fri
+* Removed **Symmetric** from UI - Week 8, Thu
+* Implemented reset nodes to its original rotation in [`Commit 0d44fce`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1e3a2314ef4b6cb7081042db82f5191f50b424ae) - Week 9, Wed
+* Added Resize Lab base unit test in [`ResizeLabBaseTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4757354d6de862da0079cdea8ed637e5a9ee5075/PowerPointLabs/Test/UnitTest/ResizeLab/ResizeLabBaseTest.cs) - Week 9, Wed
+* Added unit tests for **Same Dimension** in [`SameDimensionTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4757354d6de862da0079cdea8ed637e5a9ee5075/PowerPointLabs/Test/UnitTest/ResizeLab/SameDimensionTest.cs) - Week 9, Wed
+* Added unit tests for **Fit to Slide** in [`FitToSlideTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/2e175998d1946aa88b4d45d7be02e9060ce9d4f9/PowerPointLabs/Test/UnitTest/ResizeLab/FitToSlideTest.cs) - Week 9, Thu
+* Implemented anchor alignment to **Same Dimension** in [`Commit 9034054`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8a84a5f7d3578ef335c44349929c5b69c1d3d92c) - Week 9, Thu
+* Integrated the reset of nodes in Resize Lab after previewing in [`Commit a4c1f4f`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/cd27419f860ca5cd7dec84f880d2035fdfa08b35) - Week 9, Fri
+* Refactored `PPShape` in [`Commit e4088b`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/37a9daf5aca1724643215dcd53197dd14075a539) - Week 9, Fri
+* Changed shape identifier for preview in [`Commit acb6193`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/c42b6a164fcc6976aea1c179503a7d74cdbacc29) - Week 10, Sun
 
 #### Contributions to project [aima-python](https://github.com/aimacode/aima-python) (Minor Project)
  * [Pull Request #108](https://github.com/aimacode/aima-python/pull/108) (Merged) - Week 8, Wed
@@ -226,6 +255,7 @@ permalink: /teams/powerpointlabs/
 * Learned CLIPS and produced a simple diagnosis program for abdomen [diagnosis.clp](https://gist.github.com/youthinkk/782c8ba0f8db7084deea) - Recess Week
 * Planned and proposed larger scale knowledge-based systems on curriculum planner - Recess Week
 * Blog post [What is Artificial Intelligence?](https://blog.nus.edu.sg/cs3281youthinkk/2016/02/29/what-is-artificial-intelligence/) - Recess Week
+* Working on the project of curriculum planner
 
 ---
 
@@ -257,7 +287,16 @@ permalink: /teams/powerpointlabs/
 * Updated icons and UI for make symmetric - Week 7
 * Redesigned icons for ResizeLab - Week 8
 * Created unit tests for stretch / shrink - Week 8
-* Working on crop to match feature
+* Add [settings for Stretch/Shrink and outermost stretch](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/730472fb9f434ce356a28fa3f33bf2f1925a4a43), updated [UI for settings for Same dimension](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ed91d7a4ae9462cc52e73922a3bd454b677f41ff) - Week 9
+* Several code refractoring, with the [major one allowing more flexible error handling and increased testibility](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a63046eef0deb8ade3351aab5f59fb0b00154bb4) - Week 9
+* Redesigned UI - Week 9
+ * [Updated fit to slide icon](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/f7bb6f57b75b18bf3dae8c16e23479b43c158fff)
+ * Redesigned aspect ratio's UI
+ * Updated UI for Slight Adjust
+ * [Resized and implemented suggested icons for UI](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/acb619366babff07387ab5596c8fba40d9dd6ccc)
+ * [Added labels below buttons, redesigned UI to maximise space usage](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ad2100ec383be55631803538a841ffca2d789a3a)
+* [Added Slight Adjust feature](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a63046eef0deb8ade3351aab5f59fb0b00154bb4) - Week 9
+* Working on UI (Bring settings out, refractor tooltips and several enhancements)
 
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
@@ -265,6 +304,7 @@ permalink: /teams/powerpointlabs/
  * Done setting up development environment - Recess week [screenshot](https://dl.dropboxusercontent.com/u/7610216/dev%20env.PNG)
  * Successfully ran test cases - Recess week
  * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
+ * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case - Week 9
 
 #### Technology expertise in Testing
 
@@ -279,6 +319,10 @@ permalink: /teams/powerpointlabs/
 * Be able to write testable code
 * Learn about the different ways of testing at different layers
  
+###### Accomplished
+* Wrote unit tests for stretch/shrink - Week 8
+* Fixed one of OpenMRS's UI tests to conform with their guidelines, and increase testibility and reliability - Week 9
+* Refractored code in PPTLab to increase testibility such that logic/model no longer couples with view - Week 9
 
 ---
 
@@ -306,9 +350,14 @@ permalink: /teams/powerpointlabs/
 * **Created Icons for Align and Distribute** in [Icons for all Positions Lab Pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/28) - Week 8, Mon
 * **Supports Powerpoint's align functions** in [PowerPoint Align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Mon
 * **Implemented Distribute Horizontal and Vertical using two anchorpoints** in [Distribute Shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Mon
+* **Implemented option for user whether to align after adjoining** in [Adjoin no longer auto aligns](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/42) - Week 9, Mon
+* **Implemented option for user to choose distribute space between shape edges or shape centers** in [Allow user to choose distribute by shape edges or center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/44) - Week 9, Tue
+* **Implemented new function to align horizontal and vertical center** in [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
- * ...
+ * Setup of project
+ * Looking through open and closed pull requests
+ * WIP for first issue
 
 #### Contributions to [CS2103 website](http://www.comp.nus.edu.sg/~cs2103/AY1516S2/)
 * [Pull request #103](https://github.com/nus-cs2103/website/pull/103)
@@ -323,12 +372,15 @@ permalink: /teams/powerpointlabs/
  * Wrote a [SHA1 Reverser](https://github.com/vhazali/cs4236/tree/master/SHA1Reverser), which reverses a hash produced by SHA1 algorithm
  * Wrote a [WEP Cracker](https://github.com/vhazali/cs4236/tree/master/WEPCracker), which cracks a WEP secured connection
  * Wrote a short code to implement a [Rainbow Table](https://github.com/vhazali/cs4236/tree/master/Rainbow)
+ * Learn how to use some analysis tools such as nmap, gdb
+ * Tried out reversing binaries
 
 ###### Short Term Plan 
 * Expose myself to more security related issues by going for talks
 * Gain hands on experience by participating in Capture The Flag competitions
 * Join a community that's geared towards Information Security (such as NUS GreyHats)
-* Contribute to OSS related to security to gain more exposure
+* Contribute to OSS related to security to gain more exposure (Open Keychain / Nmap)
+* Improve knowledge in assembly/binary code
 
 ###### Long Term Plan 
 * Related modules to Information Security
