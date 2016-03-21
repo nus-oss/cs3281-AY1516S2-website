@@ -68,25 +68,37 @@ permalink: /teams/teammates/
 ### [@kennho](https://github.com/kennho) (Kenneth Ho Chee Chong)
 
 #### Contribution to project TEAMMATES
- * [Pull Request #4650](https://github.com/TEAMMATES/repo/pull/4650) (Merged) - Week 2
- * [Pull Request #4653](https://github.com/TEAMMATES/repo/pull/4653) (Merged) - Week 2
- * [Pull Reuqest #4691](https://github.com/TEAMMATES/repo/pull/4691) (Merged) - Week 3
- * [Pull Request #4664](https://github.com/TEAMMATES/repo/pull/4664) (Merged) - Week 3
- * [Pull Request #4704](https://github.com/TEAMMATES/repo/pull/4704) (Merged) - Week 4
- * [Issue #4274](https://github.com/TEAMMATES/repo/issues/4274) (Ongoing) - Week 4
- * [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (Merged) - Week 6
- * [Pull Request #4922](https://github.com/TEAMMATES/teammates/pull/4922) (Merged) - Week 7
- * [Pull Request #4942](https://github.com/TEAMMATES/teammates/pull/4942) (Merged) - Week 8
- * [Pull Request #4947](https://github.com/TEAMMATES/teammates/pull/4947) (Merged) - Week 8
- * [Pull Request #4963](https://github.com/TEAMMATES/teammates/pull/4963) (Merged) - Week 8
+ * [Issue #4626](https://github.com/TEAMMATES/teammates/issues/4626) - Week 2 : [Pull Request #4650](https://github.com/TEAMMATES/teammates/pull/4650) (Merged) - Week 2
+ * [Issue #4411](https://github.com/TEAMMATES/teammates/issues/4411) - Week 2 : [Pull Request #4653](https://github.com/TEAMMATES/teammates/pull/4653) (Merged) - Week 3
+ * [Issue #3276](https://github.com/TEAMMATES/teammates/issues/3276) - Week 2 : [Pull Request #4664](https://github.com/TEAMMATES/teammates/pull/4664) (Merged) - Week 3
+ * [Issue #4685](https://github.com/TEAMMATES/teammates/issues/4685) - Week 3 : [Pull Reuqest #4691](https://github.com/TEAMMATES/teammates/pull/4691) (Merged) - Week 4
+ * [Issue #4058](https://github.com/TEAMMATES/teammates/issues/4058) - Week 4 : [Pull Request #4704](https://github.com/TEAMMATES/teammates/pull/4704) (Merged) - Week 6
+ * [Issue #4720](https://github.com/TEAMMATES/teammates/issues/4720) - Week 6 : [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (Merged) - Recess Week
+ * [Issue #4147](https://github.com/TEAMMATES/teammates/issues/4147) - Week 7 : [Pull Request #4922](https://github.com/TEAMMATES/teammates/pull/4922) (Merged) - Week 8
+ * [Issue #4932](https://github.com/TEAMMATES/teammates/issues/4932) - Week 8 : [Pull Request #4942](https://github.com/TEAMMATES/teammates/pull/4942) (Merged) - Week 8
+ * [Issue #4936](https://github.com/TEAMMATES/teammates/issues/4936) - Week 8 : [Pull Request #4947](https://github.com/TEAMMATES/teammates/pull/4947) (Merged) - Week 8
+ * [Issue #4960](https://github.com/TEAMMATES/teammates/issues/4960) - Week 8 : [Pull Request #4963](https://github.com/TEAMMATES/teammates/pull/4963) (Merged) - Week 8
+ * [Issue #4274](https://github.com/TEAMMATES/teammates/issues/4274) - Week 4 : [Pull Request #5021](https://github.com/TEAMMATES/teammates/pull/5021) (Ongoing) - Week 9
+ * [Issue #4558](https://github.com/TEAMMATES/teammates/issues/4558) - Week 9 : [Pull Request #5026](https://github.com/TEAMMATES/teammates/pull/5026) (ToMerge) - Week 9
+ * [Issue #679](https://github.com/TEAMMATES/teammates/issues/679) - Week 9 : [Pull Request #5055](https://github.com/TEAMMATES/teammates/pull/5055) (Ongoing) - Week 9
+ * [Issue #3649](https://github.com/TEAMMATES/teammates/issues/3649) - Week 10 : [Pull Request #5071](https://github.com/TEAMMATES/teammates/pull/5071) (ToReview) - Week 10
+ * [Issue #3712](https://github.com/TEAMMATES/teammates/issues/3712) - Week 10 : [Pull Request #5072](https://github.com/TEAMMATES/teammates/pull/5072) (ToReview) - Week 10
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
- * Forked and set up project - Week 9 (https://github.com/kennho/oppia)
- * [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
+ * [Forked and set up project](https://github.com/kennho/oppia) - Week 9
+ * [Blog post showing prove of successful setup](https://cs3281.wordpress.com/2016/03/16/minor-project-oppia/) - Week 9
+ * [Issue #1603](https://github.com/oppia/oppia/issues/1603) - Week 9 : [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
+ * [Blog post comparing the processes of the two projects and suggestions about how to improve each](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/)
 
 #### Technology expertise in tool jQuery
+ * [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
+ * [How to use jQuery?](https://cs3281.wordpress.com/2016/03/18/how-to-use-jquery/) - Week 9
+ * [Interesting finds](https://cs3281.wordpress.com/2016/03/18/interesting-finds/) - Week 9
+ * [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
+ * [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
+ * [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
 
-##### Short Term Plan - Until the end of semester
+##### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
  * Write blog posts about jQuery.
  * Contribute to TEAMMATES on jQuery related issues.
