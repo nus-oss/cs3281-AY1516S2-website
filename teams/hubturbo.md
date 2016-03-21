@@ -134,6 +134,8 @@ permalink: /teams/hubturbo/
 * [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201) - Week 2, Wed
 * [Pull Request #1224](https://github.com/HubTurbo/HubTurbo/pull/1224) - Week 3, Sun
 * [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1296) - Week 7, Mon
+* [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) (Merged) - Week 9, Fri
+* [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1388) - Week 10, Mon
 
 ##### Contribution to MINOR project [PencilCode](https://github.com/PencilCode/pencilcode/)
 
@@ -166,8 +168,11 @@ permalink: /teams/hubturbo/
   - Integrate with Travis CI
   - Deployed it using `Docker`
 
-* Migrate build process of PencilCode from `requirejs` to `browerify`
-  - [Pull Request #145](https://github.com/PencilCode/pencilcode/pull/145) (Merged)
+* [PencilCode](https://github.com/PencilCode/pencilcode) (GSoC project)
+  - [Pull Request #145](https://github.com/PencilCode/pencilcode/pull/145) Migrate build process of PencilCode from `requirejs` to `browerify` (Merged)
+
+* [HubTurbo](https://github.com/PencilCode/pencilcode) (Major project)
+  - [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) Cache Travis Dependencies (Merged)
 
 
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
