@@ -162,12 +162,14 @@ permalink: /teams/teammates/
  * [Pull Request #4924](https://github.com/TEAMMATES/repo/pull/4924) (Merged) - Week 8
  * [Pull Request #4927](https://github.com/TEAMMATES/repo/pull/4927) (Merged) - Week 8
  * [Pull Request #4987](https://github.com/TEAMMATES/repo/pull/4987) (Ongoing) - Week 8
+ * [Pull Request #5045](https://github.com/TEAMMATES/repo/pull/5045) (Merged) - Week 9
 
 #### Contribution to [OpenKeychain](https://github.com/open-keychain/open-keychain)
  * [Pull Request #1728](https://github.com/open-keychain/open-keychain/pull/1728) - Recess Week
 
-#### Technology expertise in JQuery UI
+#### Technology expertise in Javascript
  * [Pull Request #4663](https://github.com/TEAMMATES/repo/pull/4663) (Merged) - Week 3
+ * [Pull Request #5045](https://github.com/TEAMMATES/repo/pull/5045) (Merged) - Week 9
 
 ##### Short Term Plan
  * Learn more about JQuery UI: widgets, interactions, effects etc.
