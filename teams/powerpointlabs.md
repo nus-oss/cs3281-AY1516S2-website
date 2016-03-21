@@ -355,7 +355,9 @@ permalink: /teams/powerpointlabs/
 * **Implemented new function to align horizontal and vertical center** in [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
- * ...
+ * Setup of project
+ * Looking through open and closed pull requests
+ * WIP for first issue
 
 #### Contributions to [CS2103 website](http://www.comp.nus.edu.sg/~cs2103/AY1516S2/)
 * [Pull request #103](https://github.com/nus-cs2103/website/pull/103)
@@ -370,12 +372,15 @@ permalink: /teams/powerpointlabs/
  * Wrote a [SHA1 Reverser](https://github.com/vhazali/cs4236/tree/master/SHA1Reverser), which reverses a hash produced by SHA1 algorithm
  * Wrote a [WEP Cracker](https://github.com/vhazali/cs4236/tree/master/WEPCracker), which cracks a WEP secured connection
  * Wrote a short code to implement a [Rainbow Table](https://github.com/vhazali/cs4236/tree/master/Rainbow)
+ * Learn how to use some analysis tools such as nmap, gdb
+ * Tried out reversing binaries
 
 ###### Short Term Plan 
 * Expose myself to more security related issues by going for talks
 * Gain hands on experience by participating in Capture The Flag competitions
 * Join a community that's geared towards Information Security (such as NUS GreyHats)
-* Contribute to OSS related to security to gain more exposure
+* Contribute to OSS related to security to gain more exposure (Open Keychain / Nmap)
+* Improve knowledge in assembly/binary code
 
 ###### Long Term Plan 
 * Related modules to Information Security
