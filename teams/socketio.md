@@ -218,14 +218,22 @@ Notes:
 * [Snapshot of project dir for guide milestone 3](https://github.com/nus-fboa2016-si/whiteboard/commit/847204b5a7b53de35199ceb350699c256fe5fbe1) - Week 8, Tue
 * [Snapshot of project dir for guide milestone 4](https://github.com/nus-fboa2016-si/whiteboard/commit/d837a61ff8113281d6e28f6a922da7b9f68c7017) - Week 8, Thu
 * [Split up guide milestones into ordered subtasks with descriptions](https://github.com/nus-fboa2016-si/whiteboard/commit/502c82685ff059cf98c8d20ed0f089adcf3d3e87) - Week 9, Tue
+* [Finish tutorial v1 guide](https://github.com/nus-fboa2016-si/whiteboard/blob/master/guide/v1/GUIDE.md) - Week 9, Thu
+* [Finish tutorial v2 guide](https://github.com/nus-fboa2016-si/whiteboard/blob/master/guide/v2/GUIDE.md) - Week 9, Fri
+* [Finish tutorial v3 guide](https://github.com/nus-fboa2016-si/whiteboard/blob/master/guide/v3/GUIDE.md) - Week 9, Sun
+* [Finish tutorial v4 guide](https://github.com/nus-fboa2016-si/whiteboard/blob/master/guide/v4/GUIDE.md) - Week 9, Sun
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
 * [Issue #1235 progress](https://github.com/YijinL/HubTurbo/commits/%231235-update-team-page-promotions) - Week 6, Sun
 * [Issue #1235 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1283) - Recess Week, Fri
 * [Issue #891 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1282) - Recess Week, Sun
-* [Opened issue #1338](https://github.com/HubTurbo/HubTurbo/issues/1338) - Week 8, Sat
-* [Issue #1340 PR (in progress)](https://github.com/HubTurbo/HubTurbo/pull/1340) - Week 8, Sat
+* [Discover and open issue #1338](https://github.com/HubTurbo/HubTurbo/issues/1338) - Week 8, Sat
+* [Issue #1340 PR (merge approved)](https://github.com/HubTurbo/HubTurbo/pull/1340) - Week 9, Sun
+* [Discover and open issue #1380](https://github.com/HubTurbo/HubTurbo/issues/1380) - Week 9, Sun
+* [Discover and open issue #1385](https://github.com/HubTurbo/HubTurbo/issues/1385) - Week 9, Sun
+* [Issue #1380 PR (in progress)](https://github.com/HubTurbo/HubTurbo/pull/1386) - Week 9, Sun
+* [Issue #1385 in progress)](https://github.com/HubTurbo/HubTurbo/issues/1385) - Week 9, Sun
 
 #### Technology expertise in cloud deployment and monitoring
 
