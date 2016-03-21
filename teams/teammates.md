@@ -83,9 +83,9 @@ permalink: /teams/teammates/
  * [Issue #4936](https://github.com/TEAMMATES/teammates/issues/4936) - Week 8 : [Pull Request #4947](https://github.com/TEAMMATES/teammates/pull/4947) (Merged) - Week 8
  * [Issue #4960](https://github.com/TEAMMATES/teammates/issues/4960) - Week 8 : [Pull Request #4963](https://github.com/TEAMMATES/teammates/pull/4963) (Merged) - Week 8
  * [Issue #4274](https://github.com/TEAMMATES/teammates/issues/4274) - Week 4 : [Pull Request #5021](https://github.com/TEAMMATES/teammates/pull/5021) (Ongoing) - Week 9
- * [Issue #4558](https://github.com/TEAMMATES/teammates/issues/4558) - Week 9 : [Pull Request #5026](https://github.com/TEAMMATES/teammates/pull/5026) (ToMerge) - Week 9
+ * [Issue #4558](https://github.com/TEAMMATES/teammates/issues/4558) - Week 9 : [Pull Request #5026](https://github.com/TEAMMATES/teammates/pull/5026) (Merged) - Week 9
  * [Issue #679](https://github.com/TEAMMATES/teammates/issues/679) - Week 9 : [Pull Request #5055](https://github.com/TEAMMATES/teammates/pull/5055) (Ongoing) - Week 9
- * [Issue #3649](https://github.com/TEAMMATES/teammates/issues/3649) - Week 10 : [Pull Request #5071](https://github.com/TEAMMATES/teammates/pull/5071) (ToReview) - Week 10
+ * [Issue #3649](https://github.com/TEAMMATES/teammates/issues/3649) - Week 10 : [Pull Request #5071](https://github.com/TEAMMATES/teammates/pull/5071) (Ongoing) - Week 10
  * [Issue #3712](https://github.com/TEAMMATES/teammates/issues/3712) - Week 10 : [Pull Request #5072](https://github.com/TEAMMATES/teammates/pull/5072) (ToReview) - Week 10
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
