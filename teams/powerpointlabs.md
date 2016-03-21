@@ -59,6 +59,9 @@ permalink: /teams/powerpointlabs/
   * [x] [Swap by Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/25) - Week 8, Thu
   * [x] [Distribute functions by two Reference Point](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Sun
   * [x] [Implemented Powerpoint's in-built align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Sun
+  * [x] [Adjoin no longer auto aligns](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/42) - Week 9, Mon
+  * [x] [Allow user to choose distribute by shape edges or center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/44) - Week 9, Tue
+  * [x] [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
   * [x] Change LockAxis to be follow same UX behaviour as Rotation - Week 9, Wed
   * [x] Change Rotation and LockAxis to have visual indicator(highlighted) when they are active - Week 9, Wed
   * [x] Add UT for Align - Week 9, Thu
@@ -68,7 +71,7 @@ permalink: /teams/powerpointlabs/
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement Distribute Along Edge - Week 10, Mon
+  * [ ] Implement Distribute Along Edge
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
   * [ ] Side-by-side preview for all possible implementation of a function
@@ -347,6 +350,9 @@ permalink: /teams/powerpointlabs/
 * **Created Icons for Align and Distribute** in [Icons for all Positions Lab Pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/28) - Week 8, Mon
 * **Supports Powerpoint's align functions** in [PowerPoint Align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Mon
 * **Implemented Distribute Horizontal and Vertical using two anchorpoints** in [Distribute Shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Mon
+* **Implemented option for user whether to align after adjoining** in [Adjoin no longer auto aligns](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/42) - Week 9, Mon
+* **Implemented option for user to choose distribute space between shape edges or shape centers** in [Allow user to choose distribute by shape edges or center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/44) - Week 9, Tue
+* **Implemented new function to align horizontal and vertical center** in [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
  * ...
