@@ -69,12 +69,12 @@ permalink: /teams/hubturbo/
   * [x] Repo Picker (Improved auto-complete) - Week 8, Thur
   * [x] Issue Picker (Basic version without tests) - Week 8, Sun
   * [x] Board Picker - Week 8, Sun
-* [ ] Merge Pull Requests for all features - Week 9, Sun
-	* [ ] Milestone Picker - Week 9, Sun
-	* [ ] Assignee Picker - Week 9, Sun
-	* [ ] Board Picker - Week 9, Sun
-  * [ ] Issue Picker - Week 9, Sun
-  * [ ] Repo Picker  - Week 9, Sun
+* [ ] Merge Pull Requests for all features - Week 10, Thu
+	* [ ] Milestone Picker - Week 10, Wed
+	* [ ] Assignee Picker - Week 10, Thu
+	* [ ] Board Picker - Week 10, Thu
+  * [ ] Issue Picker - Week 10, Wed
+  * [ ] Repo Picker  - Week 10, Thu
 
 # Contributions
 
@@ -191,6 +191,7 @@ permalink: /teams/hubturbo/
 * [Pull Request #1348](https://github.com/HubTurbo/HubTurbo/pull/1348) - Week 9, Mon
 * [Pull Request #1349](https://github.com/HubTurbo/HubTurbo/pull/1349) - Week 9, Mon
 * [Pull Request #1350](https://github.com/HubTurbo/HubTurbo/pull/1350) - Week 9, Mon
+* [Pull Request #1368](https://github.com/HubTurbo/HubTurbo/pull/1368) - Week 9, Fri
 
 
 
@@ -226,6 +227,7 @@ Progress
 - [Written journal paper for Robosub 2015 on computer vision](http://higherlogicdownload.s3.amazonaws.com/AUVSI/fb9a8da0-2ac8-42d1-a11e-d58c1e158347/UploadedImages/2015%20RoboSub%20/Journal%20Papers/NatlUSingapore_Journal_RS2015.pdf)
 - [Design banner to explain about the current state of software stack](https://drive.google.com/open?id=0B2qn3kO2bUfUVWQtWkRQVER6RDQ)
 - [Footage of object detection during testing](https://www.facebook.com/bbauv/videos/935345183191362/)
+- [Computer vision workshop presentation to beginners by me](https://drive.google.com/open?id=1--6-gcc6a2woJQ28hgbiUkW3lA0f9iV0yKCoGPwOQFA)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
