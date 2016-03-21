@@ -321,10 +321,13 @@ permalink: /teams/codebender/
 * Week 8, Thu - PR #2 Merged, hurray!
 * Week 9, Thu - Solved issue #953 with [PR #3](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/29)
 * Week 9, Thu - Included some images which was outside of /img folder into the rake task in [PR #4](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30) (Merged)
+* Week 9, Thu - [PR #3 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/29), hurray!
+* Week 9, Thu - [PR #4 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30), hurray!
 
 #### Technology expertise in Web Performance
 * Recess Week - [Wrote a blog post on lossless image compression for Powerpoint Labs](http://alexyy.com/2016/02/22/image-compression/)
 * Week 7, Mon - [Automation of image compression](http://alexyy.com/2016/02/29/automated-image-compression/)
+* Week 10, Mon - Wrote blog post regarding gzip
 
 ### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
