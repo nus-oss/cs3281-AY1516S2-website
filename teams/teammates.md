@@ -39,14 +39,16 @@ permalink: /teams/teammates/
  * [Pull Request #4632](https://github.com/TEAMMATES/repo/pull/4632) (Merged) - Week 1
  * [Pull Request #4638](https://github.com/TEAMMATES/repo/pull/4638) (Merged) - Week 1
  * [Pull Request #4649](https://github.com/TEAMMATES/repo/pull/4649) (Merged) - Week 2
- * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (OnHold) - Week 3 - 5
+ * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (Closed) - Week 3 - 5
  * [Pull Request #4695](https://github.com/TEAMMATES/repo/pull/4695) (Merged) - Week 3
  * [Pull Request #4698](https://github.com/TEAMMATES/repo/pull/4698) (Merged) - Week 3
- * [Pull Request #4752](https://github.com/TEAMMATES/teammates/pull/4752) (Ongoing) - Week 4
+ * [Pull Request #4752](https://github.com/TEAMMATES/teammates/pull/4752) (Merged) - Week 4 - 9
  * [Pull Request #4761](https://github.com/TEAMMATES/teammates/pull/4761) (Merged) - Week 5
  * [Pull Request #4774](https://github.com/TEAMMATES/teammates/pull/4774) (Merged) - Week 6
  * [Issue #4488](https://github.com/TEAMMATES/repo/issues/4488) (ToBeDiscussed) - Week 6 - ...
- * [Pull Request #4819](https://github.com/TEAMMATES/teammates/pull/4819) (Ongoing) - Recess Week
+ * [Pull Request #4819](https://github.com/TEAMMATES/teammates/pull/4819) (Merged) - Recess Week
+ * [Pull Request #4954](https://github.com/TEAMMATES/teammates/pull/4954) (Merged) - Week 9
+ * [Pull Request #5031](https://github.com/TEAMMATES/teammates/pull/5031) (Ongoing) - Week 10
 
 #### Contribution to project Y
  * ...
@@ -57,36 +59,50 @@ permalink: /teams/teammates/
  * Debug several applications written for a bash shell written in Java as part of a module project (CS4218) - Recess Week
  * Tested student programs and debug the code submitted in sit-in labs for a module in SoC (CS1020) - Ongoing (Start - End of Semester)
  * Generated test-cases for code written as assignment in an SoC module (CS1020) - Ongoing (Start - End of Semester). Tests are designed to be as strict as possible and tried to cover all cases. Designed based on the principles learned on CS4218 (Software Testing and Debugging).
+ * Applied TDD in the process of writing a bc application (similar to bc in shell) in Java.
+ * Wrote new tests for bc application written in Java.
 
 #### Plan - Until the end of this semester
  * Writing blog posts about different software testing paradigms, with the pros and cons of each approach and when to use which
  * Teach students in an SoC module (CS1020) on how to debug their code for their labs (so that they can test their code thoroughly) based on principles learned in CS4218.
- * Applying Test-Driven Development (TDD) for several bash shell applications written in Java for a project module (CS4218).
+ * Provide proof of work on technological expertise
 
 ---
 
 ### [@kennho](https://github.com/kennho) (Kenneth Ho Chee Chong)
 
 #### Contribution to project TEAMMATES
- * [Pull Request #4650](https://github.com/TEAMMATES/repo/pull/4650) (Merged) - Week 2
- * [Pull Request #4653](https://github.com/TEAMMATES/repo/pull/4653) (Merged) - Week 2
- * [Pull Reuqest #4691](https://github.com/TEAMMATES/repo/pull/4691) (Merged) - Week 3
- * [Pull Request #4664](https://github.com/TEAMMATES/repo/pull/4664) (Merged) - Week 3
- * [Pull Request #4704](https://github.com/TEAMMATES/repo/pull/4704) (Merged) - Week 4
- * [Issue #4274](https://github.com/TEAMMATES/repo/issues/4274) (Ongoing) - Week 4
- * [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (Merged) - Week 6
- * [Pull Request #4922](https://github.com/TEAMMATES/teammates/pull/4922) (Merged) - Week 7
- * [Pull Request #4942](https://github.com/TEAMMATES/teammates/pull/4942) (Merged) - Week 8
- * [Pull Request #4947](https://github.com/TEAMMATES/teammates/pull/4947) (Merged) - Week 8
- * [Pull Request #4963](https://github.com/TEAMMATES/teammates/pull/4963) (Merged) - Week 8
+ * [Issue #4626](https://github.com/TEAMMATES/teammates/issues/4626) - Week 2 : [Pull Request #4650](https://github.com/TEAMMATES/teammates/pull/4650) (Merged) - Week 2
+ * [Issue #4411](https://github.com/TEAMMATES/teammates/issues/4411) - Week 2 : [Pull Request #4653](https://github.com/TEAMMATES/teammates/pull/4653) (Merged) - Week 3
+ * [Issue #3276](https://github.com/TEAMMATES/teammates/issues/3276) - Week 2 : [Pull Request #4664](https://github.com/TEAMMATES/teammates/pull/4664) (Merged) - Week 3
+ * [Issue #4685](https://github.com/TEAMMATES/teammates/issues/4685) - Week 3 : [Pull Reuqest #4691](https://github.com/TEAMMATES/teammates/pull/4691) (Merged) - Week 4
+ * [Issue #4058](https://github.com/TEAMMATES/teammates/issues/4058) - Week 4 : [Pull Request #4704](https://github.com/TEAMMATES/teammates/pull/4704) (Merged) - Week 6
+ * [Issue #4720](https://github.com/TEAMMATES/teammates/issues/4720) - Week 6 : [Pull Request #4795](https://github.com/TEAMMATES/teammates/pull/4795) (Merged) - Recess Week
+ * [Issue #4147](https://github.com/TEAMMATES/teammates/issues/4147) - Week 7 : [Pull Request #4922](https://github.com/TEAMMATES/teammates/pull/4922) (Merged) - Week 8
+ * [Issue #4932](https://github.com/TEAMMATES/teammates/issues/4932) - Week 8 : [Pull Request #4942](https://github.com/TEAMMATES/teammates/pull/4942) (Merged) - Week 8
+ * [Issue #4936](https://github.com/TEAMMATES/teammates/issues/4936) - Week 8 : [Pull Request #4947](https://github.com/TEAMMATES/teammates/pull/4947) (Merged) - Week 8
+ * [Issue #4960](https://github.com/TEAMMATES/teammates/issues/4960) - Week 8 : [Pull Request #4963](https://github.com/TEAMMATES/teammates/pull/4963) (Merged) - Week 8
+ * [Issue #4274](https://github.com/TEAMMATES/teammates/issues/4274) - Week 4 : [Pull Request #5021](https://github.com/TEAMMATES/teammates/pull/5021) (Ongoing) - Week 9
+ * [Issue #4558](https://github.com/TEAMMATES/teammates/issues/4558) - Week 9 : [Pull Request #5026](https://github.com/TEAMMATES/teammates/pull/5026) (Merged) - Week 9
+ * [Issue #679](https://github.com/TEAMMATES/teammates/issues/679) - Week 9 : [Pull Request #5055](https://github.com/TEAMMATES/teammates/pull/5055) (Ongoing) - Week 9
+ * [Issue #3649](https://github.com/TEAMMATES/teammates/issues/3649) - Week 10 : [Pull Request #5071](https://github.com/TEAMMATES/teammates/pull/5071) (Ongoing) - Week 10
+ * [Issue #3712](https://github.com/TEAMMATES/teammates/issues/3712) - Week 10 : [Pull Request #5072](https://github.com/TEAMMATES/teammates/pull/5072) (ToReview) - Week 10
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
- * Forked and set up project - Week 9 (https://github.com/kennho/oppia)
- * [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
+ * [Forked and set up project](https://github.com/kennho/oppia) - Week 9
+ * [Blog post showing prove of successful setup](https://cs3281.wordpress.com/2016/03/16/minor-project-oppia/) - Week 9
+ * [Issue #1603](https://github.com/oppia/oppia/issues/1603) - Week 9 : [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
+ * [Blog post comparing the processes of the two projects and suggestions about how to improve each](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/)
 
 #### Technology expertise in tool jQuery
+ * [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
+ * [How to use jQuery?](https://cs3281.wordpress.com/2016/03/18/how-to-use-jquery/) - Week 9
+ * [Interesting finds](https://cs3281.wordpress.com/2016/03/18/interesting-finds/) - Week 9
+ * [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
+ * [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
+ * [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
 
-##### Short Term Plan - Until the end of semester
+##### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
  * Write blog posts about jQuery.
  * Contribute to TEAMMATES on jQuery related issues.
@@ -98,19 +114,30 @@ permalink: /teams/teammates/
 #### Contribution to project TEAMMATES
  * [Pull Request #4677](https://github.com/TEAMMATES/repo/pull/4677) (Merged) - Week 2
  * [Pull Request #4678](https://github.com/TEAMMATES/repo/pull/4678) (Merged) - Week 3
- * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (To Merge) - Week 3
- * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4751) (To Merge) - week 4
- * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4690) (Ongoing) - week 5
- * [Pull Request #4835](https://github.com/TEAMMATES/teammates/pull/4835) (To Review) - week 6
- * [Issue #4541](https://github.com/TEAMMATES/teammates/issues/4541)
-
+ * [Pull Request #4690](https://github.com/TEAMMATES/repo/pull/4690) (Merged) - Week 3
+ * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 4
+ * [Pull Request #4690](https://github.com/TEAMMATES/teammates/pull/4690) (Merged) - week 5
+ * [Pull Request #4835](https://github.com/TEAMMATES/teammates/pull/4835) (Onging) - week 6 till present
+ * [Pull Request #4915](https://github.com/TEAMMATES/teammates/pull/4915) (Merged) - week 7
+ * [Pull Request #4751](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 7
+ * [Pull Request #4514](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 8
+ * [Pull Request #5074](https://github.com/TEAMMATES/teammates/pull/5074) (Ongoing) - week 8
+ * [Pull Request #5024](https://github.com/TEAMMATES/teammates/pull/4751) (Ongoing) - week 9
+ * [Issue #4578] (https://github.com/TEAMMATES/teammates/issues/4578) (working) - week 10
+ 
+ 
+ 
 #### Contribution to project [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
  * Set up by week 4 (https://github.com/react-bootstrap/react-bootstrap.git)
  * Learn how to use the bootstrap library
  * Look through the issues and others' pull requests'
 
-#### Technology expertise in Django
-* Figure out the basic use of Django: setup, database setup, basic automated testing
+#### Technology expertise in React
+* Official tutorial: https://facebook.github.io/react/docs/tutorial.html - week 8
+* Javascript ecosystem: https://github.com/petehunt/react-howto - week 9
+* Use React with Webpack: http://survivejs.com/webpack_react/introduction/ - week 9
+                          https://github.com/Sumei1009/webpack_react/tree/dev/project_source
+* Writing a blog post regarding the issues for beginners to pick up React -- week 10
 
 ---
 
@@ -135,12 +162,14 @@ permalink: /teams/teammates/
  * [Pull Request #4924](https://github.com/TEAMMATES/repo/pull/4924) (Merged) - Week 8
  * [Pull Request #4927](https://github.com/TEAMMATES/repo/pull/4927) (Merged) - Week 8
  * [Pull Request #4987](https://github.com/TEAMMATES/repo/pull/4987) (Ongoing) - Week 8
+ * [Pull Request #5045](https://github.com/TEAMMATES/repo/pull/5045) (Merged) - Week 9
 
 #### Contribution to [OpenKeychain](https://github.com/open-keychain/open-keychain)
  * [Pull Request #1728](https://github.com/open-keychain/open-keychain/pull/1728) - Recess Week
 
-#### Technology expertise in JQuery UI
+#### Technology expertise in Javascript
  * [Pull Request #4663](https://github.com/TEAMMATES/repo/pull/4663) (Merged) - Week 3
+ * [Pull Request #5045](https://github.com/TEAMMATES/repo/pull/5045) (Merged) - Week 9
 
 ##### Short Term Plan
  * Learn more about JQuery UI: widgets, interactions, effects etc.
