@@ -98,11 +98,12 @@ permalink: /teams/hubturbo/
 
 * [Forked atom repository](https://github.com/m133225/atom) - Week 4, Sun
 * [Pull Request #758](https://github.com/atom/tree-view/pull/758) (Closed, combined into another PR) - Week 7, Sat
-
+* [Pull Request #771](https://github.com/atom/tree-view/pull/771) - Week 9, Tue
 
 ##### Technology expertise in AI in Motion Planning
 
 * [Workplan](http://m133225.github.io/introduction/2016/02/29/motion-planning-in-ai.html) - Week 7, Mon
+* [Manipulating space representations](http://m133225.github.io/matrices,/transformations/2016/03/20/configuration-space.html) - Week 10, Sun
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
@@ -233,7 +234,14 @@ Progress
 * [Pull Request #1183](https://github.com/HubTurbo/HubTurbo/pull/1183) (Merged) - Week 1, Thu
 * [Pull Request #1222](https://github.com/HubTurbo/HubTurbo/pull/1222) - Week 3, Sat
 * [Pull Request #1225](https://github.com/HubTurbo/HubTurbo/pull/1225) - Week 3, Sun
+* [Pull Request #1303](https://github.com/HubTurbo/HubTurbo/pull/1303) - Week 7, Wed
+* [Pull Request #1310](https://github.com/HubTurbo/HubTurbo/pull/1310) (Merged) - Week 7, Thu
+* [Pull Request #1312](https://github.com/HubTurbo/HubTurbo/pull/1312) (Merged) - Week 7, Sun 
+* [Pull Request #1342](https://github.com/HubTurbo/HubTurbo/pull/1342) - Week 8, Sun 
+* [Pull Request #1387](https://github.com/HubTurbo/HubTurbo/pull/1387) - Week 10, Mon 
+ 
+##### Contribution to MINOR project [Oppia](https://github.com/oppia/oppia)
 
-##### Contribution to MINOR project [Brackets](https://github.com/adobe/brackets)
+* Working on Issue [#1615](https://github.com/oppia/oppia/issues/1615) 
 
 ##### Technology expertise in Web Security
