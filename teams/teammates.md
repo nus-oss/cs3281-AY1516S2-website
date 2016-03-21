@@ -39,14 +39,16 @@ permalink: /teams/teammates/
  * [Pull Request #4632](https://github.com/TEAMMATES/repo/pull/4632) (Merged) - Week 1
  * [Pull Request #4638](https://github.com/TEAMMATES/repo/pull/4638) (Merged) - Week 1
  * [Pull Request #4649](https://github.com/TEAMMATES/repo/pull/4649) (Merged) - Week 2
- * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (OnHold) - Week 3 - 5
+ * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (Closed) - Week 3 - 5
  * [Pull Request #4695](https://github.com/TEAMMATES/repo/pull/4695) (Merged) - Week 3
  * [Pull Request #4698](https://github.com/TEAMMATES/repo/pull/4698) (Merged) - Week 3
- * [Pull Request #4752](https://github.com/TEAMMATES/teammates/pull/4752) (Ongoing) - Week 4
+ * [Pull Request #4752](https://github.com/TEAMMATES/teammates/pull/4752) (Merged) - Week 4 - 9
  * [Pull Request #4761](https://github.com/TEAMMATES/teammates/pull/4761) (Merged) - Week 5
  * [Pull Request #4774](https://github.com/TEAMMATES/teammates/pull/4774) (Merged) - Week 6
  * [Issue #4488](https://github.com/TEAMMATES/repo/issues/4488) (ToBeDiscussed) - Week 6 - ...
- * [Pull Request #4819](https://github.com/TEAMMATES/teammates/pull/4819) (Ongoing) - Recess Week
+ * [Pull Request #4819](https://github.com/TEAMMATES/teammates/pull/4819) (Merged) - Recess Week
+ * [Pull Request #4954](https://github.com/TEAMMATES/teammates/pull/4954) (Merged) - Week 9
+ * [Pull Request #5031](https://github.com/TEAMMATES/teammates/pull/5031) (Ongoing) - Week 10
 
 #### Contribution to project Y
  * ...
@@ -57,11 +59,13 @@ permalink: /teams/teammates/
  * Debug several applications written for a bash shell written in Java as part of a module project (CS4218) - Recess Week
  * Tested student programs and debug the code submitted in sit-in labs for a module in SoC (CS1020) - Ongoing (Start - End of Semester)
  * Generated test-cases for code written as assignment in an SoC module (CS1020) - Ongoing (Start - End of Semester). Tests are designed to be as strict as possible and tried to cover all cases. Designed based on the principles learned on CS4218 (Software Testing and Debugging).
+ * Applied TDD in the process of writing a bc application (similar to bc in shell) in Java.
+ * Wrote new tests for bc application written in Java.
 
 #### Plan - Until the end of this semester
  * Writing blog posts about different software testing paradigms, with the pros and cons of each approach and when to use which
  * Teach students in an SoC module (CS1020) on how to debug their code for their labs (so that they can test their code thoroughly) based on principles learned in CS4218.
- * Applying Test-Driven Development (TDD) for several bash shell applications written in Java for a project module (CS4218).
+ * Provide proof of work on technological expertise
 
 ---
 
