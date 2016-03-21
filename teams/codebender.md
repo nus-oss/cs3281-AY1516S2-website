@@ -98,7 +98,7 @@ permalink: /teams/codebender/
     * [x] Add front-end validation for adding of new version to an existing library
     * [x] Generate a schema diagram for our new database design
 * [ ] **Milestone 7** - Due Week 12, Sun
-    * [ ] Implement preferences for all APIs
+    * [x] Implement preferences for all APIs
     * [ ] Remove duplicate library files and modify v1 API to use v2 library files
     * [ ] Remove duplicate code by changing duplicated code to reference v1 methods
     * [ ] Perform migration tests on virtual instance
