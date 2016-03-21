@@ -116,13 +116,11 @@ permalink: /teams/teammates/
  * [Pull Request #4835](https://github.com/TEAMMATES/teammates/pull/4835) (Onging) - week 6 till present
  * [Pull Request #4915](https://github.com/TEAMMATES/teammates/pull/4915) (Merged) - week 7
  * [Pull Request #4751](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 7
- * [Pull Request #4514](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 7
+ * [Pull Request #4514](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 8
  * [Pull Request #5074](https://github.com/TEAMMATES/teammates/pull/5074) (Ongoing) - week 8
- * [Pull Request #5024](https://github.com/TEAMMATES/teammates/pull/4751) (Ongoing) - week 8
- * [Issue #4578] (https://github.com/TEAMMATES/teammates/issues/4578) (working) - week 9
+ * [Pull Request #5024](https://github.com/TEAMMATES/teammates/pull/4751) (Ongoing) - week 9
+ * [Issue #4578] (https://github.com/TEAMMATES/teammates/issues/4578) (working) - week 10
  
-
-
  
  
 #### Contribution to project [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
@@ -131,11 +129,11 @@ permalink: /teams/teammates/
  * Look through the issues and others' pull requests'
 
 #### Technology expertise in React
-* Official tutorial: https://facebook.github.io/react/docs/tutorial.html
-* Javascript ecosystem: https://github.com/petehunt/react-howto
-* Use React with Webpack: http://survivejs.com/webpack_react/introduction/
+* Official tutorial: https://facebook.github.io/react/docs/tutorial.html - week 8
+* Javascript ecosystem: https://github.com/petehunt/react-howto - week 9
+* Use React with Webpack: http://survivejs.com/webpack_react/introduction/ - week 9
                           https://github.com/Sumei1009/webpack_react/tree/dev/project_source
-* Start writing a blog post regarding the issues for beginners to pick up React
+* Writing a blog post regarding the issues for beginners to pick up React -- week 10
 
 ---
 
