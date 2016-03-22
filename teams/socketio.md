@@ -155,10 +155,10 @@ permalink: /teams/socketio/
 * Keep up with other data visualization tools/library and learn their strength and weakness
 * Take relevant modules on UI/visualization such as CS3240 Interaction Design, CS3249 User Interface Development or NM3209 Designing for Interactivity
 
-###### Portfolio project: github contribution visualization: [App](http://paradite.github.io/gitviz/) [GitHub repo](https://github.com/paradite/cs3281viz)
-* [Set up framework](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
-* [Set up basic timeline and tooltip](https://github.com/paradite/cs3281viz/commit/c77a497ded06881c4b6d6575bcdcb2d783e0dda2) - Week 4, Wed
-* [Refactored code into proper components, added authentication for GitHub API](https://github.com/paradite/cs3281viz/commit/07421cceb72297c69f3e91eb8feb8b0c37c4a723) - Week 5, Wed
+###### Portfolio project: github contribution visualization: [App](gitviz-paradite.herokuapp.com) [GitHub repo](https://github.com/paradite/gitviz)
+* [Set up framework](https://github.com/paradite/gitviz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
+* [Set up basic timeline and tooltip](https://github.com/paradite/gitviz/commit/c77a497ded06881c4b6d6575bcdcb2d783e0dda2) - Week 4, Wed
+* [Refactored code into proper components, added authentication for GitHub API](https://github.com/paradite/gitviz/commit/07421cceb72297c69f3e91eb8feb8b0c37c4a723) - Week 5, Wed
 * [Implemented commits grouped by date, updated tooltip](https://github.com/paradite/gitviz/commit/d0dc5908fb63be32c7792826e15e3419452831b1) - Week 6, Wed
 * [Implemented UI, code cleanup, ready for release](https://github.com/paradite/gitviz/commit/7df4b94ca8198b531b23bbf603f7db7b79bb1744) - Recess Week, Sat
 * [Added server-side caching to improve performance](https://github.com/paradite/gitviz/commit/695e92daad54e090433ed271c4af1bb3245f43fd) - Week 8, Mon
