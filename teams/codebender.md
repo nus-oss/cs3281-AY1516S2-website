@@ -408,6 +408,7 @@ permalink: /teams/codebender/
 * Week 8, Sun - Refine the process when header file name collision when add new library [ref](https://github.com/codebendercc/eratosthenes/commit/c17b3073ae5c7ef5449e04aae9cfdf9924d296f1)
 * Week 9, Tue - Implement default version of library for partners [PR](https://github.com/codebendercc/eratosthenes/pull/60)
 * Week 9, Sat - Add default version support for current APIs [ref](https://github.com/codebendercc/eratosthenes/pull/60/commits)
+* Week 10, Wed - Working on remove duplicate library files and modify v1 API to use v2 library files 
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
