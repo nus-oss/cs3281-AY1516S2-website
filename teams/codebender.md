@@ -248,7 +248,7 @@ permalink: /teams/codebender/
 * Week 9, Wed - Combined the two types of libraries builtin libraries and external libraries. Handled all the regression caused by this change. Added tests. ([PR #57](https://github.com/codebendercc/eratosthenes/pull/57) and [PR #58](https://github.com/codebendercc/eratosthenes/pull/58))
 * Week 9, Wed - Raised an issue to suggest better practice [Issue #59](https://github.com/codebendercc/eratosthenes/issues/59)
 * Week 9, Wed - Modified latest_version to be non-nullable and modified Library / Version related codes to follow this restriction.
-
+* Week 10, Wed - Prunning of codes from older v1 API [PR #66](https://github.com/codebendercc/eratosthenes/pull/66)
 
 #### Contribution to minor project - HubTurbo
  * Week 6, Sun - Project setup
