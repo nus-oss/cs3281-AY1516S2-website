@@ -359,6 +359,7 @@ permalink: /teams/codebender/
 * Week 8, Sun - finish implementing bar chart (both frontend and backend)
 * Week 9, Tues - fix an issue about switches between bar/line chart
 * Week 9, Wed - Performance Profiling and Evaluation
+* Week 10,Wed - Refactor code according to mentor's comments (waiting for merge)
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
