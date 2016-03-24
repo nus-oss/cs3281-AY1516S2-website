@@ -310,6 +310,7 @@ permalink: /teams/codebender/
 * Week 9, Thu - Created functional test for Registration
 * Week 9, Sat - Created Show Info Page
 * Week 9, Sun - Created Dashboard Page
+* Week 10, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/23) Merged, hurray!
 
 #### Contribution to minor project - Powerpoint Labs
 * Week 6, Fri - Setup of project environment complete.
