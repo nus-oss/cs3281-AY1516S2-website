@@ -69,12 +69,12 @@ permalink: /teams/hubturbo/
   * [x] Repo Picker (Improved auto-complete) - Week 8, Thur
   * [x] Issue Picker (Basic version without tests) - Week 8, Sun
   * [x] Board Picker - Week 8, Sun
-* [ ] Merge Pull Requests for all features - Week 9, Sun
-	* [ ] Milestone Picker - Week 9, Sun
-	* [ ] Assignee Picker - Week 9, Sun
-	* [ ] Board Picker - Week 9, Sun
-  * [ ] Issue Picker - Week 9, Sun
-  * [ ] Repo Picker  - Week 9, Sun
+* [ ] Merge Pull Requests for all features - Week 10, Thu
+	* [ ] Milestone Picker - Week 10, Wed
+	* [ ] Assignee Picker - Week 10, Thu
+	* [ ] Board Picker - Week 10, Thu
+  * [ ] Issue Picker - Week 10, Wed
+  * [ ] Repo Picker  - Week 10, Thu
 
 # Contributions
 
@@ -98,11 +98,12 @@ permalink: /teams/hubturbo/
 
 * [Forked atom repository](https://github.com/m133225/atom) - Week 4, Sun
 * [Pull Request #758](https://github.com/atom/tree-view/pull/758) (Closed, combined into another PR) - Week 7, Sat
-
+* [Pull Request #771](https://github.com/atom/tree-view/pull/771) - Week 9, Tue
 
 ##### Technology expertise in AI in Motion Planning
 
 * [Workplan](http://m133225.github.io/introduction/2016/02/29/motion-planning-in-ai.html) - Week 7, Mon
+* [Manipulating space representations](http://m133225.github.io/matrices,/transformations/2016/03/20/configuration-space.html) - Week 10, Sun
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
@@ -133,6 +134,8 @@ permalink: /teams/hubturbo/
 * [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201) - Week 2, Wed
 * [Pull Request #1224](https://github.com/HubTurbo/HubTurbo/pull/1224) - Week 3, Sun
 * [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1296) - Week 7, Mon
+* [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) (Merged) - Week 9, Fri
+* [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1388) - Week 10, Mon
 
 ##### Contribution to MINOR project [PencilCode](https://github.com/PencilCode/pencilcode/)
 
@@ -165,8 +168,11 @@ permalink: /teams/hubturbo/
   - Integrate with Travis CI
   - Deployed it using `Docker`
 
-* Migrate build process of PencilCode from `requirejs` to `browerify`
-  - [Pull Request #145](https://github.com/PencilCode/pencilcode/pull/145) (Merged)
+* [PencilCode](https://github.com/PencilCode/pencilcode) (GSoC project)
+  - [Pull Request #145](https://github.com/PencilCode/pencilcode/pull/145) Migrate build process of PencilCode from `requirejs` to `browerify` (Merged)
+
+* [HubTurbo](https://github.com/PencilCode/pencilcode) (Major project)
+  - [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) Cache Travis Dependencies (Merged)
 
 
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
@@ -190,6 +196,7 @@ permalink: /teams/hubturbo/
 * [Pull Request #1348](https://github.com/HubTurbo/HubTurbo/pull/1348) - Week 9, Mon
 * [Pull Request #1349](https://github.com/HubTurbo/HubTurbo/pull/1349) - Week 9, Mon
 * [Pull Request #1350](https://github.com/HubTurbo/HubTurbo/pull/1350) - Week 9, Mon
+* [Pull Request #1368](https://github.com/HubTurbo/HubTurbo/pull/1368) - Week 9, Fri
 
 
 
@@ -225,6 +232,7 @@ Progress
 - [Written journal paper for Robosub 2015 on computer vision](http://higherlogicdownload.s3.amazonaws.com/AUVSI/fb9a8da0-2ac8-42d1-a11e-d58c1e158347/UploadedImages/2015%20RoboSub%20/Journal%20Papers/NatlUSingapore_Journal_RS2015.pdf)
 - [Design banner to explain about the current state of software stack](https://drive.google.com/open?id=0B2qn3kO2bUfUVWQtWkRQVER6RDQ)
 - [Footage of object detection during testing](https://www.facebook.com/bbauv/videos/935345183191362/)
+- [Computer vision workshop presentation to beginners by me](https://drive.google.com/open?id=1--6-gcc6a2woJQ28hgbiUkW3lA0f9iV0yKCoGPwOQFA)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
@@ -233,7 +241,14 @@ Progress
 * [Pull Request #1183](https://github.com/HubTurbo/HubTurbo/pull/1183) (Merged) - Week 1, Thu
 * [Pull Request #1222](https://github.com/HubTurbo/HubTurbo/pull/1222) - Week 3, Sat
 * [Pull Request #1225](https://github.com/HubTurbo/HubTurbo/pull/1225) - Week 3, Sun
+* [Pull Request #1303](https://github.com/HubTurbo/HubTurbo/pull/1303) - Week 7, Wed
+* [Pull Request #1310](https://github.com/HubTurbo/HubTurbo/pull/1310) (Merged) - Week 7, Thu
+* [Pull Request #1312](https://github.com/HubTurbo/HubTurbo/pull/1312) (Merged) - Week 7, Sun 
+* [Pull Request #1342](https://github.com/HubTurbo/HubTurbo/pull/1342) - Week 8, Sun 
+* [Pull Request #1387](https://github.com/HubTurbo/HubTurbo/pull/1387) - Week 10, Mon 
+ 
+##### Contribution to MINOR project [Oppia](https://github.com/oppia/oppia)
 
-##### Contribution to MINOR project [Brackets](https://github.com/adobe/brackets)
+* Working on Issue [#1615](https://github.com/oppia/oppia/issues/1615) 
 
 ##### Technology expertise in Web Security
