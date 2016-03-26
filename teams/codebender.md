@@ -99,8 +99,8 @@ permalink: /teams/codebender/
     * [x] Generate a schema diagram for our new database design
 * [ ] **Milestone 7** - Due Week 12, Sun
     * [x] Implement preferences for all APIs
-    * [ ] Remove duplicate library files and modify v1 API to use v2 library files
-    * [ ] Remove duplicate code by changing duplicated code to reference v1 methods
+    * [x] Remove duplicate library files and modify v1 API to use v2 library files
+    * [x] Remove duplicate code by changing duplicated code to reference v1 methods
     * [ ] Perform migration tests on virtual instance
 * Week 13 - Buffer time
 
