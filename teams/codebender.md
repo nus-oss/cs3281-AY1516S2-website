@@ -128,10 +128,10 @@ permalink: /teams/codebender/
 * [x] Documenation (on patterns and user manual) - Week 8
 * [x] Pause and restart the chart plotting - Week 8
 * [x] CSV Import - Week 8
-* [ ] User costumization of axis name, data name,etc - Week 9
 * [x] Bar Chart - Week 9
 * [x] Performance evaluation - Week 10
 * [ ] Merging/Revising - Week 10
+* [ ] Elimination of noise data - Week 11
 * [ ] Deploying on live server, done! - Week 11
 
 ## Contributions
@@ -379,7 +379,8 @@ permalink: /teams/codebender/
 * [Useful Regular Expressions 1 - Date and time](http://blog.nus.edu.sg/matanghao/2016/03/09/useful-regular-expression-1-time-and-date/) - Week 8
 * [Summary of Mastering Regular Expression Chapter.2](http://blog.nus.edu.sg/matanghao/2016/03/15/summary-of-mastering-regular-expressions-chapter-2/) - Week 9
 * [Useful Regular Expressions 2](http://blog.nus.edu.sg/matanghao/2016/03/15/useful-regular-expression-2/) - Week 9
-* * [Summary of Mastering Regular Expression Chapter.4](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
+* [Summary of Mastering Regular Expression Chapter.4](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
+* [Summary of Mastering Regular Expression Chapter.5](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
 
 ### @gisonrg (Jiang Sheng) (Team Lead - Week 9 - 12)
 * Week 2, Tues - Received project details
