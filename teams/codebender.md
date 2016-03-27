@@ -419,6 +419,8 @@ permalink: /teams/codebender/
 * Week 9, Tue - Implement default version of library for partners [PR](https://github.com/codebendercc/eratosthenes/pull/60)
 * Week 9, Sat - Add default version support for current APIs [ref](https://github.com/codebendercc/eratosthenes/pull/60/commits)
 * Week 10, Fri - Removed v1 legacy files [PR](https://github.com/codebendercc/eratosthenes/pull/67)
+* Week 10, Sun - Add more tests [PR](https://github.com/codebendercc/eratosthenes/pull/70)
+* Week 10, Sun - Hide toggle status button when view built-in libraries [PR](https://github.com/codebendercc/eratosthenes/pull/71)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
@@ -429,7 +431,7 @@ permalink: /teams/codebender/
 * (Merged) PR [#4953](https://github.com/TEAMMATES/teammates/pull/4953) for issue [#4950](https://github.com/TEAMMATES/teammates/issues/4950) -  [Bug Analysis](https://github.com/TEAMMATES/teammates/issues/4950#issuecomment-194369745)- Week 8, Wed
 * Raised [#4975](https://github.com/TEAMMATES/teammates/issues/4975)
 * (Merged) PR [#4988](https://github.com/TEAMMATES/teammates/pull/4988) for issue [#4631](https://github.com/TEAMMATES/teammates/issues/4631) - Week 8, Sun
-* Add code coverage for js tests in PR [#5054](https://github.com/TEAMMATES/teammates/pull/5054) for issue [#5040](https://github.com/TEAMMATES/teammates/issues/5040) - Week 9, Sat
+* (Merged) Add code coverage for js tests in PR [#5054](https://github.com/TEAMMATES/teammates/pull/5054) for issue [#5040](https://github.com/TEAMMATES/teammates/issues/5040) - Week 9, Sat
 
 ###### Past Contribution to HubTurbo
 * (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
