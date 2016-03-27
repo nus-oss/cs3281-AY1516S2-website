@@ -220,6 +220,7 @@ permalink: /teams/codebender/
 * Posted a write-up on a cryptographic/exploit challenge in SSCTF Quals 2016 ([blog post on the challenge](http://cs3281-2.blogspot.sg/2016/03/te-ssctf-2016-heheda-crypto-exploit.html))
 * Wrote a blog post on another cryptographic/exploit challenge in SSCTF Quals 2016 ([write-up](http://cs3281-2.blogspot.sg/2016/03/te-ssctf-2016-chain-rule-crypto-exploit.html))
 * Attended Security Wednesdays talk on ["Local Privilege Escalation – From Zero to Hero"](https://www.facebook.com/events/1019203218143738/)
+* Created a binary challenge for the upcoming [X-CTF 2016](http://nusgreyhats.org/x-ctf/)
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
