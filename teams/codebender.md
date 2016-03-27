@@ -466,5 +466,6 @@ permalink: /teams/codebender/
 * Week 8, Sun - Write a [blog post](http://blog.gisonrg.me/2016/create-github-webhook-handler/) to share my learning experience on developing my first node package [express-github-webhook](https://github.com/Gisonrg/express-github-webhook/)
 * Week 9, Wed - Write a [blog post](http://blog.gisonrg.me/2016/automation-tool-gulp-vs-grunt/) on JavaScript task runner
 * Week 9, Sat - Found a bug in [Blanket.js](blanketjs.org) when adding code coverage for TEAMMATES. Try fix it in [PR](https://github.com/alex-seville/blanket/pull/557) (Merged on Week 9, Sun)
+* Week 10, Sun - Develop the Gulp file for build and deploy for the [CS4224](https://github.com/Gisonrg/ER-diagram-editor) project. Gain more insights on Gulp's asyn tasks execution and stream flow. [ref](https://github.com/Gisonrg/ER-diagram-editor/blob/master/gulpfile.js)
 * (Ongoing) Working on a JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
   * Gain experience in Angular, front-end development process and Gulp configuration in the project
