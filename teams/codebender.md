@@ -286,6 +286,8 @@ permalink: /teams/codebender/
  * Metaprogramming Ruby 2. Chapter 4: Blocks
  * Wrote Metaprogramming Ruby 2. Chapter 4 Summary [Link](http://moonmoon3281.blogspot.sg/2016/03/metaprogramming-ruby-2-chapter-4-summary.html)
  * Metaprogramming Ruby 2. Chapter 5: Class Definition
+ * Wrote Metaprogramming Ruby 2. Chapter 5 Summary [Link](http://moonmoon3281.blogspot.sg/2016/03/metaprogramming-ruby-2-chapter-5-summary.html)
+ * Metaprogramming Ruby 2. Chapter 6: Code That Writes
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
