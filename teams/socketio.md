@@ -339,7 +339,8 @@ Notes:
 * Implement latency check for sockets[link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4ea1bb788d9b30d454b2160dc4b1c749bee29101) - Week 10, Mon
 * Implement Socket status check [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/6e001146b0c35b8993df2988e9bffef192310a2b) - Week 10, Mon
 * Implement time ticker to trigger timer refresh [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/98017f7e6a1b1085c17b3a539fde353f95ed9ba5) - Week 10, Mon
-
+* Refactor chrome connection component to be more modular [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/7207789de98cd835ac36f84dc95c19c0188ef159) - Week 11, Mon
+* Fix bug in Socket.io-devtool [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c0c771488bef576f02f14158319762a21b6326b5) - Week 11, Mon
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
 * PR [#1255](https://github.com/HubTurbo/HubTurbo/pull/1255) for issue [#1102](https://github.com/HubTurbo/HubTurbo/issues/1102) - Week 6, Thurs
@@ -347,6 +348,7 @@ Notes:
 #### Technology expertise in RESTful APIs
 * [Blogpost](https://medium.com/@whattokingu/what-i-know-about-rest-21ece615c949#.pebz7xf06) on introduction to REST
 * [Blogpost](https://medium.com/@whattokingu/hypermedia-apis-bdec8c78c8dc#.wmsl68uwu) on Hypermedia APIs.
+* [Blogpost](https://medium.com/@whattokingu/rest-and-hypermedia-apis-2ee0f6fd6710) on disadvantages of Hypermedia APIs.
 
 ##### Short term plan
 * Read up on RESTful implementation details.
