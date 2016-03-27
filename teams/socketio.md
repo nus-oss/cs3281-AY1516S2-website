@@ -394,3 +394,6 @@ Notes:
 ##### Long term plan
 * Keep up with Git version updates
 * Keep up with any changes in what considered as Git best practices
+
+#### Others
+* [Blogpost](http://digawp.blogspot.sg/2016/03/comparing-school-based-internal-and.html) comparing process of internal and external projects - Week 10, Sun
