@@ -287,6 +287,9 @@ Notes:
 * [Implement color coding of packet based on its hashed event name](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b7ea28d736d3335e93b3b22d1993b8be5af3d440) - Week 9, Wed
 * [Implement active searching of packet based on keyword, and refactor PacketList and SearchBar component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b696707c9d582e5d395e2f3347eb3450eafc74bf) - Week 9, Thur
 * [Added elapsed time to PacketMetaData, refactor PacketData and PacketMetaData component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/e7683f6673929cccbedbab333ab88cad29848ee0) - Week 9, Sat
+* [Distinguish color based on packet received and created](https://github.com/nus-fboa2016-si/socketio-devtool/commit/501b0ef68ffc05198d6478fd4a0cd824d18979f1) - Week 10, Mon
+* [Refactor PacketList to move the logic part to PacketListContainer](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ef560df6586af0060222cf99158c81bd9cc5bdb6) - Week 10, Sat
+* [Implement highlighting on PacketData for matched search keyword](https://github.com/nus-fboa2016-si/socketio-devtool/commit/dd75cfb320cb9daa0d6657975f18f9fb2edc1f15) - Week 10, Sun
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
