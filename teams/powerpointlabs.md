@@ -309,7 +309,6 @@ permalink: /teams/powerpointlabs/
 * [UI enhancements](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/bb196606b7b63c14c93428298fd5dc31b779da39) - Week 10
 * [Moved anchor settings out to main pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ac6f632e0e94b8b2ce33e4601d1b72a66b0883ce) - Week 10
 * [Added anchor support for match and slight adjust](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/72f7e8d56f6d2ddadf8dfe8559bda661c3ada095) - Week 10
-* Working on UI (Bring settings out, refractor tooltips and several enhancements)
 
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
