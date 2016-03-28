@@ -116,6 +116,7 @@ permalink: /teams/socketio/
   * [Sourcemap PR for socket.io](https://github.com/socketio/socket.io/pull/2482) - Week 8, Thu
   * [Sourcemap PR for socket.io-client](https://github.com/socketio/socket.io-client/pull/953) - Week 8, Thu
   * [Compat version test PR for socket.io](https://github.com/socketio/socket.io/pull/2496) - Week 9, Sat
+  * [Refactoring to es6 - arrow functions](https://github.com/nus-fboa2016-si/socket.io/commit/1ed5a3b1579c36c68f8c93dd151d85c6773b88a5) - Week 10, Thu
 
 ###### Set up front-end UI and interactions for whiteboard example: [repo](https://github.com/nus-fboa2016-si/whiteboard)
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
@@ -165,6 +166,7 @@ permalink: /teams/socketio/
 * [Separated home page with app page, update UI](https://github.com/paradite/gitviz/commit/6f64bcd4f769491264ff0e73d26564a3674f8fc4) - Week 8, Sun
 * [Rewrite the modules in commonJS and use webpack to bundle the code and handle dependencies](https://github.com/paradite/gitviz/commit/cdded2a5dfddaaff7e47ed05ba7d79a675c07128) - Week 9, Mon
 * [Allow saving teammates information as a link that can be used directly next time](https://github.com/paradite/gitviz/commit/c87ca1a950bca600d829afc03b969081e54995e9) - Week 9, Sun
+* [UI updates to include screenshots and improve UX] - Week 10, Tue
 
 ###### Blog posts on d3.js/data visualization
 * [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/) - Week 6, Sun
@@ -173,6 +175,7 @@ permalink: /teams/socketio/
 ###### Other matters related to expertise in data visualization
 * Met with potential client to discuss on a project for visualization of family genealogy based on DNA data and family tree
 * Got an summer internship offer for developing a visual analytics tool for an education platform
+* Developed front-end geolocation visualization in hackaton project for NUS Data Sciecen Challenge [Live site](http://find-my-home.herokuapp.com/)
 
 ### @YijinL (Leow Yijin)
 Notes: 
