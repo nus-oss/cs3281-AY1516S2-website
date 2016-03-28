@@ -237,6 +237,9 @@ Notes:
 
 #### Technology expertise in cloud deployment and monitoring
 
+##### Blog posts
+* [Intro to cloud concepts, pros, cons, use cases](https://medium.com/@YijinL/a-primer-on-cloud-computing-74dae8d25850#.iwpbxyge9) - Week 10, Sun
+
 ##### Short term plan
 * Take online courses on cloud deployment
 * Write blog post(s) on the purpose of cloud deployment, when and why it is needed, its relation to the build process
