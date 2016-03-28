@@ -101,7 +101,7 @@ permalink: /teams/powerpointlabs/
   * [x] Add settings for Same Dimension - Week 9, Wed
   * [x] Add settings for Stretch/Shrink - Week 9, Thu
   * [x] Implement slight adjust feature - Week 10, Sun
-  * [x] Implement match height and width feature
+  * [x] Implement match height and width feature - Week 10, Thu
   * [ ] Implement resize propotionally (Height and Width)
   * [x] Add delay to preview
   * [ ] Create Ratio Resize feature
@@ -236,6 +236,19 @@ permalink: /teams/powerpointlabs/
 * Integrated the reset of nodes in Resize Lab after previewing in [`Commit a4c1f4f`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/cd27419f860ca5cd7dec84f880d2035fdfa08b35) - Week 9, Fri
 * Refactored `PPShape` in [`Commit e4088b`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/37a9daf5aca1724643215dcd53197dd14075a539) - Week 9, Fri
 * Changed shape identifier for preview in [`Commit acb6193`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/c42b6a164fcc6976aea1c179503a7d74cdbacc29) - Week 10, Sun
+* Fixed bug of restoring shape in for unit tests in [`Commit f02534e`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/4bcbb9ad28469f03e63cb28e974df2b2fc9c844c) - Week 10, Mon
+* Implemented previewing using Undo in [`Commit 4bcbb9a`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/0c14bfdb4d1613ec196fd27e99be52374fa5ec98) - Week 10, Mon
+* Refactored **Stretch and Shrink** unit tests in [`Commit 0c14bfd`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/fdda5e59af4137746f7a7a5f65b6381d06223d8f) - Week 10, Thu
+* Refactored **Same Dimension** unit tests in [`Commit fdda5e5`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/2f97b7b093428b749a6cbf6e586333a0708b0682) - Week 10, Thu
+* Refactored **Fit To Slide** unit tests in [`Commit 2f97b7b`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/07d1165404b9602394416c41b88835650097c34f) - Week 10, Thu
+* Implemented **Match** in [`ResizeLabMain.Match.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/146dcce0df214d0d709cbdefaa168a776f37f45b/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.Match.cs) - Week 10, Thu
+* Implemented skeleton for **Adjust Proportionally** in [`ResizeLabMain.AdjustProportionally.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/9f03c29b71097af17a1592162c77d86b07ea76d8/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.AdjustProportionally.cs) - Week 10, Thu
+* Fixed PPShape calculation for shape at 90 degree in [`6b481b8`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/103cc35072d25254014d4a03e63d580c4a83c51b) - Week 10, Fri
+* Migrated anchor setting from **Equalize** to **Main Settings** in [`Commit f333de5`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/76bc2bdab8933269528c88cd9c0d4f6fea38c770) - Week 11, Sun
+* Added unit tests for **Lock and Unlock Aspect Ratio** in [`MainSettingsTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/6b357b55873eb60d9525d84009d1d0ec236e4bb8/PowerPointLabs/Test/UnitTest/ResizeLab/MainSettingsTest.cs) - Week 11, Sun
+* Added unit tests for **Match** in [`MatchTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ed2dee4e163ef77f33ee5ad0aad8ce7c79c22c73/PowerPointLabs/Test/UnitTest/ResizeLab/MatchTest.cs) - Week 11, Sun
+* Added more unit test for **Stretch and Shrink** in [`Commit 07c6ba1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/525428829ef275892518c6f28fb3d901202ec2a1) - Week 11, Sun
+
 
 #### Contributions to project [aima-python](https://github.com/aimacode/aima-python) (Minor Project)
  * [Pull Request #108](https://github.com/aimacode/aima-python/pull/108) (Merged) - Week 8, Wed
