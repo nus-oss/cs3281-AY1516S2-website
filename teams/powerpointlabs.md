@@ -67,11 +67,14 @@ permalink: /teams/powerpointlabs/
   * [x] Add UT for Align - Week 9, Thu
   * [x] Refactor PositionsLab to use lambda expressions - Week 10, Sun
   * [x] PositionsLab functions now do not change the shape properties (shapeType, flip, etc) - Week 10, Sun
+  * [x] Change PositionsLab functions to work with duplicated shapes (previously assume persistent shapes) - Week 10, Wed
+  * [x] Change Align unit tests to correct unchanged properties version - Week 10, Thu
+  * [x] Implement Distribute Grid by Edges - Week 10, Thu
+  * [x] Add Unit tests for Adjoin and Distribute - Week 11, Sun
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement Distribute Along Edge
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
   * [ ] Side-by-side preview for all possible implementation of a function
@@ -151,6 +154,10 @@ permalink: /teams/powerpointlabs/
 * Fix bug with **PPShape** not generating properly when Shape is flipped in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/39e61c98179997152b967c69a755290cd8efc9ab/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 9, Sat
 * Refactor **PositionsLab** to use lambda expressions in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
 * **PositionsLab** functions now do not change the shape properties (shapeType, flip, etc) in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
+* Change **PositionsLab** functions to work with duplicated shapes (previously assume persistent shapes) in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/015a30871f779cd0cff9aac5369e581033afdc03/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Wed
+* Change **Align Unit Test** to correct unchanged properties verion in [`PositionsLabAlign.pptx`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4e45f074d3cd4b30b2b69f24f5f8476add08a703/doc/test/PositionsLab/PositionsLabAlign.pptx) - Week 10, Thu
+* Implement **Distribute Grid by Edges** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/36e3a9c376ee94d930cffba7770425a219e8448c/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 10, Thu
+* Add Unit tests for **Adjoin** and **Distribute** in [`PositionsLabAdjoinTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/17f05d06e191d5dd06866443cbdfeb30c076e393/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabAdjoinTest.cs) and [`PositionsLabDistributeTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/f3d658dd645c0232dd5cc7e529d68329a5d04897/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabDistributeTest.cs) - Week 11, Sun
 
 #### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
  * Setup Environment: [Screenshot](https://drive.google.com/open?id=0BzrjImOddxOKSVY4eHBEdHlQcjg) - Week 8, Fri
