@@ -262,7 +262,7 @@ permalink: /teams/codebender/
  * Recess Week - Raised [issue #1281](https://github.com/HubTurbo/HubTurbo/issues/1281)
  * Recess Week - Worked on issue 1233 but another PR made for very related issue so halted
  
-#### Technology expertise in Ruby on Rails
+#### Technology expertise in Ruby
 
 ##### Short Term Plan
  * Online tutorials
