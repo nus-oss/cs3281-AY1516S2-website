@@ -101,9 +101,9 @@ permalink: /teams/powerpointlabs/
   * [x] Add settings for Same Dimension - Week 9, Wed
   * [x] Add settings for Stretch/Shrink - Week 9, Thu
   * [x] Implement slight adjust feature - Week 10, Sun
-  * [ ] Implement adjust aspect ratio
+  * [x] Implement match height and width feature
   * [ ] Implement resize propotionally (Height and Width)
-  * [ ] Add delay to preview
+  * [x] Add delay to preview
   * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
   * [x] Preview feature - Recess Week, Thu
@@ -304,6 +304,11 @@ permalink: /teams/powerpointlabs/
  * [Resized and implemented suggested icons for UI](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/acb619366babff07387ab5596c8fba40d9dd6ccc)
  * [Added labels below buttons, redesigned UI to maximise space usage](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ad2100ec383be55631803538a841ffca2d789a3a)
 * [Added Slight Adjust feature](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a63046eef0deb8ade3351aab5f59fb0b00154bb4) - Week 9
+* [Updated UI for Match Height and Width](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/38d90dc286cfcf23a928c046491589ec4a8b05dd) - Week 10
+* [Added delay to preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a72933f9f0209bf5ee1926baf80403587be0b231) - Week 10
+* [UI enhancements](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/bb196606b7b63c14c93428298fd5dc31b779da39) - Week 10
+* [Moved anchor settings out to main pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ac6f632e0e94b8b2ce33e4601d1b72a66b0883ce) - Week 10
+* [Added anchor support for match and slight adjust](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/72f7e8d56f6d2ddadf8dfe8559bda661c3ada095) - Week 10
 * Working on UI (Bring settings out, refractor tooltips and several enhancements)
 
 
@@ -312,7 +317,7 @@ permalink: /teams/powerpointlabs/
  * Done setting up development environment - Recess week [screenshot](https://dl.dropboxusercontent.com/u/7610216/dev%20env.PNG)
  * Successfully ran test cases - Recess week
  * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
- * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case - Week 9
+ * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case (Merged) - Week 9
 
 #### Technology expertise in Testing
 
