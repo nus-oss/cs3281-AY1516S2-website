@@ -133,10 +133,8 @@ permalink: /teams/teammates/
  
  
  
-#### Contribution to project [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
- * Set up by week 4 (https://github.com/react-bootstrap/react-bootstrap.git)
- * Learn how to use the bootstrap library
- * Look through the issues and others' pull requests'
+#### Contribution to project [react](https://github.com/facebook/react.git)
+ * [Pull Request #6345](https://github.com/facebook/react/pull/6345) (Ongoing) - week 10
 
 #### Technology expertise in React
 * Official tutorial: https://facebook.github.io/react/docs/tutorial.html - week 8
