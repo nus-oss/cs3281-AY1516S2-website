@@ -67,11 +67,15 @@ permalink: /teams/powerpointlabs/
   * [x] Add UT for Align - Week 9, Thu
   * [x] Refactor PositionsLab to use lambda expressions - Week 10, Sun
   * [x] PositionsLab functions now do not change the shape properties (shapeType, flip, etc) - Week 10, Sun
+  * [x] Added Distribute between extreme shapes - Week 10, Tue
+  * [x] Change PositionsLab functions to work with duplicated shapes (previously assume persistent shapes) - Week 10, Wed
+  * [x] Change Align unit tests to correct unchanged properties version - Week 10, Thu
+  * [x] Implement Distribute Grid by Edges - Week 10, Thu
+  * [x] Add Unit tests for Adjoin and Distribute - Week 11, Sun
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement Distribute Along Edge
   * [ ] Refactor architecture of Positions Lab
   * [ ] Create unit/functional tests
   * [ ] Side-by-side preview for all possible implementation of a function
@@ -97,9 +101,9 @@ permalink: /teams/powerpointlabs/
   * [x] Add settings for Same Dimension - Week 9, Wed
   * [x] Add settings for Stretch/Shrink - Week 9, Thu
   * [x] Implement slight adjust feature - Week 10, Sun
-  * [ ] Implement adjust aspect ratio
+  * [x] Implement match height and width feature
   * [ ] Implement resize propotionally (Height and Width)
-  * [ ] Add delay to preview
+  * [x] Add delay to preview
   * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
   * [x] Preview feature - Recess Week, Thu
@@ -151,6 +155,10 @@ permalink: /teams/powerpointlabs/
 * Fix bug with **PPShape** not generating properly when Shape is flipped in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/39e61c98179997152b967c69a755290cd8efc9ab/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 9, Sat
 * Refactor **PositionsLab** to use lambda expressions in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
 * **PositionsLab** functions now do not change the shape properties (shapeType, flip, etc) in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
+* Change **PositionsLab** functions to work with duplicated shapes (previously assume persistent shapes) in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/015a30871f779cd0cff9aac5369e581033afdc03/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Wed
+* Change **Align Unit Test** to correct unchanged properties verion in [`PositionsLabAlign.pptx`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4e45f074d3cd4b30b2b69f24f5f8476add08a703/doc/test/PositionsLab/PositionsLabAlign.pptx) - Week 10, Thu
+* Implement **Distribute Grid by Edges** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/36e3a9c376ee94d930cffba7770425a219e8448c/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 10, Thu
+* Add Unit tests for **Adjoin** and **Distribute** in [`PositionsLabAdjoinTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/17f05d06e191d5dd06866443cbdfeb30c076e393/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabAdjoinTest.cs) and [`PositionsLabDistributeTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/f3d658dd645c0232dd5cc7e529d68329a5d04897/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabDistributeTest.cs) - Week 11, Sun
 
 #### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
  * Setup Environment: [Screenshot](https://drive.google.com/open?id=0BzrjImOddxOKSVY4eHBEdHlQcjg) - Week 8, Fri
@@ -296,7 +304,11 @@ permalink: /teams/powerpointlabs/
  * [Resized and implemented suggested icons for UI](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/acb619366babff07387ab5596c8fba40d9dd6ccc)
  * [Added labels below buttons, redesigned UI to maximise space usage](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ad2100ec383be55631803538a841ffca2d789a3a)
 * [Added Slight Adjust feature](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a63046eef0deb8ade3351aab5f59fb0b00154bb4) - Week 9
-* Working on UI (Bring settings out, refractor tooltips and several enhancements)
+* [Updated UI for Match Height and Width](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/38d90dc286cfcf23a928c046491589ec4a8b05dd) - Week 10
+* [Added delay to preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a72933f9f0209bf5ee1926baf80403587be0b231) - Week 10
+* [UI enhancements](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/bb196606b7b63c14c93428298fd5dc31b779da39) - Week 10
+* [Moved anchor settings out to main pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ac6f632e0e94b8b2ce33e4601d1b72a66b0883ce) - Week 10
+* [Added anchor support for match and slight adjust](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/72f7e8d56f6d2ddadf8dfe8559bda661c3ada095) - Week 10
 
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
@@ -304,7 +316,7 @@ permalink: /teams/powerpointlabs/
  * Done setting up development environment - Recess week [screenshot](https://dl.dropboxusercontent.com/u/7610216/dev%20env.PNG)
  * Successfully ran test cases - Recess week
  * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
- * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case - Week 9
+ * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case (Merged) - Week 9
 
 #### Technology expertise in Testing
 
@@ -347,12 +359,14 @@ permalink: /teams/powerpointlabs/
 * Implemented **Settings page for Distribute** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8ea277d1243fc63fb53d715ba6a586aeeca9cef7) - Week 7, Mon
 * Implemented **Align and Distribute functions to use internal vertices as reference point** in [`PoitionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/273650b8181c9d08772761178e4e38f152e78349) - Week 7, Sun
 * Created the **Settings page UI for Swap** in [`ReorderSettingsDialog.xaml`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/192ca1b23feed3739c2d8c9b343cf5a8f47b1f41) - Week 8, Mon
-* **Created Icons for Align and Distribute** in [Icons for all Positions Lab Pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/28) - Week 8, Mon
-* **Supports Powerpoint's align functions** in [PowerPoint Align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Mon
-* **Implemented Distribute Horizontal and Vertical using two anchorpoints** in [Distribute Shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Mon
-* **Implemented option for user whether to align after adjoining** in [Adjoin no longer auto aligns](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/42) - Week 9, Mon
-* **Implemented option for user to choose distribute space between shape edges or shape centers** in [Allow user to choose distribute by shape edges or center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/44) - Week 9, Tue
-* **Implemented new function to align horizontal and vertical center** in [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
+* Created Icons for **Align** and **Distribute** in [Icons for all Positions Lab Pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/28) - Week 8, Mon
+* Supports **Powerpoint's Align functions** in [PowerPoint Align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Mon
+* Implemented **Distribute Horizontal and Vertical using two anchorpoints** in [Distribute Shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Mon
+* Implemented option for user whether to **Align after Adjoining** in [Adjoin no longer auto aligns](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/42) - Week 9, Mon
+* Implemented option for user to **choose Distribute space between shape edges or shape centers** in [Allow user to choose distribute by shape edges or center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/44) - Week 9, Tue
+* Implemented new function to **align horizontal and vertical center** in [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
+* Implemented **Distribute with respect to extreme shapes** in [Distribute with respect to extreme shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/43) - Week 10, Tue
+* Improved Adjoin to have buttons that allows for **Adjoin with Align and Adjoin without Align** in [Two more buttons for Adjoin](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/51) - Week 10, Wed
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
  * Setup of project
