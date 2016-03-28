@@ -47,7 +47,7 @@ permalink: /teams/codebender/
 * [x] Create test to ensure show info page shows correct info - Week 9
 * [x] Create dashboard page - Week 9
 * [ ] Create test to ensure dashboard page shows correct and links correctly - Week 10
-* [ ] Create log/analytics database - Week 10
+* [x] Create log/analytics database - Week 10
 * [ ] Create Analytics page - Week 11
 * [ ] Create test to ensure Analytic page shows correct analytics - Week 11
 * [ ] Create admin page - Week 12
@@ -316,6 +316,7 @@ permalink: /teams/codebender/
 * Week 9, Sat - Created Show Info Page
 * Week 9, Sun - Created Dashboard Page
 * Week 10, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/23) Merged, hurray!
+* Week 10, Sun - Improved functional tests for landing page & flash page
 
 #### Contribution to minor project - Powerpoint Labs
 * Week 6, Fri - Setup of project environment complete.
