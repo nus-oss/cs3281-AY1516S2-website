@@ -350,6 +350,7 @@ Notes:
 * Implement time ticker to trigger timer refresh [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/98017f7e6a1b1085c17b3a539fde353f95ed9ba5) - Week 10, Mon
 * Refactor chrome connection component to be more modular [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/7207789de98cd835ac36f84dc95c19c0188ef159) - Week 11, Mon
 * Fix bug in Socket.io-devtool [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c0c771488bef576f02f14158319762a21b6326b5) - Week 11, Mon
+* Implement batched update feature for packet data to improve performance of devtool. (Result is significant!) [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/437c012c946ee68adf1eec4ba25758e5059b72de) - Week 11, Thurs
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
 * PR [#1255](https://github.com/HubTurbo/HubTurbo/pull/1255) for issue [#1102](https://github.com/HubTurbo/HubTurbo/issues/1102) - Week 6, Thurs
