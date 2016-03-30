@@ -184,6 +184,8 @@ permalink: /teams/codebender/
 * Week 9, Thu - Generated a schema diagram of our new database design
 * Week 10, Sat - Wrote a fix for an existing bug which propagated from v1 to v2 ([PR #68](https://github.com/codebendercc/eratosthenes/pull/68))
 * Week 10, Sat - Orientated myself with the mock production server which we will be testing our migration on
+* Week 11, Wed - Added more Arduino architectures to the migration script
+* Week 11, Wed - Successfully performed the migration on the [mock production server](http://eratosthenes-foa.codebender.cc/status)
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
