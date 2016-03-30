@@ -383,8 +383,10 @@ permalink: /teams/powerpointlabs/
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
  * Setup of project
- * Looking through open and closed pull requests
- * WIP for first issue
+ * Looking through open and closed pull requests to understand workflow
+ * Installed the app to dogfood and understand the product better
+ * Submitted [first PR](https://github.com/open-keychain/open-keychain/pull/1804)
+ * WIP for [second PR](https://github.com/open-keychain/open-keychain/issues/1554)
 
 #### Contributions to [CS2103 website](http://www.comp.nus.edu.sg/~cs2103/AY1516S2/)
 * [Pull request #103](https://github.com/nus-cs2103/website/pull/103)
