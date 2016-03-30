@@ -353,6 +353,8 @@ permalink: /teams/powerpointlabs/
 
 ### @vhazali (Victor Hazali) 
 
+###### [Blog for module](https://blog.nus.edu.sg/victorhz3281/)
+
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
 
 ###### Pull Request
