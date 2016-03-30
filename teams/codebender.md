@@ -130,7 +130,7 @@ permalink: /teams/codebender/
 * [x] CSV Import - Week 8
 * [x] Bar Chart - Week 9
 * [x] Performance evaluation - Week 10
-* [ ] Merging/Revising - Week 10
+* [x] Merging/Revising - Week 10
 * [x] Elimination of noise data - Week 11
 * [ ] Deploying on live server, done! - Week 11
 
@@ -373,6 +373,9 @@ permalink: /teams/codebender/
 * Week 10,Wed - Refactor code according to mentor's comments (waiting for merge)
 * Week 10,Thurs - Add legend text in line graph
 * Week 10,Sun - Add noise elimination mechanism, so additional non-critical data will not crash the program
+* Week 11,Tues - Adjust the code according to frontend developers' needs
+* Week 11,Wed - Further modularize the code, encapsulate everything
+* Week 11,Wed - Implement Mean, Variance, Min, Max, line hiding, zooming and panning, image exporting
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
