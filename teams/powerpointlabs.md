@@ -388,7 +388,7 @@ permalink: /teams/powerpointlabs/
  * Looking through open and closed pull requests to understand workflow
  * Installed the app to dogfood and understand the product better
  * Submitted [first PR](https://github.com/open-keychain/open-keychain/pull/1804)
- * WIP for [second PR](https://github.com/open-keychain/open-keychain/issues/1554)
+ * Sumitted [second PR](https://github.com/open-keychain/open-keychain/pull/1808)
 
 #### Contributions to [CS2103 website](http://www.comp.nus.edu.sg/~cs2103/AY1516S2/)
 * [Pull request #103](https://github.com/nus-cs2103/website/pull/103)
