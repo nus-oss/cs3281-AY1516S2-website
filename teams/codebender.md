@@ -191,6 +191,7 @@ permalink: /teams/codebender/
 * Week 11, Thu - Documented the [implemented APIs](https://github.com/codebendercc/eratosthenes/wiki/APIs) as well as some [ideas for future development](https://github.com/codebendercc/eratosthenes/wiki/Future-Development)
 * Week 11, Thu - Make naming changes based on feedback from John ([PR #72](https://github.com/codebendercc/eratosthenes/pull/72))
 * Week 11, Thu - Remove old entities, fixtures and tables ([PR #73](https://github.com/codebendercc/eratosthenes/pull/73))
+* Week 11, Fri - Wrote a guide on [how to extend the existing APIs for Eratosthenes](https://github.com/codebendercc/eratosthenes/wiki/Extending-the-APIs)
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
