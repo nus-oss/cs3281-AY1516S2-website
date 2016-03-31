@@ -187,6 +187,8 @@ permalink: /teams/codebender/
 * Week 10, Sat - Orientated myself with the mock production server which we will be testing our migration on
 * Week 11, Wed - Added more Arduino architectures to the migration script
 * Week 11, Wed - Successfully performed the migration on the [mock production server](http://eratosthenes-foa.codebender.cc/status)
+* Week 11, Thu - Created a [Wiki](https://github.com/codebendercc/eratosthenes/wiki) for Eratosthenes for documentation purposes
+* Week 11, Thu - Documented the [implemented APIs](https://github.com/codebendercc/eratosthenes/wiki/APIs) as well as some [ideas for future development](https://github.com/codebendercc/eratosthenes/wiki/Future-Development)
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
