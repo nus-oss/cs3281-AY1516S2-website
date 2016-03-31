@@ -189,6 +189,8 @@ permalink: /teams/codebender/
 * Week 11, Wed - Successfully performed the migration on the [mock production server](http://eratosthenes-foa.codebender.cc/status)
 * Week 11, Thu - Created a [Wiki](https://github.com/codebendercc/eratosthenes/wiki) for Eratosthenes for documentation purposes
 * Week 11, Thu - Documented the [implemented APIs](https://github.com/codebendercc/eratosthenes/wiki/APIs) as well as some [ideas for future development](https://github.com/codebendercc/eratosthenes/wiki/Future-Development)
+* Week 11, Thu - Make naming changes based on feedback from John ([PR #72](https://github.com/codebendercc/eratosthenes/pull/72))
+* Week 11, Thu - Remove old entities, fixtures and tables ([PR #73](https://github.com/codebendercc/eratosthenes/pull/73))
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
