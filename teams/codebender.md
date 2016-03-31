@@ -101,7 +101,7 @@ permalink: /teams/codebender/
     * [x] Remove duplicate library files and modify v1 API to use v2 library files
     * [x] Remove duplicate code by changing duplicated code to reference v1 methods
     * [x] Perform migration tests on virtual instance
-    * [ ] Write API documentation for Eratosthenes
+    * [x] Write API documentation for Eratosthenes
     * [ ] Test actual requests on the migrated mock production server
 * Week 13 - Buffer time
 
