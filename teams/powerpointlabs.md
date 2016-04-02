@@ -72,6 +72,7 @@ permalink: /teams/powerpointlabs/
   * [x] Change Align unit tests to correct unchanged properties version - Week 10, Thu
   * [x] Implement Distribute Grid by Edges - Week 10, Thu
   * [x] Add Unit tests for Adjoin and Distribute - Week 11, Sun
+  * [x] Documentation - Week 11, Sat
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
