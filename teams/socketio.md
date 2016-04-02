@@ -172,6 +172,10 @@ permalink: /teams/socketio/
 * [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/) - Week 6, Sun
 * [Modular d3 app with commonJS and webpack](http://paradite.com/2016/03/18/modular-d3-app-commonjs-webpack/) - Week 9, Fri
 
+###### Visualization using cards, implemented with different UI libraries: [demo](http://paradite.github.io/d3card/)
+* [Added implementations using Bootstrap 4](https://github.com/paradite/d3card/commit/334bf4e2d718e1fd02481146e8f4231a6332af8f)
+* [Added implementations using Material Design Lite](https://github.com/paradite/d3card/commit/eecbbfe32101bd65e0f8ce1cac9ad3bcfffeb5b1)
+
 ###### Other matters related to expertise in data visualization
 * Met with potential client to discuss on a project for visualization of family genealogy based on DNA data and family tree
 * Got an summer internship offer for developing a visual analytics tool for an education platform
