@@ -300,6 +300,9 @@ Notes:
 * [Distinguish color based on packet received and created](https://github.com/nus-fboa2016-si/socketio-devtool/commit/501b0ef68ffc05198d6478fd4a0cd824d18979f1) - Week 10, Mon
 * [Refactor PacketList to move the logic part to PacketListContainer](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ef560df6586af0060222cf99158c81bd9cc5bdb6) - Week 10, Sat
 * [Implement highlighting on PacketData for matched search keyword](https://github.com/nus-fboa2016-si/socketio-devtool/commit/dd75cfb320cb9daa0d6657975f18f9fb2edc1f15) - Week 10, Sun
+* [Change packet list to use VirtualScroll component to improve performance when rendering long list of packets](https://github.com/nus-fboa2016-si/socketio-devtool/commit/6455f64e3b92f3da34539a1a4c1db80eefacd62a) - Week 11, Tue
+* [Fix the highlighting problem on VirtualScroll item when packet is selected](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a12364f0d5ca3a43823a7158970338fdb79b273e) - Week 11, Fri
+* [Fix bug for filtering and displaying packets with no content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/959cec0c239b837c0028e01166d8a4279cab9bca) - Week 11, Fri
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
@@ -307,12 +310,14 @@ Notes:
 * Complete project setup to pass all the tests - Week 4, Wed
 * [Fix Issue #4802](https://github.com/TEAMMATES/teammates/pull/4811) - Week 6, Sun (PR Merged)
 * [Fix Issue #3979](https://github.com/TEAMMATES/teammates/pull/4866) - Week 7, Wed (PR Merged)
+* Write blog post to compare processes between 2 open-source projects (between Socket.IO and Teammates) [Link](https://medium.com/@mikelimantara/comparing-processes-in-contributing-to-open-source-projects-919849fb52fd#.8v1fda17e) - Week 11, Wed
 
 #### Tech Expertise Plan: Mobile Development
 * Blogpost about Android Project Structure and Naming Convention Guidelines [Link](https://medium.com/@mikelimantara/overview-of-android-project-structure-and-naming-conventions-b08f6d0b7291#.z58j2vliw)
 * Created Wealth Management App prototype in Android for UBS Technology Case Challenge - First Winner [Github link](https://github.com/mikelimantara/UBSTechChallenge2015)
 * Blogpost about Making HTTP request with Retrofit Library [Link](https://medium.com/@mikelimantara/making-http-requests-in-android-with-retrofit-library-5829b4f22311#.u0x5n4voa)
 * Created Demo for making HTTP request using Retrofit Library [Github Link](https://github.com/mikelimantara/retrofit-demo)
+* Blogpost about Build Variants in Android [Link](https://medium.com/@mikelimantara/overview-of-build-variants-in-android-gradle-680cadc06a71#.4kwt05cxq)
 
 ##### Deliverable could be in the form of: 
 * Blog post
