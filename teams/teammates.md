@@ -114,7 +114,7 @@ permalink: /teams/teammates/
  * [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
  * [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue.
  * [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/)
- * [Implemented a calendar using jQuery (under the calendar tab)](http://www.comp.nus.edu.sg/~a0125364/tms/)
+ * [Implemented a mockup website using jQuery (click Class and Calendar for more)](http://www.comp.nus.edu.sg/~a0125364/tms/)
 
 ##### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
