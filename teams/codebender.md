@@ -454,6 +454,7 @@ permalink: /teams/codebender/
 * Raised [#4975](https://github.com/TEAMMATES/teammates/issues/4975)
 * (Merged) PR [#4988](https://github.com/TEAMMATES/teammates/pull/4988) for issue [#4631](https://github.com/TEAMMATES/teammates/issues/4631) - Week 8, Sun
 * (Merged) Add code coverage for js tests in PR [#5054](https://github.com/TEAMMATES/teammates/pull/5054) for issue [#5040](https://github.com/TEAMMATES/teammates/issues/5040) - Week 9, Sat
+* Raised [#5105](https://github.com/TEAMMATES/teammates/issues/5105) - Week 10, Wed
 
 ###### Past Contribution to HubTurbo
 * (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
@@ -489,5 +490,5 @@ permalink: /teams/codebender/
 * Week 9, Sat - Found a bug in [Blanket.js](blanketjs.org) when adding code coverage for TEAMMATES. Try fix it in [PR](https://github.com/alex-seville/blanket/pull/557) (Merged on Week 9, Sun)
 * Week 10, Sun - Develop the Gulp file for build and deploy for the [CS4224](https://github.com/Gisonrg/ER-diagram-editor) project. Gain more insights on Gulp's asyn tasks execution and stream flow. [ref](https://github.com/Gisonrg/ER-diagram-editor/blob/master/gulpfile.js)
 * Week 11, Tue - Write a [blog post](http://blog.gisonrg.me/2016/why-we-need-one-line-module-in-node/) to discuss about "One-line" modules in Node eco-system.
-* (Ongoing) Working on a JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
+* Week 11, Sun - Develop the JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
   * Gain experience in Angular, front-end development process and Gulp configuration in the project
