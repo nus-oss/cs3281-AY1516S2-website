@@ -49,8 +49,8 @@ permalink: /teams/codebender/
 * [x] Create log/analytics database - Week 10
 * [ ] Create Analytics page - Week 11
 * [ ] Create test to ensure Analytic page shows correct analytics - Week 11
-* [ ] Create admin page - Week 12
-* [ ] Create test for admin page and features - Week 12
+* [ ] Integration - Week 12
+* [ ] Buffer - Week 13
 
 ## Workplan for Eratosthenes
 
@@ -344,11 +344,13 @@ permalink: /teams/codebender/
 * Week 9, Thu - Included some images which was outside of /img folder into the rake task in [PR #4](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30) (Merged)
 * Week 9, Thu - [PR #3 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/29), hurray!
 * Week 9, Thu - [PR #4 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30), hurray!
+* Week 12, Mon - [Submitted PR for automatic inline of JS and CSS into HTML](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/32)
 
 #### Technology expertise in Web Performance
 * Recess Week - [Wrote a blog post on lossless image compression for Powerpoint Labs](http://alexyy.com/2016/02/22/image-compression/)
 * Week 7, Mon - [Automation of image compression](http://alexyy.com/2016/02/29/automated-image-compression/)
 * Week 10, Mon - [Wrote blog post regarding gzip](http://alexyy.com/2016/03/21/gzip-benefits/)
+* Week 11, Sat - [Wrote blog post comparing development process](http://alexyy.com/2016/04/02/process-differences/)
 
 ### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
