@@ -444,6 +444,7 @@ permalink: /teams/codebender/
 * Week 10, Sun - Hide toggle status button when view built-in libraries [PR](https://github.com/codebendercc/eratosthenes/pull/71)
 * Week 11, Wed - A [blog post](http://blog.gisonrg.me/2016/development-process-comparison-between-codebender-and-teammates/) about comparsion of development process between Codebender and Teammates
 * Week 11, Thu - Documented the [views](https://github.com/codebendercc/eratosthenes/wiki/Views)
+* Week 11, Sun - Removed v1 legacy routings [PR](https://github.com/codebendercc/eratosthenes/pull/74)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
