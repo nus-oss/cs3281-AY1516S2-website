@@ -96,10 +96,12 @@ permalink: /teams/teammates/
  * [Issue #5180](https://github.com/TEAMMATES/teammates/issues/5180) - Week 11 : [Pull Request #5181](https://github.com/TEAMMATES/teammates/pull/5181) (ToReview) - Week 11
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
- * [Forked and set up project](https://github.com/kennho/oppia) - Week 9
+##### Blog posts on minor projects
  * [Blog post showing prove of successful setup](https://cs3281.wordpress.com/2016/03/16/minor-project-oppia/) - Week 9
+ * [Comparing and how to improve TEAMMATES and Oppia](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/) - Week 9
+##### PR on minor projects
+ * [Forked and set up project](https://github.com/kennho/oppia) - Week 9
  * [Issue #1603](https://github.com/oppia/oppia/issues/1603) - Week 9 : [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
- * [Blog post comparing the processes of the two projects and suggestions about how to improve each](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/) - Week 9
  * [Issue #1075](https://github.com/oppia/oppia/issues/1075) - Week 10 : [Pull Request #1642](https://github.com/oppia/oppia/pull/1642) (ToReview) - Week 10
  * [Issue #1564](https://github.com/oppia/oppia/issues/1564) - Week 9 : [Pull Request #1659](https://github.com/oppia/oppia/pull/1659) (Merged) - Week 11
 
@@ -110,7 +112,9 @@ permalink: /teams/teammates/
  * [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
  * [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
  * [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
- * [Pull Request #5116] (https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue.
+ * [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue.
+ * [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/)
+ * [Implemented a calendar using jQuery (under the calendar tab)](http://www.comp.nus.edu.sg/~a0125364/tms/)
 
 ##### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
