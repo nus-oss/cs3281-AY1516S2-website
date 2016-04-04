@@ -47,8 +47,9 @@ permalink: /teams/codebender/
 * [x] Create test to ensure show info page shows correct info - Week 9
 * [x] Create dashboard page - Week 9
 * [x] Create log/analytics database - Week 10
-* [ ] Create Analytics page - Week 11
-* [ ] Create test to ensure Analytic page shows correct analytics - Week 11
+* [x] Link firmware database and flashing page - Week 11
+* [x] Create individual firmware flash page and embed code - Week 11
+* [ ] Create Analytic page - Week 12
 * [ ] Integration - Week 12
 * [ ] Buffer - Week 13
 
@@ -332,6 +333,8 @@ permalink: /teams/codebender/
 * Week 11, Mon - Created logs database
 * Week 11, Wed - Linked up all database with foreign keys and cascading enabled
 * Week 11, Thu - Lots of improvements on login-register-page
+* Week 12, Mon - Linked flashing page with firmware database
+* Week 12, Mon - Create individual flash pages + allow user to copy embed code onto their website
 
 #### Contribution to minor project - Powerpoint Labs
 * Week 6, Fri - Setup of project environment complete.
