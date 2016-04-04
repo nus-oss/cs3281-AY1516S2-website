@@ -388,8 +388,10 @@ permalink: /teams/codebender/
 * Week 10,Thurs - Add legend text in line graph
 * Week 10,Sun - Add noise elimination mechanism, so additional non-critical data will not crash the program
 * Week 11,Tues - Adjust the code according to frontend developers' needs
-* Week 11,Wed - Further modularize the code, encapsulate everything
+* Week 11,Wed - Further modularize the code, encapsulate everything so that developers can implement the library with two lines
 * Week 11,Wed - Implement Mean, Variance, Min, Max, line hiding, zooming and panning, image exporting
+* Week 11,Sat - Added support for Chrome
+* Week 11,Sat - Implement sample size slider
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
