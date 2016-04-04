@@ -108,7 +108,7 @@ permalink: /teams/powerpointlabs/
   * [x] Add settings for Stretch/Shrink - Week 9, Thu
   * [x] Implement slight adjust feature - Week 10, Sun
   * [x] Implement match height and width feature - Week 10, Thu
-  * [ ] Implement resize propotionally (Height and Width)
+  * [x] Implement resize proportionally (Height and Width) - Week 11, Mon
   * [x] Add delay to preview
   * [ ] Create Ratio Resize feature
 * Advanced functionality for Resize Lab
@@ -260,6 +260,12 @@ permalink: /teams/powerpointlabs/
 * Added unit tests for **Lock and Unlock Aspect Ratio** in [`MainSettingsTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/6b357b55873eb60d9525d84009d1d0ec236e4bb8/PowerPointLabs/Test/UnitTest/ResizeLab/MainSettingsTest.cs) - Week 11, Sun
 * Added unit tests for **Match** in [`MatchTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ed2dee4e163ef77f33ee5ad0aad8ce7c79c22c73/PowerPointLabs/Test/UnitTest/ResizeLab/MatchTest.cs) - Week 11, Sun
 * Added more unit test for **Stretch and Shrink** in [`Commit 07c6ba1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/525428829ef275892518c6f28fb3d901202ec2a1) - Week 11, Sun
+* Implemented anchor alignment for **Fit to Slide** in [`Commit 02fcda6`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/525d868f612a09ce9bbb15f9f133b1d8ab723202) - Week 11, Mon
+* Implemented **Adjust Proportionally** in [`Commit cdd59b2`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/f7a054634ba136e23599a6a5b23fffae4a1a54f9) - Week 11, Mon
+* Implemented checking of input resize factor in [`Commit f7a0546`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/6154511aedd77b817ac048c44525c5a227e710c2) - Week 11, Tue
+* Added unit tests for **Adjust Proportionally** in [`AdjustProportionallyTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/de114b8150f8b6014a2963a60a874d127426fc80/PowerPointLabs/Test/UnitTest/ResizeLab/AdjustPropotionallyTest.cs) - Week 11, Tue
+* Added unit tests for **Adjust Slightly** in [`SlightAdjustTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/8af2e8ac854ab7bff4fb563a021419b806a81a86/PowerPointLabs/Test/UnitTest/ResizeLab/SlightAdjustTest.cs) - Week 11, Wed
+* Added unit tests for **Anchor Point** in [`Commit 180dcb9`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8af2e8ac854ab7bff4fb563a021419b806a81a86) - Week 11, Wed
 
 
 #### Contributions to project [aima-python](https://github.com/aimacode/aima-python) (Minor Project)
