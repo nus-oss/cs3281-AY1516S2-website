@@ -96,9 +96,11 @@ permalink: /teams/teammates/
  * [Issue #5180](https://github.com/TEAMMATES/teammates/issues/5180) - Week 11 : [Pull Request #5181](https://github.com/TEAMMATES/teammates/pull/5181) (ToReview) - Week 11
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
+
 ##### Blog posts on minor projects
  * [Blog post showing prove of successful setup](https://cs3281.wordpress.com/2016/03/16/minor-project-oppia/) - Week 9
  * [Comparing and how to improve TEAMMATES and Oppia](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/) - Week 9
+
 ##### PR on minor projects
  * [Forked and set up project](https://github.com/kennho/oppia) - Week 9
  * [Issue #1603](https://github.com/oppia/oppia/issues/1603) - Week 9 : [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
