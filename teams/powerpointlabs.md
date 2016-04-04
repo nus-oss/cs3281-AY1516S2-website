@@ -340,6 +340,10 @@ permalink: /teams/powerpointlabs/
 * [UI enhancements](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/bb196606b7b63c14c93428298fd5dc31b779da39) - Week 10
 * [Moved anchor settings out to main pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ac6f632e0e94b8b2ce33e4601d1b72a66b0883ce) - Week 10
 * [Added anchor support for match and slight adjust](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/72f7e8d56f6d2ddadf8dfe8559bda661c3ada095) - Week 10
+* [Improved algorithm for delay in preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/fa6f2155293f0651daa383621e9347256a4ac50b), but was replaced by [previewing with Ctrl key](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/4fd50df0bde1d64a9b167ecff123dbf0ab3535b0) - Week 11
+* [Updated UI for Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/862a1c7046b1be989c1e8ff7330b4a46de6071f6) - Week 11
+* Added settings for [Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/b5abe74c04f5c5aebd2cf75a19b24be9a9aaa08d) and [Slight Adjust](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/566fb0c6582bc7d028573e195a6c977172e4da6f) - Week 11
+* Several UI enhancements - Week 11
 
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
