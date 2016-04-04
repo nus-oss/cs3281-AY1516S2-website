@@ -176,10 +176,11 @@ permalink: /teams/teammates/
  * [Pull Request #4987](https://github.com/TEAMMATES/repo/pull/4987) (Merged) - Week 8
  * [Pull Request #5045](https://github.com/TEAMMATES/repo/pull/5045) (Merged) - Week 9
  * [Pull Request #5078](https://github.com/TEAMMATES/repo/pull/5078) (Merged) - Week 10
- * [Pull Request #5079](https://github.com/TEAMMATES/repo/pull/5079) (Merged) - Week 10
+ * [Pull Request #5095](https://github.com/TEAMMATES/repo/pull/5095) (Merged) - Week 10
+ * [Pull Request #5145](https://github.com/TEAMMATES/repo/pull/5145) (Ongoing) - Week 11
 
 #### Contribution to [OpenKeychain](https://github.com/open-keychain/open-keychain)
- * [Pull Request #1728](https://github.com/open-keychain/open-keychain/pull/1728) - Recess Week
+ * [Pull Request #1728](https://github.com/open-keychain/open-keychain/pull/1728) (Merged) - Recess Week
 
 #### Technology expertise in Javascript
  * [Pull Request #4663](https://github.com/TEAMMATES/repo/pull/4663) (Merged) - Week 3
