@@ -94,6 +94,7 @@ permalink: /teams/teammates/
  * [Issue #5128](https://github.com/TEAMMATES/teammates/issues/5128) - Week 10 : [Pull Request #5135](https://github.com/TEAMMATES/teammates/pull/5135) (Merged) - Week 10
  * [Issue #3671](https://github.com/TEAMMATES/teammates/issues/3671) - Week 11 : [Pull Request #5144](https://github.com/TEAMMATES/teammates/pull/5144) (Merged) - Week 11
  * [Issue #5180](https://github.com/TEAMMATES/teammates/issues/5180) - Week 11 : [Pull Request #5181](https://github.com/TEAMMATES/teammates/pull/5181) (ToReview) - Week 11
+ * [Issue #5185](https://github.com/TEAMMATES/teammates/issues/5185) - Week 12 : [Pull Request #5186](https://github.com/TEAMMATES/teammates/pull/5186) (ToReview) - Week 12
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
 
