@@ -69,12 +69,18 @@ permalink: /teams/hubturbo/
   * [x] Repo Picker (Improved auto-complete) - Week 8, Thur
   * [x] Issue Picker (Basic version without tests) - Week 8, Sun
   * [x] Board Picker - Week 8, Sun
-* [ ] Merge Pull Requests for all features - Week 10, Thu
-	* [ ] Milestone Picker - Week 10, Wed
-	* [ ] Assignee Picker - Week 10, Thu
-	* [ ] Board Picker - Week 10, Thu
-  * [ ] Issue Picker - Week 10, Wed
-  * [ ] Repo Picker  - Week 10, Thu
+* [x] Merge Pull Requests for all pickers - Week 10, Sun
+  * [x] Milestone Picker - Week 10, Sat
+  * [ ] Assignee Picker - Week 10, Thu
+  * [ ] Board Picker - Week 10, Thu
+  * [x] Issue Picker - Week 10, Sun
+  * [x] Repo Picker  - Week 10, Thu
+* [x] Refactor and improve new pickers - Week 11, Mon
+  * [ ] Merge Assignee Picker - Week 11, Tue
+  * [ ] Merge Board Picker - Week 11, Tue
+  * [x] Merge Repo Picker  - Week 11, Tue
+  * [x] Refine Milestone Picker UI - Week 11, Wed
+  * [x] Completed auto-complete feature - Week 11, Wed
 
 # Contributions
 
@@ -91,8 +97,14 @@ permalink: /teams/hubturbo/
 * [Pull Request #1260](https://github.com/HubTurbo/HubTurbo/pull/1260) (Merged) - Week 6, Mon
 * [Pull Request #1280](https://github.com/HubTurbo/HubTurbo/pull/1280) (Merged) - Recess Week, Tue
 * [Pull Request #1285](https://github.com/HubTurbo/HubTurbo/pull/1285) (Merged) - Recess Week, Thu
-* [Pull Request #1297](https://github.com/HubTurbo/HubTurbo/pull/1297) and [Pull Request #1352](https://github.com/HubTurbo/HubTurbo/pull/1352) - Week 7, Mon
-* [Pull Request #1323](https://github.com/HubTurbo/HubTurbo/pull/1323) - Week 8, Mon
+* [Pull Request #1297](https://github.com/HubTurbo/HubTurbo/pull/1297) and [Pull Request #1352](https://github.com/HubTurbo/HubTurbo/pull/1352) (Merged) - Week 7, Mon
+* [Pull Request #1323](https://github.com/HubTurbo/HubTurbo/pull/1323) (Merged) - Week 8, Mon
+* [Pull Request #1372](https://github.com/HubTurbo/HubTurbo/pull/1372) (Merged) - Week 9, Thu
+* [Pull Request #1373](https://github.com/HubTurbo/HubTurbo/pull/1373) (Merged) - Week 9, Thu
+* [Pull Request #1419](https://github.com/HubTurbo/HubTurbo/pull/1419) (Merged) - Week 10, Fri
+* [Pull Request #1431](https://github.com/HubTurbo/HubTurbo/pull/1431) (Merged) - Week 11, Sun
+* [Pull Request #1439](https://github.com/HubTurbo/HubTurbo/pull/1439) - Week 11, Mon
+* [Pull Request #1473](https://github.com/HubTurbo/HubTurbo/pull/1473) - Week 12, Mon
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
@@ -104,6 +116,7 @@ permalink: /teams/hubturbo/
 
 * [Workplan](http://m133225.github.io/introduction/2016/02/29/motion-planning-in-ai.html) - Week 7, Mon
 * [Manipulating space representations](http://m133225.github.io/matrices,/transformations/2016/03/20/configuration-space.html) - Week 10, Sun
+* [Rotations representations](http://m133225.github.io/matrices,/rotations/2016/03/23/angles-and-rotations.html) - Week 10, Wed
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
@@ -112,11 +125,14 @@ permalink: /teams/hubturbo/
 * [Pull Request #1184](https://github.com/HubTurbo/HubTurbo/pull/1184) (Merged) - Week 1, Thu
 * [Pull Request #1210](https://github.com/HubTurbo/HubTurbo/pull/1210) (Merged) - Week 3, Mon
 * [Pull Request #1226](https://github.com/HubTurbo/HubTurbo/pull/1226) (Merged) - Week 3, Sun
-* [Pull Request #1305](https://github.com/HubTurbo/HubTurbo/pull/1305) - Week 7, Wed
-* [Pull Request #1306](https://github.com/HubTurbo/HubTurbo/pull/1306) - Week 7, Thu
+* [Pull Request #1305](https://github.com/HubTurbo/HubTurbo/pull/1305) (Merged) - Week 7, Wed
+* [Pull Request #1307](https://github.com/HubTurbo/HubTurbo/pull/1307) - Week 7, Thu
 * [Pull Request #1316](https://github.com/HubTurbo/HubTurbo/pull/1316) - Week 8, Mon
-* [Pull Request #1305](https://github.com/HubTurbo/HubTurbo/pull/1305) - Week 9, Mon
-
+* [Pull Request #1305](https://github.com/HubTurbo/HubTurbo/pull/1305) (Merged) - Week 9, Mon
+* [Pull Request #1344](https://github.com/HubTurbo/HubTurbo/pull/1344) (Merged) - Week 9, Sun
+* [Pull Request #1401](https://github.com/HubTurbo/HubTurbo/pull/1401) (Merged) - Week 10, Wed
+* [Pull Request #1421](https://github.com/HubTurbo/HubTurbo/pull/1421) (Merged) - Week 10, Fri
+* [Pull Request #1437](https://github.com/HubTurbo/HubTurbo/pull/1437) - Week 11, Mon
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 - Submitted a [pull request](https://github.com/atom/status-bar/pull/130) to [atom/status-bar](https://github.com/atom/status-bar) - Week 8, Sun
@@ -131,11 +147,16 @@ permalink: /teams/hubturbo/
 * [Pull Request #1180](https://github.com/HubTurbo/HubTurbo/pull/1180) (Merged) - Week 1, Tue
 * [Pull Request #1186](https://github.com/HubTurbo/HubTurbo/pull/1186) (Merged) - Week 1, Thu
 * [Pull Request #1188](https://github.com/HubTurbo/HubTurbo/pull/1188) (Closed) - Week 1, Fri
-* [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201) - Week 2, Wed
+* [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201) (Onhold) - Week 2, Wed
 * [Pull Request #1224](https://github.com/HubTurbo/HubTurbo/pull/1224) - Week 3, Sun
-* [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1296) - Week 7, Mon
+* [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1296) (Merged) - Week 7, Mon
 * [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) (Merged) - Week 9, Fri
-* [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1388) - Week 10, Mon
+* [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1388) (Merged) - Week 10, Mon
+* [Pull Request #1403](https://github.com/HubTurbo/HubTurbo/pull/1403) (Merged) - Week 10, Thu
+* [Pull Request #1423](https://github.com/HubTurbo/HubTurbo/pull/1423) - Week 10, Sat
+* [Pull Request #1442](https://github.com/HubTurbo/HubTurbo/pull/1442) (Merged) - Week 11, Mon
+* [Pull Request #1444](https://github.com/HubTurbo/HubTurbo/pull/1444) - Week 11, Mon
+* [Pull Request #1462](https://github.com/HubTurbo/HubTurbo/pull/1462) - Week 11, Sun
 
 ##### Contribution to MINOR project [PencilCode](https://github.com/PencilCode/pencilcode/)
 
@@ -172,7 +193,10 @@ permalink: /teams/hubturbo/
   - [Pull Request #145](https://github.com/PencilCode/pencilcode/pull/145) Migrate build process of PencilCode from `requirejs` to `browerify` (Merged)
 
 * [HubTurbo](https://github.com/PencilCode/pencilcode) (Major project)
-  - [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) Cache Travis Dependencies (Merged)
+  - [Pull Request #1186](https://github.com/HubTurbo/HubTurbo/pull/1186) Fix resources lookup for unstable tests (Merged)
+  - [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) Cache Travis dependencies (Merged)
+  - [Pull Request #1403](https://github.com/HubTurbo/HubTurbo/pull/1403) Upload screenshots after Travis failure (Merged)
+  - [Pull Request #1403](https://github.com/HubTurbo/HubTurbo/pull/1403) Update Gradle and Checkstyle to check indentations (Merged)
 
 
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
@@ -184,19 +208,19 @@ permalink: /teams/hubturbo/
 * [Pull Request #1204](https://github.com/HubTurbo/HubTurbo/pull/1204) (Merged) - Week 2, Fri
 * [Pull Request #1212](https://github.com/HubTurbo/HubTurbo/pull/1212) (Merged) - Week 3, Mon
 * [Pull Request #1232](https://github.com/HubTurbo/HubTurbo/pull/1232) (Merged) - Week 3, Mon
-* [Pull Request #1279](https://github.com/HubTurbo/HubTurbo/pull/1279) - Week 5, Sun
-* [Pull Request #1273](https://github.com/HubTurbo/HubTurbo/pull/1273) - Week 6, Wed
+* [Pull Request #1279](https://github.com/HubTurbo/HubTurbo/pull/1279) (OnHold) - Week 5, Sun
+* [Pull Request #1273](https://github.com/HubTurbo/HubTurbo/pull/1273) (Discarded) - Week 6, Wed
 * [Pull Request #1275](https://github.com/HubTurbo/HubTurbo/pull/1275) (Merged) - Week 6, Sat
 * [Pull Request #1284](https://github.com/HubTurbo/HubTurbo/pull/1284) (Merged) - Recess week, Wed
 * [Pull Request #1319](https://github.com/HubTurbo/HubTurbo/pull/1319) (Merged) - Week 8, Mon
 * [Pull Request #1319](https://github.com/HubTurbo/HubTurbo/pull/1319) (Merged) - Week 8, Mon
-* [Pull Request #1326](https://github.com/HubTurbo/HubTurbo/pull/1326) - Week 8, Thurs
-* [Pull Request #1328](https://github.com/HubTurbo/HubTurbo/pull/1328) - Week 8, Thurs
-* [Pull Request #1347](https://github.com/HubTurbo/HubTurbo/pull/1347) - Week 9, Mon
-* [Pull Request #1348](https://github.com/HubTurbo/HubTurbo/pull/1348) - Week 9, Mon
-* [Pull Request #1349](https://github.com/HubTurbo/HubTurbo/pull/1349) - Week 9, Mon
+* [Pull Request #1326](https://github.com/HubTurbo/HubTurbo/pull/1326) (Merged) - Week 8, Thurs
+* [Pull Request #1328](https://github.com/HubTurbo/HubTurbo/pull/1328) (Merged) - Week 8, Thurs
+* [Pull Request #1347](https://github.com/HubTurbo/HubTurbo/pull/1347) (Merged) - Week 9, Mon
+* [Pull Request #1348](https://github.com/HubTurbo/HubTurbo/pull/1348) (Merged) - Week 9, Mon
+* [Pull Request #1349](https://github.com/HubTurbo/HubTurbo/pull/1349) (Merged) - Week 9, Mon
 * [Pull Request #1350](https://github.com/HubTurbo/HubTurbo/pull/1350) - Week 9, Mon
-* [Pull Request #1368](https://github.com/HubTurbo/HubTurbo/pull/1368) - Week 9, Fri
+* [Pull Request #1368](https://github.com/HubTurbo/HubTurbo/pull/1368) (Merged) - Week 9, Fri
 
 
 
@@ -207,6 +231,8 @@ permalink: /teams/hubturbo/
 - [Created sample application to understand more about the project](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/draw.py)
 - [Pull Request #6536](https://github.com/scikit-learn/scikit-learn/pull/6536) - [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [Interfaces OpenCV with skimage to make use of both vision library](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/core.py#L26-L30)
+- [Comparing development process between OpenCV & HubTurbo](http://jinified.blogspot.sg/2016/03/development-workflow-of-opencv-and.html)
+
 
 ##### Technology expertise in Computer Vision for Autonomous Systems
 Short term plan
@@ -233,6 +259,9 @@ Progress
 - [Design banner to explain about the current state of software stack](https://drive.google.com/open?id=0B2qn3kO2bUfUVWQtWkRQVER6RDQ)
 - [Footage of object detection during testing](https://www.facebook.com/bbauv/videos/935345183191362/)
 - [Computer vision workshop presentation to beginners by me](https://drive.google.com/open?id=1--6-gcc6a2woJQ28hgbiUkW3lA0f9iV0yKCoGPwOQFA)
+- Implemented saliency region detection which can be found [here](https://github.com/jinified/visionx/blob/master/scripts/prototype.py#L138-L146) and the demo is available on [Youtube](https://www.youtube.com/watch?v=9s76kzALqdw)
+- [Blog post about Saliency Region Detection](https://github.com/jinified/jinified.github.io/blob/master/_posts/2016-03-28-saliency_region_detection.md)
+- [Blog post about removing flickering effect](http://jinified.blogspot.sg/2016/04/how-to-deal-with-flickering-effect.html)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
@@ -243,12 +272,21 @@ Progress
 * [Pull Request #1225](https://github.com/HubTurbo/HubTurbo/pull/1225) - Week 3, Sun
 * [Pull Request #1303](https://github.com/HubTurbo/HubTurbo/pull/1303) - Week 7, Wed
 * [Pull Request #1310](https://github.com/HubTurbo/HubTurbo/pull/1310) (Merged) - Week 7, Thu
-* [Pull Request #1312](https://github.com/HubTurbo/HubTurbo/pull/1312) (Merged) - Week 7, Sun 
-* [Pull Request #1342](https://github.com/HubTurbo/HubTurbo/pull/1342) - Week 8, Sun 
-* [Pull Request #1387](https://github.com/HubTurbo/HubTurbo/pull/1387) - Week 10, Mon 
- 
+* [Pull Request #1312](https://github.com/HubTurbo/HubTurbo/pull/1312) (Merged) - Week 7, Sun
+* [Pull Request #1342](https://github.com/HubTurbo/HubTurbo/pull/1342) (Merged) - Week 8, Sun
+* [Pull Request #1387](https://github.com/HubTurbo/HubTurbo/pull/1387) (Merged) - Week 10, Mon
+* [Pull Request #1404](https://github.com/HubTurbo/HubTurbo/pull/1404) - Week 10, Fri
+* [Pull Request #1415](https://github.com/HubTurbo/HubTurbo/pull/1415) (Merged) - Week 10, Fri
+* [Pull Request #1417](https://github.com/HubTurbo/HubTurbo/pull/1417) (Merged) - Week 10, Fri
+* [Pull Request #1418](https://github.com/HubTurbo/HubTurbo/pull/1418) (Merged) - Week 10, Fri
+* [Pull Request #1422](https://github.com/HubTurbo/HubTurbo/pull/1422) (Merged) - Week 10, Fri
+* [Pull Request #1463](https://github.com/HubTurbo/HubTurbo/pull/1463) - Week 11, Sun
+* [Pull Request #1467](https://github.com/HubTurbo/HubTurbo/pull/1467) - Week 11, Sun
+* [Pull Request #1470](https://github.com/HubTurbo/HubTurbo/pull/1470) - Week 12, Mon
+
 ##### Contribution to MINOR project [Oppia](https://github.com/oppia/oppia)
 
-* Working on Issue [#1615](https://github.com/oppia/oppia/issues/1615) 
+* [Pull Request #1632](https://github.com/oppia/oppia/pull/1632) - Week 10, Wed
+* [Pull Request #1634](https://github.com/oppia/oppia/pull/1634) - (Merged) Week 10, Wed
 
 ##### Technology expertise in Web Security
