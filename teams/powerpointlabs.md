@@ -72,13 +72,18 @@ permalink: /teams/powerpointlabs/
   * [x] Change Align unit tests to correct unchanged properties version - Week 10, Thu
   * [x] Implement Distribute Grid by Edges - Week 10, Thu
   * [x] Add Unit tests for Adjoin and Distribute - Week 11, Sun
+  * [x] Changed implementation of Undo to not use PowerPoint's Undo - Week 11, Wed
+  * [x] Fix bug with Swap due to old Undo - Week 11, Thu
+  * [x] Add Unit tests for Swap - Week 11, Thu
   * [x] Documentation - Week 11, Sat
+  * [x] Fix bug with Swap throwing exception for duplicate images - Week 12, Sun
+  * [x] Fix bug with Snap preview changing shapes permanently - Week 12, Sun
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
   * [ ] Refactor architecture of Positions Lab
-  * [ ] Create unit/functional tests
+  * [ ] Create functional tests
   * [ ] Side-by-side preview for all possible implementation of a function
 
 ###### Resize Lab
@@ -154,17 +159,23 @@ permalink: /teams/powerpointlabs/
 * Change **Rotation** and **LockAxis** to have visual indicator(highlighted) when they are active in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b0c9c98a51b412b608a077c5ecd436defc767681/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 9, Wed
 * Add **UT for Align** in [`PositionsLabAlignTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/faba1ecebe778d4498d1aa8732154550ff07107c/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabAlignTest.cs) - Week 9, Thu
 * Fix bug with **PPShape** not generating properly when Shape is flipped in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/39e61c98179997152b967c69a755290cd8efc9ab/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 9, Sat
-* Refactor **PositionsLab** to use lambda expressions in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
-* **PositionsLab** functions now do not change the shape properties (shapeType, flip, etc) in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
-* Change **PositionsLab** functions to work with duplicated shapes (previously assume persistent shapes) in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/015a30871f779cd0cff9aac5369e581033afdc03/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Wed
+* Refactor **PositionsLab** to use lambda expressions in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
+* **PositionsLab** functions now do not change the shape properties (shapeType, flip, etc) in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
+* Change **PositionsLab** functions to work with duplicated shapes (previously assume persistent shapes) in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/015a30871f779cd0cff9aac5369e581033afdc03/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Wed
 * Change **Align Unit Test** to correct unchanged properties verion in [`PositionsLabAlign.pptx`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4e45f074d3cd4b30b2b69f24f5f8476add08a703/doc/test/PositionsLab/PositionsLabAlign.pptx) - Week 10, Thu
 * Implement **Distribute Grid by Edges** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/36e3a9c376ee94d930cffba7770425a219e8448c/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 10, Thu
 * Add Unit tests for **Adjoin** and **Distribute** in [`PositionsLabAdjoinTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/17f05d06e191d5dd06866443cbdfeb30c076e393/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabAdjoinTest.cs) and [`PositionsLabDistributeTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/f3d658dd645c0232dd5cc7e529d68329a5d04897/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabDistributeTest.cs) - Week 11, Sun
+* Changed implementation of **Undo** to not use PowerPoint's Undo in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/df927ae64331dce1d9f68a90c8966d3f1d19610b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 11, Wed
+* Fix bug with **Swap** due to old Undo in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/df927ae64331dce1d9f68a90c8966d3f1d19610b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 11, Thu
+* Add Unit tests for **Swap** in [`PositionsLabSwapTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ac412968c26abb9996dec11539c07dcf798eafcf/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabSwapTest.cs) - Week 11, Thu
+* Fix bug with Swap throwing exception for duplicate images in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/96e7b8e5af716052583d339d9c9e620d727dbf04/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
+* Fix bug with Snap preview changing shapes permanently in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/64917e13dd9b2dbd3c6380fffa89ce90682e1e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
 
 #### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
  * Setup Environment: [Screenshot](https://drive.google.com/open?id=0BzrjImOddxOKSVY4eHBEdHlQcjg) - Week 8, Fri
  * [Pull Request #1607](https://github.com/oppia/oppia/pull/1607) (Merged) - Week 9, Tue
  * [Pull Request #1608](https://github.com/oppia/oppia/pull/1608) (Pending resolving of issue with e2e testing not working on Vagrant) - Week 9, Tue
+ * [Blog post](https://medium.com/@oswellchan/my-journey-in-oss-contributing-d10165398eb3#.8nced4u8b) on Comparing Oppia to PowerPointLab processes - Week 11, Wed
 
 #### Technology expertise in Web Programming and Applications
 
