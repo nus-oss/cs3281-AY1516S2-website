@@ -262,6 +262,7 @@ permalink: /teams/codebender/
 * Week 9, Wed - Modified latest_version to be non-nullable and modified Library / Version related codes to follow this restriction.
 * Week 10, Wed - Prunning of codes from older v1 API [PR #66](https://github.com/codebendercc/eratosthenes/pull/66)
 * Week 10, Sun - Working on integration.. Resolving conflicts.
+* Week 11, Sun - Worked on documenting APIs on Wiki [Link](https://github.com/codebendercc/eratosthenes/wiki/APIs)
 
 #### Contribution to minor project - HubTurbo
  * Week 6, Sun - Project setup
