@@ -109,6 +109,7 @@ permalink: /teams/teammates/
  * [Issue #1564](https://github.com/oppia/oppia/issues/1564) - Week 9 : [Pull Request #1659](https://github.com/oppia/oppia/pull/1659) (Merged) - Week 11
  * Opened [Issue #1688](https://github.com/oppia/oppia/issues/1688)
  * [Issue #1688](https://github.com/oppia/oppia/issues/1688) - Week 12 : [Pull Request #1691](https://github.com/oppia/oppia/pull/1691) (ToReview) - Week 12
+ * [Issue #1679](https://github.com/oppia/oppia/issues/1679) - Week 12 : [Pull Request #1692](https://github.com/oppia/oppia/pull/1692) (ToReview) - Week 12
 
 #### Technology expertise in tool jQuery
  * [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
