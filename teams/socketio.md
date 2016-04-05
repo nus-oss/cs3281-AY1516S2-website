@@ -98,6 +98,7 @@ permalink: /teams/socketio/
 ## Contributions
 
 ### @paradite (Zhu Liang)
+* [Blog post comparing development processes of open source projects](http://paradite.com/2016/03/28/cs3281-development-processes-open-source-projects-socket-io-teammates/)
 
 #### Contribution to project SI
 
