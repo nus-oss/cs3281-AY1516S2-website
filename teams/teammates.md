@@ -90,10 +90,10 @@ permalink: /teams/teammates/
  * [Issue #3400](https://github.com/TEAMMATES/teammates/issues/3400) - Week 10 : [Pull Request #5082](https://github.com/TEAMMATES/teammates/pull/5082) (Merged) - Week 10
  * [Issue #5088](https://github.com/TEAMMATES/teammates/issues/5088) - Week 10 : [Pull Request #5089](https://github.com/TEAMMATES/teammates/pull/5089) (Merged) - Week 10
  * [Issue #5081](https://github.com/TEAMMATES/teammates/issues/5081) - Week 10 : [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) (Merged) - Week 10
- * [Issue #4292](https://github.com/TEAMMATES/teammates/issues/4292) - Week 10 : [Pull Request #5126](https://github.com/TEAMMATES/teammates/pull/5126) (ToMerge) - Week 10
+ * [Issue #4292](https://github.com/TEAMMATES/teammates/issues/4292) - Week 10 : [Pull Request #5126](https://github.com/TEAMMATES/teammates/pull/5126) (Merged) - Week 10
  * [Issue #5128](https://github.com/TEAMMATES/teammates/issues/5128) - Week 10 : [Pull Request #5135](https://github.com/TEAMMATES/teammates/pull/5135) (Merged) - Week 10
  * [Issue #3671](https://github.com/TEAMMATES/teammates/issues/3671) - Week 11 : [Pull Request #5144](https://github.com/TEAMMATES/teammates/pull/5144) (Merged) - Week 11
- * [Issue #5180](https://github.com/TEAMMATES/teammates/issues/5180) - Week 11 : [Pull Request #5181](https://github.com/TEAMMATES/teammates/pull/5181) (ToReview) - Week 11
+ * [Issue #5180](https://github.com/TEAMMATES/teammates/issues/5180) - Week 11 : [Pull Request #5181](https://github.com/TEAMMATES/teammates/pull/5181) (Merged) - Week 11
  * [Issue #5185](https://github.com/TEAMMATES/teammates/issues/5185) - Week 12 : [Pull Request #5186](https://github.com/TEAMMATES/teammates/pull/5186) (ToReview) - Week 12
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
@@ -105,7 +105,7 @@ permalink: /teams/teammates/
 ##### PR on minor projects
  * [Forked and set up project](https://github.com/kennho/oppia) - Week 9
  * [Issue #1603](https://github.com/oppia/oppia/issues/1603) - Week 9 : [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
- * [Issue #1075](https://github.com/oppia/oppia/issues/1075) - Week 10 : [Pull Request #1642](https://github.com/oppia/oppia/pull/1642) (ToReview) - Week 10
+ * [Issue #1075](https://github.com/oppia/oppia/issues/1075) - Week 10 : [Pull Request #1642](https://github.com/oppia/oppia/pull/1642) (Merged) - Week 10
  * [Issue #1564](https://github.com/oppia/oppia/issues/1564) - Week 9 : [Pull Request #1659](https://github.com/oppia/oppia/pull/1659) (Merged) - Week 11
 
 #### Technology expertise in tool jQuery
