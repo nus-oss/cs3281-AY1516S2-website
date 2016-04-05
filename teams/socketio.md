@@ -117,6 +117,8 @@ permalink: /teams/socketio/
   * [Sourcemap PR for socket.io-client](https://github.com/socketio/socket.io-client/pull/953) - Week 8, Thu
   * [Compat version test PR for socket.io](https://github.com/socketio/socket.io/pull/2496) - Week 9, Sat
   * [Refactoring to es6 - arrow functions](https://github.com/nus-fboa2016-si/socket.io/commit/1ed5a3b1579c36c68f8c93dd151d85c6773b88a5) - Week 10, Thu
+  * Build release-test code and test up new dependencies using GitHub URL for testing (e.g. "socket.io-client": "git://github.com/nus-fboa2016-si/socket.io-client.git#release-test") [socket.io dependency for testing](https://github.com/nus-fboa2016-si/socket.io/tree/release-test) [socket.io-client dependency for testing](https://github.com/nus-fboa2016-si/socket.io-client/tree/release-test) [engine.io dependency for testing](https://github.com/nus-fboa2016-si/engine.io/tree/release-test) [engine.io-client dependency for testing](https://github.com/nus-fboa2016-si/engine.io-client/tree/release-test) - Week 12, Mon
+  * [PR for es6 arrow functions](https://github.com/socketio/socket.io/pull/2514) - Week 12, Wed
 
 ###### Set up front-end UI and interactions for whiteboard example: [repo](https://github.com/nus-fboa2016-si/whiteboard)
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
@@ -173,8 +175,8 @@ permalink: /teams/socketio/
 * [Modular d3 app with commonJS and webpack](http://paradite.com/2016/03/18/modular-d3-app-commonjs-webpack/) - Week 9, Fri
 
 ###### Visualization using cards, implemented with different UI libraries: [demo](http://paradite.github.io/d3card/)
-* [Added implementations using Bootstrap 4](https://github.com/paradite/d3card/commit/334bf4e2d718e1fd02481146e8f4231a6332af8f)
-* [Added implementations using Material Design Lite](https://github.com/paradite/d3card/commit/eecbbfe32101bd65e0f8ce1cac9ad3bcfffeb5b1)
+* [Added implementations using Bootstrap 4](https://github.com/paradite/d3card/commit/334bf4e2d718e1fd02481146e8f4231a6332af8f) - Week 11, Fri
+* [Added implementations using Material Design Lite](https://github.com/paradite/d3card/commit/eecbbfe32101bd65e0f8ce1cac9ad3bcfffeb5b1) - Week 11, Fri
 
 ###### Other matters related to expertise in data visualization
 * Met with potential client to discuss on a project for visualization of family genealogy based on DNA data and family tree
