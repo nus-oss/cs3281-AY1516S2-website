@@ -78,6 +78,7 @@ permalink: /teams/powerpointlabs/
   * [x] Documentation - Week 11, Sat
   * [x] Fix bug with Swap throwing exception for duplicate images - Week 12, Sun
   * [x] Fix bug with Snap preview changing shapes permanently - Week 12, Sun
+  * [x] Added text under icon for Positions Lab Pane - Week 12, Mon
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
@@ -376,6 +377,8 @@ permalink: /teams/powerpointlabs/
 ### @vhazali (Victor Hazali) 
 
 ###### [Blog for module](https://blog.nus.edu.sg/victorhz3281/)
+* [First post regarding module](https://blog.nus.edu.sg/victorhz3281/2016/01/23/hello-world/)
+* [Post on comparison between major and minor projects](https://blog.nus.edu.sg/victorhz3281/2016/03/30/comparing-powerpointlabs-and-openkeychain/)
 
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
 
@@ -404,12 +407,13 @@ permalink: /teams/powerpointlabs/
 * Implemented new function to **align horizontal and vertical center** in [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
 * Implemented **Distribute with respect to extreme shapes** in [Distribute with respect to extreme shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/43) - Week 10, Tue
 * Improved Adjoin to have buttons that allows for **Adjoin with Align and Adjoin without Align** in [Two more buttons for Adjoin](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/51) - Week 10, Wed
+* Added **text under icons** for Positions Lab Pane in [Icon with Text](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/61) - Week 12, Mon
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
  * Setup of project
  * Looking through open and closed pull requests to understand workflow
  * Installed the app to dogfood and understand the product better
- * Submitted [first PR](https://github.com/open-keychain/open-keychain/pull/1804)
+ * Merged [first PR](https://github.com/open-keychain/open-keychain/pull/1804)
  * Sumitted [second PR](https://github.com/open-keychain/open-keychain/pull/1808)
 
 #### Contributions to [CS2103 website](http://www.comp.nus.edu.sg/~cs2103/AY1516S2/)
@@ -430,8 +434,8 @@ permalink: /teams/powerpointlabs/
 
 ###### Short Term Plan 
 * Expose myself to more security related issues by going for talks
-* Gain hands on experience by participating in Capture The Flag competitions
-* Join a community that's geared towards Information Security (such as NUS GreyHats)
+* Gain hands on experience by participating in Capture The Flag competitions (X-CTF by NUS Greyhats)
+* Gain more practical knowledge by participating in security events (DSTA - Cyber Defenders Discovery Camp)
 * Contribute to OSS related to security to gain more exposure (Open Keychain / Nmap)
 * Improve knowledge in assembly/binary code
 
