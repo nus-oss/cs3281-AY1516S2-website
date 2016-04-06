@@ -452,6 +452,8 @@ permalink: /teams/codebender/
 * Week 11, Wed - A [blog post](http://blog.gisonrg.me/2016/development-process-comparison-between-codebender-and-teammates/) about comparsion of development process between Codebender and Teammates
 * Week 11, Thu - Documented the [views](https://github.com/codebendercc/eratosthenes/wiki/Views)
 * Week 11, Sun - Removed v1 legacy routings [PR](https://github.com/codebendercc/eratosthenes/pull/74)
+* Week 12, Tues - Verify migration result for all Apis on two server instance under codebender.cc. Fix bugs and formats that are inconsistent. [ref](https://github.com/codebendercc/eratosthenes/commits/v2-merged-hotfix)
+* Week 12, Wed - Fixes some bugs in migrations for getExamples and getExampleCode commands [PR](https://github.com/codebendercc/eratosthenes/pull/75)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
@@ -499,5 +501,5 @@ permalink: /teams/codebender/
 * Week 9, Sat - Found a bug in [Blanket.js](blanketjs.org) when adding code coverage for TEAMMATES. Try fix it in [PR](https://github.com/alex-seville/blanket/pull/557) (Merged on Week 9, Sun)
 * Week 10, Sun - Develop the Gulp file for build and deploy for the [CS4224](https://github.com/Gisonrg/ER-diagram-editor) project. Gain more insights on Gulp's asyn tasks execution and stream flow. [ref](https://github.com/Gisonrg/ER-diagram-editor/blob/master/gulpfile.js)
 * Week 11, Tue - Write a [blog post](http://blog.gisonrg.me/2016/why-we-need-one-line-module-in-node/) to discuss about "One-line" modules in Node eco-system.
-* Week 11, Sun - Develop the JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
+* Week 4 - Week 11, Sun - Develop the JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
   * Gain experience in Angular, front-end development process and Gulp configuration in the project
