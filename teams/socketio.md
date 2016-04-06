@@ -401,6 +401,10 @@ Notes:
 * PR adding gulp and babel to [engine.io](https://github.com/socketio/engine.io/pull/384) and [socket.io](https://github.com/socketio/socket.io/pull/2471) merged - Week 8, Sat
 * Sent [PR](https://github.com/socketio/socket.io/pull/2486) to add ESLint to socket.io - Week 8, Sun
 * Sent [PR](https://github.com/socketio/engine.io/pull/385) to add ESLint to engine.io - Week 10, Wed
+* Tested new Socket.IO build under scenarios: - Week 12, Wed
+  * [Standalone](https://github.com/digawp/socket-io-chat/tree/standalone)
+  * [Browserify](https://github.com/digawp/socket-io-chat/tree/browserify)
+  * [Webpack](https://github.com/digawp/socket-io-chat/tree/webpack)
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
