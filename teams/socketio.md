@@ -369,6 +369,8 @@ Notes:
 * Refactor chrome connection component to be more modular [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/7207789de98cd835ac36f84dc95c19c0188ef159) - Week 11, Mon
 * Fix bug in Socket.io-devtool [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c0c771488bef576f02f14158319762a21b6326b5) - Week 11, Mon
 * Implement batched update feature for packet data to improve performance of devtool. (Result is significant!) [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/437c012c946ee68adf1eec4ba25758e5059b72de) - Week 11, Thurs
+* Implement feature to capture and display binary packets. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/7abf59566f73c1d1fe983e391d6a5355145c6543) - Week 12, Thurs
+
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
 * PR [#1255](https://github.com/HubTurbo/HubTurbo/pull/1255) for issue [#1102](https://github.com/HubTurbo/HubTurbo/issues/1102) - Week 6, Thurs
@@ -377,6 +379,8 @@ Notes:
 * [Blogpost](https://medium.com/@whattokingu/what-i-know-about-rest-21ece615c949#.pebz7xf06) on introduction to REST
 * [Blogpost](https://medium.com/@whattokingu/hypermedia-apis-bdec8c78c8dc#.wmsl68uwu) on Hypermedia APIs.
 * [Blogpost](https://medium.com/@whattokingu/rest-and-hypermedia-apis-2ee0f6fd6710) on disadvantages of Hypermedia APIs.
+* [link](https://github.com/Yunheng/cs2102). Built an app with RESTful interfaces. Backend is a Apache server running Laravel(PHP) framework.
+Front end is a single-page web application built with React. Project is built to fulfill requirements for CS2102(Intro to DB). 
 
 ##### Short term plan
 * Read up on RESTful implementation details.
