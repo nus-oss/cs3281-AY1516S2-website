@@ -336,6 +336,7 @@ permalink: /teams/codebender/
 * Week 12, Mon - [Linked flashing page with firmware database](https://github.com/codebendercc/Neuralyzer/pull/38)
 * Week 12, Mon - [Created individual flash pages + allow user to copy embed code onto their website](https://github.com/codebendercc/Neuralyzer/pull/38)
 * Week 12, Fri - [Created Analytic/Log page](https://github.com/codebendercc/Neuralyzer/pull/43)
+* Week 12, Fri - [Minor wording fix and improvements](https://github.com/codebendercc/Neuralyzer/pull/45)
 * Week 12, Fri - All PR's have been merged into codebendercc/Neuralyzer
 
 #### Contribution to minor project - Powerpoint Labs
@@ -352,6 +353,7 @@ permalink: /teams/codebender/
 * Week 9, Thu - [PR #3 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/29), hurray!
 * Week 9, Thu - [PR #4 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30), hurray!
 * Week 12, Mon - [Submitted PR for automatic inline of JS and CSS into HTML](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/32)
+* Week 12, Fri - [PR #5 Merged](), hurray!
 
 #### Technology expertise in Web Performance
 * Recess Week - [Wrote a blog post on lossless image compression for Powerpoint Labs](http://alexyy.com/2016/02/22/image-compression/)
