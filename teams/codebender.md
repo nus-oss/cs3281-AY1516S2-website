@@ -49,9 +49,9 @@ permalink: /teams/codebender/
 * [x] Create log/analytics database - Week 10
 * [x] Link firmware database and flashing page - Week 11
 * [x] Create individual firmware flash page and embed code - Week 11
-* [ ] Create Analytic page - Week 12
-* [ ] Integration - Week 12
-* [ ] Buffer - Week 13
+* [x] Create Analytic page - Week 12
+* [x] Integration - Week 12
+* [x] Buffer - Week 13
 
 ## Workplan for Eratosthenes
 
@@ -318,23 +318,25 @@ permalink: /teams/codebender/
 * Week 5, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/23)
 * Week 6, Mon - Started on landing page
 * Week 6, Fri - [Landing page initial commit](https://github.com/codebendercc/Neuralyzer/pull/24)
-* Week 6, Fri - Added unit test for landing page
-* Week 6, Sat - Created database for user and tier levels
-* Week 6, Sat - Created functional tests for user and tier database
-* Week 7, Fri - Created Login and Register page
-* Week 8, Mon - Linked Login and Register page to database
-* Week 8, Thu - Created database for firmware
-* Week 9, Mon - Fixed bug related to login
-* Week 9, Thu - Created functional test for Registration
-* Week 9, Sat - Created Show Info Page
-* Week 9, Sun - Created Dashboard Page
+* Week 6, Fri - [Added unit test for landing page](https://github.com/codebendercc/Neuralyzer/pull/25)
+* Week 6, Sat - [Created database for user and tier levels](https://github.com/codebendercc/Neuralyzer/pull/26)
+* Week 6, Sat - [Created functional tests for user and tier database](https://github.com/codebendercc/Neuralyzer/pull/26)
+* Week 7, Fri - [Created Login and Register page](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 8, Mon - [Linked Login and Register page to database](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 8, Thu - [Created database for firmware](https://github.com/codebendercc/Neuralyzer/pull/40)
+* Week 9, Mon - [Fixed bug related to login](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 9, Thu - [Created functional test for Registration](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 9, Sat - [Created Show Info Page](https://github.com/codebendercc/Neuralyzer/pull/35)
+* Week 9, Sun - [Created Dashboard Page](https://github.com/codebendercc/Neuralyzer/pull/34)
 * Week 10, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/23) Merged, hurray!
 * Week 10, Sun - Improved functional tests for landing page & flash page
-* Week 11, Mon - Created logs database
-* Week 11, Wed - Linked up all database with foreign keys and cascading enabled
-* Week 11, Thu - Lots of improvements on login-register-page
-* Week 12, Mon - Linked flashing page with firmware database
-* Week 12, Mon - Create individual flash pages + allow user to copy embed code onto their website
+* Week 11, Mon - [Created logs database](https://github.com/codebendercc/Neuralyzer/pull/36)
+* Week 11, Wed - [Linked up all database with foreign keys and cascading enabled](https://github.com/codebendercc/Neuralyzer/pull/37)
+* Week 11, Thu - [Lots of improvements on login-register-page](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 12, Mon - [Linked flashing page with firmware database](https://github.com/codebendercc/Neuralyzer/pull/38)
+* Week 12, Mon - [Created individual flash pages + allow user to copy embed code onto their website](https://github.com/codebendercc/Neuralyzer/pull/38)
+* Week 12, Fri - [Created Analytic/Log page](https://github.com/codebendercc/Neuralyzer/pull/43)
+* Week 12, Fri - All PR's have been merged into codebendercc/Neuralyzer
 
 #### Contribution to minor project - Powerpoint Labs
 * Week 6, Fri - Setup of project environment complete.
