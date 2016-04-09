@@ -353,7 +353,7 @@ permalink: /teams/codebender/
 * Week 9, Thu - [PR #3 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/29), hurray!
 * Week 9, Thu - [PR #4 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30), hurray!
 * Week 12, Mon - [Submitted PR for automatic inline of JS and CSS into HTML](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/32)
-* Week 12, Fri - [PR #5 Merged](), hurray!
+* Week 12, Fri - [PR #5 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/32), hurray!
 
 #### Technology expertise in Web Performance
 * Recess Week - [Wrote a blog post on lossless image compression for Powerpoint Labs](http://alexyy.com/2016/02/22/image-compression/)
