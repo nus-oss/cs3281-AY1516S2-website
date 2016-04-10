@@ -310,7 +310,7 @@ permalink: /teams/powerpointlabs/
  * [Pull Request #209](https://github.com/aimacode/aima-python/pull/209) (Merged) - Week 12, Sat
  * [Pull Request #210](https://github.com/aimacode/aima-python/pull/210) (Merged) - Week 12, Sun
  * [Pull Request #212](https://github.com/aimacode/aima-python/pull/212) (Merged) - Week 12, Sun
- * [Pull Request #215](https://github.com/aimacode/aima-python/pull/215) - Week 12, Sun
+ * [Pull Request #215](https://github.com/aimacode/aima-python/pull/215) (Merged) - Week 12, Sun
  * Blog post: [Process Comparison between PowerPointLabs and AIMA](http://blog.nus.edu.sg/cs3281youthinkk/2016/04/10/process-comparison-between-powerpointlabs-and-aima/) - Week 12, Sun
 
 
