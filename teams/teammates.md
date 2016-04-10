@@ -71,7 +71,7 @@ permalink: /teams/teammates/
 
 ### [@kennho](https://github.com/kennho) (Kenneth Ho Chee Chong)
 
-#### Contribution to project TEAMMATES
+#### Contribution to project [TEAMMATES](https://github.com/TEAMMATES/teammates)
 1. [Issue #4626](https://github.com/TEAMMATES/teammates/issues/4626) - Week 2 : [Pull Request #4650](https://github.com/TEAMMATES/teammates/pull/4650) (Merged) - Week 2
 2. [Issue #4106](https://github.com/TEAMMATES/teammates/issues/4106) - Week 2 : [Pull Request #4652](https://github.com/TEAMMATES/teammates/pull/4652) (Discarded) - Week 2
 3. [Issue #4411](https://github.com/TEAMMATES/teammates/issues/4411) - Week 2 : [Pull Request #4653](https://github.com/TEAMMATES/teammates/pull/4653) (Merged) - Week 3
@@ -114,7 +114,7 @@ permalink: /teams/teammates/
   7. [Issue #1679](https://github.com/oppia/oppia/issues/1679) - Week 12 : [Pull Request #1692](https://github.com/oppia/oppia/pull/1692) (Merged) - Week 12
   8. Reviewer for UI for [Pull Request #1693](https://github.com/oppia/oppia/pull/1693) (Merged) - Week 12
   9. Assigned [Issue #1085](https://github.com/oppia/oppia/issues/1085) (Ongoing) - Week 12
-  
+
 3. Other projects/repo contributions
   1. [NUS Students' Computing Club](https://github.com/NUSComputingDev)
 
