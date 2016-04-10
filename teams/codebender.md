@@ -366,6 +366,7 @@ permalink: /teams/codebender/
 * Week 7, Mon - [Automation of image compression](http://alexyy.com/2016/02/29/automated-image-compression/)
 * Week 10, Mon - [Wrote blog post regarding gzip](http://alexyy.com/2016/03/21/gzip-benefits/)
 * Week 11, Sat - [Wrote blog post comparing development process](http://alexyy.com/2016/04/02/process-differences/)
+* Week 12, Sun - [Wrote blog post regarding merge JS/CSS into HTML](http://alexyy.com/2016/04/10/pros-and-cons-of-merging-js-css-html/)
 
 ### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
