@@ -81,6 +81,11 @@ permalink: /teams/hubturbo/
   * [x] Merge Repo Picker  - Week 11, Tue
   * [x] Refine Milestone Picker UI - Week 11, Wed
   * [x] Completed auto-complete feature - Week 11, Wed
+* [x] Solve issues related to pickers - Week 12, Mon
+  * [x] Milestone picker improvements - Week 12, Thur
+  * [x] Repo picker improvements - Week 12, Fri
+  * [x] Label picker improvements - Week 12, Sun
+  * [x] Stabilize headless testing - Week 12, Sun
 
 # Contributions
 
@@ -219,8 +224,11 @@ permalink: /teams/hubturbo/
 * [Pull Request #1347](https://github.com/HubTurbo/HubTurbo/pull/1347) (Merged) - Week 9, Mon
 * [Pull Request #1348](https://github.com/HubTurbo/HubTurbo/pull/1348) (Merged) - Week 9, Mon
 * [Pull Request #1349](https://github.com/HubTurbo/HubTurbo/pull/1349) (Merged) - Week 9, Mon
-* [Pull Request #1350](https://github.com/HubTurbo/HubTurbo/pull/1350) - Week 9, Mon
+* [Pull Request #1350](https://github.com/HubTurbo/HubTurbo/pull/1350) (Merged) - Week 9, Mon
 * [Pull Request #1368](https://github.com/HubTurbo/HubTurbo/pull/1368) (Merged) - Week 9, Fri
+* [Pull Request #1493](https://github.com/HubTurbo/HubTurbo/pull/1493) (Merged) - Week 12, Mon
+* [Pull Request #1476](https://github.com/HubTurbo/HubTurbo/pull/1476) (Merged) - Week 12, Mon
+* [Pull Request #1491](https://github.com/HubTurbo/HubTurbo/pull/1491) (Merged) - Week 12, Mon
 
 
 
