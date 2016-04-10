@@ -100,10 +100,10 @@ permalink: /teams/teammates/
 
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
-1. Blog posts on minor projects
+*1. Blog posts on minor projects*
   1. [Blog post showing prove of successful setup](https://cs3281.wordpress.com/2016/03/16/minor-project-oppia/) - Week 9
   2. [Comparing and how to improve TEAMMATES and Oppia](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/) - Week 9
-2. PR on minor projects
+*2. PR on minor projects*
   1. [Forked and set up project](https://github.com/kennho/oppia) - Week 9
   2. [Issue #1603](https://github.com/oppia/oppia/issues/1603) - Week 9 : [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
   3. [Issue #1075](https://github.com/oppia/oppia/issues/1075) - Week 10 : [Pull Request #1642](https://github.com/oppia/oppia/pull/1642) (Merged) - Week 10
@@ -113,22 +113,22 @@ permalink: /teams/teammates/
   7. [Issue #1679](https://github.com/oppia/oppia/issues/1679) - Week 12 : [Pull Request #1692](https://github.com/oppia/oppia/pull/1692) (Merged) - Week 12
   8. Reviewer for UI for [Pull Request #1693](https://github.com/oppia/oppia/pull/1693) (Merged) - Week 12
   9. Assigned [Issue #1085](https://github.com/oppia/oppia/issues/1085) (Ongoing) - Week 12
-3. Other projects/repo contributions
+*3. Other projects/repo contributions*
   1. [NUS Students' Computing Club](https://github.com/NUSComputingDev)
 
 
 #### Technology expertise in tool jQuery
- * [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
- * [How to use jQuery?](https://cs3281.wordpress.com/2016/03/18/how-to-use-jquery/) - Week 9
- * [Interesting finds](https://cs3281.wordpress.com/2016/03/18/interesting-finds/) - Week 9
- * [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
- * [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
- * [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
- * [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue.
- * [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/)
- * [Implemented a mockup website using jQuery (click Class and Calendar for more)](http://www.comp.nus.edu.sg/~a0125364/tms/)
+1. [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
+2. [How to use jQuery?](https://cs3281.wordpress.com/2016/03/18/how-to-use-jquery/) - Week 9
+3. [Interesting finds](https://cs3281.wordpress.com/2016/03/18/interesting-finds/) - Week 9
+4. [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
+5. [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
+6. [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
+7. [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue.
+8. [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/)
+9. [Implemented a mockup website using jQuery (click Class and Calendar for more)](http://www.comp.nus.edu.sg/~a0125364/tms/)
 
-##### Plan - Until the end of semester
+#### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
  * Write blog posts about jQuery.
  * Contribute to TEAMMATES on jQuery related issues.
