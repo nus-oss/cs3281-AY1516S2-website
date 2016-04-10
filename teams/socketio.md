@@ -98,6 +98,7 @@ permalink: /teams/socketio/
 ## Contributions
 
 ### @paradite (Zhu Liang)
+* [Blog post comparing development processes of open source projects](http://paradite.com/2016/03/28/cs3281-development-processes-open-source-projects-socket-io-teammates/)
 
 #### Contribution to project SI
 
@@ -116,6 +117,9 @@ permalink: /teams/socketio/
   * [Sourcemap PR for socket.io](https://github.com/socketio/socket.io/pull/2482) - Week 8, Thu
   * [Sourcemap PR for socket.io-client](https://github.com/socketio/socket.io-client/pull/953) - Week 8, Thu
   * [Compat version test PR for socket.io](https://github.com/socketio/socket.io/pull/2496) - Week 9, Sat
+  * [Refactoring to es6 - arrow functions](https://github.com/nus-fboa2016-si/socket.io/commit/1ed5a3b1579c36c68f8c93dd151d85c6773b88a5) - Week 10, Thu
+  * Build release-test code and test up new dependencies using GitHub URL for testing (e.g. "socket.io-client": "git://github.com/nus-fboa2016-si/socket.io-client.git#release-test") [socket.io dependency for testing](https://github.com/nus-fboa2016-si/socket.io/tree/release-test) [socket.io-client dependency for testing](https://github.com/nus-fboa2016-si/socket.io-client/tree/release-test) [engine.io dependency for testing](https://github.com/nus-fboa2016-si/engine.io/tree/release-test) [engine.io-client dependency for testing](https://github.com/nus-fboa2016-si/engine.io-client/tree/release-test) - Week 12, Mon
+  * [PR for es6 arrow functions](https://github.com/socketio/socket.io/pull/2514) - Week 12, Wed
 
 ###### Set up front-end UI and interactions for whiteboard example: [repo](https://github.com/nus-fboa2016-si/whiteboard)
   * [Set up mouse tracking](https://github.com/nus-fboa2016-si/whiteboard/commit/5cd27bc77a4ab64a23c31a804b52a307a5cfafc6) - Week 3, Sun
@@ -155,24 +159,30 @@ permalink: /teams/socketio/
 * Keep up with other data visualization tools/library and learn their strength and weakness
 * Take relevant modules on UI/visualization such as CS3240 Interaction Design, CS3249 User Interface Development or NM3209 Designing for Interactivity
 
-###### Portfolio project: github contribution visualization: [App](http://paradite.github.io/gitviz/) [GitHub repo](https://github.com/paradite/cs3281viz)
-* [Set up framework](https://github.com/paradite/cs3281viz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
-* [Set up basic timeline and tooltip](https://github.com/paradite/cs3281viz/commit/c77a497ded06881c4b6d6575bcdcb2d783e0dda2) - Week 4, Wed
-* [Refactored code into proper components, added authentication for GitHub API](https://github.com/paradite/cs3281viz/commit/07421cceb72297c69f3e91eb8feb8b0c37c4a723) - Week 5, Wed
+###### Portfolio project: github contribution visualization: [App](gitviz-paradite.herokuapp.com) [GitHub repo](https://github.com/paradite/gitviz)
+* [Set up framework](https://github.com/paradite/gitviz/commit/72f9f8920b1f65364bf400dba85b3b95e5c7cce1) - Week 3, Sat
+* [Set up basic timeline and tooltip](https://github.com/paradite/gitviz/commit/c77a497ded06881c4b6d6575bcdcb2d783e0dda2) - Week 4, Wed
+* [Refactored code into proper components, added authentication for GitHub API](https://github.com/paradite/gitviz/commit/07421cceb72297c69f3e91eb8feb8b0c37c4a723) - Week 5, Wed
 * [Implemented commits grouped by date, updated tooltip](https://github.com/paradite/gitviz/commit/d0dc5908fb63be32c7792826e15e3419452831b1) - Week 6, Wed
 * [Implemented UI, code cleanup, ready for release](https://github.com/paradite/gitviz/commit/7df4b94ca8198b531b23bbf603f7db7b79bb1744) - Recess Week, Sat
 * [Added server-side caching to improve performance](https://github.com/paradite/gitviz/commit/695e92daad54e090433ed271c4af1bb3245f43fd) - Week 8, Mon
 * [Separated home page with app page, update UI](https://github.com/paradite/gitviz/commit/6f64bcd4f769491264ff0e73d26564a3674f8fc4) - Week 8, Sun
 * [Rewrite the modules in commonJS and use webpack to bundle the code and handle dependencies](https://github.com/paradite/gitviz/commit/cdded2a5dfddaaff7e47ed05ba7d79a675c07128) - Week 9, Mon
 * [Allow saving teammates information as a link that can be used directly next time](https://github.com/paradite/gitviz/commit/c87ca1a950bca600d829afc03b969081e54995e9) - Week 9, Sun
+* [UI updates to include screenshots and improve UX] - Week 10, Tue
 
 ###### Blog posts on d3.js/data visualization
 * [d3.js app structure – separating concerns](http://paradite.com/2016/02/21/d3-js-app-structure-separating-concerns/) - Week 6, Sun
 * [Modular d3 app with commonJS and webpack](http://paradite.com/2016/03/18/modular-d3-app-commonjs-webpack/) - Week 9, Fri
 
+###### Visualization using cards, implemented with different UI libraries: [demo](http://paradite.github.io/d3card/)
+* [Added implementations using Bootstrap 4](https://github.com/paradite/d3card/commit/334bf4e2d718e1fd02481146e8f4231a6332af8f) - Week 11, Fri
+* [Added implementations using Material Design Lite](https://github.com/paradite/d3card/commit/eecbbfe32101bd65e0f8ce1cac9ad3bcfffeb5b1) - Week 11, Fri
+
 ###### Other matters related to expertise in data visualization
 * Met with potential client to discuss on a project for visualization of family genealogy based on DNA data and family tree
 * Got an summer internship offer for developing a visual analytics tool for an education platform
+* Developed front-end geolocation visualization in hackaton project for NUS Data Sciecen Challenge [Live site](http://find-my-home.herokuapp.com/)
 
 ### @YijinL (Leow Yijin)
 Notes: 
@@ -222,6 +232,11 @@ Notes:
 * [Finish tutorial v2 guide](https://github.com/nus-fboa2016-si/whiteboard/blob/master/guide/v2/GUIDE.md) - Week 9, Fri
 * [Finish tutorial v3 guide](https://github.com/nus-fboa2016-si/whiteboard/blob/master/guide/v3/GUIDE.md) - Week 9, Sun
 * [Finish tutorial v4 guide](https://github.com/nus-fboa2016-si/whiteboard/blob/master/guide/v4/GUIDE.md) - Week 9, Sun
+* [Restructure guide files](https://github.com/nus-fboa2016-si/whiteboard/commit/91e8be8a407413d020b4e09c21fa50424d069c78) - Week 11, Fri
+* [Images and videos for v1](https://github.com/nus-fboa2016-si/whiteboard/commit/69433df2e04b442577297c00b9db1000d46e1d4c) - Week 11, Sat
+* [Images and videos for v2](https://github.com/nus-fboa2016-si/whiteboard/commit/9a0b9179e8ce2ca03256ea33135131519d85d73c) - Week 11, Sat
+* [Images and videos for v3](https://github.com/nus-fboa2016-si/whiteboard/commit/131238002e3d07979cb7cd0fd3e39295f003f4ce) - Week 11, Sun
+* [Images and videos for v4](https://github.com/nus-fboa2016-si/whiteboard/commit/7c7d16147322196312fe6b2864b0985a939dcca1) - Week 12, Mon
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
@@ -229,13 +244,17 @@ Notes:
 * [Issue #1235 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1283) - Recess Week, Fri
 * [Issue #891 PR merged (commits squashed)](https://github.com/HubTurbo/HubTurbo/pull/1282) - Recess Week, Sun
 * [Discover and open issue #1338](https://github.com/HubTurbo/HubTurbo/issues/1338) - Week 8, Sat
-* [Issue #1340 PR (merge approved)](https://github.com/HubTurbo/HubTurbo/pull/1340) - Week 9, Sun
 * [Discover and open issue #1380](https://github.com/HubTurbo/HubTurbo/issues/1380) - Week 9, Sun
 * [Discover and open issue #1385](https://github.com/HubTurbo/HubTurbo/issues/1385) - Week 9, Sun
-* [Issue #1380 PR (in progress)](https://github.com/HubTurbo/HubTurbo/pull/1386) - Week 9, Sun
-* [Issue #1385 in progress)](https://github.com/HubTurbo/HubTurbo/issues/1385) - Week 9, Sun
+* [Issue #1167 PR merged](https://github.com/HubTurbo/HubTurbo/pull/1340) - Week 10, Tue
+* [Issue #1380 PR merged](https://github.com/HubTurbo/HubTurbo/pull/1386) - Week 10, Fri
+* [Issue #1375 PR merged](https://github.com/HubTurbo/HubTurbo/pull/1396) - Week 11, Sat
+* [Issue #1385 in progress)](https://github.com/HubTurbo/HubTurbo/issues/1385) - Ongoing
 
 #### Technology expertise in cloud deployment and monitoring
+
+##### Blog posts
+* [Intro to cloud concepts, pros, cons, use cases](https://medium.com/@YijinL/a-primer-on-cloud-computing-74dae8d25850#.iwpbxyge9) - Week 10, Sun
 
 ##### Short term plan
 * Take online courses on cloud deployment
@@ -287,6 +306,12 @@ Notes:
 * [Implement color coding of packet based on its hashed event name](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b7ea28d736d3335e93b3b22d1993b8be5af3d440) - Week 9, Wed
 * [Implement active searching of packet based on keyword, and refactor PacketList and SearchBar component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/b696707c9d582e5d395e2f3347eb3450eafc74bf) - Week 9, Thur
 * [Added elapsed time to PacketMetaData, refactor PacketData and PacketMetaData component](https://github.com/nus-fboa2016-si/socketio-devtool/commit/e7683f6673929cccbedbab333ab88cad29848ee0) - Week 9, Sat
+* [Distinguish color based on packet received and created](https://github.com/nus-fboa2016-si/socketio-devtool/commit/501b0ef68ffc05198d6478fd4a0cd824d18979f1) - Week 10, Mon
+* [Refactor PacketList to move the logic part to PacketListContainer](https://github.com/nus-fboa2016-si/socketio-devtool/commit/ef560df6586af0060222cf99158c81bd9cc5bdb6) - Week 10, Sat
+* [Implement highlighting on PacketData for matched search keyword](https://github.com/nus-fboa2016-si/socketio-devtool/commit/dd75cfb320cb9daa0d6657975f18f9fb2edc1f15) - Week 10, Sun
+* [Change packet list to use VirtualScroll component to improve performance when rendering long list of packets](https://github.com/nus-fboa2016-si/socketio-devtool/commit/6455f64e3b92f3da34539a1a4c1db80eefacd62a) - Week 11, Tue
+* [Fix the highlighting problem on VirtualScroll item when packet is selected](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a12364f0d5ca3a43823a7158970338fdb79b273e) - Week 11, Fri
+* [Fix bug for filtering and displaying packets with no content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/959cec0c239b837c0028e01166d8a4279cab9bca) - Week 11, Fri
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
@@ -294,12 +319,14 @@ Notes:
 * Complete project setup to pass all the tests - Week 4, Wed
 * [Fix Issue #4802](https://github.com/TEAMMATES/teammates/pull/4811) - Week 6, Sun (PR Merged)
 * [Fix Issue #3979](https://github.com/TEAMMATES/teammates/pull/4866) - Week 7, Wed (PR Merged)
+* Write blog post to compare processes between 2 open-source projects (between Socket.IO and Teammates) [Link](https://medium.com/@mikelimantara/comparing-processes-in-contributing-to-open-source-projects-919849fb52fd#.8v1fda17e) - Week 11, Wed
 
 #### Tech Expertise Plan: Mobile Development
 * Blogpost about Android Project Structure and Naming Convention Guidelines [Link](https://medium.com/@mikelimantara/overview-of-android-project-structure-and-naming-conventions-b08f6d0b7291#.z58j2vliw)
 * Created Wealth Management App prototype in Android for UBS Technology Case Challenge - First Winner [Github link](https://github.com/mikelimantara/UBSTechChallenge2015)
 * Blogpost about Making HTTP request with Retrofit Library [Link](https://medium.com/@mikelimantara/making-http-requests-in-android-with-retrofit-library-5829b4f22311#.u0x5n4voa)
 * Created Demo for making HTTP request using Retrofit Library [Github Link](https://github.com/mikelimantara/retrofit-demo)
+* Blogpost about Build Variants in Android [Link](https://medium.com/@mikelimantara/overview-of-build-variants-in-android-gradle-680cadc06a71#.4kwt05cxq)
 
 ##### Deliverable could be in the form of: 
 * Blog post
@@ -339,6 +366,10 @@ Notes:
 * Implement latency check for sockets[link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4ea1bb788d9b30d454b2160dc4b1c749bee29101) - Week 10, Mon
 * Implement Socket status check [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/6e001146b0c35b8993df2988e9bffef192310a2b) - Week 10, Mon
 * Implement time ticker to trigger timer refresh [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/98017f7e6a1b1085c17b3a539fde353f95ed9ba5) - Week 10, Mon
+* Refactor chrome connection component to be more modular [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/7207789de98cd835ac36f84dc95c19c0188ef159) - Week 11, Mon
+* Fix bug in Socket.io-devtool [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/c0c771488bef576f02f14158319762a21b6326b5) - Week 11, Mon
+* Implement batched update feature for packet data to improve performance of devtool. (Result is significant!) [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/437c012c946ee68adf1eec4ba25758e5059b72de) - Week 11, Thurs
+* Implement feature to capture and display binary packets. [link](https://github.com/nus-fboa2016-si/socketio-devtool/commit/7abf59566f73c1d1fe983e391d6a5355145c6543) - Week 12, Thurs
 
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
@@ -347,6 +378,9 @@ Notes:
 #### Technology expertise in RESTful APIs
 * [Blogpost](https://medium.com/@whattokingu/what-i-know-about-rest-21ece615c949#.pebz7xf06) on introduction to REST
 * [Blogpost](https://medium.com/@whattokingu/hypermedia-apis-bdec8c78c8dc#.wmsl68uwu) on Hypermedia APIs.
+* [Blogpost](https://medium.com/@whattokingu/rest-and-hypermedia-apis-2ee0f6fd6710) on disadvantages of Hypermedia APIs.
+* [link](https://github.com/Yunheng/cs2102). Built an app with RESTful interfaces. Backend is a Apache server running Laravel(PHP) framework.
+Front end is a single-page web application built with React. Project is built to fulfill requirements for CS2102(Intro to DB). 
 
 ##### Short term plan
 * Read up on RESTful implementation details.
@@ -370,6 +404,11 @@ Notes:
 * Sent PR to add gulp and babel to [engine.io](https://github.com/socketio/engine.io/pull/384) and [socket.io](https://github.com/socketio/socket.io/pull/2471) repos - Week 7, Sat
 * PR adding gulp and babel to [engine.io](https://github.com/socketio/engine.io/pull/384) and [socket.io](https://github.com/socketio/socket.io/pull/2471) merged - Week 8, Sat
 * Sent [PR](https://github.com/socketio/socket.io/pull/2486) to add ESLint to socket.io - Week 8, Sun
+* Sent [PR](https://github.com/socketio/engine.io/pull/385) to add ESLint to engine.io - Week 10, Wed
+* Tested new Socket.IO build under scenarios: - Week 12, Wed
+  * [Standalone](https://github.com/digawp/socket-io-chat/tree/standalone)
+  * [Browserify](https://github.com/digawp/socket-io-chat/tree/browserify)
+  * [Webpack](https://github.com/digawp/socket-io-chat/tree/webpack)
 
 #### Contribution to project PL
 * [Fix Remove Audio bug](https://github.com/PowerPointLabs/PowerPointLabs/pull/915) - Week 3, Sat
@@ -391,3 +430,6 @@ Notes:
 ##### Long term plan
 * Keep up with Git version updates
 * Keep up with any changes in what considered as Git best practices
+
+#### Others
+* [Blogpost](http://digawp.blogspot.sg/2016/03/comparing-school-based-internal-and.html) comparing process of internal and external projects - Week 10, Sun
