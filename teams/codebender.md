@@ -97,13 +97,13 @@ permalink: /teams/codebender/
     * [x] Write script to migrate libraries from production database and filesystem into v2 schema
     * [x] Add front-end validation for adding of new version to an existing library
     * [x] Generate a schema diagram for our new database design
-* [ ] **Milestone 7** - Due Week 12, Sun
+* [x] **Milestone 7** - Due Week 12, Sun
     * [x] Implement preferences for all APIs
     * [x] Remove duplicate library files and modify v1 API to use v2 library files
     * [x] Remove duplicate code by changing duplicated code to reference v1 methods
     * [x] Perform migration tests on virtual instance
     * [x] Write API documentation for Eratosthenes
-    * [ ] Test actual requests on the migrated mock production server
+    * [x] Test actual requests on the migrated mock production server
 * Week 13 - Buffer time
 
 
@@ -182,17 +182,23 @@ permalink: /teams/codebender/
 * Week 7, Tue - Wrote test for updating of a library's last commit
 * Week 8, Tue - Implemented support for the authentication of multiple partners
 * Week 8, Tue - Created tests for testing the authentication mechanism
-* Week 9, Tue - Wrote the ultimate migration script for migrating everything on the production server ([PR #62](https://github.com/codebendercc/eratosthenes/pull/62))
+* Week 9, Tue - Wrote the ultimate migration script for migrating everything on the production server ([PR #62](https://github.com/codebendercc/eratosthenes/pull/62)) (merged)
 * Week 9, Thu - Generated a schema diagram of our new database design
-* Week 10, Sat - Wrote a fix for an existing bug which propagated from v1 to v2 ([PR #68](https://github.com/codebendercc/eratosthenes/pull/68))
+* Week 10, Sat - Wrote a fix for an existing bug which propagated from v1 to v2 ([PR #68](https://github.com/codebendercc/eratosthenes/pull/68)) (merged)
 * Week 10, Sat - Orientated myself with the mock production server which we will be testing our migration on
 * Week 11, Wed - Added more Arduino architectures to the migration script
 * Week 11, Wed - Successfully performed the migration on the [mock production server](http://eratosthenes-foa.codebender.cc/status)
 * Week 11, Thu - Created a [Wiki](https://github.com/codebendercc/eratosthenes/wiki) for Eratosthenes for documentation purposes
 * Week 11, Thu - Documented the [implemented APIs](https://github.com/codebendercc/eratosthenes/wiki/APIs) as well as some [ideas for future development](https://github.com/codebendercc/eratosthenes/wiki/Future-Development)
-* Week 11, Thu - Make naming changes based on feedback from John ([PR #72](https://github.com/codebendercc/eratosthenes/pull/72))
+* Week 11, Thu - Make naming changes based on feedback from John ([PR #72](https://github.com/codebendercc/eratosthenes/pull/72)) (merged)
 * Week 11, Thu - Remove old entities, fixtures and tables ([PR #73](https://github.com/codebendercc/eratosthenes/pull/73))
 * Week 11, Fri - Wrote a guide on [how to extend the existing APIs for Eratosthenes](https://github.com/codebendercc/eratosthenes/wiki/Extending-the-APIs)
+* Week 12, Wed - Tested version 2 of Eratosthenes on the mock production server for backward compatibility
+* Week 12, Wed - Fixed minor lapses in backward compatibility
+* Week 12, Thu - Merged and integrated all existing pull requests
+* Week 12, Sat - Co-designed the deleteLibrary API for version 2 of Eratosthenes
+* Week 12, Sat - Wrote the Wiki entry on the deleteLibrary API
+* Week 12, Sat - Resolved all conflicts in the final [pull request](https://github.com/codebendercc/eratosthenes/pull/76)
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
