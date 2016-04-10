@@ -145,20 +145,25 @@ permalink: /teams/teammates/
  * [Pull Request #5024](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 9
  * [Pull Request #4782](https://github.com/TEAMMATES/teammates/pull/4782) (Merged) - week 10
  * [Pull Request #5173](https://github.com/TEAMMATES/teammates/pull/5173) (Ongoing) - week 10
- * [Pull Request #5183](https://github.com/TEAMMATES/teammates/pull/5183) (Ongoing) - week 6 to week 11
+ * [Pull Request #5183](https://github.com/TEAMMATES/teammates/pull/5183) (Ongoing) - week 6 to week 12
+ * [Pull Request #4213](https://github.com/TEAMMATES/teammates/pull/5213) (Ongoing) - week 12
  
  
 #### Contribution to project [react](https://github.com/facebook/react.git)
  * [Pull Request #6345](https://github.com/facebook/react/pull/6345) (Ongoing) - week 10
  * [Pull Request #6404](https://github.com/facebook/react/pull/6404) (Ongoing) - week 12
+ * [Blog: Set up React project](http://susumei0827.blogspot.sg/2016/04/setting-up-react-project.html) - week 10
+ * [Blog: Compare TEAMMATES and React](http://susumei0827.blogspot.sg/2016/04/compare-teammates-and-react-and-how-to.html
+) - week 11
 
 #### Technology expertise in React
-* Official tutorial: https://facebook.github.io/react/docs/tutorial.html - week 8
-* Javascript ecosystem: https://github.com/petehunt/react-howto - week 9
-* Use React with Webpack: http://survivejs.com/webpack_react/introduction/ - week 9
-                          https://github.com/Sumei1009/webpack_react/tree/dev/project_source
-* Writing a blog post regarding the issues for beginners to pick up React -- week 10
+* [Official Tutorial](https://facebook.github.io/react/docs/tutorial.html) - week 8
+* [React ecosystem tutorial](https://github.com/petehunt/react-howto) - week 9
+* [Use React with Webpack](http://survivejs.com/webpack_react/introduction/) - week 9
+* [Blog: Virtual DOM in React](http://susumei0827.blogspot.sg/2016/04/virtual-dom-in-react.html) - week 10
+* [Blog: React Ecosystem](http://susumei0827.blogspot.sg/2016/04/react-ecosystem.html) - week 10
 
+ 
 ---
 
 ### [@unyoungwax](https://github.com/unyoungwax) ([Wong Yu Xuan](https://unyoungwax.github.io/))
