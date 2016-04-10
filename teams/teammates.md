@@ -94,7 +94,8 @@ permalink: /teams/teammates/
  * [Issue #5128](https://github.com/TEAMMATES/teammates/issues/5128) - Week 10 : [Pull Request #5135](https://github.com/TEAMMATES/teammates/pull/5135) (Merged) - Week 10
  * [Issue #3671](https://github.com/TEAMMATES/teammates/issues/3671) - Week 11 : [Pull Request #5144](https://github.com/TEAMMATES/teammates/pull/5144) (Merged) - Week 11
  * [Issue #5180](https://github.com/TEAMMATES/teammates/issues/5180) - Week 11 : [Pull Request #5181](https://github.com/TEAMMATES/teammates/pull/5181) (Merged) - Week 11
- * [Issue #5185](https://github.com/TEAMMATES/teammates/issues/5185) - Week 12 : [Pull Request #5186](https://github.com/TEAMMATES/teammates/pull/5186) (ToReview) - Week 12
+ * [Issue #5185](https://github.com/TEAMMATES/teammates/issues/5185) - Week 12 : [Pull Request #5186](https://github.com/TEAMMATES/teammates/pull/5186) (Merged) - Week 12
+ * [Issue #5210](https://github.com/TEAMMATES/teammates/issues/5210) - Week 12 : [Pull Request #5211](https://github.com/TEAMMATES/teammates/pull/5211) (ToMerge) - Week 12
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
 
@@ -108,7 +109,10 @@ permalink: /teams/teammates/
  * [Issue #1075](https://github.com/oppia/oppia/issues/1075) - Week 10 : [Pull Request #1642](https://github.com/oppia/oppia/pull/1642) (Merged) - Week 10
  * [Issue #1564](https://github.com/oppia/oppia/issues/1564) - Week 9 : [Pull Request #1659](https://github.com/oppia/oppia/pull/1659) (Merged) - Week 11
  * Opened [Issue #1688](https://github.com/oppia/oppia/issues/1688)
- * [Issue #1688](https://github.com/oppia/oppia/issues/1688) - Week 12 : [Pull Request #1691](https://github.com/oppia/oppia/pull/1691) (ToReview) - Week 12
+ * [Issue #1688](https://github.com/oppia/oppia/issues/1688) - Week 12 : [Pull Request #1691](https://github.com/oppia/oppia/pull/1691) (Merged) - Week 12
+ * [Issue #1679](https://github.com/oppia/oppia/issues/1679) - Week 12 : [Pull Request #1692](https://github.com/oppia/oppia/pull/1692) (Merged) - Week 12
+ * Reviewer for UI for [Pull Request #1693](https://github.com/oppia/oppia/pull/1693) (Merged) - Week 12
+ * Assigned [Issue #1085](https://github.com/oppia/oppia/issues/1085) (Ongoing) - Week 12
 
 #### Technology expertise in tool jQuery
  * [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
@@ -141,20 +145,25 @@ permalink: /teams/teammates/
  * [Pull Request #5024](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 9
  * [Pull Request #4782](https://github.com/TEAMMATES/teammates/pull/4782) (Merged) - week 10
  * [Pull Request #5173](https://github.com/TEAMMATES/teammates/pull/5173) (Ongoing) - week 10
- * [Pull Request #5183](https://github.com/TEAMMATES/teammates/pull/5183) (Ongoing) - week 6 to week 11
+ * [Pull Request #5183](https://github.com/TEAMMATES/teammates/pull/5183) (Ongoing) - week 6 to week 12
+ * [Pull Request #4213](https://github.com/TEAMMATES/teammates/pull/5213) (Ongoing) - week 12
  
  
 #### Contribution to project [react](https://github.com/facebook/react.git)
  * [Pull Request #6345](https://github.com/facebook/react/pull/6345) (Ongoing) - week 10
  * [Pull Request #6404](https://github.com/facebook/react/pull/6404) (Ongoing) - week 12
+ * [Blog: Set up React project](http://susumei0827.blogspot.sg/2016/04/setting-up-react-project.html) - week 10
+ * [Blog: Compare TEAMMATES and React](http://susumei0827.blogspot.sg/2016/04/compare-teammates-and-react-and-how-to.html
+) - week 11
 
 #### Technology expertise in React
-* Official tutorial: https://facebook.github.io/react/docs/tutorial.html - week 8
-* Javascript ecosystem: https://github.com/petehunt/react-howto - week 9
-* Use React with Webpack: http://survivejs.com/webpack_react/introduction/ - week 9
-                          https://github.com/Sumei1009/webpack_react/tree/dev/project_source
-* Writing a blog post regarding the issues for beginners to pick up React -- week 10
+* [Official Tutorial](https://facebook.github.io/react/docs/tutorial.html) - week 8
+* [React ecosystem tutorial](https://github.com/petehunt/react-howto) - week 9
+* [Use React with Webpack](http://survivejs.com/webpack_react/introduction/) - week 9
+* [Blog: Virtual DOM in React](http://susumei0827.blogspot.sg/2016/04/virtual-dom-in-react.html) - week 10
+* [Blog: React Ecosystem](http://susumei0827.blogspot.sg/2016/04/react-ecosystem.html) - week 10
 
+ 
 ---
 
 ### [@unyoungwax](https://github.com/unyoungwax) ([Wong Yu Xuan](https://unyoungwax.github.io/))
