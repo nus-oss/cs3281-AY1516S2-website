@@ -95,6 +95,7 @@ permalink: /teams/teammates/
  * [Issue #3671](https://github.com/TEAMMATES/teammates/issues/3671) - Week 11 : [Pull Request #5144](https://github.com/TEAMMATES/teammates/pull/5144) (Merged) - Week 11
  * [Issue #5180](https://github.com/TEAMMATES/teammates/issues/5180) - Week 11 : [Pull Request #5181](https://github.com/TEAMMATES/teammates/pull/5181) (Merged) - Week 11
  * [Issue #5185](https://github.com/TEAMMATES/teammates/issues/5185) - Week 12 : [Pull Request #5186](https://github.com/TEAMMATES/teammates/pull/5186) (Merged) - Week 12
+ * [Issue #5210](https://github.com/TEAMMATES/teammates/issues/5210) - Week 12 : [Pull Request #5211](https://github.com/TEAMMATES/teammates/pull/5211) (ToMerge) - Week 12
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
 
@@ -110,7 +111,8 @@ permalink: /teams/teammates/
  * Opened [Issue #1688](https://github.com/oppia/oppia/issues/1688)
  * [Issue #1688](https://github.com/oppia/oppia/issues/1688) - Week 12 : [Pull Request #1691](https://github.com/oppia/oppia/pull/1691) (Merged) - Week 12
  * [Issue #1679](https://github.com/oppia/oppia/issues/1679) - Week 12 : [Pull Request #1692](https://github.com/oppia/oppia/pull/1692) (Merged) - Week 12
- * Reviewer for UI for [Pull Request #1693](https://github.com/oppia/oppia/pull/1693)
+ * Reviewer for UI for [Pull Request #1693](https://github.com/oppia/oppia/pull/1693) (Merged) - Week 12
+ * Assigned [Issue #1085](https://github.com/oppia/oppia/issues/1085) (Ongoing) - Week 12
 
 #### Technology expertise in tool jQuery
  * [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
