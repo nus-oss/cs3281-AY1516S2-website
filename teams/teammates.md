@@ -8,7 +8,7 @@ permalink: /teams/teammates/
 [nus-fboa2016-TM](https://github.com/nus-fboa2016-TM)
 
 ## Members
- - [@jkt001](https://github.com/jkt001) (John Kevin Tjahjadi) Team Lead - Week 4 to ...
+ - [@jkt001](https://github.com/jkt001) (John Kevin Tjahjadi) Team Lead - Week 4 to 13
    - Technology Expertise: Software Testing and Debugging
 
  - [@kennho](https://github.com/kennho) (Kenneth Ho Chee Chong)
@@ -28,7 +28,7 @@ permalink: /teams/teammates/
  * [x] Project idea - Week 2, Thu
  * [x] Architecture demo - Week 3, Mon
  * [x] CodeSprint - Fix a few issues - Week 3, Sat-Sun
- * [x] Fixing Issues - Continue fixing issues - Week 4 to Week 12
+ * [x] Fixing Issues - Continue fixing issues - Week 4 to Week 13
  * [x] Future Planning - Week 4 to Week 6
 
 ## Contributions
@@ -36,31 +36,59 @@ permalink: /teams/teammates/
 ### [@jkt001](https://github.com/jkt001) (John Kevin Tjahjadi)
 
 #### Contribution to project TEAMMATES
+##### Pull Requests:
  * [Pull Request #4632](https://github.com/TEAMMATES/repo/pull/4632) (Merged) - Week 1
  * [Pull Request #4638](https://github.com/TEAMMATES/repo/pull/4638) (Merged) - Week 1
  * [Pull Request #4649](https://github.com/TEAMMATES/repo/pull/4649) (Merged) - Week 2
- * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (Closed) - Week 3 - 5
+ * [Pull Request #4688](https://github.com/TEAMMATES/repo/pull/4688) (Closed/Counted) - Week 3 - 5
  * [Pull Request #4695](https://github.com/TEAMMATES/repo/pull/4695) (Merged) - Week 3
  * [Pull Request #4698](https://github.com/TEAMMATES/repo/pull/4698) (Merged) - Week 3
  * [Pull Request #4752](https://github.com/TEAMMATES/teammates/pull/4752) (Merged) - Week 4 - 9
  * [Pull Request #4761](https://github.com/TEAMMATES/teammates/pull/4761) (Merged) - Week 5
  * [Pull Request #4774](https://github.com/TEAMMATES/teammates/pull/4774) (Merged) - Week 6
- * [Issue #4488](https://github.com/TEAMMATES/repo/issues/4488) (ToBeDiscussed) - Week 6 - ...
  * [Pull Request #4819](https://github.com/TEAMMATES/teammates/pull/4819) (Merged) - Recess Week
  * [Pull Request #4954](https://github.com/TEAMMATES/teammates/pull/4954) (Merged) - Week 9
- * [Pull Request #5031](https://github.com/TEAMMATES/teammates/pull/5031) (Ongoing) - Week 10
+ * [Pull Request #5031](https://github.com/TEAMMATES/teammates/pull/5031) (Merged) - Week 10
+ * [Pull Request #5202](https://github.com/TEAMMATES/teammates/pull/5202) (Merged) - Week 12
+ * [Pull Request #5214](https://github.com/TEAMMATES/teammates/pull/5214) (Merged) - Week 12
+ * [Pull Request #5215](https://github.com/TEAMMATES/teammates/pull/5215) (Merged) - Week 12
+ * [Pull Request #5216](https://github.com/TEAMMATES/teammates/pull/5216) (Merged) - Week 12
 
-#### Contribution to project Y
- * ...
+##### Ongoing Work:
+ * [Issue #4488](https://github.com/TEAMMATES/repo/issues/4488) (ToBeDiscussed)
+ * [Issue #4676](https://github.com/TEAMMATES/repo/issues/4676) (Ongoing)
+ * [Issue #4854](https://github.com/TEAMMATES/repo/issues/4854) (Ongoing)
+
+##### Opened New Issues:
+ * [Issue #4631](https://github.com/TEAMMATES/repo/issues/4631)
+ * [Issue #4760](https://github.com/TEAMMATES/repo/issues/4760)
+ * [Issue #4771](https://github.com/TEAMMATES/repo/issues/4771)
+ * [Issue #4955](https://github.com/TEAMMATES/repo/issues/4955)
+ * [Issue #4697](https://github.com/TEAMMATES/repo/issues/4697)
+ * [Issue #5217](https://github.com/TEAMMATES/repo/issues/5217)
+
+#### Contribution to project PouchDB
+ * [Pull Request #5041](https://github.com/pouchdb/pouchdb/pull/5041) (Merged) - Week 12
+ * [Blog Post](https://cs3281blog.wordpress.com/2016/04/10/my-minor-project/) - Minor Project Experience and Comparison with Major Project
 
 #### Technology Expertise in Software Testing and Debugging
- * Implemented application and tests for sort application for a bash shell written in Java (CS4218) - Recess Week
- * Wrote tests using different test approaches (structural, functional, etc.) for bc application for a bash shell written in Java (CS4218) - Recess Week
- * Debug several applications written for a bash shell written in Java as part of a module project (CS4218) - Recess Week
- * Tested student programs and debug the code submitted in sit-in labs for a module in SoC (CS1020) - Ongoing (Start - End of Semester)
- * Generated test-cases for code written as assignment in an SoC module (CS1020) - Ongoing (Start - End of Semester). Tests are designed to be as strict as possible and tried to cover all cases. Designed based on the principles learned on CS4218 (Software Testing and Debugging).
- * Applied TDD in the process of writing a bc application (similar to bc in shell) in Java.
- * Wrote new tests for bc application written in Java.
+
+##### Work in CS4218 Project - Bash shell in Java
+ * Implemented application and tests for sort application for a bash shell written in Java (CS4218) - Proof to be shown later.
+ * Wrote tests for bc application for a bash shell written in Java (CS4218) - Proof to be shown later.
+ * Debug several applications written for a bash shell written in Java as part of a module project (CS4218) - Proof to be shown later.
+ * Applied TDD in the process of writing a bc application (similar to bc in shell) in Java - Proof to be shown later.
+ * Wrote new tests for bc application written in Java after implementing it - Proof to be shown later.
+ * Created a bug-rebuttal report based on proper documentation - Proof to be shown later.
+
+##### Work in CS1020 - Teaching Assistant and Problem Setter
+
+ * Tested student programs and debug the code submitted in sit-in labs for a module in SoC (CS1020) - Proof to be shown later.
+ * Must find all mistakes in student's codes during grading process and create a detailed report (CS1020) - Proof to be shown later.
+ * Generated test-cases for code written as assignment in an SoC module (CS1020) - Ongoing (Start - End of Semester). Tests are designed to be as strict as possible and tried to cover all cases. Designed based on the principles learned on CS4218 (Software Testing and Debugging). - Managed to capture many corner cases (Proof to be shown later).
+
+##### Miscellaneous Blog Posts related to technological expertise:
+ * To be added
 
 #### Plan - Until the end of this semester
  * Writing blog posts about different software testing paradigms, with the pros and cons of each approach and when to use which
