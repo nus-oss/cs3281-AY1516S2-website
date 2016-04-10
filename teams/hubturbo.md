@@ -158,10 +158,14 @@ permalink: /teams/hubturbo/
 * [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) (Merged) - Week 9, Fri
 * [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1388) (Merged) - Week 10, Mon
 * [Pull Request #1403](https://github.com/HubTurbo/HubTurbo/pull/1403) (Merged) - Week 10, Thu
-* [Pull Request #1423](https://github.com/HubTurbo/HubTurbo/pull/1423) - Week 10, Sat
+* [Pull Request #1423](https://github.com/HubTurbo/HubTurbo/pull/1423) (Merged) - Week 10, Sat
 * [Pull Request #1442](https://github.com/HubTurbo/HubTurbo/pull/1442) (Merged) - Week 11, Mon
-* [Pull Request #1444](https://github.com/HubTurbo/HubTurbo/pull/1444) - Week 11, Mon
-* [Pull Request #1462](https://github.com/HubTurbo/HubTurbo/pull/1462) - Week 11, Sun
+* [Pull Request #1444](https://github.com/HubTurbo/HubTurbo/pull/1444) (Merged) - Week 11, Mon
+* [Pull Request #1462](https://github.com/HubTurbo/HubTurbo/pull/1462) (Merged) - Week 11, Sun
+* [Pull Request #1485](https://github.com/HubTurbo/HubTurbo/pull/1485) (Merged) - Week 12, Tue
+* [Pull Request #1498](https://github.com/HubTurbo/HubTurbo/pull/1498) (Merged) - Week 12, Sat
+* [Pull Request #1509](https://github.com/HubTurbo/HubTurbo/pull/1509) - Week 12, Sun
+* [Pull Request #1510](https://github.com/HubTurbo/HubTurbo/pull/1510) (Merged) - Week 13, Sun
 
 ##### Contribution to MINOR project [PencilCode](https://github.com/PencilCode/pencilcode/)
 
@@ -183,9 +187,9 @@ permalink: /teams/hubturbo/
 
 * [JFDI](https://github.com/cs2103jan2016-w13-4j/main) (Gradle project)
   - Set up Gradle project
-  - Add `junit`, `mockito` and `powermock` for unit testing and easy mocking
+  - Add `junit`, `mockito` for unit testing and easy mocking
   - Integrate with Travis CI
-  - Add `Cobertura` and integrate with Coveralls.io
+  - Add `Jacoco` and integrate with Coveralls.io
   - Add and configure `checkstyle`, `findbugs` and `pmd`
 
 * [NUSModsCloud](https://github.com/nusmodifications/nusmods-cloud) (Rails project)
@@ -200,8 +204,9 @@ permalink: /teams/hubturbo/
 * [HubTurbo](https://github.com/PencilCode/pencilcode) (Major project)
   - [Pull Request #1186](https://github.com/HubTurbo/HubTurbo/pull/1186) Fix resources lookup for unstable tests (Merged)
   - [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) Cache Travis dependencies (Merged)
-  - [Pull Request #1403](https://github.com/HubTurbo/HubTurbo/pull/1403) Upload screenshots after Travis failure (Merged)
+  - [Pull Request #1388](https://github.com/HubTurbo/HubTurbo/pull/1388) Upload screenshots after Travis failure (Merged)
   - [Pull Request #1403](https://github.com/HubTurbo/HubTurbo/pull/1403) Update Gradle and Checkstyle to check indentations (Merged)
+  - [Pull Request #1498](https://github.com/HubTurbo/HubTurbo/pull/1498) Reduce noise on Travis (Merged)
 
 
 ### Tan Soon Jin ([@jinified](https://github.com/jinified))
