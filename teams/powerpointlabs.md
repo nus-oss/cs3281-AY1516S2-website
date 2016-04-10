@@ -67,13 +67,24 @@ permalink: /teams/powerpointlabs/
   * [x] Add UT for Align - Week 9, Thu
   * [x] Refactor PositionsLab to use lambda expressions - Week 10, Sun
   * [x] PositionsLab functions now do not change the shape properties (shapeType, flip, etc) - Week 10, Sun
+  * [x] Added Distribute between extreme shapes - Week 10, Tue
+  * [x] Change PositionsLab functions to work with duplicated shapes (previously assume persistent shapes) - Week 10, Wed
+  * [x] Change Align unit tests to correct unchanged properties version - Week 10, Thu
+  * [x] Implement Distribute Grid by Edges - Week 10, Thu
+  * [x] Add Unit tests for Adjoin and Distribute - Week 11, Sun
+  * [x] Changed implementation of Undo to not use PowerPoint's Undo - Week 11, Wed
+  * [x] Fix bug with Swap due to old Undo - Week 11, Thu
+  * [x] Add Unit tests for Swap - Week 11, Thu
+  * [x] Documentation - Week 11, Sat
+  * [x] Fix bug with Swap throwing exception for duplicate images - Week 12, Sun
+  * [x] Fix bug with Snap preview changing shapes permanently - Week 12, Sun
+  * [x] Added text under icon for Positions Lab Pane - Week 12, Mon
+  * [x] Added unit tests - Week 12, Thu
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
-  * [ ] Implement Distribute Along Edge
   * [ ] Refactor architecture of Positions Lab
-  * [ ] Create unit/functional tests
   * [ ] Side-by-side preview for all possible implementation of a function
 
 ###### Resize Lab
@@ -81,30 +92,49 @@ permalink: /teams/powerpointlabs/
   * [x] TaskPane UI (with Metro Design) - Week 4, Mon
   * [x] Create icons - Week 5, Thu
 * Basic functionality for Resize Lab
-  * [x] Stretch & Shrink - Week 4, Tue
-  * [x] Same Dimension - Week 4, Sun
-  * [x] Fit - Week 4, Tue
+  * [x] Stretch/Shrink - Week 4, Tue
+  * [x] Equalize - Week 4, Sun
+  * [x] Fit to Slide - Week 4, Tue
   * [x] Aspect Ratio - Week 4, Wed
-  * [x] Make Symmetry - Week 7, Fri
-* Intermediate functionality for Resize Lab
-  * [x] Enhance the reference point of Stretch & Shrink - Week 5, Mon
+  * [x] Symmetric - Week 7, Fri
+  * [x] Adjust Slightly - Week 10, Sun
+  * [x] Match - Week 10, Thu
+  * [x] Anchor Alignment - Week 10, Thu
+  * [x] Adjust Proportionally - Week 11, Mon
+  * [x] Resize Type (Visual or Actual) - Week 12, Tue
+* Advanced functionality for Resize Lab
+  * [x] Enhance the reference point of Stretch/Shrink - Week 5, Mon
   * [x] Enhance the scale factor of Restore Aspect Ratio - Week 5, Mon
   * [x] Refactor the architecture of Resize Lab - Week 5, Tue
   * [x] Implement absolute dimension for resizing - Week 5, Wed
   * [x] Implement restore aspect ratio with absolute dimension - Week 6, Thu
+  * [x] Preview feature - Recess Week, Thu
   * [x] Improve on rotation support for shapes - Week 7, Thu
   * [x] Redesign icons for ResizeLab - Week 8
-  * [x] Add settings for Same Dimension - Week 9, Wed
-  * [x] Add settings for Stretch/Shrink - Week 9, Thu
-  * [x] Implement slight adjust feature - Week 10, Sun
-  * [ ] Implement adjust aspect ratio
-  * [ ] Implement resize propotionally (Height and Width)
-  * [ ] Add delay to preview
-  * [ ] Create Ratio Resize feature
-* Advanced functionality for Resize Lab
-  * [x] Preview feature - Recess Week, Thu
+  * [x] Add settings for Equalize - Week 9, Wed
+  * [x] Add settings for Stretch/Shrink- Week 9, Thu
+  * [x] Add settings for Adjust Proportionally - Week 10, Tue
+  * [x] Add delay to preview - Week 10, Thu
+  * [x] Improve UI Design - Week 10, Thu
+  * [x] Implement resizing on actual dimensions - Week 12, Tue
+  * [x] Implement preview with shift key - Week 12, Tue
+* Tests
+  * [x] Visual Equalize - Week 9, Wed
+  * [x] Visual Fit to Slide - Week 9, Thu
+  * [x] Visual Aspect Ratio - Week 11, Sun
+  * [x] Visual Match - Week 11, Sun
+  * [x] Visual Shretch/Shrink - Week 11, Sun
+  * [x] Visual Adjust Proportionally - Week 11, Tue
+  * [x] Visual Adjust Slightly - Week 11, Wed
+  * [x] Visual Anchor Alignment - Week 11, Wed
+  * [x] Actaul Equalize - Week 12, Thu
+  * [x] Actual Match - Week 12, Thu
+  * [x] Actual Adjust Proportionally - Week 12, Thu
+  * [x] Actual Adjust Slightly - Week 12, Thu
+  * [x] Actual Anchor Alignment - Week 12, Thu
 * Others
   * [x] Create unit tests for major functions - Week 9, Thu
+  * [x] Documentation - Week 12, Thu
   * [ ] Create functional tests
   * [ ] Merge with master branch 
 
@@ -149,13 +179,23 @@ permalink: /teams/powerpointlabs/
 * Change **Rotation** and **LockAxis** to have visual indicator(highlighted) when they are active in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b0c9c98a51b412b608a077c5ecd436defc767681/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 9, Wed
 * Add **UT for Align** in [`PositionsLabAlignTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/faba1ecebe778d4498d1aa8732154550ff07107c/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabAlignTest.cs) - Week 9, Thu
 * Fix bug with **PPShape** not generating properly when Shape is flipped in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/39e61c98179997152b967c69a755290cd8efc9ab/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 9, Sat
-* Refactor **PositionsLab** to use lambda expressions in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
-* **PositionsLab** functions now do not change the shape properties (shapeType, flip, etc) in [`PositionsLab.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
+* Refactor **PositionsLab** to use lambda expressions in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
+* **PositionsLab** functions now do not change the shape properties (shapeType, flip, etc) in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/7a43c983fd77eaff112bb4c78bc979eded96535f/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Sun
+* Change **PositionsLab** functions to work with duplicated shapes (previously assume persistent shapes) in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/015a30871f779cd0cff9aac5369e581033afdc03/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 10, Wed
+* Change **Align Unit Test** to correct unchanged properties verion in [`PositionsLabAlign.pptx`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4e45f074d3cd4b30b2b69f24f5f8476add08a703/doc/test/PositionsLab/PositionsLabAlign.pptx) - Week 10, Thu
+* Implement **Distribute Grid by Edges** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/36e3a9c376ee94d930cffba7770425a219e8448c/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 10, Thu
+* Add Unit tests for **Adjoin** and **Distribute** in [`PositionsLabAdjoinTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/17f05d06e191d5dd06866443cbdfeb30c076e393/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabAdjoinTest.cs) and [`PositionsLabDistributeTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/f3d658dd645c0232dd5cc7e529d68329a5d04897/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabDistributeTest.cs) - Week 11, Sun
+* Changed implementation of **Undo** to not use PowerPoint's Undo in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/df927ae64331dce1d9f68a90c8966d3f1d19610b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 11, Wed
+* Fix bug with **Swap** due to old Undo in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/df927ae64331dce1d9f68a90c8966d3f1d19610b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 11, Thu
+* Add Unit tests for **Swap** in [`PositionsLabSwapTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ac412968c26abb9996dec11539c07dcf798eafcf/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabSwapTest.cs) - Week 11, Thu
+* Fix bug with Swap throwing exception for duplicate images in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/96e7b8e5af716052583d339d9c9e620d727dbf04/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
+* Fix bug with Snap preview changing shapes permanently in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/64917e13dd9b2dbd3c6380fffa89ce90682e1e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
 
 #### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
  * Setup Environment: [Screenshot](https://drive.google.com/open?id=0BzrjImOddxOKSVY4eHBEdHlQcjg) - Week 8, Fri
  * [Pull Request #1607](https://github.com/oppia/oppia/pull/1607) (Merged) - Week 9, Tue
  * [Pull Request #1608](https://github.com/oppia/oppia/pull/1608) (Pending resolving of issue with e2e testing not working on Vagrant) - Week 9, Tue
+ * [Blog post](https://medium.com/@oswellchan/my-journey-in-oss-contributing-d10165398eb3#.8nced4u8b) on Comparing Oppia to PowerPointLab processes - Week 11, Wed
 
 #### Technology expertise in Web Programming and Applications
 
@@ -207,8 +247,8 @@ permalink: /teams/powerpointlabs/
 * Created the skeleton of event handlers for triggering functions in [`ResizePaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/86507fcc388b92fa8e7ab212196d156d842e110d/PowerPointLabs/PowerPointLabs/ResizeLab/ResizePaneWPF.xaml.cs) - Week 4, Sun
 * Implemented **Fit** feature in [`ResizeLabFitSize.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/547172b4d74e05a6fad4d2ab72ccb0b20317303f/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabFitSize.cs) - Week 4, Tue
 * Implemented basic **Lock and Restore Aspect Ratio** feature in [`ResizeLabAspectRatio.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/d461f3429149ab29b9670bf711fdf2e4c4a766d4/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabAspectRatio.cs) and [`ThisAddIn.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/bb0aae956a344c7e4c5084967367e4d708c157a0/PowerPointLabs/PowerPointLabs/ThisAddIn.cs) - Week 4, Wed
-* Changed to UI observer pattern and renamed the classes to fit general achitecture in [`Commit 95867c8`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/fd7a4001511c44314d026ec13c218b369d102d9c) - Week 5, Mon
-* Improved **Restore Aspect Ratio** feature by resizing to current largest scaled side in [`Commit 8a58e9c`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/e6dba91bdcbacfcd5476178ed434af507d17ee0d) - Week 5 Mon
+* Changed to UI observer pattern and renamed the classes to fit general achitecture in [`Commit fd7a400`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/fd7a4001511c44314d026ec13c218b369d102d9c) - Week 5, Mon
+* Improved **Restore Aspect Ratio** feature by resizing to current largest scaled side in [`Commit e6dba91`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/e6dba91bdcbacfcd5476178ed434af507d17ee0d) - Week 5 Mon
 * Created first version of [icons](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/10) for ResizeLab - Week 5, Tue
 * Created [`ResizeLabShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ab2d1ffcaf3edce42f88e601c7cbdc7b6ce84485/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabShape.cs) to support calculation related to rotated shape - Week 5, Wed
 * Supported rotated shape in **Same Dimensions** and **Fit** features - Week 5, Thu 
@@ -217,22 +257,62 @@ permalink: /teams/powerpointlabs/
 * Implemented [Preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/compare/3bb5f0221f23dc6bc738bcbc55d719f869203e98...nus-fboa2016-PL:9d94a942dbc48e1da1c8819b35621fbd7e9be974) feature - Recess Week
 * Implemented the redefinition of bounding box in [`PPShape.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/c14b014770d3bc00a743914cbc8fcd718cf1f3ac/PowerPointLabs/PowerPointLabs/Utils/PPShape.cs) - Week 7, Thu
 * Created **Symmetric** feature in [`ResizeLabMain.Symmetry.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/b994d66268cb1eb29597d47ea687f781b70f40d1/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.Symmetry.cs) - Week 7, Thu
-* Created preview of **Symmetric** in [`Commit e99bf89`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1a76458a8a6168f37771c95e245b88e45b2512e7) - Week 7, Fri
-* Refactored preview and execute action in [`Commit 99f13a1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ab4c5086cd3bb9425d7280858658609655d67167) - Week 7, Fri
+* Created preview of **Symmetric** in [`Commit 1a76458`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1a76458a8a6168f37771c95e245b88e45b2512e7) - Week 7, Fri
+* Refactored preview and execute action in [`Commit ab4c508`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ab4c5086cd3bb9425d7280858658609655d67167) - Week 7, Fri
 * Removed **Symmetric** from UI - Week 8, Thu
-* Implemented reset nodes to its original rotation in [`Commit 0d44fce`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1e3a2314ef4b6cb7081042db82f5191f50b424ae) - Week 9, Wed
+* Implemented reset nodes to its original rotation in [`Commit 1e3a231`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/1e3a2314ef4b6cb7081042db82f5191f50b424ae) - Week 9, Wed
 * Added Resize Lab base unit test in [`ResizeLabBaseTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4757354d6de862da0079cdea8ed637e5a9ee5075/PowerPointLabs/Test/UnitTest/ResizeLab/ResizeLabBaseTest.cs) - Week 9, Wed
 * Added unit tests for **Same Dimension** in [`SameDimensionTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4757354d6de862da0079cdea8ed637e5a9ee5075/PowerPointLabs/Test/UnitTest/ResizeLab/SameDimensionTest.cs) - Week 9, Wed
 * Added unit tests for **Fit to Slide** in [`FitToSlideTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/2e175998d1946aa88b4d45d7be02e9060ce9d4f9/PowerPointLabs/Test/UnitTest/ResizeLab/FitToSlideTest.cs) - Week 9, Thu
-* Implemented anchor alignment to **Same Dimension** in [`Commit 9034054`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8a84a5f7d3578ef335c44349929c5b69c1d3d92c) - Week 9, Thu
-* Integrated the reset of nodes in Resize Lab after previewing in [`Commit a4c1f4f`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/cd27419f860ca5cd7dec84f880d2035fdfa08b35) - Week 9, Fri
-* Refactored `PPShape` in [`Commit e4088b`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/37a9daf5aca1724643215dcd53197dd14075a539) - Week 9, Fri
-* Changed shape identifier for preview in [`Commit acb6193`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/c42b6a164fcc6976aea1c179503a7d74cdbacc29) - Week 10, Sun
+* Implemented anchor alignment to **Same Dimension** in [`Commit 8a84a5f`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8a84a5f7d3578ef335c44349929c5b69c1d3d92c) - Week 9, Thu
+* Integrated the reset of nodes in Resize Lab after previewing in [`Commit cd27419`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/cd27419f860ca5cd7dec84f880d2035fdfa08b35) - Week 9, Fri
+* Refactored `PPShape` in [`Commit 37a9daf`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/37a9daf5aca1724643215dcd53197dd14075a539) - Week 9, Fri
+* Changed shape identifier for preview in [`Commit c42b6a1`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/c42b6a164fcc6976aea1c179503a7d74cdbacc29) - Week 10, Sun
+* Fixed bug of restoring shape in for unit tests in [`Commit 4bcbb9a`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/4bcbb9ad28469f03e63cb28e974df2b2fc9c844c) - Week 10, Mon
+* Implemented previewing using Undo in [`Commit 0c14bfd`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/0c14bfdb4d1613ec196fd27e99be52374fa5ec98) - Week 10, Mon
+* Refactored **Stretch and Shrink** unit tests in [`Commit fdda5e5`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/fdda5e59af4137746f7a7a5f65b6381d06223d8f) - Week 10, Thu
+* Refactored **Same Dimension** unit tests in [`Commit 2f97b7b`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/2f97b7b093428b749a6cbf6e586333a0708b0682) - Week 10, Thu
+* Refactored **Fit To Slide** unit tests in [`Commit 07d1165`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/07d1165404b9602394416c41b88835650097c34f) - Week 10, Thu
+* Implemented **Match** in [`ResizeLabMain.Match.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/146dcce0df214d0d709cbdefaa168a776f37f45b/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.Match.cs) - Week 10, Thu
+* Implemented skeleton for **Adjust Proportionally** in [`ResizeLabMain.AdjustProportionally.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/9f03c29b71097af17a1592162c77d86b07ea76d8/PowerPointLabs/PowerPointLabs/ResizeLab/ResizeLabMain.AdjustProportionally.cs) - Week 10, Thu
+* Fixed PPShape calculation for shape at 90 degree in [Commit `103cc35`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/103cc35072d25254014d4a03e63d580c4a83c51b) - Week 10, Fri
+* Migrated anchor setting from **Equalize** to **Main Settings** in [`Commit 76bc2bd`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/76bc2bdab8933269528c88cd9c0d4f6fea38c770) - Week 11, Sun
+* Added unit tests for **Lock and Unlock Aspect Ratio** in [`MainSettingsTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/6b357b55873eb60d9525d84009d1d0ec236e4bb8/PowerPointLabs/Test/UnitTest/ResizeLab/MainSettingsTest.cs) - Week 11, Sun
+* Added unit tests for **Match** in [`MatchTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ed2dee4e163ef77f33ee5ad0aad8ce7c79c22c73/PowerPointLabs/Test/UnitTest/ResizeLab/MatchTest.cs) - Week 11, Sun
+* Added more unit test for **Stretch and Shrink** in [`Commit 5254288`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/525428829ef275892518c6f28fb3d901202ec2a1) - Week 11, Sun
+* Implemented anchor alignment for **Fit to Slide** in [`Commit 525d868`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/525d868f612a09ce9bbb15f9f133b1d8ab723202) - Week 11, Mon
+* Implemented **Adjust Proportionally** in [`Commit f7a0546`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/f7a054634ba136e23599a6a5b23fffae4a1a54f9) - Week 11, Mon
+* Implemented checking of input resize factor in [`Commit f7a0546`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/6154511aedd77b817ac048c44525c5a227e710c2) - Week 11, Tue
+* Added unit tests for **Adjust Proportionally** in [`AdjustProportionallyTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/de114b8150f8b6014a2963a60a874d127426fc80/PowerPointLabs/Test/UnitTest/ResizeLab/AdjustPropotionallyTest.cs) - Week 11, Tue
+* Added unit tests for **Adjust Slightly** in [`SlightAdjustTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/8af2e8ac854ab7bff4fb563a021419b806a81a86/PowerPointLabs/Test/UnitTest/ResizeLab/SlightAdjustTest.cs) - Week 11, Wed
+* Added unit tests for **Anchor Point** in [`Commit 8af2e8a`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8af2e8ac854ab7bff4fb563a021419b806a81a86) - Week 11, Wed
+* Differentiated variables name for **Visual Resize Type** in [`Commit 2084f34`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/2084f346efd43c1d34c48977ff87226dfbeec02e) - Week 12, Wed
+* Computed actual coordinates of 9 anchor points in [`Commit 16bcaac`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/16bcaacb31d16d2c38a6bee9d4d222b4fb98d40b) - Week 12, Wed
+* Implemented **Actual Resize Type** for **Equalize** in [`Commit ef24e6b`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ef24e6b407692bd176a6d67daa3629a88054ca86) - Week 12, Wed
+* Implemented **Actual Resize Type** for **Match** in [`Commit 13f406f`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/13f406f8fe878496df02397e0ea977f792bc59d8) - Week 12, Wed
+* Implemented **Actual Resize Type** for **Adjust Slightly** in [`Commit 96e7d7d`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/96e7d7d4eda6f7f6c6c847e9151377d1ef8e3640) - Week 12, Wed
+* Implemented **Actual Resize Type** for **Adjust Proportionally** in [`Commit f9b3738`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/f9b3738de1430eb0024bfc2ca50a028b3c7dbf0f) - Week 12, Wed
+* Retrieved slide numbers of unit test results into `SlideNo.cs` in [`Commit 930ff5e`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/930ff5ebe53d68065bd31d4ba6ec49df72c4b0d7) - Week 12, Thu
+* Added **Equalize** unit tests for actual shape resizing in [`Commit 0ffff29`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/0ffff29e0590eb3a0cfa39edc786443a8f19a81a) - Week 12, Thu
+* Added **Match** unit tests for actual shape resizing in [`Commit ce40bef`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ce40bef064f71d604425f3270ddf2dbf2802ad5a) - Week 12, Thu
+* Added **Adjust Proportionally** unit tests for actual shape resizing in [`Commit 5978fd3`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/5978fd316950c508b059f12104d44b96cd9d3058) - Week 12, Thu
+* Added **Adjust Slightly** unit tests for actual shape resizing in [`Commit 6a3e89a`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/6a3e89a5e20028e5498cb98024af1ed44eb2dec2) - Week 12, Thu
+* Added **Anchor Alignment** unit tests for actual shape resizing in [`Commit 07ea67`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/07ea6787f0db25c42a24577c887125a25c235edf) - Week 12, Thu
+* Fixed no free conversion at the degree of 0, 90, 180, 270 and 360 in [`Commit 429ce62`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/429ce62ad8042759de22de863bc6cf4a43a7bdad) - Week 12, Thu
+* Generated example images for documentation - Week 12, Fri
+
 
 #### Contributions to project [aima-python](https://github.com/aimacode/aima-python) (Minor Project)
  * [Pull Request #108](https://github.com/aimacode/aima-python/pull/108) (Merged) - Week 8, Wed
+ * [Pull Request #110](https://github.com/aimacode/aima-python/pull/110) (Merged) - Week 8, Wed
  * [Pull Request #112](https://github.com/aimacode/aima-python/pull/112) (Merged) - Week 8, Thu
  * [Pull Request #118](https://github.com/aimacode/aima-python/pull/118) (Merged) - Week 8, Sat
+ * [Pull Request #209](https://github.com/aimacode/aima-python/pull/209) (Merged) - Week 12, Sat
+ * [Pull Request #210](https://github.com/aimacode/aima-python/pull/210) (Merged) - Week 12, Sun
+ * [Pull Request #212](https://github.com/aimacode/aima-python/pull/212) (Merged) - Week 12, Sun
+ * [Pull Request #215](https://github.com/aimacode/aima-python/pull/215) (Merged) - Week 12, Sun
+ * Blog post: [Process Comparison between PowerPointLabs and AIMA](http://blog.nus.edu.sg/cs3281youthinkk/2016/04/10/process-comparison-between-powerpointlabs-and-aima/) - Week 12, Sun
+
 
 #### Technology expertise in Artificial Intelligence (AI)
 
@@ -254,8 +334,8 @@ permalink: /teams/powerpointlabs/
 ###### Accomplished
 * Learned CLIPS and produced a simple diagnosis program for abdomen [diagnosis.clp](https://gist.github.com/youthinkk/782c8ba0f8db7084deea) - Recess Week
 * Planned and proposed larger scale knowledge-based systems on curriculum planner - Recess Week
-* Blog post [What is Artificial Intelligence?](https://blog.nus.edu.sg/cs3281youthinkk/2016/02/29/what-is-artificial-intelligence/) - Recess Week
-* Working on the project of curriculum planner
+* Blog post: [What is Artificial Intelligence?](https://blog.nus.edu.sg/cs3281youthinkk/2016/02/29/what-is-artificial-intelligence/) - Recess Week
+* Working on the project of curriculum planner in [`SoCModulePlanner`](https://github.com/youthinkk/SoCModulePlanner) - Ongoing
 
 ---
 
@@ -296,7 +376,15 @@ permalink: /teams/powerpointlabs/
  * [Resized and implemented suggested icons for UI](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/acb619366babff07387ab5596c8fba40d9dd6ccc)
  * [Added labels below buttons, redesigned UI to maximise space usage](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ad2100ec383be55631803538a841ffca2d789a3a)
 * [Added Slight Adjust feature](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a63046eef0deb8ade3351aab5f59fb0b00154bb4) - Week 9
-* Working on UI (Bring settings out, refractor tooltips and several enhancements)
+* [Updated UI for Match Height and Width](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/38d90dc286cfcf23a928c046491589ec4a8b05dd) - Week 10
+* [Added delay to preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/a72933f9f0209bf5ee1926baf80403587be0b231) - Week 10
+* [UI enhancements](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/bb196606b7b63c14c93428298fd5dc31b779da39) - Week 10
+* [Moved anchor settings out to main pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/ac6f632e0e94b8b2ce33e4601d1b72a66b0883ce) - Week 10
+* [Added anchor support for match and slight adjust](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/72f7e8d56f6d2ddadf8dfe8559bda661c3ada095) - Week 10
+* [Improved algorithm for delay in preview](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/fa6f2155293f0651daa383621e9347256a4ac50b), but was replaced by [previewing with Ctrl key](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/4fd50df0bde1d64a9b167ecff123dbf0ab3535b0) - Week 11
+* [Updated UI for Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/862a1c7046b1be989c1e8ff7330b4a46de6071f6) - Week 11
+* Added settings for [Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/b5abe74c04f5c5aebd2cf75a19b24be9a9aaa08d) and [Slight Adjust](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/566fb0c6582bc7d028573e195a6c977172e4da6f) - Week 11
+* Several UI enhancements - Week 11
 
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
@@ -304,7 +392,7 @@ permalink: /teams/powerpointlabs/
  * Done setting up development environment - Recess week [screenshot](https://dl.dropboxusercontent.com/u/7610216/dev%20env.PNG)
  * Successfully ran test cases - Recess week
  * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
- * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case - Week 9
+ * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case (Merged) - Week 9
 
 #### Technology expertise in Testing
 
@@ -328,6 +416,10 @@ permalink: /teams/powerpointlabs/
 
 ### @vhazali (Victor Hazali) 
 
+###### [Blog for module](https://blog.nus.edu.sg/victorhz3281/)
+* [First post regarding module](https://blog.nus.edu.sg/victorhz3281/2016/01/23/hello-world/)
+* [Post on comparison between major and minor projects](https://blog.nus.edu.sg/victorhz3281/2016/03/30/comparing-powerpointlabs-and-openkeychain/)
+
 #### Contributions to project [PowerPointLabs](http://www.comp.nus.edu.sg/~pptlabs/)
 
 ###### Pull Request
@@ -347,17 +439,22 @@ permalink: /teams/powerpointlabs/
 * Implemented **Settings page for Distribute** in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8ea277d1243fc63fb53d715ba6a586aeeca9cef7) - Week 7, Mon
 * Implemented **Align and Distribute functions to use internal vertices as reference point** in [`PoitionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/273650b8181c9d08772761178e4e38f152e78349) - Week 7, Sun
 * Created the **Settings page UI for Swap** in [`ReorderSettingsDialog.xaml`](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/192ca1b23feed3739c2d8c9b343cf5a8f47b1f41) - Week 8, Mon
-* **Created Icons for Align and Distribute** in [Icons for all Positions Lab Pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/28) - Week 8, Mon
-* **Supports Powerpoint's align functions** in [PowerPoint Align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Mon
-* **Implemented Distribute Horizontal and Vertical using two anchorpoints** in [Distribute Shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Mon
-* **Implemented option for user whether to align after adjoining** in [Adjoin no longer auto aligns](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/42) - Week 9, Mon
-* **Implemented option for user to choose distribute space between shape edges or shape centers** in [Allow user to choose distribute by shape edges or center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/44) - Week 9, Tue
-* **Implemented new function to align horizontal and vertical center** in [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
+* Created Icons for **Align** and **Distribute** in [Icons for all Positions Lab Pane](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/28) - Week 8, Mon
+* Supports **Powerpoint's Align functions** in [PowerPoint Align functions](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/33) - Week 9, Mon
+* Implemented **Distribute Horizontal and Vertical using two anchorpoints** in [Distribute Shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/32) - Week 9, Mon
+* Implemented option for user whether to **Align after Adjoining** in [Adjoin no longer auto aligns](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/42) - Week 9, Mon
+* Implemented option for user to **choose Distribute space between shape edges or shape centers** in [Allow user to choose distribute by shape edges or center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/44) - Week 9, Tue
+* Implemented new function to **align horizontal and vertical center** in [New align function to align center](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/47) - Week 9, Tue
+* Implemented **Distribute with respect to extreme shapes** in [Distribute with respect to extreme shapes](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/43) - Week 10, Tue
+* Improved Adjoin to have buttons that allows for **Adjoin with Align and Adjoin without Align** in [Two more buttons for Adjoin](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/51) - Week 10, Wed
+* Added **text under icons** for Positions Lab Pane in [Icon with Text](https://github.com/nus-fboa2016-PL/PowerPointLabs/issues/61) - Week 12, Mon
 
 #### Contributions to project [OpenKeychain](https://www.openkeychain.org/) (Minor Project)
  * Setup of project
- * Looking through open and closed pull requests
- * WIP for first issue
+ * Looking through open and closed pull requests to understand workflow
+ * Installed the app to dogfood and understand the product better
+ * Merged [first PR](https://github.com/open-keychain/open-keychain/pull/1804)
+ * Merged [second PR](https://github.com/open-keychain/open-keychain/pull/1808)
 
 #### Contributions to [CS2103 website](http://www.comp.nus.edu.sg/~cs2103/AY1516S2/)
 * [Pull request #103](https://github.com/nus-cs2103/website/pull/103)
@@ -374,11 +471,12 @@ permalink: /teams/powerpointlabs/
  * Wrote a short code to implement a [Rainbow Table](https://github.com/vhazali/cs4236/tree/master/Rainbow)
  * Learn how to use some analysis tools such as nmap, gdb
  * Tried out reversing binaries
+ * Participated in X-CTF organised by NUSGreyhats
 
 ###### Short Term Plan 
 * Expose myself to more security related issues by going for talks
 * Gain hands on experience by participating in Capture The Flag competitions
-* Join a community that's geared towards Information Security (such as NUS GreyHats)
+* Gain more practical knowledge by participating in security events (DSTA - Cyber Defenders Discovery Camp)
 * Contribute to OSS related to security to gain more exposure (Open Keychain / Nmap)
 * Improve knowledge in assembly/binary code
 
