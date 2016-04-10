@@ -100,10 +100,11 @@ permalink: /teams/teammates/
 
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
-*1. Blog posts on minor projects*
+1. Blog posts on minor projects:
   1. [Blog post showing prove of successful setup](https://cs3281.wordpress.com/2016/03/16/minor-project-oppia/) - Week 9
   2. [Comparing and how to improve TEAMMATES and Oppia](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/) - Week 9
-*2. PR on minor projects*
+
+2. PR on minor projects:
   1. [Forked and set up project](https://github.com/kennho/oppia) - Week 9
   2. [Issue #1603](https://github.com/oppia/oppia/issues/1603) - Week 9 : [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
   3. [Issue #1075](https://github.com/oppia/oppia/issues/1075) - Week 10 : [Pull Request #1642](https://github.com/oppia/oppia/pull/1642) (Merged) - Week 10
@@ -113,7 +114,8 @@ permalink: /teams/teammates/
   7. [Issue #1679](https://github.com/oppia/oppia/issues/1679) - Week 12 : [Pull Request #1692](https://github.com/oppia/oppia/pull/1692) (Merged) - Week 12
   8. Reviewer for UI for [Pull Request #1693](https://github.com/oppia/oppia/pull/1693) (Merged) - Week 12
   9. Assigned [Issue #1085](https://github.com/oppia/oppia/issues/1085) (Ongoing) - Week 12
-*3. Other projects/repo contributions*
+  
+3. Other projects/repo contributions
   1. [NUS Students' Computing Club](https://github.com/NUSComputingDev)
 
 
