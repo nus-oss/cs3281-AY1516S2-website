@@ -46,12 +46,12 @@ permalink: /teams/codebender/
 * [x] Create show info page - Week 8
 * [x] Create test to ensure show info page shows correct info - Week 9
 * [x] Create dashboard page - Week 9
-* [ ] Create test to ensure dashboard page shows correct and links correctly - Week 10
-* [ ] Create log/analytics database - Week 10
-* [ ] Create Analytics page - Week 11
-* [ ] Create test to ensure Analytic page shows correct analytics - Week 11
-* [ ] Create admin page - Week 12
-* [ ] Create test for admin page and features - Week 12
+* [x] Create log/analytics database - Week 10
+* [x] Link firmware database and flashing page - Week 11
+* [x] Create individual firmware flash page and embed code - Week 11
+* [x] Create Analytic page - Week 12
+* [x] Integration - Week 12
+* [x] Buffer - Week 13
 
 ## Workplan for Eratosthenes
 
@@ -97,11 +97,13 @@ permalink: /teams/codebender/
     * [x] Write script to migrate libraries from production database and filesystem into v2 schema
     * [x] Add front-end validation for adding of new version to an existing library
     * [x] Generate a schema diagram for our new database design
-* [ ] **Milestone 7** - Due Week 12, Sun
+* [x] **Milestone 7** - Due Week 12, Sun
     * [x] Implement preferences for all APIs
-    * [ ] Remove duplicate library files and modify v1 API to use v2 library files
-    * [ ] Remove duplicate code by changing duplicated code to reference v1 methods
-    * [ ] Perform migration tests on virtual instance
+    * [x] Remove duplicate library files and modify v1 API to use v2 library files
+    * [x] Remove duplicate code by changing duplicated code to reference v1 methods
+    * [x] Perform migration tests on virtual instance
+    * [x] Write API documentation for Eratosthenes
+    * [x] Test actual requests on the migrated mock production server
 * Week 13 - Buffer time
 
 
@@ -128,10 +130,10 @@ permalink: /teams/codebender/
 * [x] Documenation (on patterns and user manual) - Week 8
 * [x] Pause and restart the chart plotting - Week 8
 * [x] CSV Import - Week 8
-* [ ] User costumization of axis name, data name,etc - Week 9
 * [x] Bar Chart - Week 9
 * [x] Performance evaluation - Week 10
-* [ ] Merging/Revising - Week 10
+* [x] Merging/Revising - Week 10
+* [x] Elimination of noise data - Week 11
 * [ ] Deploying on live server, done! - Week 11
 
 ## Contributions
@@ -180,8 +182,23 @@ permalink: /teams/codebender/
 * Week 7, Tue - Wrote test for updating of a library's last commit
 * Week 8, Tue - Implemented support for the authentication of multiple partners
 * Week 8, Tue - Created tests for testing the authentication mechanism
-* Week 9, Tue - Wrote the ultimate migration script for migrating everything on the production server ([PR #62](https://github.com/codebendercc/eratosthenes/pull/62))
+* Week 9, Tue - Wrote the ultimate migration script for migrating everything on the production server ([PR #62](https://github.com/codebendercc/eratosthenes/pull/62)) (merged)
 * Week 9, Thu - Generated a schema diagram of our new database design
+* Week 10, Sat - Wrote a fix for an existing bug which propagated from v1 to v2 ([PR #68](https://github.com/codebendercc/eratosthenes/pull/68)) (merged)
+* Week 10, Sat - Orientated myself with the mock production server which we will be testing our migration on
+* Week 11, Wed - Added more Arduino architectures to the migration script
+* Week 11, Wed - Successfully performed the migration on the [mock production server](http://eratosthenes-foa.codebender.cc/status)
+* Week 11, Thu - Created a [Wiki](https://github.com/codebendercc/eratosthenes/wiki) for Eratosthenes for documentation purposes
+* Week 11, Thu - Documented the [implemented APIs](https://github.com/codebendercc/eratosthenes/wiki/APIs) as well as some [ideas for future development](https://github.com/codebendercc/eratosthenes/wiki/Future-Development)
+* Week 11, Thu - Make naming changes based on feedback from John ([PR #72](https://github.com/codebendercc/eratosthenes/pull/72)) (merged)
+* Week 11, Thu - Remove old entities, fixtures and tables ([PR #73](https://github.com/codebendercc/eratosthenes/pull/73))
+* Week 11, Fri - Wrote a guide on [how to extend the existing APIs for Eratosthenes](https://github.com/codebendercc/eratosthenes/wiki/Extending-the-APIs)
+* Week 12, Wed - Tested version 2 of Eratosthenes on the mock production server for backward compatibility
+* Week 12, Wed - Fixed minor lapses in backward compatibility
+* Week 12, Thu - Merged and integrated all existing pull requests
+* Week 12, Sat - Co-designed the deleteLibrary API for version 2 of Eratosthenes
+* Week 12, Sat - Wrote the Wiki entry on the deleteLibrary API
+* Week 12, Sat - Resolved all conflicts in the final [pull request](https://github.com/codebendercc/eratosthenes/pull/76)
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
@@ -217,6 +234,9 @@ permalink: /teams/codebender/
 * Posted a write-up on a web/cryptographic challenge in Insomni'hack 2016 ([blog post on the challenge](http://cs3281-2.blogspot.sg/2016/03/te-insomnihack-2016-teaser-fridginator.html))
 * Posted a write-up on a cryptographic/exploit challenge in SSCTF Quals 2016 ([blog post on the challenge](http://cs3281-2.blogspot.sg/2016/03/te-ssctf-2016-heheda-crypto-exploit.html))
 * Wrote a blog post on another cryptographic/exploit challenge in SSCTF Quals 2016 ([write-up](http://cs3281-2.blogspot.sg/2016/03/te-ssctf-2016-chain-rule-crypto-exploit.html))
+* Attended Security Wednesdays talk on ["Local Privilege Escalation – From Zero to Hero"](https://www.facebook.com/events/1019203218143738/)
+* Created a binary challenge for the upcoming [X-CTF 2016](http://nusgreyhats.org/x-ctf/)
+* Learnt special tricks about cross-site scripting and social engineering at a [security-themed Friday Hacks](http://nushackers.org/2016/03/friday-hacks-111-Apr-1/)
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
@@ -247,7 +267,10 @@ permalink: /teams/codebender/
 * Week 9, Wed - Combined the two types of libraries builtin libraries and external libraries. Handled all the regression caused by this change. Added tests. ([PR #57](https://github.com/codebendercc/eratosthenes/pull/57) and [PR #58](https://github.com/codebendercc/eratosthenes/pull/58))
 * Week 9, Wed - Raised an issue to suggest better practice [Issue #59](https://github.com/codebendercc/eratosthenes/issues/59)
 * Week 9, Wed - Modified latest_version to be non-nullable and modified Library / Version related codes to follow this restriction.
-
+* Week 10, Wed - Prunning of codes from older v1 API [PR #66](https://github.com/codebendercc/eratosthenes/pull/66)
+* Week 10, Sun - Working on integration.. Resolving conflicts.
+* Week 11, Sun - Worked on documenting APIs on Wiki [Link](https://github.com/codebendercc/eratosthenes/wiki/APIs)
+* Week 12, Sun - Implements the backend of deleteLibrary API.
 
 #### Contribution to minor project - HubTurbo
  * Week 6, Sun - Project setup
@@ -257,7 +280,7 @@ permalink: /teams/codebender/
  * Recess Week - Raised [issue #1281](https://github.com/HubTurbo/HubTurbo/issues/1281)
  * Recess Week - Worked on issue 1233 but another PR made for very related issue so halted
  
-#### Technology expertise in Ruby on Rails
+#### Technology expertise in Ruby
 
 ##### Short Term Plan
  * Online tutorials
@@ -283,6 +306,9 @@ permalink: /teams/codebender/
  * Metaprogramming Ruby 2. Chapter 4: Blocks
  * Wrote Metaprogramming Ruby 2. Chapter 4 Summary [Link](http://moonmoon3281.blogspot.sg/2016/03/metaprogramming-ruby-2-chapter-4-summary.html)
  * Metaprogramming Ruby 2. Chapter 5: Class Definition
+ * Wrote Metaprogramming Ruby 2. Chapter 5 Summary [Link](http://moonmoon3281.blogspot.sg/2016/03/metaprogramming-ruby-2-chapter-5-summary.html)
+ * Metaprogramming Ruby 2. Chapter 6: Code That Writes
+ * First Ruby Project. Developed a web scrapper for a research assistant part time job for a professor at NUS Business School. Scraped data since 1991 from a website. [Repo](https://github.com/bsmmoon/scrapper5)
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
@@ -299,16 +325,26 @@ permalink: /teams/codebender/
 * Week 5, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/23)
 * Week 6, Mon - Started on landing page
 * Week 6, Fri - [Landing page initial commit](https://github.com/codebendercc/Neuralyzer/pull/24)
-* Week 6, Fri - Added unit test for landing page
-* Week 6, Sat - Created database for user and tier levels
-* Week 6, Sat - Created functional tests for user and tier database
-* Week 7, Fri - Created Login and Register page
-* Week 8, Mon - Linked Login and Register page to database
-* Week 8, Thu - Created database for firmware
-* Week 9, Mon - Fixed bug related to login
-* Week 9, Thu - Created functional test for Registration
-* Week 9, Sat - Created Show Info Page
-* Week 9, Sun - Created Dashboard Page
+* Week 6, Fri - [Added unit test for landing page](https://github.com/codebendercc/Neuralyzer/pull/25)
+* Week 6, Sat - [Created database for user and tier levels](https://github.com/codebendercc/Neuralyzer/pull/26)
+* Week 6, Sat - [Created functional tests for user and tier database](https://github.com/codebendercc/Neuralyzer/pull/26)
+* Week 7, Fri - [Created Login and Register page](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 8, Mon - [Linked Login and Register page to database](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 8, Thu - [Created database for firmware](https://github.com/codebendercc/Neuralyzer/pull/40)
+* Week 9, Mon - [Fixed bug related to login](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 9, Thu - [Created functional test for Registration](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 9, Sat - [Created Show Info Page](https://github.com/codebendercc/Neuralyzer/pull/35)
+* Week 9, Sun - [Created Dashboard Page](https://github.com/codebendercc/Neuralyzer/pull/34)
+* Week 10, Thu - [Fixed bug related to flashing](https://github.com/codebendercc/Neuralyzer/pull/23) Merged, hurray!
+* Week 10, Sun - Improved functional tests for landing page & flash page
+* Week 11, Mon - [Created logs database](https://github.com/codebendercc/Neuralyzer/pull/36)
+* Week 11, Wed - [Linked up all database with foreign keys and cascading enabled](https://github.com/codebendercc/Neuralyzer/pull/37)
+* Week 11, Thu - [Lots of improvements on login-register-page](https://github.com/codebendercc/Neuralyzer/pull/28)
+* Week 12, Mon - [Linked flashing page with firmware database](https://github.com/codebendercc/Neuralyzer/pull/38)
+* Week 12, Mon - [Created individual flash pages + allow user to copy embed code onto their website](https://github.com/codebendercc/Neuralyzer/pull/38)
+* Week 12, Fri - [Created Analytic/Log page](https://github.com/codebendercc/Neuralyzer/pull/43)
+* Week 12, Fri - [Minor wording fix and improvements](https://github.com/codebendercc/Neuralyzer/pull/45)
+* Week 12, Fri - All PR's have been merged into codebendercc/Neuralyzer
 
 #### Contribution to minor project - Powerpoint Labs
 * Week 6, Fri - Setup of project environment complete.
@@ -323,11 +359,15 @@ permalink: /teams/codebender/
 * Week 9, Thu - Included some images which was outside of /img folder into the rake task in [PR #4](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30) (Merged)
 * Week 9, Thu - [PR #3 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/29), hurray!
 * Week 9, Thu - [PR #4 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/30), hurray!
+* Week 12, Mon - [Submitted PR for automatic inline of JS and CSS into HTML](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/32)
+* Week 12, Fri - [PR #5 Merged](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/32), hurray!
 
 #### Technology expertise in Web Performance
 * Recess Week - [Wrote a blog post on lossless image compression for Powerpoint Labs](http://alexyy.com/2016/02/22/image-compression/)
 * Week 7, Mon - [Automation of image compression](http://alexyy.com/2016/02/29/automated-image-compression/)
-* Week 10, Mon - Wrote blog post regarding gzip
+* Week 10, Mon - [Wrote blog post regarding gzip](http://alexyy.com/2016/03/21/gzip-benefits/)
+* Week 11, Sat - [Wrote blog post comparing development process](http://alexyy.com/2016/04/02/process-differences/)
+* Week 12, Sun - [Wrote blog post regarding merge JS/CSS into HTML](http://alexyy.com/2016/04/10/pros-and-cons-of-merging-js-css-html/)
 
 ### @harryggg (Ma Tanghao)
 * Week 2, Tues - Received project details
@@ -359,12 +399,21 @@ permalink: /teams/codebender/
 * Week 8, Sun - finish implementing bar chart (both frontend and backend)
 * Week 9, Tues - fix an issue about switches between bar/line chart
 * Week 9, Wed - Performance Profiling and Evaluation
+* Week 10,Wed - Refactor code according to mentor's comments (waiting for merge)
+* Week 10,Thurs - Add legend text in line graph
+* Week 10,Sun - Add noise elimination mechanism, so additional non-critical data will not crash the program
+* Week 11,Tues - Adjust the code according to frontend developers' needs
+* Week 11,Wed - Further modularize the code, encapsulate everything so that developers can implement the library with two lines
+* Week 11,Wed - Implement Mean, Variance, Min, Max, line hiding, zooming and panning, image exporting
+* Week 11,Sat - Added support for Chrome
+* Week 11,Sat - Implement sample size slider
+* Week 12,Wed - Fix a lot of fronted issues PR [#7](https://github.com/codebendercc/graphic_serial_monitor/pull/7) and PR [#8](https://github.com/codebendercc/graphic_serial_monitor/pull/8)
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
  * Raised issue[#822](https://github.com/Coursemology/coursemology2/issues/822) - Week 6
  * PR [#897](https://github.com/Coursemology/coursemology2/pull/897) for issue[#613](https://github.com/Coursemology/coursemology2/issues/613)(Merged) - Week 8, Mon
- * PR [#936](https://github.com/Coursemology/coursemology2/pull/936) for issue[#933](https://github.com/Coursemology/coursemology2/issues/933) - Week 9, Sun
+ * PR [#936](https://github.com/Coursemology/coursemology2/pull/936) for issue[#933](https://github.com/Coursemology/coursemology2/issues/933)(Merged) - Week 9, Sun
 
 #### Technology expertise in Regular Expressions
 * Publish self-written Ruby Gem [mthAuth](https://rubygems.org/gems/mthAuth) - Recess Week
@@ -373,7 +422,8 @@ permalink: /teams/codebender/
 * [Useful Regular Expressions 1 - Date and time](http://blog.nus.edu.sg/matanghao/2016/03/09/useful-regular-expression-1-time-and-date/) - Week 8
 * [Summary of Mastering Regular Expression Chapter.2](http://blog.nus.edu.sg/matanghao/2016/03/15/summary-of-mastering-regular-expressions-chapter-2/) - Week 9
 * [Useful Regular Expressions 2](http://blog.nus.edu.sg/matanghao/2016/03/15/useful-regular-expression-2/) - Week 9
-* * [Summary of Mastering Regular Expression Chapter.4](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
+* [Summary of Mastering Regular Expression Chapter.4](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
+* [Summary of Mastering Regular Expression Chapter.5](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
 
 ### @gisonrg (Jiang Sheng) (Team Lead - Week 9 - 12)
 * Week 2, Tues - Received project details
@@ -408,6 +458,14 @@ permalink: /teams/codebender/
 * Week 8, Sun - Refine the process when header file name collision when add new library [ref](https://github.com/codebendercc/eratosthenes/commit/c17b3073ae5c7ef5449e04aae9cfdf9924d296f1)
 * Week 9, Tue - Implement default version of library for partners [PR](https://github.com/codebendercc/eratosthenes/pull/60)
 * Week 9, Sat - Add default version support for current APIs [ref](https://github.com/codebendercc/eratosthenes/pull/60/commits)
+* Week 10, Fri - Removed v1 legacy files [PR](https://github.com/codebendercc/eratosthenes/pull/67)
+* Week 10, Sun - Add more tests [PR](https://github.com/codebendercc/eratosthenes/pull/70)
+* Week 10, Sun - Hide toggle status button when view built-in libraries [PR](https://github.com/codebendercc/eratosthenes/pull/71)
+* Week 11, Wed - A [blog post](http://blog.gisonrg.me/2016/development-process-comparison-between-codebender-and-teammates/) about comparsion of development process between Codebender and Teammates
+* Week 11, Thu - Documented the [views](https://github.com/codebendercc/eratosthenes/wiki/Views)
+* Week 11, Sun - Removed v1 legacy routings [PR](https://github.com/codebendercc/eratosthenes/pull/74)
+* Week 12, Tues - Verify migration result for all Apis on two server instance under codebender.cc. Fix bugs and formats that are inconsistent. [ref](https://github.com/codebendercc/eratosthenes/commits/v2-merged-hotfix)
+* Week 12, Wed - Fixes some bugs in migrations for getExamples and getExampleCode commands [PR](https://github.com/codebendercc/eratosthenes/pull/75)
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
@@ -418,7 +476,8 @@ permalink: /teams/codebender/
 * (Merged) PR [#4953](https://github.com/TEAMMATES/teammates/pull/4953) for issue [#4950](https://github.com/TEAMMATES/teammates/issues/4950) -  [Bug Analysis](https://github.com/TEAMMATES/teammates/issues/4950#issuecomment-194369745)- Week 8, Wed
 * Raised [#4975](https://github.com/TEAMMATES/teammates/issues/4975)
 * (Merged) PR [#4988](https://github.com/TEAMMATES/teammates/pull/4988) for issue [#4631](https://github.com/TEAMMATES/teammates/issues/4631) - Week 8, Sun
-* Add code coverage for js tests in PR [#5054](https://github.com/TEAMMATES/teammates/pull/5054) for issue [#5040](https://github.com/TEAMMATES/teammates/issues/5040) - Week 9, Sat
+* (Merged) Add code coverage for js tests in PR [#5054](https://github.com/TEAMMATES/teammates/pull/5054) for issue [#5040](https://github.com/TEAMMATES/teammates/issues/5040) - Week 9, Sat
+* Raised [#5105](https://github.com/TEAMMATES/teammates/issues/5105) - Week 10, Wed
 
 ###### Past Contribution to HubTurbo
 * (Merged) PR [#1242](https://github.com/HubTurbo/HubTurbo/pull/1242) for issue [#1239](https://github.com/HubTurbo/HubTurbo/issues/1239) -Week 4, Sat
@@ -452,5 +511,7 @@ permalink: /teams/codebender/
 * Week 8, Sun - Write a [blog post](http://blog.gisonrg.me/2016/create-github-webhook-handler/) to share my learning experience on developing my first node package [express-github-webhook](https://github.com/Gisonrg/express-github-webhook/)
 * Week 9, Wed - Write a [blog post](http://blog.gisonrg.me/2016/automation-tool-gulp-vs-grunt/) on JavaScript task runner
 * Week 9, Sat - Found a bug in [Blanket.js](blanketjs.org) when adding code coverage for TEAMMATES. Try fix it in [PR](https://github.com/alex-seville/blanket/pull/557) (Merged on Week 9, Sun)
-* (Ongoing) Working on a JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
+* Week 10, Sun - Develop the Gulp file for build and deploy for the [CS4224](https://github.com/Gisonrg/ER-diagram-editor) project. Gain more insights on Gulp's asyn tasks execution and stream flow. [ref](https://github.com/Gisonrg/ER-diagram-editor/blob/master/gulpfile.js)
+* Week 11, Tue - Write a [blog post](http://blog.gisonrg.me/2016/why-we-need-one-line-module-in-node/) to discuss about "One-line" modules in Node eco-system.
+* Week 4 - Week 11, Sun - Develop the JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
   * Gain experience in Angular, front-end development process and Gulp configuration in the project
