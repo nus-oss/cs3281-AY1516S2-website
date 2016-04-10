@@ -79,12 +79,12 @@ permalink: /teams/powerpointlabs/
   * [x] Fix bug with Swap throwing exception for duplicate images - Week 12, Sun
   * [x] Fix bug with Snap preview changing shapes permanently - Week 12, Sun
   * [x] Added text under icon for Positions Lab Pane - Week 12, Mon
+  * [x] Added unit tests - Week 12, Thu
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
 * Workplan for Positions Lab
   * [ ] Refactor architecture of Positions Lab
-  * [ ] Create functional tests
   * [ ] Side-by-side preview for all possible implementation of a function
 
 ###### Resize Lab
@@ -431,10 +431,11 @@ permalink: /teams/powerpointlabs/
  * Wrote a short code to implement a [Rainbow Table](https://github.com/vhazali/cs4236/tree/master/Rainbow)
  * Learn how to use some analysis tools such as nmap, gdb
  * Tried out reversing binaries
+ * Participated in X-CTF organised by NUSGreyhats
 
 ###### Short Term Plan 
 * Expose myself to more security related issues by going for talks
-* Gain hands on experience by participating in Capture The Flag competitions (X-CTF by NUS Greyhats)
+* Gain hands on experience by participating in Capture The Flag competitions
 * Gain more practical knowledge by participating in security events (DSTA - Cyber Defenders Discovery Camp)
 * Contribute to OSS related to security to gain more exposure (Open Keychain / Nmap)
 * Improve knowledge in assembly/binary code
