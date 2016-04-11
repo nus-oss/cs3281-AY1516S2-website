@@ -312,6 +312,8 @@ Notes:
 * [Change packet list to use VirtualScroll component to improve performance when rendering long list of packets](https://github.com/nus-fboa2016-si/socketio-devtool/commit/6455f64e3b92f3da34539a1a4c1db80eefacd62a) - Week 11, Tue
 * [Fix the highlighting problem on VirtualScroll item when packet is selected](https://github.com/nus-fboa2016-si/socketio-devtool/commit/a12364f0d5ca3a43823a7158970338fdb79b273e) - Week 11, Fri
 * [Fix bug for filtering and displaying packets with no content](https://github.com/nus-fboa2016-si/socketio-devtool/commit/959cec0c239b837c0028e01166d8a4279cab9bca) - Week 11, Fri
+* [Fix packet display when supporting binary data in packet](https://github.com/nus-fboa2016-si/socketio-devtool/commit/4b622a1d1816cdd28113a4741ff7a21d6a1edf9b) - Week 12, Thur
+* [Implement filtering for binary data in packet](https://github.com/nus-fboa2016-si/socketio-devtool/commit/5f20107bb588c283cb1b3483c4f64a1ef700d69a) - Week 12, Thur
 
 #### Contribution to project Teammates (Minor Project)
 * [Fix Issue #3073](https://github.com/TEAMMATES/teammates/pull/3088) - Past Work (PR Merged)
