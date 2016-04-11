@@ -79,7 +79,14 @@ permalink: /teams/powerpointlabs/
   * [x] Fix bug with Swap throwing exception for duplicate images - Week 12, Sun
   * [x] Fix bug with Snap preview changing shapes permanently - Week 12, Sun
   * [x] Added text under icon for Positions Lab Pane - Week 12, Mon
-  * [x] Added unit tests - Week 12, Thu
+  * [x] Implement Ctrl+Hover Preview for PositionsLab - Week 12, Mon
+  * [x] Shift Grid Settings to Grid Dialog - Week 12, Tues
+  * [x] Functions now work with images - Week 12, Wed
+  * [x] Preview changed to Shift+Hover - Week 12, Wed
+  * [x] Improve test coverage of existing tests - Week 12, Thu
+  * [x] Added Snap unit test - Week 12, Thu
+  * [x] Distribute now works more intuitively - Week 12, Fri
+  * [x] Update Distribute Unit tests - Week 12, Fri
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
@@ -135,7 +142,6 @@ permalink: /teams/powerpointlabs/
 * Others
   * [x] Create unit tests for major functions - Week 9, Thu
   * [x] Documentation - Week 12, Thu
-  * [ ] Create functional tests
   * [ ] Merge with master branch 
 
 ## Contributions
@@ -188,8 +194,15 @@ permalink: /teams/powerpointlabs/
 * Changed implementation of **Undo** to not use PowerPoint's Undo in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/df927ae64331dce1d9f68a90c8966d3f1d19610b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 11, Wed
 * Fix bug with **Swap** due to old Undo in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/df927ae64331dce1d9f68a90c8966d3f1d19610b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 11, Thu
 * Add Unit tests for **Swap** in [`PositionsLabSwapTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ac412968c26abb9996dec11539c07dcf798eafcf/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabSwapTest.cs) - Week 11, Thu
-* Fix bug with Swap throwing exception for duplicate images in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/96e7b8e5af716052583d339d9c9e620d727dbf04/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
-* Fix bug with Snap preview changing shapes permanently in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/64917e13dd9b2dbd3c6380fffa89ce90682e1e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
+* Fix bug with **Swap** throwing exception for duplicate images in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/96e7b8e5af716052583d339d9c9e620d727dbf04/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
+* Fix bug with **Snap** preview changing shapes permanently in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/64917e13dd9b2dbd3c6380fffa89ce90682e1e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
+* Implement **Ctrl+Hover Preview** for PositionsLab in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/78e4e68516a3b6d15e80dccc1c6429ad21c1ba40/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Mon
+* Shift Grid Settings to Grid Dialog in [`DistributeGridDialog.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/23fd63d5a768c3407c4048c230a8d4b2b9934e45/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsDistributeGridDialog.xaml.cs) - Week 12, Tue
+* Functions now work with images in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/93afd8aec7ddded1cb7003d8f2e414bd646469e4/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 12, Wed
+* **Preview** changed to Shift+Hover in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4775c35cdd01bcd3cc14914574f6694b938f1ffa/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Wed
+* Improve test coverage of existing tests - Week 12, Thu
+* Added **Snap** unit test in [`PositionsLabSnapTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/e440bb70c78e8eed2539c5c083a6b24375dbd443/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabSnapTest.cs) - Week 12, Thu
+* Various bug fixes - Week 12
 
 #### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
  * Setup Environment: [Screenshot](https://drive.google.com/open?id=0BzrjImOddxOKSVY4eHBEdHlQcjg) - Week 8, Fri
@@ -223,6 +236,7 @@ permalink: /teams/powerpointlabs/
 * Exercise on Authentication and Authorisation: [CS3226 Lab 6](http://cs3226.comp.nus.edu.sg/~a0096724/lab6/) - Week 8
 * Prototype of Cache Simulator: [Cache Simulator - Iteration 2](http://oswellchan.github.io/CacheSimulator/) - Week 9
 * [Blog Post on SEO](https://medium.com/@oswellchan/search-engine-optimization-how-site-architecture-affects-seo-8e1815a34752#.td99u8jp9) - Week 10 
+* Creating Website with team for [NUS Life Hacks](http://nush.info/) - Week 12
 
 ---
 
@@ -385,6 +399,14 @@ permalink: /teams/powerpointlabs/
 * [Updated UI for Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/862a1c7046b1be989c1e8ff7330b4a46de6071f6) - Week 11
 * Added settings for [Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/b5abe74c04f5c5aebd2cf75a19b24be9a9aaa08d) and [Slight Adjust](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/566fb0c6582bc7d028573e195a6c977172e4da6f) - Week 11
 * Several UI enhancements - Week 11
+* Added [UI for visual/actual resize settings](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/19126450a317d571421d619a18b0915680a568f4) - Week 12
+* Updated [logic and UI for Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8a9188611eb13d39e99d234465521c55fcb7f77f) - Week 12
+* UX enhancement - allow users to [close setting windows using Esc and Enter](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/f10260b3a814a002cdcd2f0429217c7d39432677) and changed [preview key from Ctrl to Shift](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/6335bb77c8df8e530f144582e8f6cece50fe494f) - Week 12
+* Several UI enhancements, with major one [making several changes to tooltips](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/801b825c1694e8b8498f3b0f189f806f1a5e9964) - Week 12
+* Fixed [bug in Stretch/Shrink](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/32bb14c3b18c7000df7a6899aab40797c3e7224c) - Week 12
+* Prepared [examples for main settings (aspect ratio, anchor point, visual resize)](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/5b197cd71954b05fe51542442e628e82099657f2) - Week 12
+* Did write up and content organisation for documentation - Week 12
+
 
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
@@ -393,13 +415,20 @@ permalink: /teams/powerpointlabs/
  * Successfully ran test cases - Recess week
  * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
  * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case (Merged) - Week 9
+ * Submitted [pull request #108](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/108) to convert test case to conform to guidelines - Week 12
+ * Submitted [pull request #109](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/109) to fix broken CI (Merged) - Week 12
+ * Submitted [pull request #110](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/110) to improve test case - Week 12
+ * Actively participated in [forum](https://talk.openmrs.org/users/yancmo/activity)
+ * Updated info in their [wiki page](https://wiki.openmrs.org/display/~yancmo)
+ * [Blog post](https://yancmo.wordpress.com/2016/04/10/process-comparison-powerpointlabs-vs-openmrs/) on process comparison - Week 12
 
 #### Technology expertise in Testing
 
 ###### Short Term Plan 
 * Develop test cases for PowerPointLabs and OpenMRS
 * Find ways to make code more testable
-* Read up on a few tools related to test coverage / CI (Bamboo, Travis etc)
+* Read up on a few tools related to test coverage
+* Read up on different methods of testing
 
 ###### Long Term Plan 
 * Related module to Testing
@@ -411,6 +440,8 @@ permalink: /teams/powerpointlabs/
 * Wrote unit tests for stretch/shrink - Week 8
 * Fixed one of OpenMRS's UI tests to conform with their guidelines, and increase testibility and reliability - Week 9
 * Refractored code in PPTLab to increase testibility such that logic/model no longer couples with view - Week 9
+* Read up on module based testing - Week 12
+* Submitted 2 more pull requests related to testing - Week 12
 
 ---
 
