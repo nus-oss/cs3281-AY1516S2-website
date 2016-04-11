@@ -451,21 +451,23 @@ permalink: /teams/codebender/
 * Recess Week - Implement views for adding new library; also help to implement the logic for adding new library. [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/commit/6dfa4f84fe348a21b3154590d6351e03c572e5a6)
 * Recess Week - Add testcases to strengthen the code coverage (Now >90% for most ApiCommands)
 * Recess Week - Add functional tests to new views (view, search, download) [Ref](https://github.com/nus-fboa2016-CB/eratosthenes/blob/v2-api-development/Symfony/src/Codebender/LibraryBundle/Tests/Controller/ApiViewsControllerTest.php)
-* Week 7, Tue - Implement adding library from Github Releases [PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/16)
-* Week 7, Sat - Implement auto populating library meta when adding version for existing library [PR](https://github.com/codebendercc/eratosthenes/pull/50)
-* Week 7, Sun - UI improvement for version section [PR](https://github.com/codebendercc/eratosthenes/pull/51)
-* Week 8, Wed - Support architectures when add and view library [PR](https://github.com/codebendercc/eratosthenes/pull/55)
+* Week 7, Tue - Implement adding library from Github Releases [PR](https://github.com/nus-fboa2016-CB/eratosthenes/pull/16)(Merged)
+* Week 7, Sat - Implement auto populating library meta when adding version for existing library [PR](https://github.com/codebendercc/eratosthenes/pull/50)(Merged)
+* Week 7, Sun - UI improvement for version section [PR](https://github.com/codebendercc/eratosthenes/pull/51)(Merged)
+* Week 8, Wed - Support architectures when add and view library [PR](https://github.com/codebendercc/eratosthenes/pull/55)(Merged)
 * Week 8, Sun - Refine the process when header file name collision when add new library [ref](https://github.com/codebendercc/eratosthenes/commit/c17b3073ae5c7ef5449e04aae9cfdf9924d296f1)
-* Week 9, Tue - Implement default version of library for partners [PR](https://github.com/codebendercc/eratosthenes/pull/60)
+* Week 9, Tue - Implement default version of library for partners [PR](https://github.com/codebendercc/eratosthenes/pull/60)(Merged)
 * Week 9, Sat - Add default version support for current APIs [ref](https://github.com/codebendercc/eratosthenes/pull/60/commits)
-* Week 10, Fri - Removed v1 legacy files [PR](https://github.com/codebendercc/eratosthenes/pull/67)
-* Week 10, Sun - Add more tests [PR](https://github.com/codebendercc/eratosthenes/pull/70)
-* Week 10, Sun - Hide toggle status button when view built-in libraries [PR](https://github.com/codebendercc/eratosthenes/pull/71)
+* Week 10, Fri - Removed v1 legacy files [PR](https://github.com/codebendercc/eratosthenes/pull/67)(Merged)
+* Week 10, Sun - Add more tests [PR](https://github.com/codebendercc/eratosthenes/pull/70)(Merged)
+* Week 10, Sun - Hide toggle status button when view built-in libraries [PR](https://github.com/codebendercc/eratosthenes/pull/71)(Merged)
 * Week 11, Wed - A [blog post](http://blog.gisonrg.me/2016/development-process-comparison-between-codebender-and-teammates/) about comparsion of development process between Codebender and Teammates
 * Week 11, Thu - Documented the [views](https://github.com/codebendercc/eratosthenes/wiki/Views)
-* Week 11, Sun - Removed v1 legacy routings [PR](https://github.com/codebendercc/eratosthenes/pull/74)
+* Week 11, Sun - Removed v1 legacy routings [PR](https://github.com/codebendercc/eratosthenes/pull/74)(Merged)
 * Week 12, Tues - Verify migration result for all Apis on two server instance under codebender.cc. Fix bugs and formats that are inconsistent. [ref](https://github.com/codebendercc/eratosthenes/commits/v2-merged-hotfix)
-* Week 12, Wed - Fixes some bugs in migrations for getExamples and getExampleCode commands [PR](https://github.com/codebendercc/eratosthenes/pull/75)
+* Week 12, Wed - Fixes some bugs in migrations for getExamples and getExampleCode commands [PR](https://github.com/codebendercc/eratosthenes/pull/75)(Merged)
+* Week 12, Sat - Co-designed the deleteLibrary API for version 2 of Eratosthenes
+* Week 12, Sun - Implement the front-end logic and view for deleteLibrary Api.
 
 #### Contribution to minor project Teammates
 * Project set up / workflow understand - Week 5, Sat
@@ -514,4 +516,5 @@ permalink: /teams/codebender/
 * Week 10, Sun - Develop the Gulp file for build and deploy for the [CS4224](https://github.com/Gisonrg/ER-diagram-editor) project. Gain more insights on Gulp's asyn tasks execution and stream flow. [ref](https://github.com/Gisonrg/ER-diagram-editor/blob/master/gulpfile.js)
 * Week 11, Tue - Write a [blog post](http://blog.gisonrg.me/2016/why-we-need-one-line-module-in-node/) to discuss about "One-line" modules in Node eco-system.
 * Week 4 - Week 11, Sun - Develop the JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
-  * Gain experience in Angular, front-end development process and Gulp configuration in the project
+  * Gain experience in Angular, front-end development process and Gulp configuration in the project    
+* Week 12, Sun - Develop [hexo-github-card](https://github.com/Gisonrg/hexo-github-card), a plugin for [Hexo](http://hexo.io) blogger to insert Github profile and repo information as a good looking card. Implemented with [github-cards](https://github.com/lepture/github-cards). Available on NPM.
