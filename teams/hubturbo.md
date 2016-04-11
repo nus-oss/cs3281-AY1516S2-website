@@ -281,25 +281,29 @@ Progress
 ##### Contribution to MAJOR project HT
 
 * [Pull Request #1183](https://github.com/HubTurbo/HubTurbo/pull/1183) (Merged) - Week 1, Thu
-* [Pull Request #1222](https://github.com/HubTurbo/HubTurbo/pull/1222) - Week 3, Sat
-* [Pull Request #1225](https://github.com/HubTurbo/HubTurbo/pull/1225) - Week 3, Sun
-* [Pull Request #1303](https://github.com/HubTurbo/HubTurbo/pull/1303) - Week 7, Wed
+* [Pull Request #1222](https://github.com/HubTurbo/HubTurbo/pull/1222) (Closed) - Week 3, Sat
+* [Pull Request #1225](https://github.com/HubTurbo/HubTurbo/pull/1225) (Closed) - Week 3, Sun
+* [Pull Request #1303](https://github.com/HubTurbo/HubTurbo/pull/1303) (Merged) - Week 7, Wed
 * [Pull Request #1310](https://github.com/HubTurbo/HubTurbo/pull/1310) (Merged) - Week 7, Thu
 * [Pull Request #1312](https://github.com/HubTurbo/HubTurbo/pull/1312) (Merged) - Week 7, Sun
 * [Pull Request #1342](https://github.com/HubTurbo/HubTurbo/pull/1342) (Merged) - Week 8, Sun
 * [Pull Request #1387](https://github.com/HubTurbo/HubTurbo/pull/1387) (Merged) - Week 10, Mon
-* [Pull Request #1404](https://github.com/HubTurbo/HubTurbo/pull/1404) - Week 10, Fri
+* [Pull Request #1404](https://github.com/HubTurbo/HubTurbo/pull/1404) (Merged) - Week 10, Fri
 * [Pull Request #1415](https://github.com/HubTurbo/HubTurbo/pull/1415) (Merged) - Week 10, Fri
 * [Pull Request #1417](https://github.com/HubTurbo/HubTurbo/pull/1417) (Merged) - Week 10, Fri
-* [Pull Request #1418](https://github.com/HubTurbo/HubTurbo/pull/1418) (Merged) - Week 10, Fri
-* [Pull Request #1422](https://github.com/HubTurbo/HubTurbo/pull/1422) (Merged) - Week 10, Fri
-* [Pull Request #1463](https://github.com/HubTurbo/HubTurbo/pull/1463) - Week 11, Sun
-* [Pull Request #1467](https://github.com/HubTurbo/HubTurbo/pull/1467) - Week 11, Sun
-* [Pull Request #1470](https://github.com/HubTurbo/HubTurbo/pull/1470) - Week 12, Mon
+* [Pull Request #1418](https://github.com/HubTurbo/HubTurbo/pull/1418) (Merged) - Week 10, Fri 
+* [Pull Request #1422](https://github.com/HubTurbo/HubTurbo/pull/1422) (Merged) - Week 10, Fri 
+* [Pull Request #1463](https://github.com/HubTurbo/HubTurbo/pull/1463) (Merged) - Week 11, Sun
+* [Pull Request #1467](https://github.com/HubTurbo/HubTurbo/pull/1467) (Merged) - Week 11, Sun
+* [Pull Request #1470](https://github.com/HubTurbo/HubTurbo/pull/1470) (Merged) - Week 12, Mon
+* [Pull Request #1481](https://github.com/HubTurbo/HubTurbo/pull/1481) (Merged) - Week 12, Tue
+* [Pull Request #1482](https://github.com/HubTurbo/HubTurbo/pull/1482) (Merged) - Week 12, Tue
+* [Pull Request #1484](https://github.com/HubTurbo/HubTurbo/pull/1484) (Merged) - Week 12, Wed
 
 ##### Contribution to MINOR project [Oppia](https://github.com/oppia/oppia)
 
-* [Pull Request #1632](https://github.com/oppia/oppia/pull/1632) - Week 10, Wed
-* [Pull Request #1634](https://github.com/oppia/oppia/pull/1634) - (Merged) Week 10, Wed
+* [Pull Request #1632](https://github.com/oppia/oppia/pull/1632) (Merged) - Week 10, Wed
+* [Pull Request #1634](https://github.com/oppia/oppia/pull/1634) (Merged) - Week 10, Wed
+* [Compare The Development Process Between HubTurbo and Oppia] (http://garbanzos.github.io/jekyll/update/2016/03/30/comparison-of-developement-processes-of-hubturbo-and-oppia.html)
 
 ##### Technology expertise in Web Security
