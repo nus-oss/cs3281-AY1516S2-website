@@ -408,6 +408,8 @@ permalink: /teams/codebender/
 * Week 11,Sat - Added support for Chrome
 * Week 11,Sat - Implement sample size slider
 * Week 12,Wed - Fix a lot of fronted issues PR [#7](https://github.com/codebendercc/graphic_serial_monitor/pull/7) and PR [#8](https://github.com/codebendercc/graphic_serial_monitor/pull/8)
+* Week 12,Fri - 4 more PRs
+* Week 12,Fri - All PRs Merged
 
 #### Contribution to minor project - Coursemology
  * PR [#797](https://github.com/Coursemology/coursemology2/pull/797) for issue[#681](https://github.com/Coursemology/coursemology2/issues/681) (merged) - Week 5, Sun
