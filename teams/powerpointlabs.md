@@ -142,7 +142,6 @@ permalink: /teams/powerpointlabs/
 * Others
   * [x] Create unit tests for major functions - Week 9, Thu
   * [x] Documentation - Week 12, Thu
-  * [ ] Create functional tests
   * [ ] Merge with master branch 
 
 ## Contributions
@@ -400,6 +399,14 @@ permalink: /teams/powerpointlabs/
 * [Updated UI for Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/862a1c7046b1be989c1e8ff7330b4a46de6071f6) - Week 11
 * Added settings for [Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/b5abe74c04f5c5aebd2cf75a19b24be9a9aaa08d) and [Slight Adjust](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/566fb0c6582bc7d028573e195a6c977172e4da6f) - Week 11
 * Several UI enhancements - Week 11
+* Added [UI for visual/actual resize settings](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/19126450a317d571421d619a18b0915680a568f4) - Week 12
+* Updated [logic and UI for Adjust Proportionally](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/8a9188611eb13d39e99d234465521c55fcb7f77f) - Week 12
+* UX enhancement - allow users to [close setting windows using Esc and Enter](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/f10260b3a814a002cdcd2f0429217c7d39432677) and changed [preview key from Ctrl to Shift](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/6335bb77c8df8e530f144582e8f6cece50fe494f) - Week 12
+* Several UI enhancements, with major one [making several changes to tooltips](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/801b825c1694e8b8498f3b0f189f806f1a5e9964) - Week 12
+* Fixed [bug in Stretch/Shrink](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/32bb14c3b18c7000df7a6899aab40797c3e7224c) - Week 12
+* Prepared [examples for main settings (aspect ratio, anchor point, visual resize)](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/5b197cd71954b05fe51542442e628e82099657f2) - Week 12
+* Did write up and content organisation for documentation - Week 12
+
 
 
 #### Contributions to project [OpenMRS](https://www.openmrs.org) (Minor Project)
@@ -408,13 +415,20 @@ permalink: /teams/powerpointlabs/
  * Successfully ran test cases - Recess week
  * Working on migrating existing UI test cases to conform to their automated testing guidelines - Recess week
  * Submitted [pull request](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/107) to fix UI test case (Merged) - Week 9
+ * Submitted [pull request #108](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/108) to convert test case to conform to guidelines - Week 12
+ * Submitted [pull request #109](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/109) to fix broken CI (Merged) - Week 12
+ * Submitted [pull request #110](https://github.com/openmrs/openmrs-distro-referenceapplication/pull/110) to improve test case - Week 12
+ * Actively participated in [forum](https://talk.openmrs.org/users/yancmo/activity)
+ * Updated info in their [wiki page](https://wiki.openmrs.org/display/~yancmo)
+ * [Blog post](https://yancmo.wordpress.com/2016/04/10/process-comparison-powerpointlabs-vs-openmrs/) on process comparison - Week 12
 
 #### Technology expertise in Testing
 
 ###### Short Term Plan 
 * Develop test cases for PowerPointLabs and OpenMRS
 * Find ways to make code more testable
-* Read up on a few tools related to test coverage / CI (Bamboo, Travis etc)
+* Read up on a few tools related to test coverage
+* Read up on different methods of testing
 
 ###### Long Term Plan 
 * Related module to Testing
@@ -426,6 +440,8 @@ permalink: /teams/powerpointlabs/
 * Wrote unit tests for stretch/shrink - Week 8
 * Fixed one of OpenMRS's UI tests to conform with their guidelines, and increase testibility and reliability - Week 9
 * Refractored code in PPTLab to increase testibility such that logic/model no longer couples with view - Week 9
+* Read up on module based testing - Week 12
+* Submitted 2 more pull requests related to testing - Week 12
 
 ---
 
