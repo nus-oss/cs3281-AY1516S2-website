@@ -79,7 +79,14 @@ permalink: /teams/powerpointlabs/
   * [x] Fix bug with Swap throwing exception for duplicate images - Week 12, Sun
   * [x] Fix bug with Snap preview changing shapes permanently - Week 12, Sun
   * [x] Added text under icon for Positions Lab Pane - Week 12, Mon
-  * [x] Added unit tests - Week 12, Thu
+  * [x] Implement Ctrl+Hover Preview for PositionsLab - Week 12, Mon
+  * [x] Shift Grid Settings to Grid Dialog - Week 12, Tues
+  * [x] Functions now work with images - Week 12, Wed
+  * [x] Preview changed to Shift+Hover - Week 12, Wed
+  * [x] Improve test coverage of existing tests - Week 12, Thu
+  * [x] Added Snap unit test - Week 12, Thu
+  * [x] Distribute now works more intuitively - Week 12, Fri
+  * [x] Update Distribute Unit tests - Week 12, Fri
 * Groundwork for Positions Lab
   * [x] UI Mockup for Distribute along Edge, Align Vertex, Point towards/away from Shape - Week 5, Thu
   * [x] Researched and found potential solution to determining actual coordinates - Week 6, Thu 
@@ -188,8 +195,15 @@ permalink: /teams/powerpointlabs/
 * Changed implementation of **Undo** to not use PowerPoint's Undo in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/df927ae64331dce1d9f68a90c8966d3f1d19610b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 11, Wed
 * Fix bug with **Swap** due to old Undo in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/df927ae64331dce1d9f68a90c8966d3f1d19610b/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 11, Thu
 * Add Unit tests for **Swap** in [`PositionsLabSwapTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/ac412968c26abb9996dec11539c07dcf798eafcf/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabSwapTest.cs) - Week 11, Thu
-* Fix bug with Swap throwing exception for duplicate images in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/96e7b8e5af716052583d339d9c9e620d727dbf04/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
-* Fix bug with Snap preview changing shapes permanently in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/64917e13dd9b2dbd3c6380fffa89ce90682e1e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
+* Fix bug with **Swap** throwing exception for duplicate images in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/96e7b8e5af716052583d339d9c9e620d727dbf04/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
+* Fix bug with **Snap** preview changing shapes permanently in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/64917e13dd9b2dbd3c6380fffa89ce90682e1e21/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Sun
+* Implement **Ctrl+Hover Preview** for PositionsLab in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/78e4e68516a3b6d15e80dccc1c6429ad21c1ba40/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Mon
+* Shift Grid Settings to Grid Dialog in [`DistributeGridDialog.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/23fd63d5a768c3407c4048c230a8d4b2b9934e45/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsDistributeGridDialog.xaml.cs) - Week 12, Tue
+* Functions now work with images in [`PositionsLabMain.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/93afd8aec7ddded1cb7003d8f2e414bd646469e4/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsLabMain.cs) - Week 12, Wed
+* **Preview** changed to Shift+Hover in [`PositionsPaneWPF.xaml.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/4775c35cdd01bcd3cc14914574f6694b938f1ffa/PowerPointLabs/PowerPointLabs/PositionsLab/PositionsPaneWPF.xaml.cs) - Week 12, Wed
+* Improve test coverage of existing tests - Week 12, Thu
+* Added **Snap** unit test in [`PositionsLabSnapTest.cs`](https://github.com/nus-fboa2016-PL/PowerPointLabs/blob/e440bb70c78e8eed2539c5c083a6b24375dbd443/PowerPointLabs/Test/UnitTest/PositionsLab/PositionsLabSnapTest.cs) - Week 12, Thu
+* Various bug fixes - Week 12
 
 #### Contributions to project [Oppia](https://www.oppia.org/) (Minor Project)
  * Setup Environment: [Screenshot](https://drive.google.com/open?id=0BzrjImOddxOKSVY4eHBEdHlQcjg) - Week 8, Fri
@@ -223,6 +237,7 @@ permalink: /teams/powerpointlabs/
 * Exercise on Authentication and Authorisation: [CS3226 Lab 6](http://cs3226.comp.nus.edu.sg/~a0096724/lab6/) - Week 8
 * Prototype of Cache Simulator: [Cache Simulator - Iteration 2](http://oswellchan.github.io/CacheSimulator/) - Week 9
 * [Blog Post on SEO](https://medium.com/@oswellchan/search-engine-optimization-how-site-architecture-affects-seo-8e1815a34752#.td99u8jp9) - Week 10 
+* Creating Website with team for [NUS Life Hacks](http://nush.info/) - Week 12
 
 ---
 
