@@ -134,7 +134,7 @@ permalink: /teams/codebender/
 * [x] Performance evaluation - Week 10
 * [x] Merging/Revising - Week 10
 * [x] Elimination of noise data - Week 11
-* [ ] Deploying on live server, done! - Week 11
+* [x] Deploying on live server, done! - Week 11
 
 ## Contributions
 
@@ -408,7 +408,11 @@ permalink: /teams/codebender/
 * Week 11,Sat - Added support for Chrome
 * Week 11,Sat - Implement sample size slider
 * Week 12,Wed - Fix a lot of fronted issues PR [#7](https://github.com/codebendercc/graphic_serial_monitor/pull/7) and PR [#8](https://github.com/codebendercc/graphic_serial_monitor/pull/8)
-* Week 12,Fri - 4 more PRs
+* Week 12,Fri - PR[#9](https://github.com/codebendercc/graphic_serial_monitor/pull/9)
+* PR[#10](https://github.com/codebendercc/graphic_serial_monitor/pull/10)
+* PR[#11](https://github.com/codebendercc/graphic_serial_monitor/pull/11)
+* PR[#12](https://github.com/codebendercc/graphic_serial_monitor/pull/12)
+* PR[#13](https://github.com/codebendercc/graphic_serial_monitor/pull/13)
 * Week 12,Fri - All PRs Merged
 
 #### Contribution to minor project - Coursemology
