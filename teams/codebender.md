@@ -430,6 +430,7 @@ permalink: /teams/codebender/
 * [Useful Regular Expressions 2](http://blog.nus.edu.sg/matanghao/2016/03/15/useful-regular-expression-2/) - Week 9
 * [Summary of Mastering Regular Expression Chapter.4](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
 * [Summary of Mastering Regular Expression Chapter.5](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
+* [Analysis on feasiblity of DFA on Graphite](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
 
 ### @gisonrg (Jiang Sheng) (Team Lead - Week 9 - 12)
 * Week 2, Tues - Received project details
