@@ -237,6 +237,8 @@ permalink: /teams/codebender/
 * Attended Security Wednesdays talk on ["Local Privilege Escalation – From Zero to Hero"](https://www.facebook.com/events/1019203218143738/)
 * Created a binary challenge for the upcoming [X-CTF 2016](http://nusgreyhats.org/x-ctf/)
 * Learnt special tricks about cross-site scripting and social engineering at a [security-themed Friday Hacks](http://nushackers.org/2016/03/friday-hacks-111-Apr-1/)
+* Completed several challenges in [PlaidCTF2016](http://www.plaidctf.com/) and ranked amongst the top in Singapore as of Sunday 0030H
+* Gave a [presentation](https://docs.google.com/presentation/d/1yE7062jrhEg7ZKTpmr76ZtNHt8Rj6IOPfiFhF1mB8X4/edit?usp=sharing) on the recent [DROWN attack](https://drownattack.com/), including my personal experience in implmenting a proof-of-concept attack and ways to improve on some techniques suggested by the original authors of the paper
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
