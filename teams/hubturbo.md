@@ -108,14 +108,23 @@ permalink: /teams/hubturbo/
 * [Pull Request #1373](https://github.com/HubTurbo/HubTurbo/pull/1373) (Merged) - Week 9, Thu
 * [Pull Request #1419](https://github.com/HubTurbo/HubTurbo/pull/1419) (Merged) - Week 10, Fri
 * [Pull Request #1431](https://github.com/HubTurbo/HubTurbo/pull/1431) (Merged) - Week 11, Sun
-* [Pull Request #1439](https://github.com/HubTurbo/HubTurbo/pull/1439) - Week 11, Mon
-* [Pull Request #1473](https://github.com/HubTurbo/HubTurbo/pull/1473) - Week 12, Mon
+* [Pull Request #1439](https://github.com/HubTurbo/HubTurbo/pull/1439) (Merged) - Week 11, Mon
+* [Pull Request #1473](https://github.com/HubTurbo/HubTurbo/pull/1473) (Merged) - Week 12, Mon
+
+* [Pull Request #1488](https://github.com/HubTurbo/HubTurbo/pull/1488) (Merged) - Week 12, Thu
+* [Pull Request #1507](https://github.com/HubTurbo/HubTurbo/pull/1507) (Merged) - Week 13, Mon
+* [Pull Request #1508](https://github.com/HubTurbo/HubTurbo/pull/1508) (Merged) - Week 13, Mon
+* [Pull Request #1518](https://github.com/HubTurbo/HubTurbo/pull/1518) (Merged) - Week 13, Wed
+* [Pull Request #1532](https://github.com/HubTurbo/HubTurbo/pull/1532) (Merged) - Week 13, Fri
+* [Pull Request #1533](https://github.com/HubTurbo/HubTurbo/pull/1533) (Merged) - Week 13, Fri
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
 * [Forked atom repository](https://github.com/m133225/atom) - Week 4, Sun
 * [Pull Request #758](https://github.com/atom/tree-view/pull/758) (Closed, combined into another PR) - Week 7, Sat
 * [Pull Request #771](https://github.com/atom/tree-view/pull/771) - Week 9, Tue
+* [Pull Request #142](https://github.com/atom/status-bar/pull/142) - Week 13, Tue
+
 
 ##### Technology expertise in AI in Motion Planning
 
@@ -291,8 +300,8 @@ Progress
 * [Pull Request #1404](https://github.com/HubTurbo/HubTurbo/pull/1404) (Merged) - Week 10, Fri
 * [Pull Request #1415](https://github.com/HubTurbo/HubTurbo/pull/1415) (Merged) - Week 10, Fri
 * [Pull Request #1417](https://github.com/HubTurbo/HubTurbo/pull/1417) (Merged) - Week 10, Fri
-* [Pull Request #1418](https://github.com/HubTurbo/HubTurbo/pull/1418) (Merged) - Week 10, Fri 
-* [Pull Request #1422](https://github.com/HubTurbo/HubTurbo/pull/1422) (Merged) - Week 10, Fri 
+* [Pull Request #1418](https://github.com/HubTurbo/HubTurbo/pull/1418) (Merged) - Week 10, Fri
+* [Pull Request #1422](https://github.com/HubTurbo/HubTurbo/pull/1422) (Merged) - Week 10, Fri
 * [Pull Request #1463](https://github.com/HubTurbo/HubTurbo/pull/1463) (Merged) - Week 11, Sun
 * [Pull Request #1467](https://github.com/HubTurbo/HubTurbo/pull/1467) (Merged) - Week 11, Sun
 * [Pull Request #1470](https://github.com/HubTurbo/HubTurbo/pull/1470) (Merged) - Week 12, Mon
