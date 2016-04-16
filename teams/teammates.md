@@ -177,7 +177,7 @@ permalink: /teams/teammates/
  * [Pull Request #5074](https://github.com/TEAMMATES/teammates/pull/5074) (Merged) - week 8
  * [Pull Request #5024](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 9
  * [Pull Request #4782](https://github.com/TEAMMATES/teammates/pull/4782) (Merged) - week 10
- * [Pull Request #5173](https://github.com/TEAMMATES/teammates/pull/5173) (Ongoing) - week 10
+ * [Pull Request #5173](https://github.com/TEAMMATES/teammates/pull/5173) (Merged) - week 10
  * [Pull Request #5183](https://github.com/TEAMMATES/teammates/pull/5183) (Ongoing) - week 6 to week 12
  * [Pull Request #4213](https://github.com/TEAMMATES/teammates/pull/5213) (Ongoing) - week 12
  
@@ -185,6 +185,7 @@ permalink: /teams/teammates/
 #### Contribution to project [react](https://github.com/facebook/react.git)
  * [Pull Request #6345](https://github.com/facebook/react/pull/6345) (Ongoing) - week 10
  * [Pull Request #6404](https://github.com/facebook/react/pull/6404) (Ongoing) - week 12
+ * [Pull Request #6508](https://github.com/facebook/react/pull/6508) (rebase #6345)
  * [Blog: Set up React project](http://susumei0827.blogspot.sg/2016/04/setting-up-react-project.html) - week 10
  * [Blog: Compare TEAMMATES and React](http://susumei0827.blogspot.sg/2016/04/compare-teammates-and-react-and-how-to.html
 ) - week 11
@@ -192,9 +193,16 @@ permalink: /teams/teammates/
 #### Technology expertise in React
 * [Official Tutorial](https://facebook.github.io/react/docs/tutorial.html) - week 8
 * [React ecosystem tutorial](https://github.com/petehunt/react-howto) - week 9
-* [Use React with Webpack](http://survivejs.com/webpack_react/introduction/) - week 9
+* [Book: Use React with Webpack](http://survivejs.com/webpack_react/introduction/) - week 9
+* [Tutorial: first webapp with react](http://tutorialzine.com/2015/04/first-webapp-react/) - week 9
+
 * [Blog: Virtual DOM in React](http://susumei0827.blogspot.sg/2016/04/virtual-dom-in-react.html) - week 10
 * [Blog: React Ecosystem](http://susumei0827.blogspot.sg/2016/04/react-ecosystem.html) - week 10
+* [Small Chat app build with React](http://www.comp.nus.edu.sg/~a0133915/) - week 11
+* [Blog: Compare ReactJS and AngularJS](http://susumei0827.blogspot.sg/2016/04/compare-reactjs-and-angularjs.html) - week 12
+* [Blog: props and state in React](http://susumei0827.blogspot.sg/2016/04/props-and-state-in-react.html) - week 12
+* [Blog: Data flow in React](http://susumei0827.blogspot.sg/2016/04/a-controller-view-is-component-which.html) - week 12
+
 
  
 ---
@@ -223,7 +231,8 @@ permalink: /teams/teammates/
  * [Pull Request #5045](https://github.com/TEAMMATES/repo/pull/5045) (Merged) - Week 9
  * [Pull Request #5078](https://github.com/TEAMMATES/repo/pull/5078) (Merged) - Week 10
  * [Pull Request #5095](https://github.com/TEAMMATES/repo/pull/5095) (Merged) - Week 10
- * [Pull Request #5145](https://github.com/TEAMMATES/repo/pull/5145) (Ongoing) - Week 11
+ * [Pull Request #5154](https://github.com/TEAMMATES/repo/pull/5154) (OnHold) - Week 11
+ * [Pull Request #5191](https://github.com/TEAMMATES/repo/pull/5191) (Merged) - Week 12
 
 #### Contribution to [OpenKeychain](https://github.com/open-keychain/open-keychain)
  * [Pull Request #1728](https://github.com/open-keychain/open-keychain/pull/1728) (Merged) - Recess Week
