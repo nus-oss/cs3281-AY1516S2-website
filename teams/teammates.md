@@ -154,9 +154,11 @@ permalink: /teams/teammates/
 4. [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
 5. [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
 6. [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
-7. [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue.
-8. [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/)
-9. [Implemented a mockup website using jQuery (click Class and Calendar for more)](http://www.comp.nus.edu.sg/~a0125364/tms/)
+7. [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue. - Week 10
+8. [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/) - Week 12
+9. [Implemented a mockup website using jQuery (click Class and Calendar for more)](http://www.comp.nus.edu.sg/~a0125364/tms/) - Week 12
+10. Created [stackoverflow account](http://stackoverflow.com/users/6214165/kennho) - Week 13
+11. Answered [questions with jQuery tag](http://stackoverflow.com/search?q=user:6214165+[jquery]) on stackoverflow - Week 13
 
 #### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
@@ -202,6 +204,7 @@ permalink: /teams/teammates/
 * [Blog: Compare ReactJS and AngularJS](http://susumei0827.blogspot.sg/2016/04/compare-reactjs-and-angularjs.html) - week 12
 * [Blog: props and state in React](http://susumei0827.blogspot.sg/2016/04/props-and-state-in-react.html) - week 12
 * [Blog: Data flow in React](http://susumei0827.blogspot.sg/2016/04/a-controller-view-is-component-which.html) - week 12
+* [Blog: Setting up Webpack and Browserify for React](http://susumei0827.blogspot.sg/2016/04/setting-up-webpack-and-browserify-for.html) - week 13
 
 
  
