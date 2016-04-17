@@ -15,7 +15,7 @@ permalink: /teams/hubturbo/
 	 Web Security
 
  - [@jinified](https://github.com/jinified)
-   ([Tan Soon Jin](http://jinified.github.io))
+   ([Tan Soon Jin](http://jinified.blogspot.com))
    - Technology Expertise:
 	  [opencv](https://github.com/Itseez/opencv)
 
@@ -256,6 +256,8 @@ permalink: /teams/hubturbo/
 * [Pull Request #1493](https://github.com/HubTurbo/HubTurbo/pull/1493) (Merged) - Week 12, Mon
 * [Pull Request #1476](https://github.com/HubTurbo/HubTurbo/pull/1476) (Merged) - Week 12, Mon
 * [Pull Request #1491](https://github.com/HubTurbo/HubTurbo/pull/1491) (Merged) - Week 12, Mon
+* [Pull Request #1493](https://github.com/HubTurbo/HubTurbo/pull/1493) (Merged) - Week 13, Mon
+* [Pull Request #1512](https://github.com/HubTurbo/HubTurbo/pull/1512) (Merged) - Week 13, Mon
 
 
 
