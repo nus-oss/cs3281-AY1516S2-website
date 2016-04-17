@@ -139,6 +139,9 @@ permalink: /teams/hubturbo/
 * [Search algorithms](http://m133225.github.io/algorithms,/a*,/jps/2016/04/09/search-algorithms.html) - Week 12, Sat
 * [Multi-agent planning](http://m133225.github.io/algorithms,/a*,/multi-agent/2016/04/16/multi-robot-planning.html) - Week 13, Sat
 * [Handling uncertainty](http://m133225.github.io/probability,/uncertainty/2016/04/17/handling-uncertainty.html) - Reading week, Sun
+* [Installed ROS](http://wiki.ros.org/indigo/Installation/OSX/Homebrew/Source) - Reading week, Sun
+* [Read about Microsoft Robotics Developer Studio](https://en.wikipedia.org/wiki/Microsoft_Robotics_Developer_Studio) - Reading week, Sun
+* [Read about Mobile Robot Programming Toolkit](http://www.mrpt.org/Tutorials) - Reading week, Sun
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
