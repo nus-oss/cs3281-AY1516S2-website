@@ -329,6 +329,7 @@ Notes:
 * Blogpost about Making HTTP request with Retrofit Library [Link](https://medium.com/@mikelimantara/making-http-requests-in-android-with-retrofit-library-5829b4f22311#.u0x5n4voa)
 * Created Demo for making HTTP request using Retrofit Library [Github Link](https://github.com/mikelimantara/retrofit-demo)
 * Blogpost about Build Variants in Android [Link](https://medium.com/@mikelimantara/overview-of-build-variants-in-android-gradle-680cadc06a71#.4kwt05cxq)
+* Blogpost about Common Design Patterns in Android [Link](https://medium.com/@mikelimantara/common-design-patterns-in-android-development-bc8bfe6ab183#.qvdis27sl)
 
 ##### Deliverable could be in the form of: 
 * Blog post
