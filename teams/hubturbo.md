@@ -176,6 +176,7 @@ permalink: /teams/hubturbo/
 - Built a [command line tool](https://gist.github.com/raisfathin/8f1a7e8d322a53e4ba29) to verify a program's correctness based on some test cases. It can notify whether the tested program's output matches the corresponding expected output for each input, or whether the program encounters a run time error. [Screenshot](http://imgur.com/ZPJtUNX)
 - Built a [command line tool](https://github.com/raisfathin/travis-pr-checker) to check travis build status on pull requests.
 - Written a [blog](http://raisfathin.github.io/nodejs-speed/) on Node.js speed.
+- Read two [articles](https://www.toptal.com/javascript/electron-cross-platform-desktop-apps-easy) [on](http://electron.atom.io/docs/latest/tutorial/quick-start/) how to wrap Node.js application as a cross platform desktop application using Electron 
 
 ### Liu Xinan ([@xinan](https://github.com/xinan))
 
