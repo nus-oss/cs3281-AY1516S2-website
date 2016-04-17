@@ -153,19 +153,29 @@ permalink: /teams/hubturbo/
 * [Pull Request #1210](https://github.com/HubTurbo/HubTurbo/pull/1210) (Merged) - Week 3, Mon
 * [Pull Request #1226](https://github.com/HubTurbo/HubTurbo/pull/1226) (Merged) - Week 3, Sun
 * [Pull Request #1305](https://github.com/HubTurbo/HubTurbo/pull/1305) (Merged) - Week 7, Wed
-* [Pull Request #1307](https://github.com/HubTurbo/HubTurbo/pull/1307) - Week 7, Thu
-* [Pull Request #1316](https://github.com/HubTurbo/HubTurbo/pull/1316) - Week 8, Mon
+* [Pull Request #1307](https://github.com/HubTurbo/HubTurbo/pull/1307) (On Hold) - Week 7, Thu
+* [Pull Request #1316](https://github.com/HubTurbo/HubTurbo/pull/1316) (Merged) - Week 8, Mon
 * [Pull Request #1305](https://github.com/HubTurbo/HubTurbo/pull/1305) (Merged) - Week 9, Mon
 * [Pull Request #1344](https://github.com/HubTurbo/HubTurbo/pull/1344) (Merged) - Week 9, Sun
 * [Pull Request #1401](https://github.com/HubTurbo/HubTurbo/pull/1401) (Merged) - Week 10, Wed
 * [Pull Request #1421](https://github.com/HubTurbo/HubTurbo/pull/1421) (Merged) - Week 10, Fri
-* [Pull Request #1437](https://github.com/HubTurbo/HubTurbo/pull/1437) - Week 11, Mon
+* [Pull Request #1437](https://github.com/HubTurbo/HubTurbo/pull/1437) (Merged) - Week 11, Mon
+* [Pull Request #1441](https://github.com/HubTurbo/HubTurbo/pull/1441) (Merged) - Week 11, Mon
+* [Pull Request #1469](https://github.com/HubTurbo/HubTurbo/pull/1469) (Merged) - Week 12, Mon
+* [Pull Request #1486](https://github.com/HubTurbo/HubTurbo/pull/1486) (Merged) - Week 12, Wed
+* [Pull Request #1492](https://github.com/HubTurbo/HubTurbo/pull/1492) (Merged) - Week 12, Thu
+* [Pull Request #1504](https://github.com/HubTurbo/HubTurbo/pull/1504) (Merged) - Week 12, Sun
+* [Pull Request #1506](https://github.com/HubTurbo/HubTurbo/pull/1506) (Merged) - Week 12, Sun
+* [Pull Request #1514](https://github.com/HubTurbo/HubTurbo/pull/1514) (Merged) - Week 13, Mon
+* [Pull Request #1521](https://github.com/HubTurbo/HubTurbo/pull/1521) (Merged) - Week 13, Wed
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 - Submitted a [pull request](https://github.com/atom/status-bar/pull/130) to [atom/status-bar](https://github.com/atom/status-bar) - Week 8, Sun
 
 ##### Technology expertise in Node.js
 - Built a [command line tool](https://gist.github.com/raisfathin/8f1a7e8d322a53e4ba29) to verify a program's correctness based on some test cases. It can notify whether the tested program's output matches the corresponding expected output for each input, or whether the program encounters a run time error. [Screenshot](http://imgur.com/ZPJtUNX)
+- Built a [command line tool](https://github.com/raisfathin/travis-pr-checker) to check travis build status on pull requests.
+- Written a [blog](http://raisfathin.github.io/nodejs-speed/) on Node.js speed.
 
 ### Liu Xinan ([@xinan](https://github.com/xinan))
 
