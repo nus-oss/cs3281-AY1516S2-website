@@ -19,7 +19,7 @@ permalink: /teams/socketio/
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
    - Technology Expertise: Mobile Development
    - Minor: Teammates
- - Leow Yijin ([@YijinL](#))
+ - Leow Yijin ([@YijinL](http://medium.com/@YijinL))
    - Technology Expertise: Cloud deployment and monitoring
    - Minor: HubTurbo
 
