@@ -186,7 +186,7 @@ permalink: /teams/hubturbo/
 * [Pull Request #1186](https://github.com/HubTurbo/HubTurbo/pull/1186) (Merged) - Week 1, Thu
 * [Pull Request #1188](https://github.com/HubTurbo/HubTurbo/pull/1188) (Closed) - Week 1, Fri
 * [Pull Request #1201](https://github.com/HubTurbo/HubTurbo/pull/1201) (Onhold) - Week 2, Wed
-* [Pull Request #1224](https://github.com/HubTurbo/HubTurbo/pull/1224) - Week 3, Sun
+* [Pull Request #1224](https://github.com/HubTurbo/HubTurbo/pull/1224) (Merged) - Week 3, Sun
 * [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1296) (Merged) - Week 7, Mon
 * [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1371) (Merged) - Week 9, Fri
 * [Pull Request #1296](https://github.com/HubTurbo/HubTurbo/pull/1388) (Merged) - Week 10, Mon
@@ -197,7 +197,7 @@ permalink: /teams/hubturbo/
 * [Pull Request #1462](https://github.com/HubTurbo/HubTurbo/pull/1462) (Merged) - Week 11, Sun
 * [Pull Request #1485](https://github.com/HubTurbo/HubTurbo/pull/1485) (Merged) - Week 12, Tue
 * [Pull Request #1498](https://github.com/HubTurbo/HubTurbo/pull/1498) (Merged) - Week 12, Sat
-* [Pull Request #1509](https://github.com/HubTurbo/HubTurbo/pull/1509) - Week 12, Sun
+* [Pull Request #1509](https://github.com/HubTurbo/HubTurbo/pull/1509) (Merged) - Week 12, Sun
 * [Pull Request #1510](https://github.com/HubTurbo/HubTurbo/pull/1510) (Merged) - Week 13, Sun
 
 ##### Contribution to MINOR project [PencilCode](https://github.com/PencilCode/pencilcode/)
