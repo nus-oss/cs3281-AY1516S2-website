@@ -262,7 +262,7 @@ permalink: /teams/hubturbo/
 
 
 
-##### Contribution to MINOR project [opencv](https://github.com/Itseez/opencv)
+##### Contribution to MINOR project [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [Forked the repo](https://github.com/jinified/opencv)
 - Read contribution guideline
 - [Created sample application to understand more about the project](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/draw.py)
@@ -272,33 +272,34 @@ permalink: /teams/hubturbo/
 
 
 ##### Technology expertise in Computer Vision for Autonomous Systems
-Short term plan
-- Analyzes main challenges for computer vision application in outdoor scenario i.e underwater.
-- Read up on most cited computer vision journal papers to understand most fundamental algorithms in the field.
-- Watch computer vision and machine learning related lecture videos to complement reading
- - [University of Central Florida Computer Vision 2012, Mubarak Shah](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)
- - [Colorado School of Mines CSCI 512, William Hoff](https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL7v9EfkjLswLfjcI-qia-Z-e3ntl9l6vp)
-- Identify different areas of computer vision that I will work on and its sample applications
 
-Long term plan
-- Integrate vision algorithm with [ROS(Robot Operating System)](http://www.ros.org/) which is commonly used in the industry and various robotics projects to create robotic software.
-- Successfully completed a vision task specified in [Robosub rules](http://www.auvsifoundation.org/foundation/competitions/competition-central/robosub)
-- Write a vision plugin for ROS
+###### Short term plan
+ - Analyzes main challenges for computer vision application in outdoor scenario i.e underwater.
+ - Read up on most cited computer vision journal papers to understand most fundamental algorithms in the field.
+ - Watch computer vision and machine learning related lecture videos to complement reading
+  - [University of Central Florida Computer Vision 2012, Mubarak Shah](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)
+  - [Colorado School of Mines CSCI 512, William Hoff](https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL7v9EfkjLswLfjcI-qia-Z-e3ntl9l6vp)
+ - Identify different areas of computer vision that I will work on and its sample applications
 
-Progress
-- [Created a GitHub repository for codes related to this project](https://github.com/jinified/visionx)
-- [Complete research of potential focus areas of the project including relevant journal papers](https://github.com/jinified/visionx/blob/master/doc/Research.md)
-- Complete basic ROS tutorials (needed to integrate vision algorithms)
-- [Implemented Gray-world algorithm, source code](https://github.com/jinified/visionx/blob/master/scripts/prototype.py#L74-L83)
-- [Video demonstration of implemented Gray-World algorithm](https://youtu.be/RJWIXfJJPdc)
-- [Implemented Basic orange marker detector](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/lane_detector.py)
-- [Written journal paper for Robosub 2015 on computer vision](http://higherlogicdownload.s3.amazonaws.com/AUVSI/fb9a8da0-2ac8-42d1-a11e-d58c1e158347/UploadedImages/2015%20RoboSub%20/Journal%20Papers/NatlUSingapore_Journal_RS2015.pdf)
-- [Design banner to explain about the current state of software stack](https://drive.google.com/open?id=0B2qn3kO2bUfUVWQtWkRQVER6RDQ)
-- [Footage of object detection during testing](https://www.facebook.com/bbauv/videos/935345183191362/)
-- [Computer vision workshop presentation to beginners by me](https://drive.google.com/open?id=1--6-gcc6a2woJQ28hgbiUkW3lA0f9iV0yKCoGPwOQFA)
-- Implemented saliency region detection which can be found [here](https://github.com/jinified/visionx/blob/master/scripts/prototype.py#L138-L146) and the demo is available on [Youtube](https://www.youtube.com/watch?v=9s76kzALqdw)
-- [Blog post about Saliency Region Detection](https://github.com/jinified/jinified.github.io/blob/master/_posts/2016-03-28-saliency_region_detection.md)
-- [Blog post about removing flickering effect](http://jinified.blogspot.sg/2016/04/how-to-deal-with-flickering-effect.html)
+###### Long term plan
+ - Integrate vision algorithm with [ROS(Robot Operating System)](http://www.ros.org/) which is commonly used in the industry and various robotics projects to create robotic software.
+ - Successfully completed a vision task specified in [Robosub rules](http://www.auvsifoundation.org/foundation/competitions/competition-central/robosub)
+ - Write a vision plugin for ROS
+
+###### Progress
+ - [Created a GitHub repository for codes related to this project](https://github.com/jinified/visionx)
+ - [Complete research of potential focus areas of the project including relevant journal papers](https://github.com/jinified/visionx/blob/master/doc/Research.md)
+ - Complete basic ROS tutorials (needed to integrate vision algorithms)
+ - [Implemented Gray-world algorithm, source code](https://github.com/jinified/visionx/blob/master/scripts/prototype.py#L74-L83)
+ - [Video demonstration of implemented Gray-World algorithm](https://youtu.be/RJWIXfJJPdc)
+ - [Implemented Basic orange marker detector](https://github.com/jinified/visionx/blob/master/scripts/vision_lib/lane_detector.py)
+ - [Written journal paper for Robosub 2015 on computer vision](http://higherlogicdownload.s3.amazonaws.com/AUVSI/fb9a8da0-2ac8-42d1-a11e-d58c1e158347/UploadedImages/2015%20RoboSub%20/Journal%20Papers/NatlUSingapore_Journal_RS2015.pdf)
+ - [Design banner to explain about the current state of software stack](https://drive.google.com/open?id=0B2qn3kO2bUfUVWQtWkRQVER6RDQ)
+ - [Footage of object detection during testing](https://www.facebook.com/bbauv/videos/935345183191362/)
+ - [Computer vision workshop presentation to beginners by me](https://drive.google.com/open?id=1--6-gcc6a2woJQ28hgbiUkW3lA0f9iV0yKCoGPwOQFA)
+ - Implemented saliency region detection which can be found [here](https://github.com/jinified/visionx/blob/master/scripts/prototype.py#L138-L146) and the demo is available on [Youtube](https://www.youtube.com/watch?v=9s76kzALqdw)
+ - [Blog post about Saliency Region Detection](https://github.com/jinified/jinified.github.io/blob/master/_posts/2016-03-28-saliency_region_detection.md)
+ - [Blog post about removing flickering effect](http://jinified.blogspot.sg/2016/04/how-to-deal-with-flickering-effect.html)
 
 ### Tan Yi Yan ([@garbanzos](https://github.com/garbanzos))
 
