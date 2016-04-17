@@ -408,6 +408,8 @@ permalink: /teams/powerpointlabs/
 * Fixed [bug in Stretch/Shrink](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/32bb14c3b18c7000df7a6899aab40797c3e7224c) - Week 12
 * Prepared [examples for main settings (aspect ratio, anchor point, visual resize)](https://github.com/nus-fboa2016-PL/PowerPointLabs/commit/5b197cd71954b05fe51542442e628e82099657f2) - Week 12
 * Did write up and content organisation for documentation - Week 12
+* Added example for actual resize - Week 13
+* Refined documentation - Week 13
 
 
 
@@ -443,7 +445,9 @@ permalink: /teams/powerpointlabs/
 * Fixed one of OpenMRS's UI tests to conform with their guidelines, and increase testibility and reliability - Week 9
 * Refractored code in PPTLab to increase testibility such that logic/model no longer couples with view - Week 9
 * Read up on module based testing - Week 12
-* Submitted 2 more pull requests related to testing - Week 12
+* Submitted 2 more pull requests related to testing with Selenium WebDriver - Week 12
+* [Blog post](https://yancmo.wordpress.com/2016/04/17/what-is-model-based-testing/) on Model Based Testing - Week 13
+* Created [Model Based Testing example](https://dl.dropboxusercontent.com/u/7610216/TextBuddyMBT.zip) for CS2103 CE1 using graphwalker - Week 13
 
 ---
 
