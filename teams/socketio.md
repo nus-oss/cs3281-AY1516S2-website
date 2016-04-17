@@ -261,6 +261,10 @@ Notes:
 * [Introduction and comoparison of supplementary cloud management tools](https://medium.com/@YijinL/cloud-deployment-tools-114484a6ae4b) - Week 13, Thu
 * [Containers and Virtual Machines](https://medium.com/@YijinL/vms-versus-containers-74840023f1c4) - Week 13, Sun
 
+##### Deployed applications
+* [Socket.io whiteboard](sio-whiteboard.herokuapp.com) - Week 11, Sun
+* [Caesium task and deadline manager](caesium-planner.herokuapp.com) - Week 12, Tue
+
 ##### Long term plan
 * Deploy and manage a non-trivial service/app in the long term
 * Take relevant modules liks CS5224
