@@ -529,4 +529,6 @@ permalink: /teams/codebender/
 * Week 11, Tue - Write a [blog post](http://blog.gisonrg.me/2016/why-we-need-one-line-module-in-node/) to discuss about "One-line" modules in Node eco-system.
 * Week 4 - Week 11, Sun - Develop the JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
   * Gain experience in Angular, front-end development process and Gulp configuration in the project    
-* Week 12, Sun - Develop [hexo-github-card](https://github.com/Gisonrg/hexo-github-card), a plugin for [Hexo](http://hexo.io) blogger to insert Github profile and repo information as a good looking card. Implemented with [github-cards](https://github.com/lepture/github-cards). Available on NPM.
+* Week 12, Sun - Develop [hexo-github-card](https://github.com/Gisonrg/hexo-github-card), a plugin for [Hexo](http://hexo.io) blogger to insert Github profile and repo information as a good looking card. Implemented with [github-cards](https://github.com/lepture/github-cards). Available on NPM and Hexo plugin site.
+* Week 13, Fri - Write a [blog](http://blog.gisonrg.me/2016/develop-hexo-github-card/) about how I develop the [hexo-github-card](https://github.com/Gisonrg/hexo-github-card) plugin.
+* Week 13, Sun - Write a [blog](http://blog.gisonrg.me/2016/book-review-high-performance-web-sites/) about a book I read called "High Performance Web Sites: Essential Knowledge for Frontend Engineers"
