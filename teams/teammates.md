@@ -73,27 +73,7 @@ permalink: /teams/teammates/
 
 #### Technology Expertise in Software Testing and Debugging
 
-##### Work in CS4218 Project - Bash shell in Java
- * Implemented application and tests for sort application for a bash shell written in Java (CS4218) - Proof to be shown later.
- * Wrote tests for bc application for a bash shell written in Java (CS4218) - Proof to be shown later.
- * Debug several applications written for a bash shell written in Java as part of a module project (CS4218) - Proof to be shown later.
- * Applied TDD in the process of writing a bc application (similar to bc in shell) in Java - Proof to be shown later.
- * Wrote new tests for bc application written in Java after implementing it - Proof to be shown later.
- * Created a bug-rebuttal report based on proper documentation - Proof to be shown later.
-
-##### Work in CS1020 - Teaching Assistant and Problem Setter
-
- * Tested student programs and debug the code submitted in sit-in labs for a module in SoC (CS1020) - Proof to be shown later.
- * Must find all mistakes in student's codes during grading process and create a detailed report (CS1020) - Proof to be shown later.
- * Generated test-cases for code written as assignment in an SoC module (CS1020) - Ongoing (Start - End of Semester). Tests are designed to be as strict as possible and tried to cover all cases. Designed based on the principles learned on CS4218 (Software Testing and Debugging). - Managed to capture many corner cases (Proof to be shown later).
-
-##### Miscellaneous Blog Posts related to technological expertise:
- * To be added
-
-#### Plan - Until the end of this semester
- * Writing blog posts about different software testing paradigms, with the pros and cons of each approach and when to use which
- * Teach students in an SoC module (CS1020) on how to debug their code for their labs (so that they can test their code thoroughly) based on principles learned in CS4218.
- * Provide proof of work on technological expertise
+ * All work summarised in [blog post](https://cs3281blog.wordpress.com/2016/04/17/technological-expertise/)
 
 ---
 
@@ -128,35 +108,38 @@ permalink: /teams/teammates/
 
 
 #### Contribution to project [oppia](https://github.com/oppia/oppia)
-1. Blog posts on minor projects:
-  1. [Blog post showing prove of successful setup](https://cs3281.wordpress.com/2016/03/16/minor-project-oppia/) - Week 9
-  2. [Comparing and how to improve TEAMMATES and Oppia](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/) - Week 9
+##### Blog posts on minor projects:
+1. [Blog post showing prove of successful setup](https://cs3281.wordpress.com/2016/03/16/minor-project-oppia/) - Week 9
+2. [Comparing and how to improve TEAMMATES and Oppia](https://cs3281.wordpress.com/2016/03/17/oppia-vs-teammates/) - Week 9
 
-2. PR on minor projects:
-  1. [Forked and set up project](https://github.com/kennho/oppia) - Week 9
-  2. [Issue #1603](https://github.com/oppia/oppia/issues/1603) - Week 9 : [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
-  3. [Issue #1075](https://github.com/oppia/oppia/issues/1075) - Week 10 : [Pull Request #1642](https://github.com/oppia/oppia/pull/1642) (Merged) - Week 10
-  4. [Issue #1564](https://github.com/oppia/oppia/issues/1564) - Week 9 : [Pull Request #1659](https://github.com/oppia/oppia/pull/1659) (Merged) - Week 11
-  5. Opened [Issue #1688](https://github.com/oppia/oppia/issues/1688)
-  6. [Issue #1688](https://github.com/oppia/oppia/issues/1688) - Week 12 : [Pull Request #1691](https://github.com/oppia/oppia/pull/1691) (Merged) - Week 12
-  7. [Issue #1679](https://github.com/oppia/oppia/issues/1679) - Week 12 : [Pull Request #1692](https://github.com/oppia/oppia/pull/1692) (Merged) - Week 12
-  8. Reviewer for UI for [Pull Request #1693](https://github.com/oppia/oppia/pull/1693) (Merged) - Week 12
-  9. Assigned [Issue #1085](https://github.com/oppia/oppia/issues/1085) (Ongoing) - Week 12
+##### PR on minor projects:
+1. [Forked and set up project](https://github.com/kennho/oppia) - Week 9
+2. [Issue #1603](https://github.com/oppia/oppia/issues/1603) - Week 9 : [Pull Request #1606](https://github.com/oppia/oppia/pull/1606) (Merged) - Week 9
+3. [Issue #1075](https://github.com/oppia/oppia/issues/1075) - Week 10 : [Pull Request #1642](https://github.com/oppia/oppia/pull/1642) (Merged) - Week 10
+4. [Issue #1564](https://github.com/oppia/oppia/issues/1564) - Week 9 : [Pull Request #1659](https://github.com/oppia/oppia/pull/1659) (Merged) - Week 11
+5. Opened [Issue #1688](https://github.com/oppia/oppia/issues/1688)
+6. [Issue #1688](https://github.com/oppia/oppia/issues/1688) - Week 12 : [Pull Request #1691](https://github.com/oppia/oppia/pull/1691) (Merged) - Week 12
+7. [Issue #1679](https://github.com/oppia/oppia/issues/1679) - Week 12 : [Pull Request #1692](https://github.com/oppia/oppia/pull/1692) (Merged) - Week 12
+8. Reviewer for UI for [Pull Request #1693](https://github.com/oppia/oppia/pull/1693) (Merged) - Week 12
+9. Assigned [Issue #1085](https://github.com/oppia/oppia/issues/1085) (Ongoing) - Week 12
 
-3. Other projects/repo contributions
-  1. [NUS Students' Computing Club](https://github.com/NUSComputingDev)
+##### Other projects/repo contributions
+1. [NUS Students' Computing Club](https://github.com/NUSComputingDev)
 
 
 #### Technology expertise in tool jQuery
-1. [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
-2. [How to use jQuery?](https://cs3281.wordpress.com/2016/03/18/how-to-use-jquery/) - Week 9
-3. [Interesting finds](https://cs3281.wordpress.com/2016/03/18/interesting-finds/) - Week 9
-4. [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
-5. [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
-6. [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
-7. [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue.
-8. [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/)
-9. [Implemented a mockup website using jQuery (click Class and Calendar for more)](http://www.comp.nus.edu.sg/~a0125364/tms/)
+1. [Pull Request #4664](https://github.com/TEAMMATES/teammates/pull/4664) - Made panel collapsible - Week 3
+2. [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
+3. [How to use jQuery?](https://cs3281.wordpress.com/2016/03/18/how-to-use-jquery/) - Week 9
+4. [Interesting finds](https://cs3281.wordpress.com/2016/03/18/interesting-finds/) - Week 9
+5. [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
+6. [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
+7. [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
+8. [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue. - Week 10
+9. [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/) - Week 12
+10. [Implemented a mockup website using jQuery (click Class and Calendar for more)](http://www.comp.nus.edu.sg/~a0125364/tms/) - Week 12
+11. Created [stackoverflow account](http://stackoverflow.com/users/6214165/kennho) - Week 13
+12. Answered [questions with jQuery tag](http://stackoverflow.com/search?q=user:6214165+[jquery]) on stackoverflow - Week 13
 
 #### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
@@ -177,7 +160,7 @@ permalink: /teams/teammates/
  * [Pull Request #5074](https://github.com/TEAMMATES/teammates/pull/5074) (Merged) - week 8
  * [Pull Request #5024](https://github.com/TEAMMATES/teammates/pull/4751) (Merged) - week 9
  * [Pull Request #4782](https://github.com/TEAMMATES/teammates/pull/4782) (Merged) - week 10
- * [Pull Request #5173](https://github.com/TEAMMATES/teammates/pull/5173) (Ongoing) - week 10
+ * [Pull Request #5173](https://github.com/TEAMMATES/teammates/pull/5173) (Merged) - week 10
  * [Pull Request #5183](https://github.com/TEAMMATES/teammates/pull/5183) (Ongoing) - week 6 to week 12
  * [Pull Request #4213](https://github.com/TEAMMATES/teammates/pull/5213) (Ongoing) - week 12
  
@@ -185,6 +168,7 @@ permalink: /teams/teammates/
 #### Contribution to project [react](https://github.com/facebook/react.git)
  * [Pull Request #6345](https://github.com/facebook/react/pull/6345) (Ongoing) - week 10
  * [Pull Request #6404](https://github.com/facebook/react/pull/6404) (Ongoing) - week 12
+ * [Pull Request #6508](https://github.com/facebook/react/pull/6508) (rebase #6345)
  * [Blog: Set up React project](http://susumei0827.blogspot.sg/2016/04/setting-up-react-project.html) - week 10
  * [Blog: Compare TEAMMATES and React](http://susumei0827.blogspot.sg/2016/04/compare-teammates-and-react-and-how-to.html
 ) - week 11
@@ -192,9 +176,17 @@ permalink: /teams/teammates/
 #### Technology expertise in React
 * [Official Tutorial](https://facebook.github.io/react/docs/tutorial.html) - week 8
 * [React ecosystem tutorial](https://github.com/petehunt/react-howto) - week 9
-* [Use React with Webpack](http://survivejs.com/webpack_react/introduction/) - week 9
+* [Book: Use React with Webpack](http://survivejs.com/webpack_react/introduction/) - week 9
+* [Tutorial: first webapp with react](http://tutorialzine.com/2015/04/first-webapp-react/) - week 9
+
 * [Blog: Virtual DOM in React](http://susumei0827.blogspot.sg/2016/04/virtual-dom-in-react.html) - week 10
 * [Blog: React Ecosystem](http://susumei0827.blogspot.sg/2016/04/react-ecosystem.html) - week 10
+* [Small Chat app build with React](http://www.comp.nus.edu.sg/~a0133915/) - week 11
+* [Blog: Compare ReactJS and AngularJS](http://susumei0827.blogspot.sg/2016/04/compare-reactjs-and-angularjs.html) - week 12
+* [Blog: props and state in React](http://susumei0827.blogspot.sg/2016/04/props-and-state-in-react.html) - week 12
+* [Blog: Data flow in React](http://susumei0827.blogspot.sg/2016/04/a-controller-view-is-component-which.html) - week 12
+* [Blog: Setting up Webpack and Browserify for React](http://susumei0827.blogspot.sg/2016/04/setting-up-webpack-and-browserify-for.html) - week 13
+
 
  
 ---
@@ -223,7 +215,8 @@ permalink: /teams/teammates/
  * [Pull Request #5045](https://github.com/TEAMMATES/repo/pull/5045) (Merged) - Week 9
  * [Pull Request #5078](https://github.com/TEAMMATES/repo/pull/5078) (Merged) - Week 10
  * [Pull Request #5095](https://github.com/TEAMMATES/repo/pull/5095) (Merged) - Week 10
- * [Pull Request #5145](https://github.com/TEAMMATES/repo/pull/5145) (Ongoing) - Week 11
+ * [Pull Request #5154](https://github.com/TEAMMATES/repo/pull/5154) (OnHold) - Week 11
+ * [Pull Request #5191](https://github.com/TEAMMATES/repo/pull/5191) (Merged) - Week 12
 
 #### Contribution to [OpenKeychain](https://github.com/open-keychain/open-keychain)
  * [Pull Request #1728](https://github.com/open-keychain/open-keychain/pull/1728) (Merged) - Recess Week
