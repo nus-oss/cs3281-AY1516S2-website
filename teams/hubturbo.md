@@ -138,6 +138,8 @@ permalink: /teams/hubturbo/
 * [Physics of quadrotor, P1](http://m133225.github.io/quadrotor,/quadcopter/2016/04/09/quadrotor-dynamics-part-2.html) - Week 12, Sat
 * [Search algorithms](http://m133225.github.io/algorithms,/a*,/jps/2016/04/09/search-algorithms.html) - Week 12, Sat
 * [Multi-agent planning](http://m133225.github.io/algorithms,/a*,/multi-agent/2016/04/16/multi-robot-planning.html) - Week 13, Sat
+* [Attended Friday Hacks on ROS and Linorobot](https://www.facebook.com/events/1219608128069067/) - Week 13, Fri
+* [Joined Singapore's ROS Facebook group](https://www.facebook.com/groups/1514170755561044/) - Week 13, Sat
 * [Handling uncertainty](http://m133225.github.io/probability,/uncertainty/2016/04/17/handling-uncertainty.html) - Reading week, Sun
 * [Installed ROS](http://wiki.ros.org/indigo/Installation/OSX/Homebrew/Source) - Reading week, Sun
 * [Read about Microsoft Robotics Developer Studio](https://en.wikipedia.org/wiki/Microsoft_Robotics_Developer_Studio) - Reading week, Sun
