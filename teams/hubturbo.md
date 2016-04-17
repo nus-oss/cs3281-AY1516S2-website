@@ -71,13 +71,13 @@ permalink: /teams/hubturbo/
   * [x] Board Picker - Week 8, Sun
 * [x] Merge Pull Requests for all pickers - Week 10, Sun
   * [x] Milestone Picker - Week 10, Sat
-  * [ ] Assignee Picker - Week 10, Thu
-  * [ ] Board Picker - Week 10, Thu
+  * [x] Assignee Picker - Week 10, Thu
+  * [x] Board Picker - Week 10, Thu
   * [x] Issue Picker - Week 10, Sun
   * [x] Repo Picker  - Week 10, Thu
 * [x] Refactor and improve new pickers - Week 11, Mon
-  * [ ] Merge Assignee Picker - Week 11, Tue
-  * [ ] Merge Board Picker - Week 11, Tue
+  * [x] Merge Assignee Picker - Week 11, Tue
+  * [x] Merge Board Picker - Week 11, Tue
   * [x] Merge Repo Picker  - Week 11, Tue
   * [x] Refine Milestone Picker UI - Week 11, Wed
   * [x] Completed auto-complete feature - Week 11, Wed
@@ -90,6 +90,8 @@ permalink: /teams/hubturbo/
 # Contributions
 
 ### Choo Boon Yong Martin ([@m133225](https://github.com/m133225)) (Team Lead - Week 4 to 8)
+
+* [Comparison between processes](http://m133225.github.io/process/2016/03/31/process-comparison.html) - Week 11, Thu
 
 ##### Contribution to MAJOR project HT
 
@@ -115,8 +117,9 @@ permalink: /teams/hubturbo/
 * [Pull Request #1507](https://github.com/HubTurbo/HubTurbo/pull/1507) (Merged) - Week 13, Mon
 * [Pull Request #1508](https://github.com/HubTurbo/HubTurbo/pull/1508) (Merged) - Week 13, Mon
 * [Pull Request #1518](https://github.com/HubTurbo/HubTurbo/pull/1518) (Merged) - Week 13, Wed
-* [Pull Request #1532](https://github.com/HubTurbo/HubTurbo/pull/1532) (Merged) - Week 13, Fri
+* [Pull Request #1532](https://github.com/HubTurbo/HubTurbo/pull/1532)  - Week 13, Fri
 * [Pull Request #1533](https://github.com/HubTurbo/HubTurbo/pull/1533) (Merged) - Week 13, Fri
+
 
 ##### Contribution to MINOR project [Atom](https://github.com/atom/atom)
 
@@ -131,6 +134,11 @@ permalink: /teams/hubturbo/
 * [Workplan](http://m133225.github.io/introduction/2016/02/29/motion-planning-in-ai.html) - Week 7, Mon
 * [Manipulating space representations](http://m133225.github.io/matrices,/transformations/2016/03/20/configuration-space.html) - Week 10, Sun
 * [Rotations representations](http://m133225.github.io/matrices,/rotations/2016/03/23/angles-and-rotations.html) - Week 10, Wed
+* [Physics of quadrotor, P1](http://m133225.github.io/quadrotor,/quadcopter/2016/04/05/quadrotor-dynamics-part-1.html) - Week 12, Tue
+* [Physics of quadrotor, P1](http://m133225.github.io/quadrotor,/quadcopter/2016/04/09/quadrotor-dynamics-part-2.html) - Week 12, Sat
+* [Search algorithms](http://m133225.github.io/algorithms,/a*,/jps/2016/04/09/search-algorithms.html) - Week 12, Sat
+* [Multi-agent planning](http://m133225.github.io/algorithms,/a*,/multi-agent/2016/04/16/multi-robot-planning.html) - Week 13, Sat
+* [Handling uncertainty](http://m133225.github.io/probability,/uncertainty/2016/04/17/handling-uncertainty.html) - Reading week, Sun
 
 ### Muhammad Rais Fathin Mudzakir ([@raisfathin](https://github.com/raisfathin))
 
