@@ -237,6 +237,8 @@ permalink: /teams/powerpointlabs/
 * Prototype of Cache Simulator: [Cache Simulator - Iteration 2](http://oswellchan.github.io/CacheSimulator/) - Week 9
 * [Blog Post on SEO](https://medium.com/@oswellchan/search-engine-optimization-how-site-architecture-affects-seo-8e1815a34752#.td99u8jp9) - Week 10 
 * Creating Website with team for [NUS Life Hacks](http://nush.info/) - Week 12
+* Released NUS Life Hacks [NUS Life Hacks](http://nush.sg/) - Week 13 Wed
+* Cache Simulator v1.0: [Cache Simulator](http://oswellchan.github.io/CacheSimulator/) - Week 13 Sat
 
 ---
 
