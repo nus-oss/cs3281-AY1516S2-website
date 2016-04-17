@@ -73,27 +73,7 @@ permalink: /teams/teammates/
 
 #### Technology Expertise in Software Testing and Debugging
 
-##### Work in CS4218 Project - Bash shell in Java
- * Implemented application and tests for sort application for a bash shell written in Java (CS4218) - Proof to be shown later.
- * Wrote tests for bc application for a bash shell written in Java (CS4218) - Proof to be shown later.
- * Debug several applications written for a bash shell written in Java as part of a module project (CS4218) - Proof to be shown later.
- * Applied TDD in the process of writing a bc application (similar to bc in shell) in Java - Proof to be shown later.
- * Wrote new tests for bc application written in Java after implementing it - Proof to be shown later.
- * Created a bug-rebuttal report based on proper documentation - Proof to be shown later.
-
-##### Work in CS1020 - Teaching Assistant and Problem Setter
-
- * Tested student programs and debug the code submitted in sit-in labs for a module in SoC (CS1020) - Proof to be shown later.
- * Must find all mistakes in student's codes during grading process and create a detailed report (CS1020) - Proof to be shown later.
- * Generated test-cases for code written as assignment in an SoC module (CS1020) - Ongoing (Start - End of Semester). Tests are designed to be as strict as possible and tried to cover all cases. Designed based on the principles learned on CS4218 (Software Testing and Debugging). - Managed to capture many corner cases (Proof to be shown later).
-
-##### Miscellaneous Blog Posts related to technological expertise:
- * To be added
-
-#### Plan - Until the end of this semester
- * Writing blog posts about different software testing paradigms, with the pros and cons of each approach and when to use which
- * Teach students in an SoC module (CS1020) on how to debug their code for their labs (so that they can test their code thoroughly) based on principles learned in CS4218.
- * Provide proof of work on technological expertise
+ * All work summarised in [blog post](https://cs3281blog.wordpress.com/2016/04/17/technological-expertise/)
 
 ---
 
