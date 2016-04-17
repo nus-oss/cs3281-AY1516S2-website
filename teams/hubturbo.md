@@ -53,7 +53,7 @@ permalink: /teams/hubturbo/
 * [ ] Covering more use cases, UI improvements, refactoring & testing - Week 6 & Recess Week
 	* [x] Issue Creator - Week 6 & Recess Week
 	* [x] Milestone Picker - Week 6 & Recess Week
-	* [ ] Assignee Picker - Week 6 & Recess Week
+	* [x] Assignee Picker - Week 6 & Recess Week
 	* [x] Open/Close Issues - Week 6 & Recess Week
 	* [ ] Issue Comments Retriever - Week 6 & Recess Week
 	* [ ] Board Picker - Week 8, Thu
@@ -326,6 +326,28 @@ Progress
 
 * [Pull Request #1632](https://github.com/oppia/oppia/pull/1632) (Merged) - Week 10, Wed
 * [Pull Request #1634](https://github.com/oppia/oppia/pull/1634) (Merged) - Week 10, Wed
-* [Compare The Development Process Between HubTurbo and Oppia] (http://garbanzos.github.io/jekyll/update/2016/03/30/comparison-of-developement-processes-of-hubturbo-and-oppia.html)
+* [Compare The Development Process Between HubTurbo and Oppia](http://garbanzos.github.io/jekyll/update/2016/03/30/comparison-of-developement-processes-of-hubturbo-and-oppia.html)
 
 ##### Technology expertise in Web Security
+**Short-Term Plan** 
+
+To expose myself to various aspects of Web Security by joining an interest group for cyber security and attempting CTF problems on Web security. 
+
+**Long-Term Plan** 
+
+Firstly, I intend to gain a deeper understanding web-related technologies, so that I will be able to understand how web security fit into the big picture. I also intend to learn more about web security by taking modules on Web Security such as CS5331 and internship at a companies doing work related to web security.
+
+**Progress**
+
+* Joined security special interest group, NUS GreyHats 
+* Participated in a discussion of cyber range scenarios with Cyber Test Systems (NUS GreyHats activity) 
+* Attended 3 training sessions with NUS GreyHats
+* [Attended Security Wednesdays: Underlying vulnerable libraries](https://www.facebook.com/events/1699004353719120/)
+* [Attended Friday Hacks: The ABCs of XSS, Just Hacker things with Jayson & Q&A with Jeff Moss](http://www.nushackers.org/2016/03/friday-hacks-111-Apr-1/)
+* [Blog post on thoughts on Web Security](http://garbanzos.github.io/jekyll/update/2016/04/11/web-security.html)
+* Helped to set the steganography challenge "Invisible" in [qualifiers of X-CTF](http://open.nusgreyhats.org/problems) organized by NUS GreyHats
+* [Blog post on X-CTF qualifiers problem, Invisible](http://garbanzos.github.io/jekyll/update/2016/04/13/xctf.html) 
+* [Blog post on PicoCTF web exploitation problem, Potentially Hidden Password](http://garbanzos.github.io/jekyll/update/2016/04/13/picoctf.html) 
+* [CS2107 Presentation on Superfish](https://docs.google.com/presentation/d/1a4mgXTp2au1haxnSFHQJxdUxfitfKZQYxvJ3htN9mSc/edit?usp=sharing)
+* [Blog post on Superfish](http://garbanzos.github.io/jekyll/update/2016/04/12/superfish.html)
+
