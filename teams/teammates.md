@@ -148,17 +148,18 @@ permalink: /teams/teammates/
 
 
 #### Technology expertise in tool jQuery
-1. [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
-2. [How to use jQuery?](https://cs3281.wordpress.com/2016/03/18/how-to-use-jquery/) - Week 9
-3. [Interesting finds](https://cs3281.wordpress.com/2016/03/18/interesting-finds/) - Week 9
-4. [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
-5. [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
-6. [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
-7. [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue. - Week 10
-8. [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/) - Week 12
-9. [Implemented a mockup website using jQuery (click Class and Calendar for more)](http://www.comp.nus.edu.sg/~a0125364/tms/) - Week 12
-10. Created [stackoverflow account](http://stackoverflow.com/users/6214165/kennho) - Week 13
-11. Answered [questions with jQuery tag](http://stackoverflow.com/search?q=user:6214165+[jquery]) on stackoverflow - Week 13
+1. [Pull Request #4664](https://github.com/TEAMMATES/teammates/pull/4664) - Made panel collapsible - Week 3
+2. [What is jQuery?](https://cs3281.wordpress.com/2016/03/17/what-is-jquery/) - Week 9
+3. [How to use jQuery?](https://cs3281.wordpress.com/2016/03/18/how-to-use-jquery/) - Week 9
+4. [Interesting finds](https://cs3281.wordpress.com/2016/03/18/interesting-finds/) - Week 9
+5. [Document Ready VS Window Load](https://cs3281.wordpress.com/2016/03/18/document-ready-window-load/) - Week 9
+6. [Tinkering jQuery](https://cs3281.wordpress.com/2016/03/18/tinkering-jquery/) - Week 9
+7. [$](https://cs3281.wordpress.com/2016/03/19/dollar-sign/) - Week 9
+8. [Pull Request #5116](https://github.com/TEAMMATES/teammates/pull/5116) - Refactored a 10x .parent() chaining to a short .find() method when solving the issue. - Week 10
+9. [Implemented a matric number check using jQuery](http://www.comp.nus.edu.sg/~a0125364/) - Week 12
+10. [Implemented a mockup website using jQuery (click Class and Calendar for more)](http://www.comp.nus.edu.sg/~a0125364/tms/) - Week 12
+11. Created [stackoverflow account](http://stackoverflow.com/users/6214165/kennho) - Week 13
+12. Answered [questions with jQuery tag](http://stackoverflow.com/search?q=user:6214165+[jquery]) on stackoverflow - Week 13
 
 #### Plan - Until the end of semester
  * Read up on more jQuery related stuff.
