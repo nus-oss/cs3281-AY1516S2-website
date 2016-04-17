@@ -313,6 +313,7 @@ permalink: /teams/codebender/
  * Wrote Metaprogramming Ruby 2. Chapter 5 Summary [Link](http://moonmoon3281.blogspot.sg/2016/03/metaprogramming-ruby-2-chapter-5-summary.html)
  * Metaprogramming Ruby 2. Chapter 6: Code That Writes
  * First Ruby Project. Developed a web scrapper for a research assistant part time job for a professor at NUS Business School. Scraped data since 1991 from a website. [Repo](https://github.com/bsmmoon/scrapper5)
+ * Revision on Metaprogramming Ruby 2. Examples and Exercises done with a bit of modification and notes can be found at this [repo](https://github.com/bsmmoon/metarubypractice).
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
