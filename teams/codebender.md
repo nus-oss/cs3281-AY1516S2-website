@@ -199,6 +199,7 @@ permalink: /teams/codebender/
 * Week 12, Sat - Co-designed the deleteLibrary API for version 2 of Eratosthenes
 * Week 12, Sat - Wrote the Wiki entry on the deleteLibrary API
 * Week 12, Sat - Resolved all conflicts in the final [pull request](https://github.com/codebendercc/eratosthenes/pull/76)
+* Week 13, Fri - Authored the project report for team Eratosthenes
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
@@ -238,6 +239,7 @@ permalink: /teams/codebender/
 * Created a binary challenge for the upcoming [X-CTF 2016](http://nusgreyhats.org/x-ctf/)
 * Learnt special tricks about cross-site scripting and social engineering at a [security-themed Friday Hacks](http://nushackers.org/2016/03/friday-hacks-111-Apr-1/)
 * Completed several challenges in [PlaidCTF2016](http://www.plaidctf.com/) and ranked amongst the top in Singapore as of Sunday 0030H
+* Wrote a blog post on the [dangers of copying and pasting materials off the web](http://cs3281-2.blogspot.sg/2016/04/te-fear-simple-copy-paste.html)
 * Gave a [presentation](https://docs.google.com/presentation/d/1yE7062jrhEg7ZKTpmr76ZtNHt8Rj6IOPfiFhF1mB8X4/edit?usp=sharing) on the recent [DROWN attack](https://drownattack.com/), including my personal experience in implmenting a proof-of-concept attack and ways to improve on some techniques suggested by the original authors of the paper
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
