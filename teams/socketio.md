@@ -19,7 +19,7 @@ permalink: /teams/socketio/
  - Michael Limantara ([@mikelimantara](http://medium.com/@mikelimantara))
    - Technology Expertise: Mobile Development
    - Minor: Teammates
- - Leow Yijin ([@YijinL](#))
+ - Leow Yijin ([@YijinL](http://medium.com/@YijinL))
    - Technology Expertise: Cloud deployment and monitoring
    - Minor: HubTurbo
 
@@ -218,6 +218,7 @@ Notes:
 * [Updated node express server to also serve guide versions through /guide/vX/index.html](https://github.com/nus-fboa2016-si/whiteboard/commit/dff683550b0127e1ddd29dd5bbe3e33d4d694d8e) - Week 8, Mon
 * [Fix document event handler clash when multiple boards created](https://github.com/nus-fboa2016-si/whiteboard/commit/0c4142477ee5e8ad9e6e66980c7789b4f0e2ec06) - Week 9, Tue
 * [Create alternative page to demo /multiple.html to show 2 boards on same page](https://github.com/nus-fboa2016-si/whiteboard/commit/1c818317a4aa9aab704923dd5a5d0a8b98827ed5) - Week 9, Tue
+* Re-host whiteboard demo on Rauch's new "now" npm hosting service - Week 13, Fri
 
 ###### Whiteboard guide
 * [Differentiate feature list between guide and demo versions](https://github.com/nus-fboa2016-si/whiteboard/commit/0c9049d5492871ffe09420624082b95d0b22e2f7) - Week 7, Sat
@@ -237,6 +238,7 @@ Notes:
 * [Images and videos for v2](https://github.com/nus-fboa2016-si/whiteboard/commit/9a0b9179e8ce2ca03256ea33135131519d85d73c) - Week 11, Sat
 * [Images and videos for v3](https://github.com/nus-fboa2016-si/whiteboard/commit/131238002e3d07979cb7cd0fd3e39295f003f4ce) - Week 11, Sun
 * [Images and videos for v4](https://github.com/nus-fboa2016-si/whiteboard/commit/7c7d16147322196312fe6b2864b0985a939dcca1) - Week 12, Mon
+* Host individual project source snapshots of each guide subversion on the new npm "now" service
 
 #### Contribution to minor project HubTurbo
 * [Set up project](https://github.com/YijinL/HubTurbo/branches) - Week 6, Sat
@@ -249,21 +251,19 @@ Notes:
 * [Issue #1167 PR merged](https://github.com/HubTurbo/HubTurbo/pull/1340) - Week 10, Tue
 * [Issue #1380 PR merged](https://github.com/HubTurbo/HubTurbo/pull/1386) - Week 10, Fri
 * [Issue #1375 PR merged](https://github.com/HubTurbo/HubTurbo/pull/1396) - Week 11, Sat
-* [Issue #1385 in progress)](https://github.com/HubTurbo/HubTurbo/issues/1385) - Ongoing
+* [Issue #1385 PR merged)](https://github.com/HubTurbo/HubTurbo/issues/1385) - Week 12, Sat
 
 #### Technology expertise in cloud deployment and monitoring
 
 ##### Blog posts
 * [Intro to cloud concepts, pros, cons, use cases](https://medium.com/@YijinL/a-primer-on-cloud-computing-74dae8d25850#.iwpbxyge9) - Week 10, Sun
+* [How to choose a suitable PaaS that fits your needs](https://medium.com/@YijinL/paas-comparison-for-developers-ef90b618b9d4) - Week 12, Fri
+* [Introduction and comoparison of supplementary cloud management tools](https://medium.com/@YijinL/cloud-deployment-tools-114484a6ae4b) - Week 13, Thu
+* [Containers and Virtual Machines](https://medium.com/@YijinL/vms-versus-containers-74840023f1c4) - Week 13, Sun
 
-##### Short term plan
-* Take online courses on cloud deployment
-* Write blog post(s) on the purpose of cloud deployment, when and why it is needed, its relation to the build process
-* Set up and deploy applications on all major cloud hosting/deployment services (GAE, AWS, EB, DO, Heroku etc)
-* Write new user tutorials for the above, focusing on common newbie mistakes/confusion
-* Research on industry standard tools and systems for cloud deployment and management
-* In depth comparison on top 3-5 most popular tools for each area of responsibility (eg load balancing, monitoring, deployment, CI) and when to use which.
-* Pick a sub-area of cloud deployment to go indepth (eg load balancing? monitoring of critical resources? Ensure accessibility of resources around world?)
+##### Deployed applications
+* [Socket.io whiteboard](sio-whiteboard.herokuapp.com) - Week 11, Sun
+* [Caesium task and deadline manager](caesium-planner.herokuapp.com) - Week 12, Tue
 
 ##### Long term plan
 * Deploy and manage a non-trivial service/app in the long term
@@ -329,6 +329,7 @@ Notes:
 * Blogpost about Making HTTP request with Retrofit Library [Link](https://medium.com/@mikelimantara/making-http-requests-in-android-with-retrofit-library-5829b4f22311#.u0x5n4voa)
 * Created Demo for making HTTP request using Retrofit Library [Github Link](https://github.com/mikelimantara/retrofit-demo)
 * Blogpost about Build Variants in Android [Link](https://medium.com/@mikelimantara/overview-of-build-variants-in-android-gradle-680cadc06a71#.4kwt05cxq)
+* Blogpost about Common Design Patterns in Android [Link](https://medium.com/@mikelimantara/common-design-patterns-in-android-development-bc8bfe6ab183#.qvdis27sl)
 
 ##### Deliverable could be in the form of: 
 * Blog post
