@@ -72,8 +72,10 @@ permalink: /teams/teammates/
  * [Blog Post](https://cs3281blog.wordpress.com/2016/04/10/my-minor-project/) - Minor Project Experience and Comparison with Major Project
 
 #### Technology Expertise in Software Testing and Debugging
-
  * All work summarised in [blog post](https://cs3281blog.wordpress.com/2016/04/17/technological-expertise/)
+
+#### Resume
+ * Resume can be found [here](https://drive.google.com/file/d/0B6AF9jOyTlPeZHNBOVhfWTlqUE0/view?usp=sharing)
 
 ---
 
