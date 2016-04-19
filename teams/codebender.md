@@ -134,7 +134,7 @@ permalink: /teams/codebender/
 * [x] Performance evaluation - Week 10
 * [x] Merging/Revising - Week 10
 * [x] Elimination of noise data - Week 11
-* [ ] Deploying on live server, done! - Week 11
+* [x] Deploying on live server, done! - Week 11
 
 ## Contributions
 
@@ -199,6 +199,7 @@ permalink: /teams/codebender/
 * Week 12, Sat - Co-designed the deleteLibrary API for version 2 of Eratosthenes
 * Week 12, Sat - Wrote the Wiki entry on the deleteLibrary API
 * Week 12, Sat - Resolved all conflicts in the final [pull request](https://github.com/codebendercc/eratosthenes/pull/76)
+* Week 13, Fri - Authored the project report for team Eratosthenes
 
 #### Contribution to minor project - Teammates
 * Week 6, Sat - Set up development environment and staging website at [http://teammates-kaiyuan.appspot.com/](http://teammates-kaiyuan.appspot.com/)
@@ -237,6 +238,9 @@ permalink: /teams/codebender/
 * Attended Security Wednesdays talk on ["Local Privilege Escalation – From Zero to Hero"](https://www.facebook.com/events/1019203218143738/)
 * Created a binary challenge for the upcoming [X-CTF 2016](http://nusgreyhats.org/x-ctf/)
 * Learnt special tricks about cross-site scripting and social engineering at a [security-themed Friday Hacks](http://nushackers.org/2016/03/friday-hacks-111-Apr-1/)
+* Completed several challenges in [PlaidCTF2016](http://www.plaidctf.com/) and ranked amongst the top in Singapore as of Sunday 0030H
+* Wrote a blog post on the [dangers of copying and pasting materials off the web](http://cs3281-2.blogspot.sg/2016/04/te-fear-simple-copy-paste.html)
+* Gave a [presentation](https://docs.google.com/presentation/d/1yE7062jrhEg7ZKTpmr76ZtNHt8Rj6IOPfiFhF1mB8X4/edit?usp=sharing) on the recent [DROWN attack](https://drownattack.com/), including my personal experience in implmenting a proof-of-concept attack and ways to improve on some techniques suggested by the original authors of the paper
 
 ### @bsmmoon (Moon Seokmin) (Team Lead - Week 4 - 8)
 * Week 2, Sun - Received project details
@@ -309,6 +313,7 @@ permalink: /teams/codebender/
  * Wrote Metaprogramming Ruby 2. Chapter 5 Summary [Link](http://moonmoon3281.blogspot.sg/2016/03/metaprogramming-ruby-2-chapter-5-summary.html)
  * Metaprogramming Ruby 2. Chapter 6: Code That Writes
  * First Ruby Project. Developed a web scrapper for a research assistant part time job for a professor at NUS Business School. Scraped data since 1991 from a website. [Repo](https://github.com/bsmmoon/scrapper5)
+ * Revision on Metaprogramming Ruby 2. Examples and Exercises done with a bit of modification and notes can be found at this [repo](https://github.com/bsmmoon/metarubypractice).
 
 ### @alexyaoyang (Alex Yao)
 * Week 1 & 2 - Learn technologies
@@ -408,7 +413,11 @@ permalink: /teams/codebender/
 * Week 11,Sat - Added support for Chrome
 * Week 11,Sat - Implement sample size slider
 * Week 12,Wed - Fix a lot of fronted issues PR [#7](https://github.com/codebendercc/graphic_serial_monitor/pull/7) and PR [#8](https://github.com/codebendercc/graphic_serial_monitor/pull/8)
-* Week 12,Fri - 4 more PRs
+* Week 12,Fri - PR[#9](https://github.com/codebendercc/graphic_serial_monitor/pull/9)
+* PR[#10](https://github.com/codebendercc/graphic_serial_monitor/pull/10)
+* PR[#11](https://github.com/codebendercc/graphic_serial_monitor/pull/11)
+* PR[#12](https://github.com/codebendercc/graphic_serial_monitor/pull/12)
+* PR[#13](https://github.com/codebendercc/graphic_serial_monitor/pull/13)
 * Week 12,Fri - All PRs Merged
 
 #### Contribution to minor project - Coursemology
@@ -426,6 +435,7 @@ permalink: /teams/codebender/
 * [Useful Regular Expressions 2](http://blog.nus.edu.sg/matanghao/2016/03/15/useful-regular-expression-2/) - Week 9
 * [Summary of Mastering Regular Expression Chapter.4](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
 * [Summary of Mastering Regular Expression Chapter.5](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
+* [Analysis on feasiblity of DFA on Graphite](http://blog.nus.edu.sg/matanghao/2016/03/20/summary-of-mastering-regular-expressions-chapter-4/) - Week 10
 
 ### @gisonrg (Jiang Sheng) (Team Lead - Week 9 - 12)
 * Week 2, Tues - Received project details
@@ -519,4 +529,6 @@ permalink: /teams/codebender/
 * Week 11, Tue - Write a [blog post](http://blog.gisonrg.me/2016/why-we-need-one-line-module-in-node/) to discuss about "One-line" modules in Node eco-system.
 * Week 4 - Week 11, Sun - Develop the JavaScript project for module [CS4224](https://github.com/Gisonrg/ER-diagram-editor) to build a ER diagram editor.
   * Gain experience in Angular, front-end development process and Gulp configuration in the project    
-* Week 12, Sun - Develop [hexo-github-card](https://github.com/Gisonrg/hexo-github-card), a plugin for [Hexo](http://hexo.io) blogger to insert Github profile and repo information as a good looking card. Implemented with [github-cards](https://github.com/lepture/github-cards). Available on NPM.
+* Week 12, Sun - Develop [hexo-github-card](https://github.com/Gisonrg/hexo-github-card), a plugin for [Hexo](http://hexo.io) blogger to insert Github profile and repo information as a good looking card. Implemented with [github-cards](https://github.com/lepture/github-cards). Available on NPM and Hexo plugin site.
+* Week 13, Fri - Write a [blog](http://blog.gisonrg.me/2016/develop-hexo-github-card/) about how I develop the [hexo-github-card](https://github.com/Gisonrg/hexo-github-card) plugin.
+* Week 13, Sun - Write a [blog](http://blog.gisonrg.me/2016/book-review-high-performance-web-sites/) about a book I read called "High Performance Web Sites: Essential Knowledge for Frontend Engineers"
