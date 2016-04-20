@@ -377,6 +377,7 @@ Notes:
 #### Contribution to minor project HubTurbo
 * PR [#1227](https://github.com/HubTurbo/HubTurbo/pull/1227) for issue [#1196](https://github.com/HubTurbo/HubTurbo/issues/1196) (closed) -Week 4, Mon
 * PR [#1255](https://github.com/HubTurbo/HubTurbo/pull/1255) for issue [#1102](https://github.com/HubTurbo/HubTurbo/issues/1102) - Week 6, Thurs
+* Comparison of processes in open-source projects [link](https://medium.com/@whattokingu/processes-in-open-source-projects-fa86eaa2a749#.6bv9vgk4j)
 
 #### Technology expertise in RESTful APIs
 * [Blogpost](https://medium.com/@whattokingu/what-i-know-about-rest-21ece615c949#.pebz7xf06) on introduction to REST
